@@ -1,0 +1,22 @@
+Name: Ilea Spears
+
+Class 1: None
+Class 2: None
+
+Stats:
+
+Vit: 5
+End: 8
+Str: 5
+Dex: 5
+Int: 5
+Wis: 5
+
+Health : 50/50
+Stamina: 36/80
+Mana   : 50/50
+
+General Skills:
+
+1-5 Elos Standard language
+1-1 Identify
