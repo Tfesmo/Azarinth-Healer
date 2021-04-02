@@ -10,33 +10,33 @@ Body enhancement magic is improved by 100%
 All healing magic skills are improved by 100%
 Natural regeneration increased by 1% per minute
 
-Active: Destruction – 1-14
+Active: Destruction – 1-16
 Send a destructive pulse of mana into your enemy with every punch or kick. 
 Your Intelligence stat enhances the damage potential.
 Category: Healing
 
-Active: Reconstruction – 1-3
+Active: Reconstruction – 1-5
 Send a healing pulse of mana into yourself or your ally with a touch. 
 This skill can be channeled.
 Category: Healing
 
-Active: State of Azarinth – 1-10
+Active: State of Azarinth – 1-12
 Your body glows with the power of Azarinth, increasing your resilience, speed and strength by 35% [x2 70%].
 Category: Aura – Body Enhancement
 
-Active: Blink – 1-7
+Active: Blink – 1-9
 Immediately appear at a distant place. 
 Distance based on the level of the skill.
 Category: Teleportation Magic
 
-Passive: Body of Azarinth – 1-4
+Passive: Body of Azarinth – 1-5
 Your body was changed by magic. 
 All pain is reduced by 25% [x2 50%]. 
 You heal even fatal injuries without help of healing magic. 
 Your natural regeneration is improved by 50% [x2 100%]
 Category: Healing
 
-Passive: Azarinth Fighting – 1-12
+Passive: Azarinth Fighting – 1-14
 You are familiar with the fighting style of Azarinth. 
 Damage inflicted with your own body and related skills is 75% higher [x2 150%]’
 Category: Body Enhancement

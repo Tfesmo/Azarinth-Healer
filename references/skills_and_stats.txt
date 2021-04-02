@@ -1,0 +1,4 @@
+Chapter 7 
+	- strength of a spell can be improved by Strength stat in some cases.
+	- lvl 8 Blink - 15 mana
+	- higher level skills = cheaper
