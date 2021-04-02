@@ -1,4 +1,4 @@
-1st:
+1:
 ‘bing’ ‘You have met the requirements for a class change: Azarinth Healer 
 – Knowledge about the basics of Azarinth fighting stances and Azarinth healing, 
 Survived the change invoked by the Bluemoon Grass.’

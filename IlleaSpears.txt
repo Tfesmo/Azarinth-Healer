@@ -20,7 +20,7 @@ Mana    : 500
 
 Azarinth Healer
 1-14 Destruction
-1-2  Reconstruction
+1-3  Reconstruction
 1-10 State of Azarinth
 1-7  Blink
 1-4  Body of Azarinth
