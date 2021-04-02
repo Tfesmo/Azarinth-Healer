@@ -1,3 +1,7 @@
-Poison Resistance – 1-1
+Heat Resistance - 1-1
+Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
+This skill will help lessen the damage and pain a little.
+
+Poison Resistance – 1-16
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
