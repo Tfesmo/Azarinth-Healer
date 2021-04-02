@@ -23,8 +23,8 @@ Azarinth Healer
 2-8  Reconstruction
 2-14 State of Azarinth
 2-10 Blink
-2-3  Body of Azarinth
-2-15 Azarinth Fighting
+2-4  Body of Azarinth
+2-16 Azarinth Fighting
 1-8  Magic Perception
 
 General Skills:

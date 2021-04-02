@@ -34,18 +34,18 @@ Distance based on the level of the skill.
 No ground contact needed between blinks.
 Category: Teleportation Magic
 
-Passive: Body of Azarinth – 2-3
+Passive: Body of Azarinth – 2-4
 Your body was changed by magic. 
 All pain is reduced by 25% [x2 50%]. 
 You heal even fatal injuries without help of healing magic. 
-Your natural regeneration is improved by 61% [x2 122%].
+Your natural regeneration is improved by 61.5% [x2 123%].
 2nd stage: The magic of Azarinth settles inside your body. 
 Your resistance to magical damage is increased by a static 15% [x2 30%].
 Category: Healing
 
-Passive: Azarinth Fighting – 2-15
+Passive: Azarinth Fighting – 2-16
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is 92% higher [x2 184%].
+Damage inflicted with your own body and related skills is 92.5% higher [x2 185%].
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x2 20%].
 Category: Body Enhancement
 

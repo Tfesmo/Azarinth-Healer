@@ -1,0 +1,2 @@
+Chapter 9
+	- 1% natural, 1% bluemoon.  Wisdom adds 0.1% per 10 points, 80 Wisdom = 2.8% max mana per minute.
