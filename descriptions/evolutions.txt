@@ -1,0 +1,8 @@
+1st:
+‘bing’ ‘You have met the requirements for a class change: Azarinth Healer 
+– Knowledge about the basics of Azarinth fighting stances and Azarinth healing, 
+Survived the change invoked by the Bluemoon Grass.’
+‘The Azarinth Healer is not exactly what the name might portray. 
+A close quarters fighter that chooses an unarmed style of combat to both heal and destroy. 
+Enhanced by an ancient technique of magic their bodies become resistant to even the strongest of attacks and heal at a rapid pace.’
+‘Would you like to change to this class. Bonuses and skills will be applied after doing so.’

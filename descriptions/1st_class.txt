@@ -1,0 +1,47 @@
+Azarinth Healer
+
+Vitality +10
+Strength +5
+Dexterity +5
+Intelligence +10
+Wisdom +10
+
+Body enhancement magic is improved by 100%
+All healing magic skills are improved by 100%
+Natural regeneration increased by 1% per minute
+
+Active: Destruction – 1-8
+Send a destructive pulse of mana into your enemy with every punch or kick. 
+Your Intelligence stat enhances the damage potential.
+Category: Healing
+
+Active: Reconstruction – 1-1
+Send a healing pulse of mana into yourself or your ally with a touch. 
+This skill can be channeled.
+Category: Healing
+
+Active: State of Azarinth – 1-6
+Your body glows with the power of Azarinth, increasing your resilience, speed and strength by 35% [x2 70%].
+Category: Aura – Body Enhancement
+
+Active: Blink – 1-1
+Immediately appear at a distant place. 
+Distance based on the level of the skill.
+Category: Teleportation Magic
+
+Passive: Body of Azarinth – 1-2
+Your body was changed by magic. 
+All pain is reduced by 25% [x2 50%]. 
+You heal even fatal injuries without help of healing magic. 
+Your natural regeneration is improved by 50% [x2 100%]
+Category: Healing
+
+Passive: Azarinth Fighting – 1-7
+You are familiar with the fighting style of Azarinth. 
+Damage inflicted with your own body and related skills is 75% higher [x2 150%]’
+Category: Body Enhancement
+
+Passive: Magic Perception – 1-1
+This skill lets you see magic.
+Can be activated or deactivated on command.
+Category: Body Enhancement

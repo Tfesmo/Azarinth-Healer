@@ -1,2 +1,4 @@
 ‘ding’ ‘Reached limit of Endurance – Recalculating value – Endurance +3’
 [You have proven strength and dexterity beyond your limits +2 Strength +3 Dexterity]
++1 Vit, +8 End, +2 Str, +4 Dex, +2 Int, +7 Wis
++3 Vit, +9 End, +4 Str, +4 Dex, +12 Int, +10 Wis
