@@ -20,9 +20,9 @@ Stamina : 860
 Mana    : 900
 
 Regen:
-hp/min: 46.6944
-mp/min: 43.5
-w/Med:  215.76
+hp/min: 23.52
+mp/min: 26.1
+w/Med:  129.456
 
 Effective Health: 3221.91
 
