@@ -49,7 +49,7 @@ Damage inflicted with your own body and related skills is 92.5% higher [x2 185%]
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x2 20%].
 Category: Body Enhancement
 
-Passive: Magic Perception – 1-8
+Passive: Magic Perception – 1-9
 This skill lets you see magic.
 Can be activated or deactivated on command.
 Category: Body Enhancement

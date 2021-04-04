@@ -25,7 +25,7 @@ Azarinth Healer
 2-10 Blink
 2-4  Body of Azarinth
 2-16 Azarinth Fighting
-1-8  Magic Perception
+1-9  Magic Perception
 
 General Skills:
 1-5  Elos Standard language
