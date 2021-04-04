@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
 Class 1: 62 - Azarinth Healer
-Class 2: 1  - Fire Mage
+Class 2: 3  - Fire Enhancer
 
 Stats:
 
@@ -27,16 +27,17 @@ Azarinth Healer
 1-9  Magic Perception
 1-6  Azarinth Perception
 
-Fire Mage
+Fire Enhancer
 1-1  Flame
-1-1  Fire Manipulation
+1-1 Body of Flame
+1-10 Fire Manipulation
 
 General Skills:
 1-5  Elos Standard language
 1-3  Identify
-2-4  Meditation
+2-12 Meditation
 
 Resistances:
 1-1  Heat Resistance
-1-1  Pain Tolerance
+2-1  Pain Tolerance
 1-16 Poison Resistance

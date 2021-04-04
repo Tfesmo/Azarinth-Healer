@@ -1,19 +1,25 @@
-Fire Mage
+Fire Enhancer
 
 Vitality +5
+Strength + 5
+Dexterity + 5
 Intelligence +10
 Wisdom +10
 
 Fire magic is cast 50% faster
 Fire magic is 25% stronger
-
+Body enhancement magic is improved by 20%
 You gain the general skill heat resistance
-Your mana regeneration is increased by 20% around fire
+Your mana regeneration is increased by 50% around fire
 
 Active: Flame – 1-1
 Create a flame from your mana to attack your enemies or heat a pot.
 You can control the flame through your fire manipulation.
 Category: Projectile Magic - Area of Effect
+
+Active: Body of Flame – 1-1
+Clad yourself in flames raising your resilience, speed and strength by 20% [x2.45 49%]
+Category: Aura – Body Enhancement – Fire magic
 
 Passive: Fire Manipulation – 1-1
 Your control over fire increases dramatically.

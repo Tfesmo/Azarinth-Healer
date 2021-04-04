@@ -10,31 +10,31 @@ Body enhancement magic is improved by 100%
 All healing magic skills are improved by 100%
 Natural regeneration increased by 1% per minute
 
-Active: Destruction – 2-18
+Active: Destruction – 2-19
 Send a destructive pulse of mana into your enemy with every punch or kick.
 The stronger the physical force, the higher the damage caused.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 20 mana per strike.
 Category: Healing
 
-Active: Reconstruction – 2-8
+Active: Reconstruction – 2-10
 Send a healing pulse of mana into yourself or your ally with a touch. 
 This skill can be channeled.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
 Category: Healing
 
-Active: State of Azarinth – 2-15
-Your body glows with the power of Azarinth, increasing your resilience, speed and strength by 51.5% [x2 103%].
+Active: State of Azarinth – 2-16
+Your body glows with the power of Azarinth, increasing your resilience, speed and strength by 51.5% [x2.2 103%].
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
-Active: Blink – 2-1
+Active: Blink – 2-11
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
 No ground contact needed between blinks.
 Category: Teleportation Magic
 
-Azarinth Sphere – 1-1
+Azarinth Sphere – 1-9
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 Category: Aura – Perception Aura
@@ -59,7 +59,7 @@ This skill lets you see magic.
 Can be activated or deactivated on command.
 Category: Body Enhancement
 
-Passive: Azarinth Perception – 1-1
+Passive: Azarinth Perception – 1-6
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
 Category: Body Enhancement

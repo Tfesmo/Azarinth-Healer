@@ -15,3 +15,9 @@ For reaching level 50 in Azarinth Healer and having five class specific skills i
 – Manipulated mana into fire for more than thirty seconds. Basic understanding of fire.
 ‘The Fire Mage is the most basic of fire based mages. She controls the flames and leaves only ash in her path.’
 ‘Would you like to change to this class. Bonuses and skills will be applied after doing so. Attention, only one class slot is free, choose wisely.’
+
+‘ding’ ‘Requirements met for class evolution: Fire mage becomes Fire Enhancer. 
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– Become one with the flame. Clad your body in fire for more than ten minutes while being in control of the flames. 
+Have Fire Manipulation at level 10 or higher.
+‘The Fire Enhancer becomes one with the flame. She controls the flames to strengthen her own body and abilities. Fire flows within her blood.’
