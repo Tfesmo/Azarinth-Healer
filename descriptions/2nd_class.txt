@@ -17,11 +17,17 @@ Create a flame from your mana to attack your enemies or heat a pot.
 You can control the flame through your fire manipulation.
 Category: Projectile Magic - Area of Effect
 
-Active: Body of Flame – 1-1
-Clad yourself in flames raising your resilience, speed and strength by [20% - .5%/lvl - x2.45 50.23%]
+Active: Body of Flame – 1-8
+Clad yourself in flames raising your resilience, speed and strength by [20% - .5%/lvl - x2.45 58.8%]
 Category: Aura – Body Enhancement – Fire magic
 
-Passive: Fire Manipulation – 1-1
+Passive: Fire Manipulation – 1-12
 Your control over fire increases dramatically.
 Bend it to your wishes and burn whatever lies before you. [Effect doubled after bonuses]
+Category: Body Enhancement
+
+Passive: Heat Perception – 1-1
+You are able to see the sources of heat around you.
+You may disable this ability at will.
+The distance, penetrative power and accuracy increase with each level in the skill.
 Category: Body Enhancement
