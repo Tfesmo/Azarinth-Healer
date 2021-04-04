@@ -51,6 +51,7 @@ General Skills:
 2-12 Meditation
 
 Resistances:
+1-1  Fear Resistance
 1-7  Heat Resistance
 1-5  Mental Resistance
 2-2  Pain Tolerance

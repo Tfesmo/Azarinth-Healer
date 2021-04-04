@@ -1,3 +1,7 @@
+Fear Resistance 1-1
+You have overcome something truly terrifying to you.
+Your ability to deal with non magical fear is increased.
+
 Heat Resistance 1-1
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
