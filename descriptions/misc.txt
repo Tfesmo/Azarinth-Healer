@@ -1,4 +1,4 @@
 ‘ding’ ‘The Bluemoon Grass has changed your body permanently.
 You grow more resilient +10 Vitality.
 The flow of your mana was changed +10 Intelligence +10 Wisdom.
-You recharge Mana at a faster pace +100% mana recovery rate.’ 
+You recharge Mana at a faster pace +100% mana recovery rate.’

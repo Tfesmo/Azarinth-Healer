@@ -12,21 +12,26 @@ Body enhancement magic is improved by 20%
 You gain the general skill heat resistance
 Your mana regeneration is increased by 50% around fire
 
-Active: Flame – 1-1
+Active: Flame 1-1
 Create a flame from your mana to attack your enemies or heat a pot.
 You can control the flame through your fire manipulation.
 Category: Projectile Magic - Area of Effect
 
-Active: Body of Flame – 1-8
+Active: Body of Flame 1-8
 Clad yourself in flames raising your resilience, speed and strength by [20% - .5%/lvl - x2.45 58.8%]
-Category: Aura – Body Enhancement – Fire magic
+Category: Aura – Body Enhancement – Fire Magic
 
-Passive: Fire Manipulation – 1-12
+Active: Heat Surge 1-1
+Create a wave of fire with you at its center.
+Distance, heat and speed depend on skill level and mana invested (max 40 Mana).
+Category: Fire Magic
+
+Passive: Fire Manipulation 1-12
 Your control over fire increases dramatically.
 Bend it to your wishes and burn whatever lies before you. [Effect doubled after bonuses]
 Category: Body Enhancement
 
-Passive: Heat Perception – 1-1
+Passive: Heat Perception 1-1
 You are able to see the sources of heat around you.
 You may disable this ability at will.
 The distance, penetrative power and accuracy increase with each level in the skill.
