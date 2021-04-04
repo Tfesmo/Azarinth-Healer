@@ -18,7 +18,7 @@ You can control the flame through your fire manipulation.
 Category: Projectile Magic - Area of Effect
 
 Active: Body of Flame – 1-1
-Clad yourself in flames raising your resilience, speed and strength by 20% [x2.45 49%]
+Clad yourself in flames raising your resilience, speed and strength by [20% - .5%/lvl - x2.45 50.23%]
 Category: Aura – Body Enhancement – Fire magic
 
 Passive: Fire Manipulation – 1-1

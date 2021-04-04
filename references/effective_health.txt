@@ -1,0 +1,12 @@
+Theoretical calculation of effective health, just to show a reference as Illea grows.
+
+Assumes damage is calculated by:
+1/(1 + Bonus)
+
+Examples:
+100% Resilience: 1/(1 + 100%) = 50% damage taken
+200% Resilience: 1/(1 + 200%) = 33.3% damage taken
+
+Assumes reduction from resilience and stats like "Your resistance to magical damage" is multiplicative.  The total on the stat page is calculated based on half physical, half magical.
+
+Ignores resistances (as they apply inconsistently), and non-numeric bonuses such as density increases.

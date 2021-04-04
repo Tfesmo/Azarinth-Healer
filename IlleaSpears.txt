@@ -7,14 +7,24 @@ Stats:
 
 Vit: 105
 End: 86
-Str: 50
+Str: 50  [133.413]
 Dex: 50
 Int: 90
 Wis: 90
 
+Resilience: 166.83%
+Speed+:     166.83%
+
 Health  : 1050
 Stamina : 860
 Mana    : 900
+
+Regen:
+hp/min: 46.6944
+mp/min: 43.5
+w/Med:  215.76
+
+Effective Health: 3221.91
 
 Azarinth Healer
 2-19 Destruction
