@@ -6,3 +6,12 @@ Survived the change invoked by the Bluemoon Grass.’
 A close quarters fighter that chooses an unarmed style of combat to both heal and destroy. 
 Enhanced by an ancient technique of magic their bodies become resistant to even the strongest of attacks and heal at a rapid pace.’
 ‘Would you like to change to this class. Bonuses and skills will be applied after doing so.’
+
+50:
+For reaching level 50 in Azarinth Healer and having five class specific skills in the second tier you have learned the skill Passive: Azarinth Perception
+
+1:
+‘bing’ ‘You have met the requirements for a class change: Fire Mage 
+– Manipulated mana into fire for more than thirty seconds. Basic understanding of fire.
+‘The Fire Mage is the most basic of fire based mages. She controls the flames and leaves only ash in her path.’
+‘Would you like to change to this class. Bonuses and skills will be applied after doing so. Attention, only one class slot is free, choose wisely.’

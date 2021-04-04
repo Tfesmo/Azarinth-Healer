@@ -1,0 +1,21 @@
+Fire Mage
+
+Vitality +5
+Intelligence +10
+Wisdom +10
+
+Fire magic is cast 50% faster
+Fire magic is 25% stronger
+
+You gain the general skill heat resistance
+Your mana regeneration is increased by 20% around fire
+
+Active: Flame – 1-1
+Create a flame from your mana to attack your enemies or heat a pot.
+You can control the flame through your fire manipulation.
+Category: Projectile Magic - Area of Effect
+
+Passive: Fire Manipulation – 1-1
+Your control over fire increases dramatically.
+Bend it to your wishes and burn whatever lies before you. [Effect doubled after bonuses]
+Category: Body Enhancement

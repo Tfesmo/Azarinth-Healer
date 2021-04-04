@@ -2,6 +2,11 @@ Heat Resistance - 1-1
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
 
+Pain Tolerance 1-1
+Being a bit of a masochist, you have learned to ignore some of the pain.
+No, only physical pain.
+You’re feeling a little more numb towards pain but careful...the damage is still being done!
+
 Poison Resistance – 1-16
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
