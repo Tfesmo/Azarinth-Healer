@@ -1,6 +1,9 @@
-Heat Resistance - 1-1
+Heat Resistance 1-1
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
+
+Mental Resistance 1-5
+You are more adept at resisting and detecting attacks to your mind.
 
 Pain Tolerance 1-1
 Being a bit of a masochist, you have learned to ignore some of the pain.
@@ -10,6 +13,6 @@ You’re feeling a little more numb towards pain but careful...the damage is sti
 You are now able to completely turn off your perception of pain.
 Be wary as there is a reason pain exists.
 
-Poison Resistance – 1-16
+Poison Resistance 1-16
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
