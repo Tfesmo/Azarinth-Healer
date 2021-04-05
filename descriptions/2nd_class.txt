@@ -37,11 +37,10 @@ Your control over Ash and Ember increases dramatically.
 Bend it to your wishes and shroud the path before you.
 Category: Ashen magic
 
-Passive: Heat Perception 1-1
-You are able to see the sources of heat around you.
-You may disable this ability at will.
-The distance, penetrative power and accuracy increase with each level in the skill.
-Category: Body Enhancement
+Passive: Ashen Wings 1-1
+Your understanding of Ash Wielder allows you to form wings from ash and ember.
+Strike your enemies from above and close the distance to deliver your wrath.
+Category: Body Enhancement – Ashen Magic
 
 Passive: Eyes of Ash 1-8
 Increases your perception by [30% - .5%/lvl - x3 102.00%] when fighting without a weapon.

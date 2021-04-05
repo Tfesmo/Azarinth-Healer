@@ -37,3 +37,6 @@ No current skills or stats will be lost, be aware that other evolutions and skil
 Have a total of at least three Body Enhancement skills in the 2nd stage. Hand to hand combat has been used primarily in fights. 
 Has brushed death more than ten times in the past week.
 ‘You are the smoldering heat left by fire. Ember glows within you as an ashen mist shrouds your form.’
+
+150:
+‘bing’ ‘You have met following conditions: Reached level 150 in Ash Wielder class. Reached at least lvl 15 in Ash and Ember Manipulation.’  Passive: Ashen Wings 

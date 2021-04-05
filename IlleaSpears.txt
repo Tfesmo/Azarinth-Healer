@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
 Class 1: 155 - Azarinth Healer
-Class 2: 149 - Ash Wielder
+Class 2: 150 - Ash Wielder
 
 Stats:
 
@@ -47,7 +47,7 @@ Ash Wielder
 1-1  Body Heat Manipulation
 1-12 Wave of Ember
 1-15 Ash and Ember Manipulation
-1-1  Heat Perception
+1-1  Ashen Wings
 1-8  Eyes of Ash
 1-8  Body of Ash
 1-4  Ashen Warrior
