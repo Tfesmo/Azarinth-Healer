@@ -1,56 +1,56 @@
 Name: Ilea Spears
 
-Class 1: 155 - Azarinth Healer
-Class 2: 150 - Ash Wielder
+Class 1: 183 - Azarinth Healer
+Class 2: 175 - Ash Wielder
 
 Stats:
 
-Vit: 430
-End: 240
+Vit: 550
+End: 250
 Str: 111 [294.15]
-Dex: 280 [654.40]
-Int: 425
-Wis: 250
+Dex: 340 [788.8]
+Int: 495
+Wis: 260
 
-Resilience: 462.00%
-Speed+:     397.50%
-Damage+:    441.00%
-Reflexes+:  102.00%
+Resilience: 469.50%
+Speed+:     406.50%
+Damage+:    447.00%
+Reflexes+:  109.50%
 
-Health  : 4300
-Stamina : 2400
-Mana    : 2500
+Health  : 5500
+Stamina : 2500
+Mana    : 2600
 
 Regen:
-hp/min:  2.31%
-mp/min:  4.50%
-w/Med:  22.59%
+hp/min:  2.33%
+mp/min:  4.60%
+w/Med:  23.09%
 
-Effective Health: 27790.9
+Effective Health: 36020.875
 
 Azarinth Healer
 2-20 Destruction
-2-18 Reconstruction
+2-20 Reconstruction
 2-20 State of Azarinth
 2-20 Blink
-2-14 Azarinth Sphere
-2-11 Body of Azarinth
+2-17 Azarinth Sphere
+2-13 Body of Azarinth
 2-20 Azarinth Fighting
-1-14 Magic Perception
-2-5  Azarinth Perception
-1-10 Azarinth Reversal
+1-15 Magic Perception
+2-9  Azarinth Perception
+1-13 Azarinth Reversal
 
 Ash Wielder
-1-11 Shroud of Ash
-2-7  Form of Ember
+1-15 Shroud of Ash
+2-8  Form of Ember
 1-6  Ash Surge
 1-1  Body Heat Manipulation
-1-12 Wave of Ember
+1-16 Wave of Ember
 1-15 Ash and Ember Manipulation
-1-1  Ashen Wings
-1-8  Eyes of Ash
-1-8  Body of Ash
-1-4  Ashen Warrior
+1-6  Ashen Wings
+1-13 Eyes of Ash
+1-13 Body of Ash
+1-8  Ashen Warrior
 
 General Skills:
 1-5  Elos Standard language
@@ -63,6 +63,6 @@ Resistances:
 1-1  Lightning Resistance
 1-5  Mental Resistance
 2-2  Pain Tolerance
-1-16 Poison Resistance
+1-17 Poison Resistance
 1-5  Water Resistance
 1-3  Wind Resistance
