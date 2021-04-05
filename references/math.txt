@@ -9,3 +9,6 @@ Chapter 37
 Chapter 42
 	- Takes poison for 25/s, comments that it's nothing compared to Reconstruction
 	- Either author error or mana limitations to explain inconsistency with Chapter 37 above
+
+Chapter 47
+	- Blink @2-20 is ~10 mana per activation
