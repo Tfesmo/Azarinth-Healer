@@ -9,17 +9,17 @@ Wisdom +10
 Body enhancement magic is improved by 100%
 All fighting styles using hand to hand combat are more refined
 
-Active: Shroud of Ash 1-8
-Shroud yourself in a mist of ash increasing your resilience by [50% - .5%/lvl - x3 151.5%].
+Active: Shroud of Ash 1-11
+Shroud yourself in a mist of ash increasing your resilience by [50% - .5%/lvl - x3 166.50%].
 Category: Body Enhancement – Ashen magic
 
-Active: Form of Ember 2-6
-Ember glows within you raising your resilience, speed and dexterity by [30% - .5%/lvl - x3 139.5%].
+Active: Form of Ember 2-7
+Ember glows within you raising your resilience, speed and dexterity by [30% - .5%/lvl - x3 130.50%].
 2nd stage: The longer you fight while in the Form of Ember, the stronger burns its heat.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
 Category: Aura – Body Enhancement
 
-Active: Ash Surge 1-5
+Active: Ash Surge 1-6
 Create a wave of ash and ember with you at its center.
 Distance, density and speed depend on skill level and mana invested (max 60 Mana).
 Category: Ashen Magic
@@ -28,7 +28,7 @@ Active: Body Heat Manipulation 1-1
 Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
 Category: Body Enhancement – Fire magic
 
-Active: Wave of Ember 1-9
+Active: Wave of Ember 1-12
 Burn the inside of whatever your body hits with a surge of heat and embers.
 Category: Ashen magic
 
@@ -43,15 +43,15 @@ You may disable this ability at will.
 The distance, penetrative power and accuracy increase with each level in the skill.
 Category: Body Enhancement
 
-Passive: Eyes of Ash 1-6
-Increases your perception by [30% - .5%/lvl - x3 91.5%] when fighting without a weapon.
+Passive: Eyes of Ash 1-8
+Increases your perception by [30% - .5%/lvl - x3 102.00%] when fighting without a weapon.
 Category: Body Enhancement – Ashen magic
 
-Passive: Body of Ash 1-6
-Increases your reflexes and speed by [30% - .5%/lvl - x3 91.5%] when fighting without a weapon.
+Passive: Body of Ash 1-8
+Increases your reflexes and speed by [30% - .5%/lvl - x3 102.00%] when fighting without a weapon.
 Category: Body Enhancement – Ashen magic
 
-Passive: Ashen Warrior 1-3
+Passive: Ashen Warrior 1-4
 You are familiar with the fighting style of Ash. 
-Damage inflicted with your own body and while shrouded in Ash is [50% - .5%/lvl - x3 151.5%] higher.
+Damage inflicted with your own body and while shrouded in Ash is [50% - .5%/lvl - x3 156.00%] higher.
 Category: Body Enhancement
