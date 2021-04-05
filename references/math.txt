@@ -1,2 +1,7 @@
 Chapter 9
 	- 1% natural, 1% bluemoon.  Wisdom adds 0.1% per 10 points, 80 Wisdom = 2.8% max mana per minute.
+	
+Chapter 37
+	- Illea fights Aliana and is severely hurt.  Text says she takes an impressive seven minutes to heal.
+	- She has 1600 health at this point.  In seven minutes her natural health regen will recover 254 health.
+	- That means Restoration @2-13 is restoring a maximum average of 3.2 health per second over those seven minutes.
