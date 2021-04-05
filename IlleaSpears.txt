@@ -58,11 +58,15 @@ General Skills:
 2-14 Meditation
 
 Resistances:
+1-6  Arcane Magic Resistance
+1-6  Crystal Resistance
+1-4  Earth Resistance
 1-1  Fear Resistance
 1-14 Heat Resistance
-1-1  Lightning Resistance
-1-5  Mental Resistance
-2-2  Pain Tolerance
+1-5  Ice Resistance
+1-5  Lightning Resistance
+1-6  Mental Resistance
+2-3  Pain Tolerance
 1-17 Poison Resistance
 1-5  Water Resistance
-1-3  Wind Resistance
+1-4  Wind Resistance

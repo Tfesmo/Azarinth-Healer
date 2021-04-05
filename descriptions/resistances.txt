@@ -1,3 +1,19 @@
+Arcane Magic Resistance
+Wielding the true arcane is a rare and powerful talent only accessible to few.
+The raw energies tear at not just flesh and bone but at the magical structure and minds of whomever faces them.
+Its red glow turns purple the more refined it is.
+This skill shall help you counter masters of the arcane.
+
+Crystal Resistance
+Crystals aren’t just shiny decorations to old ruins and caves.
+You have learned that the arcane scholars have found ways to turn the beautiful natural phenomenon into something quite more deadly.
+Less deadly to you with this skill.
+
+Earth Magic Resistance
+The earth trembles as arcane beings bend its nature to their will.
+You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.
+This skill will help you negate more of its damage.
+
 Fear Resistance
 You have overcome something truly terrifying to you.
 Your ability to deal with non magical fear is increased.
@@ -5,6 +21,10 @@ Your ability to deal with non magical fear is increased.
 Heat Resistance
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
+
+Ice Resistance
+You have endured the biting cold of ice and lived to tell the tale.
+One of the deadliest climates and magics will now be less dangerous to you with this skill.
 
 Lightning Resistance
 Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
