@@ -56,7 +56,9 @@ General Skills:
 
 Resistances:
 1-1  Fear Resistance
-1-9  Heat Resistance
+1-13 Heat Resistance
 1-5  Mental Resistance
 2-2  Pain Tolerance
 1-16 Poison Resistance
+1-5  Water Resistance
+1-3  Wind Resistance

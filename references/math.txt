@@ -5,3 +5,7 @@ Chapter 37
 	- Illea fights Aliana and is severely hurt.  Text says she takes an impressive seven minutes to heal.
 	- She has 1600 health at this point.  In seven minutes her natural health regen will recover 254 health.
 	- That means Restoration @2-13 is restoring a maximum average of 3.2 health per second over those seven minutes.
+
+Chapter 42
+	- Takes poison for 25/s, comments that it's nothing compared to Reconstruction
+	- Either author error or mana limitations to explain inconsistency with Chapter 37 above
