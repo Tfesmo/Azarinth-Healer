@@ -40,3 +40,29 @@ Has brushed death more than ten times in the past week.
 
 150:
 ‘bing’ ‘You have met following conditions: Reached level 150 in Ash Wielder class. Reached at least lvl 15 in Ash and Ember Manipulation.’  Passive: Ashen Wings 
+
+200:
+‘ding’ ‘You have reached level 200 in your primary class. 3rd tier skills are now available.’
+
+‘ding’ ‘Requirements met for class evolution: Azarinth Healer becomes Azarinth High Priest.
+No current stats will be lost, be aware that other evolutions and skills may become unavailable 
+– You have healed many on your path to strength. Has saved one hundred people from certain death. Leveled the skill Reconstruction to the end of the 2nd stage. Has the Azarinth Healer class at lvl 200 or higher.
+‘The Azarinth High Priest is only second to the elders. She has laid down the path of war to save lives and is a beacon of light for the weary on her path.’
+
+‘ding’ ‘Requirements met for class evolution: Azarinth Healer becomes Azarinth Juggernaut.
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– You have proven yourself unmovable. Has killed five beings with fifty levels above their own. Has killed a being one hundred levels above their own. Leveled the skills Destruction and State of Azarinth to the end of the 2nd stage. Has the Azarinth Healer class at lvl 200 or higher.
+‘The Azarinth Juggernaut is the elite of the Azarinth order. She is sent in against all odds and stands against hordes of enemies, supported by her brothers and sisters in arms. Combined with High priests and heavy artillery she builds the core of the Azarinth fighting force.’
+
+‘ding’ ‘Requirements met for class evolution: Azarinth Healer becomes Azarinth blood Berserker.
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– You have proven yourself unkillable. Has killed a being two hundred levels above their own. Has killed five beings with one hundred levels above their own. Has fought fifty beings above their level at the same time and won. 
+Has regenerated 50% of their body on their own after winning a fight. Has leveled at least four skills of Azarinth Healer to the second stage. Leveled the skills Destruction and Azarinth Fighting to the end of the 2nd stage. Has the Azarinth Healer class at lvl 200.
+‘The Azarinth blood Berserker is a rare elite fighter of the order. Myths and legends are shrouded around this warrior and only few have seen one fight. They are only unleashed at great peril and will slay thousands before they fall. Their regeneration and resilience is as feared as is their blood-lust.’
+
+‘ding’ ‘Requirements met for class evolution: Azarinth Healer becomes Azarinth First Hunter.
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– You are the first hunter, the strongest of your kind. Has fought and killed ten beings with fifty levels above their own while alone. Has fought and killed a being at full power one hundred levels above their own while alone. 
+Has leveled at least five skills of Azarinth Healer to the second stage, at least three of them to the end of the second stage. Has at least ten Resistance skills at lvl 5 or above. 
+Must have the Fear and Mental Resistance skills. Has the Azarinth Healer class at lvl 200.
+‘The Azarinth First Hunter is often sent alone on scouting missions to unknown lands and dungeons or used to hunt and kill priority targets otherwise untouchable. They often prefer a more solitary lifestyle and are feared even by the elders. Never more than ten First Hunters have existed at the same time.’

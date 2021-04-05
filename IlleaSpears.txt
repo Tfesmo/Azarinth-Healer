@@ -1,21 +1,21 @@
 Name: Ilea Spears
 
-Class 1: 183 - Azarinth Healer
-Class 2: 175 - Ash Wielder
+Class 1: 200 - Azarinth Healer
+Class 2: 191 - Ash Wielder
 
 Stats:
 
-Vit: 550
-End: 250
-Str: 111 [294.15]
-Dex: 340 [788.8]
-Int: 495
-Wis: 260
+Vit: 555
+End: 285
+Str: 211 [559.15]
+Dex: 350 [827.75]
+Int: 500
+Wis: 305
 
-Resilience: 469.50%
-Speed+:     406.50%
-Damage+:    447.00%
-Reflexes+:  109.50%
+Resilience: 484.5%
+Speed+:     415.5%
+Damage+:    451.5%
+Reflexes+:  114.0%
 
 Health  : 5500
 Stamina : 2500
@@ -23,38 +23,38 @@ Mana    : 2600
 
 Regen:
 hp/min:  2.33%
-mp/min:  4.60%
-w/Med:  23.09%
+mp/min:  5.05%
+w/Med:  21.33%
 
-Effective Health: 36020.875
+Effective Health: 37305.7125
 
 Azarinth Healer
 2-20 Destruction
 2-20 Reconstruction
 2-20 State of Azarinth
 2-20 Blink
-2-17 Azarinth Sphere
-2-13 Body of Azarinth
+2-19 Azarinth Sphere
+2-14 Body of Azarinth
 2-20 Azarinth Fighting
-1-15 Magic Perception
-2-9  Azarinth Perception
-1-13 Azarinth Reversal
+1-16 Magic Perception
+2-12 Azarinth Perception
+1-17 Azarinth Reversal
 
 Ash Wielder
-1-15 Shroud of Ash
-2-8  Form of Ember
+2-2  Shroud of Ash
+2-11 Form of Ember
 1-6  Ash Surge
 1-1  Body Heat Manipulation
-1-16 Wave of Ember
-1-15 Ash and Ember Manipulation
-1-6  Ashen Wings
-1-13 Eyes of Ash
-1-13 Body of Ash
-1-8  Ashen Warrior
+1-20 Wave of Ember
+1-16 Ash and Ember Manipulation
+1-8  Ashen Wings
+1-16 Eyes of Ash
+1-16 Body of Ash
+1-11 Ashen Warrior
 
 General Skills:
 1-5  Elos Standard language
-1-4  Identify
+1-6  Identify
 2-14 Meditation
 
 Resistances:
@@ -62,15 +62,15 @@ Resistances:
 1-3  Corrosion Resistance
 1-6  Crystal Resistance
 1-1  Curse Resistance
-1-4  Earth Resistance
+1-5  Earth Resistance
 1-1  Fear Resistance
-1-14 Heat Resistance
-1-5  Ice Resistance
+1-17 Heat Resistance
+1-7  Ice Resistance
 1-2  Light Magic Resistance
 1-5  Lightning Resistance
-1-6  Mental Resistance
+1-7  Mental Resistance
 1-1  Mist Magic Resistance
-2-3  Pain Tolerance
+2-4  Pain Tolerance
 1-17 Poison Resistance
-1-5  Water Resistance
-1-4  Wind Resistance
+1-6  Water Resistance
+1-5  Wind Resistance
