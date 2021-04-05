@@ -23,7 +23,7 @@ This skill can be channeled.
 Category: Healing
 
 Active: State of Azarinth 2-20
-Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% - .5%/lvl - x2.2 121.0%]
+Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% - .5%/lvl - x3 165.0%]
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
@@ -53,8 +53,8 @@ Category: Healing
 
 Passive: Azarinth Fighting 2-20
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% - .5%/lvl - x2.2 209.0%].
-2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x2.2 22%].
+Damage inflicted with your own body and related skills is [75% - .5%/lvl - x3 285.0%].
+2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x3 30%].
 Category: Body Enhancement
 
 Passive: Magic Perception 1-12
