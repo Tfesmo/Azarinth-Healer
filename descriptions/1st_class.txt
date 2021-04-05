@@ -62,7 +62,17 @@ This skill lets you see magic.
 Can be activated or deactivated on command.
 Category: Body Enhancement
 
-Passive: Azarinth Perception 1-20
+Passive: Azarinth Perception 20-1
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
+2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
+This can happen only once per hour.
+Category: Body Enhancement
+
+Passive: Azarinth Reversal 1-1
+You have learned of Destruction and Reconstruction.
+Now you will learn of their Reversal.
+Upon activation, Destruction will send a part of the struck enemy’s mana into yourself.
+No mana will be released on impact, rendering Destruction’s offensive potential to zero.
+Upon activation, Reconstruction will send a destructive force of channeled mana into yourself or an enemy you touch, the healing aspects are reduced to zero.
 Category: Body Enhancement

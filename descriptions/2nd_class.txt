@@ -28,6 +28,10 @@ Create a wave of fire with you at its center.
 Distance, heat and speed depend on skill level and mana invested (max 40 Mana).
 Category: Fire Magic
 
+Active: Body Heat Manipulation 1-1
+Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
+Category: Body Enhancement – Fire magic
+
 Passive: Fire Manipulation 1-14
 Your control over fire increases dramatically.
 Bend it to your wishes and burn whatever lies before you. [Effect doubled after bonuses]

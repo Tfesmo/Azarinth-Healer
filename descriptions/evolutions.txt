@@ -21,3 +21,6 @@ No current skills or stats will be lost, be aware that other evolutions and skil
 – Become one with the flame. Clad your body in fire for more than ten minutes while being in control of the flames. 
 Have Fire Manipulation at level 10 or higher.
 ‘The Fire Enhancer becomes one with the flame. She controls the flames to strengthen her own body and abilities. Fire flows within her blood.’
+
+100:
+‘bing’ ‘You have met following conditions: Reached lvl 100 in Azarinth Healer. Reached at least 2nd lvl 15 of both Destruction and Reconstruction in the Azarinth Healer class.’

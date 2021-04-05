@@ -36,12 +36,14 @@ Azarinth Healer
 2-9  Body of Azarinth
 2-20 Azarinth Fighting
 1-12 Magic Perception
-1-20 Azarinth Perception
+2-1  Azarinth Perception
+1-1  Azarinth Reversal
 
 Fire Enhancer
 1-2  Flame
 2-13 Body of Flame
 1-2  Heat Surge
+1-1  Body Heat Manipulation
 1-14 Fire Manipulation
 1-1  Heat Perception
 
