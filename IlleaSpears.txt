@@ -8,12 +8,12 @@ Stats:
 Vit: 555
 End: 285
 Str: 211 [675.2]
-Dex: 350 [987]
+Dex: 350 [1057]
 Int: 500
 Wis: 305
 
-Resilience: 646.0%
-Speed+:     554.0%
+Resilience: 666.0%
+Speed+:     574.0%
 Reflexes+:  152.0%
 Damage+:    602.0%
 
@@ -26,7 +26,7 @@ hp/min:  2.34%
 mp/min:  5.05%
 w/Med:  21.33%
 
-Effective Health: 51753.75
+Effective Health: 53141.25
 
 Azarinth Healer
 2-20 Destruction

@@ -15,7 +15,7 @@ Shroud yourself in a mist of ash increasing your resilience by [50% - .5%/lvl - 
 Category: Body Enhancement – Ashen magic
 
 Active: Form of Ember 2-11
-Ember glows within you raising your resilience, speed and dexterity by [30% - .5%/lvl - x4 182.0%].
+Ember glows within you raising your resilience, speed and dexterity by [35% - .5%/lvl - x4 202.0%].
 2nd stage: The longer you fight while in the Form of Ember, the stronger burns its heat.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
 Category: Aura – Body Enhancement
