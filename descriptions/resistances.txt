@@ -14,6 +14,11 @@ Crystals aren’t just shiny decorations to old ruins and caves.
 You have learned that the arcane scholars have found ways to turn the beautiful natural phenomenon into something quite more deadly.
 Less deadly to you with this skill.
 
+Curse Resistance
+Curses are seldom cast and even more seldom survived.
+You are one of few individuals to tell the tale.
+Not a pleasant one to be sure but with this skill you might be able to survive it again should the need arise.
+
 Earth Magic Resistance
 The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.

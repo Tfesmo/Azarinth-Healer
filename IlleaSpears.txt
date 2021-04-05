@@ -61,6 +61,7 @@ Resistances:
 1-6  Arcane Magic Resistance
 1-3  Corrosion Resistance
 1-6  Crystal Resistance
+1-1  Curse Resistance
 1-4  Earth Resistance
 1-1  Fear Resistance
 1-14 Heat Resistance
