@@ -5,28 +5,28 @@ Class 2: 105 - Ash Wielder
 
 Stats:
 
-Vit: 345
-End: 150
+Vit: 375
+End: 180
 Str: 111 [294.15]
-Dex: 190 [455.05]
-Int: 335
-Wis: 160
+Dex: 200 [526.90]
+Int: 365
+Wis: 190
 
 Resilience: 456.00%
 Speed+:     396.00%
 Damage+:    285.00%
 Reflexes+:  91.50%
 
-Health  : 3450
-Stamina : 1500
-Mana    : 1600
+Health  : 3750
+Stamina : 1800
+Mana    : 1900
 
 Regen:
 hp/min:  2.29%
-mp/min:  3.60%
-w/Med:  18.07%
+mp/min:  3.90%
+w/Med:  19.58%
 
-Effective Health: 22059.3
+Effective Health: 23977.5
 
 Azarinth Healer
 2-20 Destruction
