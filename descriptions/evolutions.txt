@@ -24,3 +24,16 @@ Have Fire Manipulation at level 10 or higher.
 
 100:
 ‘bing’ ‘You have met following conditions: Reached lvl 100 in Azarinth Healer. Reached at least 2nd lvl 15 of both Destruction and Reconstruction in the Azarinth Healer class.’
+
+100:
+‘ding’ ‘Requirements met for class evolution: Fire Enhancer becomes Pyro Enhancer. 
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– Become one with the flame. Have the Fire Enhancer class at lvl 100 or more. Leveled the skill Body of Flame to the 2nd Stage.’
+‘The Pyro Enhancer is a master of the flame. She is both a master of the fire within herself and the one she wields in ranged battles.’
+
+‘ding’ ‘Requirements met for class evolution: Fire Enhancer becomes Ash Wielder. 
+No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable 
+– You are the wielder of ash. Have a fire related body enhancement class at lvl 100 or more. 
+Have a total of at least three Body Enhancement skills in the 2nd stage. Hand to hand combat has been used primarily in fights. 
+Has brushed death more than ten times in the past week.
+‘You are the smoldering heat left by fire. Ember glows within you as an ashen mist shrouds your form.’

@@ -1,20 +1,21 @@
 Name: Ilea Spears
 
-Class 1: 99 - Azarinth Healer
-Class 2: 88 - Fire Enhancer
+Class 1: 103 - Azarinth Healer
+Class 2: 100 - Ash Wielder
 
 Stats:
 
 Vit: 282
 End: 150
-Str: 111 [344.57]
-Dex: 166
+Str: 111 [294.15]
+Dex: 166 [397.57]
 Int: 272
 Wis: 150
 
-Resilience: 210.43%
-Speed+:     210.43%
-Damage+:    209.0%
+Resilience: 456.00%
+Speed+:     396.00%
+Damage+:    285.00%
+Reflexes+:  91.50%
 
 Health  : 2820
 Stamina : 1500
@@ -25,7 +26,7 @@ hp/min:  2.29%
 mp/min:  3.50%
 w/Med:  17.36%
 
-Effective Health: 10067.08
+Effective Health: 18031.08
 
 Azarinth Healer
 2-20 Destruction
@@ -39,10 +40,11 @@ Azarinth Healer
 2-1  Azarinth Perception
 1-1  Azarinth Reversal
 
-Fire Enhancer
-1-2  Flame
-2-13 Body of Flame
-1-2  Heat Surge
+Ash Wielder
+1-1  Shroud of Ash
+2-13 Form of Ember
+1-2  Ash Surge
+1-1  Wave of Ember
 1-1  Body Heat Manipulation
 1-14 Fire Manipulation
 1-1  Heat Perception

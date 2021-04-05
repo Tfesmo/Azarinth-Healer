@@ -1,44 +1,52 @@
-Fire Enhancer
+Ash Wielder
 
-Vitality +5
+Vitality +10
 Strength + 5
 Dexterity + 5
-Intelligence +10
+Intelligence +15
 Wisdom +10
 
-Fire magic is cast 50% faster
-Fire magic is 25% stronger
-Body enhancement magic is improved by 20%
-You gain the general skill heat resistance
-Your mana regeneration is increased by 50% around fire
+Body enhancement magic is improved by 100%
+All fighting styles using hand to hand combat are more refined
 
-Active: Flame 1-2
-Create a flame from your mana to attack your enemies or heat a pot.
-You can control the flame through your fire manipulation.
-Category: Projectile Magic - Area of Effect
+Active: Shroud of Ash 1-1
+Shroud yourself in a mist of ash increasing your resilience by [50% - .5%/lvl - x3 151.5%].
+Category: Body Enhancement – Ashen magic
 
-Active: Body of Flame 2-13
-Clad yourself in flames raising your resilience, speed and strength by [20% - .5%/lvl - x2.45 89.43%]
-2nd stage: The longer you fight within the Body of Flame, the stronger burns its heat.
-Each minute of fighting adds 10% to the bonuses with a maximum of 100%.
-Category: Aura – Body Enhancement – Fire Magic
+Active: Form of Ember 2-13
+Ember glows within you raising your resilience, speed and dexterity by [30% - .5%/lvl - x3 139.5%].
+2nd stage: The longer you fight while in the Form of Ember, the stronger burns its heat.
+Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
+Category: Aura – Body Enhancement
 
-Active: Heat Surge 1-2
-Create a wave of fire with you at its center.
-Distance, heat and speed depend on skill level and mana invested (max 40 Mana).
-Category: Fire Magic
+Active: Ash Surge 1-2
+Create a wave of ash and ember with you at its center.
+Distance, density and speed depend on skill level and mana invested (max 60 Mana).
+Category: Ashen Magic
 
 Active: Body Heat Manipulation 1-1
 Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
 Category: Body Enhancement – Fire magic
 
-Passive: Fire Manipulation 1-14
-Your control over fire increases dramatically.
-Bend it to your wishes and burn whatever lies before you. [Effect doubled after bonuses]
-Category: Body Enhancement
+Active: Wave of Ember 1-1
+Burn the inside of whatever your body hits with a surge of heat and embers.
+Category: Ashen magic
+
+Passive: Ash and Ember Manipulation 1-14
+Your control over Ash and Ember increases dramatically.
+Bend it to your wishes and shroud the path before you.
+Category: Ashen magic
 
 Passive: Heat Perception 1-1
 You are able to see the sources of heat around you.
 You may disable this ability at will.
 The distance, penetrative power and accuracy increase with each level in the skill.
 Category: Body Enhancement
+
+Passive: Eyes of ash 1-1
+Increases your perception by [30% - .5%/lvl - x3 91.5%] when fighting without a weapon.
+Category: Body Enhancement – Ashen magic
+
+Passive: Body of Ash 1-1
+Increases your reflexes and speed by [30% - .5%/lvl - x3 91.5%] when fighting without a weapon.
+Category: Body Enhancement – Ashen magic
