@@ -4,6 +4,11 @@ The raw energies tear at not just flesh and bone but at the magical structure an
 Its red glow turns purple the more refined it is.
 This skill shall help you counter masters of the arcane.
 
+Corrosion Resistance
+Many substances can be corrosive.
+Even the strongest stone will be cut through by the right combination of chemicals.
+You have been exposed to more corrosion than many others and with this skill your resistance to many substances will be heightened.
+
 Crystal Resistance
 Crystals aren’t just shiny decorations to old ruins and caves.
 You have learned that the arcane scholars have found ways to turn the beautiful natural phenomenon into something quite more deadly.
@@ -26,11 +31,21 @@ Ice Resistance
 You have endured the biting cold of ice and lived to tell the tale.
 One of the deadliest climates and magics will now be less dangerous to you with this skill.
 
+Light Magic Resistance
+The power of the sun harnessed and enhanced by magic.
+You have experienced the burning heat of light and pushed ahead.
+This skill will help you be more resistant.
+
 Lightning Resistance
 Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
 
 Mental Resistance
 You are more adept at resisting and detecting attacks to your mind.
+
+Mist Magic Resistance
+Mist magic is a rare talent, found in students of the arcane adept in both wind and water magic.
+It is an elusive power, difficult to wield yet ultimately destructive and impossible to avoid.
+You have faced it and lived. This skill will help you do so again.
 
 Pain Tolerance
 Being a bit of a masochist, you have learned to ignore some of the pain.
