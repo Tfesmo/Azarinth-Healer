@@ -1,11 +1,11 @@
-Elos Standard Language 1-5
+Elos Standard Language
 You can speak and read the Standard language of Elos.
 
-Identify 1-3
+Identify
 You can grasp general information from someone or something.
 12 levels above as a base, after that 2 per level more.
 
-Meditation 2-12
+Meditation
 While in the state of meditation you cannot move. 
 Your mana and stamina regeneration is increased by a factor of [300% - 3%/lvl - 396%]. 
 This factor is improved upon leveling up the skill.

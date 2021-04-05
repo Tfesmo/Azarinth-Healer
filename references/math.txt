@@ -9,3 +9,13 @@ Chapter 37
 Chapter 42
 	- Takes poison for 25/s, comments that it's nothing compared to Reconstruction
 	- Either author error or mana limitations to explain inconsistency with Chapter 37 above
+
+Chapter 47
+	- Blink @2-20 is ~10 mana per activation
+
+Chapter  50
+	- Foot chopped off, is 15% health lost.  Takes 15 minutes to regrow.  Reduced effectiveness on certain damage, or mana needs to be spent regrowing?
+	- Later takes 89% from Centurion explosion, 10 minutes to heal the worst of the damage, another 10 to stabalize.  Health goes up by less than 10% during these 20 minutes.
+	- Additional after this to regrow all limbs.  Safe to conclude rebuilding body costs additional mana on top of health?
+
+	- Indicates it takes six minutes to refill mana, current calculations with Meditation should refill in less than five.  Math error somewhere.

@@ -16,7 +16,7 @@ The stronger the physical force, the higher the damage caused.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 20 mana per strike.
 Category: Healing
 
-Active: Reconstruction 2-15
+Active: Reconstruction 2-18
 Send a healing pulse of mana into yourself or your ally with a touch. 
 This skill can be channeled.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
@@ -27,7 +27,7 @@ Your body glows with the power of Azarinth, increasing your resilience, speed an
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
-Active: Blink 2-16
+Active: Blink 2-20
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
@@ -35,18 +35,18 @@ No ground contact needed between blinks.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 
-Azarinth Sphere 2-8
+Azarinth Sphere 2-14
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 2nd stage: The Sphere now also influences the senses of smell, hearing, touch and taste as you will it.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 
-Passive: Body of Azarinth 2-9
+Passive: Body of Azarinth 2-11
 Your body was changed by magic. 
 All pain is reduced by 25% [x2 50%]. 
 You heal even fatal injuries without help of healing magic. 
-Your natural regeneration is improved by [50% - .5%/lvl - x2 127%].
+Your natural regeneration is improved by [50% - .5%/lvl - x2 131%].
 2nd stage: The magic of Azarinth settles inside your body. 
 Your resistance to magical damage is increased by a static 15% [x2 30%].
 Category: Healing
@@ -57,19 +57,19 @@ Damage inflicted with your own body and related skills is [75% - .5%/lvl - x3 28
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x3 30%].
 Category: Body Enhancement
 
-Passive: Magic Perception 1-12
+Passive: Magic Perception 1-14
 This skill lets you see magic.
 Can be activated or deactivated on command.
 Category: Body Enhancement
 
-Passive: Azarinth Perception 20-1
+Passive: Azarinth Perception 20-5
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
 2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
 This can happen only once per hour.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal 1-1
+Passive: Azarinth Reversal 1-10
 You have learned of Destruction and Reconstruction.
 Now you will learn of their Reversal.
 Upon activation, Destruction will send a part of the struck enemy’s mana into yourself.

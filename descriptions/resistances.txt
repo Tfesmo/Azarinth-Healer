@@ -1,15 +1,18 @@
-Fear Resistance 1-1
+Fear Resistance
 You have overcome something truly terrifying to you.
 Your ability to deal with non magical fear is increased.
 
-Heat Resistance 1-13
+Heat Resistance
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
 
-Mental Resistance 1-5
+Lightning Resistance
+Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
+
+Mental Resistance
 You are more adept at resisting and detecting attacks to your mind.
 
-Pain Tolerance 1-1
+Pain Tolerance
 Being a bit of a masochist, you have learned to ignore some of the pain.
 No, only physical pain.
 You’re feeling a little more numb towards pain but careful...the damage is still being done!
@@ -17,16 +20,16 @@ You’re feeling a little more numb towards pain but careful...the damage is sti
 You are now able to completely turn off your perception of pain.
 Be wary as there is a reason pain exists.
 
-Poison Resistance 1-16
+Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
 
-Water Resistance 1-5
+Water Resistance
 In your days you have learned many things.
 One of them is that water pressure is not a joke.
 This Resistance helps a little with reducing the damage.
 
-Wind Resistance 1-3
+Wind Resistance
 The ever elusive magic of Wind can cut from any side.
 You have learned that it might’ve been a good idea to become a Void mage.
 This skill helps you resist the power of wind a little more.
