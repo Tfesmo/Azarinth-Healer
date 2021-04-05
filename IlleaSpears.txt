@@ -32,7 +32,7 @@ Azarinth Healer
 2-20 Destruction
 2-20 Reconstruction
 2-20 State of Azarinth
-2-20 Blink
+3-1  Blink
 2-19 Azarinth Sphere
 2-14 Body of Azarinth
 2-20 Azarinth Fighting
@@ -45,9 +45,9 @@ Ash Wielder
 2-11 Form of Ember
 1-6  Ash Surge
 1-1  Body Heat Manipulation
-1-20 Wave of Ember
+2-1 Wave of Ember
 1-16 Ash and Ember Manipulation
-1-8  Ashen Wings
+1-10 Ashen Wings
 1-16 Eyes of Ash
 1-16 Body of Ash
 1-11 Ashen Warrior
@@ -59,7 +59,7 @@ General Skills:
 
 Resistances:
 1-6  Arcane Magic Resistance
-1-3  Corrosion Resistance
+1-7  Corrosion Resistance
 1-6  Crystal Resistance
 1-1  Curse Resistance
 1-5  Earth Resistance
@@ -68,7 +68,7 @@ Resistances:
 1-7  Ice Resistance
 1-2  Light Magic Resistance
 1-5  Lightning Resistance
-1-7  Mental Resistance
+1-8  Mental Resistance
 1-1  Mist Magic Resistance
 2-4  Pain Tolerance
 1-17 Poison Resistance

@@ -31,11 +31,14 @@ Your body glows with the power of Azarinth, increasing your resilience, speed an
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
-Active: Blink 2-20
+Active: Blink 3-1
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
 No ground contact needed between blinks.
+3rd stage: You may set one destination you touch.
+You may change it every six months.
+You may travel to said destination once every three days.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 

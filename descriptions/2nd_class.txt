@@ -31,6 +31,9 @@ Category: Body Enhancement – Fire magic
 
 Active: Wave of Ember 1-20
 Burn the inside of whatever your body hits with a surge of heat and embers.
+2nd stage: The flame burns on. 
+Targets hit will have fire burning through them.
+Time and consecutive attacks will increase the effect.
 Category: Ashen magic
 
 Passive: Ash and Ember Manipulation 1-16
