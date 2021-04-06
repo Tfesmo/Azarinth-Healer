@@ -49,6 +49,7 @@ The higher the level the further the sphere reaches.
 Additionally you gain a vague idea of traps and hidden paths inside the sphere.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
+*20m+ raidus @ 2-19, ch71
 
 Passive: Body of the First Hunter 2-14
 Your body was changed by magic.

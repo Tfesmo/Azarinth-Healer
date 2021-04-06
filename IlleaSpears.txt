@@ -36,25 +36,25 @@ Azarinth Healer
 2-19 Azarinth Sphere
 2-14 Body of Azarinth
 2-20 Azarinth Fighting
-1-16 Magic Perception
+1-2  Hunter's Sight
 2-12 Azarinth Perception
 1-17 Azarinth Reversal
 
 Ash Wielder
 2-2  Shroud of Ash
 2-11 Form of Ember
-1-6  Ash Surge
+1-10 Ash Surge
 1-1  Body Heat Manipulation
 2-1 Wave of Ember
 1-16 Ash and Ember Manipulation
 1-10 Ashen Wings
 1-16 Eyes of Ash
 1-16 Body of Ash
-1-11 Ashen Warrior
+1-13 Ashen Warrior
 
 General Skills:
 1-5  Elos Standard language
-1-6  Identify
+1-7  Identify
 2-14 Meditation
 
 Resistances:
@@ -64,11 +64,13 @@ Resistances:
 1-1  Curse Resistance
 1-5  Earth Resistance
 1-1  Fear Resistance
+1-2  Health Drain Resistance
 1-17 Heat Resistance
 1-7  Ice Resistance
 1-2  Light Magic Resistance
-1-5  Lightning Resistance
-1-8  Mental Resistance
+1-9  Lightning Resistance
+1-2  Mana Drain Resistance
+1-9  Mental Resistance
 1-1  Mist Magic Resistance
 2-4  Pain Tolerance
 1-17 Poison Resistance
