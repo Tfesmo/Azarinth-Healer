@@ -4,6 +4,11 @@ The raw energies tear at not just flesh and bone but at the magical structure an
 Its red glow turns purple the more refined it is.
 This skill shall help you counter masters of the arcane.
 
+Blast Resistance
+Explosions can be an unpredictable and chaotic thing.
+You have survived quite an impressive one to get this skill.
+It will help you negate the damage ever so slightly for the next time you chose to stand in one.
+
 Corrosion Resistance
 Many substances can be corrosive.
 Even the strongest stone will be cut through by the right combination of chemicals.

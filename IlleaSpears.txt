@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 200 - Azarinth First Hunter
-Class 2: 191 - Ash Wielder
+Class 1: 201 - Azarinth First Hunter
+Class 2: 195 - Ash Wielder
 
 Stats:
 
@@ -36,21 +36,21 @@ Azarinth Healer
 2-20 Azarinth Hunter Sphere
 2-14 Body of the First Hunter
 2-20 Azarinth Fighting
-1-3  Hunter's Sight
-2-13 Azarinth Perception
+1-6  Hunter's Sight
+2-14 Azarinth Perception
 1-17 Azarinth Reversal
 
 Ash Wielder
-2-4  Shroud of Ash
-2-11 Form of Ember
-1-13 Ash Surge
+2-6  Shroud of Ash
+2-12 Form of Ember
+1-18 Ash Surge
 1-2  Body Heat Manipulation
 2-1 Wave of Ember
-1-16 Ash and Ember Manipulation
-1-10 Ashen Wings
-1-18 Eyes of Ash
+1-19 Ash and Ember Manipulation
+1-15 Ashen Wings
+1-19 Eyes of Ash
 1-16 Body of Ash
-1-13 Ashen Warrior
+1-14 Ashen Warrior
 
 General Skills:
 1-5  Elos Standard language
@@ -59,18 +59,19 @@ General Skills:
 
 Resistances:
 1-6  Arcane Magic Resistance
+1-4  Blast Resistance
 1-7  Corrosion Resistance
 1-6  Crystal Resistance
-1-5  Curse Resistance
+1-8  Curse Resistance
 1-5  Earth Resistance
 1-1  Fear Resistance
 1-5  Health Drain Resistance
-1-17 Heat Resistance
+1-18 Heat Resistance
 1-7  Ice Resistance
 1-2  Light Magic Resistance
-1-12 Lightning Resistance
+1-15 Lightning Resistance
 1-5  Mana Drain Resistance
-1-13 Mental Resistance
+1-16 Mental Resistance
 1-1  Mist Magic Resistance
 2-4  Pain Tolerance
 1-17 Poison Resistance
