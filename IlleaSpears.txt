@@ -1,6 +1,6 @@
 Name: Ilea Spears
 
-Class 1: 200 - Azarinth Healer
+Class 1: 200 - Azarinth First Hunter
 Class 2: 191 - Ash Wielder
 
 Stats:
@@ -61,7 +61,7 @@ Resistances:
 1-6  Arcane Magic Resistance
 1-7  Corrosion Resistance
 1-6  Crystal Resistance
-1-1  Curse Resistance
+1-5  Curse Resistance
 1-5  Earth Resistance
 1-1  Fear Resistance
 1-5  Health Drain Resistance
