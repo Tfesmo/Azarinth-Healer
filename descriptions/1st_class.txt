@@ -31,7 +31,7 @@ Your body glows with the power of Azarinth, increasing your resilience, speed an
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
-Active: Blink 3-1
+Active: Blink 3-2
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
@@ -42,7 +42,7 @@ You may travel to said destination once every three days.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 
-Active: Azarinth Hunter Sphere 2-19
+Active: Azarinth Hunter Sphere 2-20
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 2nd stage: The Sphere influences the senses of smell, hearing, touch and taste as you will it.
@@ -51,7 +51,7 @@ Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ raidus @ 2-19, ch71
 
-Passive: Body of the First Hunter 2-14
+Passive: Body of the First Hunter 2-16
 Your body was changed by magic.
 All pain is reduced by 25% [x2 50%].
 You heal even fatal injuries without help of healing magic.
@@ -66,22 +66,23 @@ Damage inflicted with your own body and related skills is [75% - .5%/lvl - x4 38
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x4 40%].
 Category: Body Enhancement
 
-Passive: Hunter’s Sight 1-1
+Passive: Hunter’s Sight 1-18
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings to find clues about your prey’s whereabouts.
 Category: Body Enhancement
 
-Passive: Azarinth Perception 20-12
+Passive: Azarinth Perception 20-16
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
 2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
 This can happen only once per hour.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal 1-17
+Passive: Azarinth Reversal 2-2
 You have learned of Destruction and Reconstruction.
 Now you will learn of their Reversal.
 Upon activation, Destruction will send a part of the struck enemy’s mana into yourself.
 No mana will be released on impact, rendering Destruction’s offensive potential to zero.
 Upon activation, Reconstruction will send a destructive force of channeled mana into yourself or an enemy you touch, the healing aspects are reduced to zero.
+2nd stage: You may have both aspects activated at the same time.
 Category: Body Enhancement
