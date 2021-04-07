@@ -24,6 +24,11 @@ Curses are seldom cast and even more seldom survived.
 You are one of few individuals to tell the tale.
 Not a pleasant one to be sure but with this skill you might be able to survive it again should the need arise.
 
+Dark Magic Resistance
+You have stood against a being of true darkness.
+Its magic was not able to pierce your defenses and you stand to tell the tale.
+This skill will help you repeat such actions.
+
 Earth Magic Resistance
 The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.

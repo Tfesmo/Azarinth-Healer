@@ -63,6 +63,7 @@ Resistances:
 1-8  Corrosion Resistance
 1-6  Crystal Resistance
 2-2  Curse Resistance
+1-1  Dark Magic Resistance
 1-5  Earth Resistance
 1-1  Fear Resistance
 1-16 Health Drain Resistance
