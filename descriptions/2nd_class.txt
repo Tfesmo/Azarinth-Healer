@@ -1,34 +1,36 @@
-Ash Wielder
+Inheritor of Eternal Ash
 
-Vitality +10
-Strength + 5
+Vitality +30
+Strength + 10
 Dexterity + 5
 Intelligence +15
-Wisdom +10
+Wisdom +15
 
-Body enhancement magic is improved by 100%
+Body enhancement magic is improved by 200%
 All fighting styles using hand to hand combat are more refined
+Your control over ash is enhanced greatly
 
-Active: Shroud of Ash 2-10
-Shroud yourself in a mist of ash increasing your resilience by [50% - .5%/lvl - x4 244.0%].
-2nd stage: Your resistances also benefit from Shroud of Ash’s bonus.
+Active: Veil of Ash 2-10
+A thin mist of ash forms around you to both protect you and attack nearby enemies. You are in full control.
+The veil increases your resilience by [60% + .5%/lvl - 75%x5 = 375.0%].
+2nd stage: Your resistances also benefit from the Veil of Ash’s bonus.
 Category: Body Enhancement – Ashen magic
 
-Active: Form of Ember 2-14
-Ember glows within you raising your resilience, speed and dexterity by [35% - .5%/lvl - x4 202.0%].
-2nd stage: The longer you fight while in the Form of Ember, the stronger burns its heat.
+Active: Form of Ash and Ember 2-14
+Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 52%x5 = 260.0%].
+2nd stage: The longer you fight while in the Form of Ash and Ember, the deeper it roots.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
 Category: Aura – Body Enhancement
 
-Active: Ash Surge 2-4
-Create a wave of ash and ember with you at its center.
-Distance, density and speed depend on skill level and mana invested (max 60 Mana).
-2nd stage: Focus the direction and density of the surge.
+Active: Ash Creation 2-4
+Create ash in a certain radius around you.
+It can be used as a surge to blind or as a shroud to hide.
+2nd stage: You can control the density of the ash to an extent.
 Category: Ashen Magic
 
-Active: Body Heat Manipulation 1-12
+Active: Embered Body Heat 1-12
 Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
-Category: Body Enhancement – Fire magic
+Category: Body Enhancement – Ashen Magic
 
 Active: Wave of Ember 2-3
 Burn the inside of whatever your body hits with a surge of heat and embers.
@@ -50,20 +52,20 @@ Strike your enemies from above and close the distance to deliver your wrath.
 Category: Body Enhancement – Ashen Magic
 
 Passive: Eyes of Ash 2-12
-Increases your perception by [30% - .5%/lvl - x4 152.0%] when fighting without a weapon.
+Increases your perception by [30% + .5%/lvl - 46%x5 = 230.0%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
 Category: Body Enhancement – Ashen magic
 
 Passive: Body of Ash 2-11
-Increases your reflexes and speed by [30% - .5%/lvl - x4 152.0%] when fighting without a weapon.
+Increases your reflexes and speed by [30% + .5%/lvl - 45.5%x5 = 227.5%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Your instincts sharpen and your ability to avoid damage to your vitals when dodging increases.
 Category: Body Enhancement – Ashen magic
 
 Passive: Ashen Warrior 2-4
 You are familiar with the fighting style of Ash. 
-Damage inflicted with your own body and while shrouded in Ash is [50% - .5%/lvl - x4 220.0%] higher.
+Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 62%x5 = 310.0%] higher.
 2nd stage: Shroud your weapons in ash to produce various effects.
 Shrouded weapons deal additional damage. Affected by Ash and Ember Manipulation.
 Category: Body Enhancement

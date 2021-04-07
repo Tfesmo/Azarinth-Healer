@@ -27,7 +27,7 @@ Lose your head and see for yourself!
 Category: Healing
 
 Active: State of Azarinth 2-20
-Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% - .5%/lvl - x4 220.0%]
+Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% + .5%/lvl - 55%x5 = 275.0%]
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 Category: Aura – Body Enhancement
 
@@ -55,15 +55,15 @@ Passive: Body of the First Hunter 2-16
 Your body was changed by magic.
 All pain is reduced by 25% [x2 50%].
 You heal even fatal injuries without help of healing magic.
-Your natural regeneration is improved by [50% - .5%/lvl - x2 134%].
+Your natural regeneration is improved by [50% + .5%/lvl - 68%x2 = 136%].
 2nd stage: The magic of Azarinth settles inside your body.
-Your resistance to magical damage is increased by a static [25% - x2 50%] and your bones are three times as dense.
+Your resistance to magical damage is increased by a static 25% [x2 50%] and your bones are three times as dense.
 Category: Healing
 
 Passive: Azarinth Fighting 2-20
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% - .5%/lvl - x4 380.0%].
-2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x4 40%].
+Damage inflicted with your own body and related skills is [75% + .5%/lvl - 95%x5 475.0%].
+2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x5 50%].
 Category: Body Enhancement
 
 Passive: Hunter’s Sight 1-18
