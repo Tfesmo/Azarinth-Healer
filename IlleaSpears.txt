@@ -56,6 +56,7 @@ General Skills:
 1-5  Elos Standard language
 1-7  Identify
 2-15 Meditation
+1-1  Veteran
 
 Resistances:
 1-6  Arcane Magic Resistance

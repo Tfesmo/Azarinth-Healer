@@ -7,6 +7,10 @@ You can grasp general information from someone or something.
 
 Meditation
 While in the state of meditation you cannot move. 
-Your mana and stamina regeneration is increased by a factor of [300% - 3%/lvl - 396%]. 
+Your mana and stamina regeneration is increased by a factor of [300% + 3%/lvl = 405%]. 
 This factor is improved upon leveling up the skill.
 2nd stage: Your familiarity with Meditation lets you move slowly while the skill is active.
+
+Veteran
+You have experienced the shouts and spells of beings completely out of your range of imagination.
+You will not survive but at least you won’t be completely immobilized while you get eaten. Good luck warrior.
