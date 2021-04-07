@@ -1,32 +1,32 @@
 Name: Ilea Spears
 
 Class 1: 203 - Azarinth First Hunter
-Class 2: 199 - Ash Wielder
+Class 2: 200 - Ash Wielder
 
 Stats:
 
 Vit: 575
 End: 285
-Str: 246 [675.2]
-Dex: 350 [1057]
+Str: 246 [787.2]
+Dex: 350 [1078]
 Int: 500
 Wis: 305
 
-Resilience: 666.0%
-Speed+:     574.0%
-Reflexes+:  152.0%
-Damage+:    602.0%
+Resilience: 688.0%
+Speed+:     610.0%
+Reflexes+:  182.0%
+Damage+:    628.0%
 
 Health  : 5750
 Stamina : 2850
 Mana    : 3050
 
 Regen:
-hp/min:  2.34%
+hp/min:  2.36%
 mp/min:  5.05%
-w/Med:  21.33%
+w/Med:  21.45%
 
-Effective Health: 53141.25
+Effective Health:  56,637.5
 
 Azarinth Healer
 2-20 Destruction
