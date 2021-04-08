@@ -66,9 +66,10 @@ Damage inflicted with your own body and related skills is [75% + .5%/lvl - 95%x5
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x5 50%].
 Category: Body Enhancement
 
-Passive: Hunter’s Sight 1-18
+Passive: Hunter’s Sight 2-1
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings to find clues about your prey’s whereabouts.
+2nd stage: Through experience you can feel your prey’s general state of distress.
 Category: Body Enhancement
 
 Passive: Azarinth Perception 20-16

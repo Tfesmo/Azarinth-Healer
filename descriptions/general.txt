@@ -1,6 +1,10 @@
 Elos Standard Language
 You can speak and read the Standard language of Elos.
 
+Heavy Archery
+You have proven to be capable with a heavy bow, hitting your targets with destructive precision.
+This skill will improve upon your capabilities, making the bow just a little easier to handle, its impact just a little higher.
+
 Identify
 You can grasp general information from someone or something.
 12 levels above as a base, after that 2 per level more.

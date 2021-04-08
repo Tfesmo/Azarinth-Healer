@@ -36,7 +36,7 @@ Azarinth Healer
 2-20 Azarinth Hunter Sphere
 2-16 Body of the First Hunter
 2-20 Azarinth Fighting
-1-18 Hunter's Sight
+2-1  Hunter's Sight
 2-16 Azarinth Perception
 2-2  Azarinth Reversal
 
@@ -54,6 +54,7 @@ Ash Wielder
 
 General Skills:
 1-5  Elos Standard language
+1-3  Heavy Archery
 1-7  Identify
 2-15 Meditation
 1-1  Veteran
