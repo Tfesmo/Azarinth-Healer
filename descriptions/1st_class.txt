@@ -73,6 +73,7 @@ Category: Body Enhancement
 Passive: Hunter’s Sight 2-7
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings to find clues about your prey’s whereabouts.
+2nd stage: Through experience you can feel your prey’s general state of distress.
 Category: Body Enhancement
 
 Passive: Azarinth Perception 20-20
