@@ -11,3 +11,10 @@ Chapter 17
 
 Chapter 36ish
 	- Dexterity helps reaction time
+
+Chapter 162 per Dagon
+	- Normal 5 skills capped to unlock 3rd tier.  Exceptions:
+	- Skills going from 1-20 -> 3-1, skipping 2nd.
+	- Classes awarding 2x 3rd tier points @ 200
+	- Classes with no 3rd tier w/5 skills at 2-20
+	
