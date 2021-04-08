@@ -1,63 +1,63 @@
 Name: Ilea Spears
 
-Class 1: 203 - Azarinth First Hunter
-Class 2: 200 - Inheritor of Eternal Ash
+Class 1: 224 - Azarinth First Hunter
+Class 2: 220 - Inheritor of Eternal Ash
 
 Stats:
 
-Vit: 575
-End: 285
-Str: 246 [1562.1]
-Dex: 350 [1260]
-Int: 500
-Wis: 305
+Vit: 600
+End: 350
+Str: 251 [1625.2]
+Dex: 350 [1295]
+Int: 525
+Wis: 415
 
-Resilience: 910.0%
-Speed+:     762.5%
-Reflexes+:  227.5%
-Damage+:    785.0%
+Resilience: 947.5%
+Speed+:     787.5%
+Reflexes+:  240.0%
+Damage+:    812.5%
 
-Health  : 5750
-Stamina : 2850
-Mana    : 3050
+Health  : 6000
+Stamina : 3500
+Mana    : 4150
 
 Regen:
-hp/min:  2.36%
-mp/min:  5.05%
-w/Med:  21.45%
+hp/min:  2.40%
+mp/min:  6.15%
+w/Med:  27.32%
 
-Effective Health:  72,593.75
+Effective Health:  78,562.5
 
 Azarinth Healer
 2-20 Destruction
 2-20 Hunter Recovery
-2-20 State of Azarinth
-3-2  Blink
+3-1  State of Azarinth
+3-5  Blink
 2-20 Azarinth Hunter Sphere
-2-16 Body of the First Hunter
+2-20 Body of the First Hunter
 2-20 Azarinth Fighting
-2-1  Hunter's Sight
-2-16 Azarinth Perception
-2-2  Azarinth Reversal
+2-7  Hunter's Sight
+2-20 Azarinth Perception
+2-15 Azarinth Reversal
 
 Ash Wielder
-2-10 Veil of Ash
-2-14 Form of Ash Ember
-2-4  Ash Creation
-1-12 Embered Body Heat
-2-3  Wave of Ember
-2-9  Ash and Ember Manipulation
-2-2  Ashen Wings
-2-12 Eyes of Ash
-2-11 Body of Ash
-2-4  Ashen Warrior
+2-20 Veil of Ash
+2-18 Form of Ash Ember
+2-17 Ash Creation
+1-20 Embered Body Heat
+2-12 Wave of Ember
+2-19 Ash and Ember Manipulation
+2-14 Ashen Wings
+2-19 Eyes of Ash
+2-16 Body of Ash
+2-15 Ashen Warrior
 
 General Skills:
 1-5  Elos Standard language
-1-3  Heavy Archery
+1-4  Heavy Archery
 1-7  Identify
-2-15 Meditation
-1-1  Veteran
+2-17 Meditation
+1-2  Veteran
 
 Resistances:
 1-6  Arcane Magic Resistance
@@ -67,14 +67,14 @@ Resistances:
 2-2  Curse Resistance
 1-1  Dark Magic Resistance
 1-5  Earth Resistance
-1-1  Fear Resistance
+1-2  Fear Resistance
 1-16 Health Drain Resistance
 1-19 Heat Resistance
 1-7  Ice Resistance
 1-2  Light Magic Resistance
 2-5  Lightning Resistance
 1-18 Mana Drain Resistance
-2-8  Mental Resistance
+2-10 Mental Resistance
 1-1  Mist Magic Resistance
 2-4  Pain Tolerance
 1-17 Poison Resistance
