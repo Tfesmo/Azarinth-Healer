@@ -30,6 +30,8 @@ Category: Ashen Magic
 
 Active: Embered Body Heat 1-20
 Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
+2nd stage: The Embers run deep.
+Your blood boils and the ash around you singes, should you will it.
 Category: Body Enhancement – Ashen Magic
 
 Active: Wave of Ember 2-12

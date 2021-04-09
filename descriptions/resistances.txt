@@ -9,6 +9,11 @@ Explosions can be an unpredictable and chaotic thing.
 You have survived quite an impressive one to get this skill.
 It will help you negate the damage ever so slightly for the next time you chose to stand in one.
 
+Blood Magic Resistance
+The arts of blood manipulation can be deceptive and dangerous to both ally and foe.
+You have stood against the old magic and lived.
+Next time your chance of survival will be even higher.
+
 Corrosion Resistance
 Many substances can be corrosive.
 Even the strongest stone will be cut through by the right combination of chemicals.
@@ -84,6 +89,11 @@ Be wary as there is a reason pain exists.
 Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
+
+Void Magic Resistance
+The mystical magic usually used to enchant high level items applied as a form of combat magic.
+It’s as deadly as it is silent. How exactly you survived is unclear, perhaps the caster willed it so.
+Next time it might work against a true enemy as well.
 
 Water Resistance
 In your days you have learned many things.

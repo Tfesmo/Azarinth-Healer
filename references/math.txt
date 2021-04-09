@@ -19,3 +19,7 @@ Chapter  50
 	- Additional after this to regrow all limbs.  Safe to conclude rebuilding body costs additional mana on top of health?
 
 	- Indicates it takes six minutes to refill mana, current calculations with Meditation should refill in less than five.  Math error somewhere.
+
+Chapter 184
+-Recovery is at least 50 hp/sec based on poison testing.
+-Illea notes certain injuries take longer based on her expertise.
