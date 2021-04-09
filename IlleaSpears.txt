@@ -41,9 +41,9 @@ Azarinth Healer
 2-15 Azarinth Reversal
 
 Ash Wielder
-2-20 Veil of Ash
-2-18 Form of Ash Ember
-2-17 Ash Creation
+3-1  Veil of Ash
+2-20 Form of Ash Ember
+2-20 Ash Creation
 2-1  Embered Body Heat
 2-12 Wave of Ember
 2-19 Ash and Ember Manipulation

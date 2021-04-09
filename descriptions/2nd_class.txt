@@ -14,6 +14,8 @@ Active: Veil of Ash 2-20
 A thin mist of ash forms around you to both protect you and attack nearby enemies. You are in full control.
 The veil increases your resilience by [60% + .5%/lvl - 80%x5 = 400.0%].
 2nd stage: Your resistances also benefit from the Veil of Ash’s bonus.
+3rd stage: The density of your Veil of Ash increases, now affected by your Ash and Ember Manipulation.
+Increases the defensive capabilities of all ash and ember you control.
 Category: Body Enhancement – Ashen magic
 
 Active: Form of Ash and Ember 2-18
