@@ -90,6 +90,11 @@ Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
 
+Silver Magic Resistance
+A rare magic to be sure and just as deadly.
+Not quite corrosion or poison, silver magic can be devious, its effects complex.
+You have survived and are one of few who have been exposed and lived.
+
 Void Magic Resistance
 The mystical magic usually used to enchant high level items applied as a form of combat magic.
 It’s as deadly as it is silent. How exactly you survived is unclear, perhaps the caster willed it so.
