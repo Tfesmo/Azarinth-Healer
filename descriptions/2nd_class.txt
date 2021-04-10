@@ -28,6 +28,7 @@ Active: Ash Creation 2-20
 Create ash in a certain radius around you.
 It can be used as a surge to blind or as a shroud to hide.
 2nd stage: You can control the density of the ash to an extent.
+3rd stage: You have proven your dedication. Ash swirls to aid and destroy at your whims.
 Category: Ashen Magic
 
 Active: Embered Body Heat 2-9
