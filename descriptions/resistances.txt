@@ -43,6 +43,10 @@ You have stood against a being of true darkness.
 Its magic was not able to pierce your defenses and you stand to tell the tale.
 This skill will help you repeat such actions.
 
+Dust Magic Resistance
+Dangerous and elusive magic answering to few who seek its complexity, understand its beauty.
+You have faced a mage of dust and lived, preparing you for the next confrontation, should it come to pass.
+
 Earth Magic Resistance
 The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.
@@ -129,3 +133,7 @@ The ever elusive magic of Wind can cut from any side.
 You have learned that it might’ve been a good idea to become a Void mage.
 This skill helps you resist the power of wind a little more.
 2nd stage: The mana flow inside of you has acclimated itself to the air around you, making you more aerodynamic.
+
+Wood Magic Resistance
+A connection made from a mage to nature allowed for this talent to take root.
+Facing the force of nature you grow more accustomed to its effects, your body more resilient to the magic of the forest.

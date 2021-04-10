@@ -69,6 +69,7 @@ Resistances:
 1-15 Crystal Resistance
 2-2  Curse Resistance
 1-1  Dark Magic Resistance
+1-1  Dust Magic Resistance
 2-1  Earth Resistance
 1-5  Fear Resistance
 2-1  Health Drain Resistance
@@ -85,6 +86,7 @@ Resistances:
 1-7  Void Magic Resistance
 2-1  Water Resistance
 2-1  Wind Resistance
+1-1  Wood Magic Resistance
 
 Non-numeric defensive buffs
 Class:
