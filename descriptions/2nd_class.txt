@@ -43,10 +43,13 @@ Targets hit will have fire burning through them.
 Time and consecutive attacks will increase the effect.
 Category: Ashen magic
 
-Passive: Ash and Ember Manipulation 2-19
+Passive: Ash and Ember Manipulation 3-1
 Your control over Ash and Ember increases dramatically.
 Bend it to your wishes and shroud the path before you.
-2nd stage: Ash and Ember have become your ally. Your control increases greatly.
+2nd stage: Ash and Ember have become your ally.
+Your control increases greatly.
+3rd stage: You have proven to be a master of ash and ember.
+The elements themselves become an extension of your body, an extension of your will, for as long as they stay in physical contact with you.
 Category: Ashen magic
 
 Passive: Ashen Wings 2-14
