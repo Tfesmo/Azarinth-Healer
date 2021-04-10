@@ -23,3 +23,8 @@ Chapter  50
 Chapter 184
 -Recovery is at least 50 hp/sec based on poison testing.
 -Illea notes certain injuries take longer based on her expertise.
+
+Chapter 231
+-Illea sacrifices 500 health with the knowledge she can heal it back in less than 2 seconds
+-Floor on Restoration of 250 hp/sec
+
