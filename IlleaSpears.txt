@@ -6,11 +6,11 @@ Class 2: 248 - Inheritor of Eternal Ash
 Stats:
 
 Vit: 600
-End: 360
+End: 400
 Str: 266 [1625.2]
 Dex: 350 [1295]
-Int: 580
-Wis: 435
+Int: 600
+Wis: 575
 
 Resilience: 960.0%
 Speed+:     805.0%
@@ -18,13 +18,13 @@ Reflexes+:  247.5%
 Damage+:    825.0%
 
 Health  : 6000
-Stamina : 3500
-Mana    : 4250
+Stamina : 4000
+Mana    : 5750
 
 Regen:
-hp/min:  2.40%
-mp/min:  6.15%
-w/Med:  27.32%
+hp/sec:  0.04% [2.4]
+mp/sec:  0.11% [4.6]
+w/Med:   0.47% [20.5]
 
 Effective Health:  79,500
 
@@ -72,12 +72,12 @@ Resistances:
 1-1  Dust Magic Resistance
 2-1  Earth Resistance
 1-5  Fear Resistance
-2-6  Health Drain Resistance
+2-14 Health Drain Resistance
 2-3  Heat Resistance
 2-1  Ice Resistance
 1-16 Light Magic Resistance
 2-5  Lightning Resistance
-2-6  Mana Drain Resistance
+2-12 Mana Drain Resistance
 2-11 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
