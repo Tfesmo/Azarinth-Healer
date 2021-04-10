@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 224 - Azarinth First Hunter
-Class 2: 220 - Inheritor of Eternal Ash
+Class 1: 230 - Azarinth First Hunter
+Class 2: 225 - Inheritor of Eternal Ash
 
 Stats:
 
@@ -44,8 +44,8 @@ Ash Wielder
 3-1  Veil of Ash
 2-20 Form of Ash Ember
 2-20 Ash Creation
-2-2  Embered Body Heat
-2-12 Wave of Ember
+2-3  Embered Body Heat
+2-16 Wave of Ember
 3-1  Ash and Ember Manipulation
 2-14 Ashen Wings
 2-19 Eyes of Ash
@@ -72,7 +72,7 @@ Resistances:
 1-5  Fear Resistance
 1-16 Health Drain Resistance
 1-20 Heat Resistance
-1-9  Ice Resistance
+1-10 Ice Resistance
 1-7  Light Magic Resistance
 2-5  Lightning Resistance
 1-18 Mana Drain Resistance
