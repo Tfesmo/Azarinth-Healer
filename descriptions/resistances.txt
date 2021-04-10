@@ -57,6 +57,7 @@ Health Drain Resistance
 Some creatures have the ability to drain your health.
 You have been subjected to such a spell and have endured.
 This skill will help you endure more easily and turn the tables on your enemies.
+2nd stage: Your health is yours, with each point lost it will become more difficult to steal from you what is yours alone.
 
 Heat Resistance
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
@@ -82,6 +83,9 @@ Rare foes will have the ability to drain your mana.
 Either for their own use or simply to weaken you.
 Having encountered one such being, you have learned of its destructive effect.
 This skill will help you reduce the effect any mana draining abilities will have on you.
+2nd stage: Your mana is bound to you, making it harder for anybody to drain it from you.
+In addition the mana removed from you damages the enemy, should they desire to use it for themselves.
+This effect increases with every point of mana lost.
 
 Mental Resistance
 You are more adept at resisting and detecting attacks to your mind.
