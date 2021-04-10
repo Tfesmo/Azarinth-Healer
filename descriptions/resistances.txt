@@ -110,6 +110,8 @@ Be wary as there is a reason pain exists.
 Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
+2nd stage: Either you need better guards or you need to stop eating everything you see.
+Experience has granted you an ability to sense poison. Additionally its spread throughout your body is slower, reducing its effects.
 
 Silver Magic Resistance
 A rare magic to be sure and just as deadly.

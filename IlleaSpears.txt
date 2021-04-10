@@ -81,7 +81,7 @@ Resistances:
 2-11 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
-1-20 Poison Resistance
+2-1  Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
