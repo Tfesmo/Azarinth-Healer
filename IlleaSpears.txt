@@ -45,7 +45,7 @@ Ash Wielder
 2-20 Form of Ash Ember
 2-20 Ash Creation
 2-4  Embered Body Heat
-2-16 Wave of Ember
+2-17 Wave of Ember
 3-1  Ash and Ember Manipulation
 2-16 Ashen Wings
 2-20 Eyes of Ash
@@ -58,10 +58,10 @@ General Skills:
 1-4  Heavy Archery
 1-7  Identify
 2-17 Meditation
-1-3  Veteran
+1-6  Veteran
 
 Resistances:
-2-1  Arcane Magic Resistance
+2-2  Arcane Magic Resistance
 2-1  Blast Resistance
 1-8  Blood Magic Resistance
 1-3  Blood Manipulation Resistance
