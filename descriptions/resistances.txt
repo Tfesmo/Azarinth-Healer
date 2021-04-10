@@ -14,6 +14,10 @@ The arts of blood manipulation can be deceptive and dangerous to both ally and f
 You have stood against the old magic and lived.
 Next time your chance of survival will be even higher.
 
+Blood Manipulation Resistance
+A rare gift similar to poisons having an effect with dangerous results.
+Your blood was tampered with through magic but you have survived, making it harder for the next attempt by your enemy.
+
 Corrosion Resistance
 Many substances can be corrosive.
 Even the strongest stone will be cut through by the right combination of chemicals.

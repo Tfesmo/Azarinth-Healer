@@ -63,11 +63,12 @@ Resistances:
 1-6  Arcane Magic Resistance
 1-13 Blast Resistance
 1-3  Blood Magic Resistance
-1-8  Corrosion Resistance
-1-7  Crystal Resistance
+1-1  Blood Manipulation Resistance
+1-10 Corrosion Resistance
+1-8  Crystal Resistance
 2-2  Curse Resistance
 1-1  Dark Magic Resistance
-1-5  Earth Resistance
+1-6  Earth Resistance
 1-5  Fear Resistance
 1-16 Health Drain Resistance
 1-20 Heat Resistance
@@ -82,4 +83,4 @@ Resistances:
 1-1  Silver Magic Resistance
 1-1  Void Magic Resistance
 1-6  Water Resistance
-1-9  Wind Resistance
+1-10 Wind Resistance
