@@ -1,6 +1,11 @@
 Elos Standard Language
 You can speak and read the Standard language of Elos.
 
+Harmony of the Drowned
+You have been submerged in liquid for longer than you should’ve survived.
+You crave to become a creature of the deep and have proven that you will go any lengths to achieve that.
+While your biology doesn’t strictly allow for gills, magic has its ways. You can stay submerged in liquid for much longer.
+
 Heavy Archery
 You have proven to be capable with a heavy bow, hitting your targets with destructive precision.
 This skill will improve upon your capabilities, making the bow just a little easier to handle, its impact just a little higher.

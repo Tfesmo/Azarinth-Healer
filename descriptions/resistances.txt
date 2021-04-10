@@ -55,6 +55,8 @@ This skill will help you endure more easily and turn the tables on your enemies.
 Heat Resistance
 Ignoring the warnings of your parents and friends, you refuse to not stand in fire. 
 This skill will help lessen the damage and pain a little.
+2nd stage: You’ve been burnt and melted again and again.
+Through extreme exposure, your skin, muscles and bones become much harder to burn and melt.
 
 Ice Resistance
 You have endured the biting cold of ice and lived to tell the tale.
