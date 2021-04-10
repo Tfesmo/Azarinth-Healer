@@ -11,10 +11,11 @@ All healing magic skills are improved by 100%
 Natural health regeneration increased by 1% per minute
 Food, water and sleep needed to sustain yourself is reduced
 
-Active: Destruction 2-20
+Active: Destruction 3-1
 Send a destructive pulse of mana into your enemy with every punch or kick.
 The stronger the physical force, the higher the damage caused.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 20 mana per strike.
+3rd stage: Due to the healing nature of Destruction it partially ignores protection against Mana intrusion.
 Category: Healing
 
 Active: Hunter Recovery 2-20
@@ -26,8 +27,8 @@ As long as mana and health remain, your Hunter Recovery will restore your body.
 Lose your head and see for yourself!
 Category: Healing
 
-Active: State of Azarinth 3-1
-Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% + .5%/lvl - 55.5%x5 = 277.5%]
+Active: State of Azarinth 3-3
+Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% + .5%/lvl - 56.5%x5 = 282.5%]
 2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
 3rd stage: You are one with State of Azarinth.
 The skill’s upkeep has been removed.
@@ -70,7 +71,7 @@ Damage inflicted with your own body and related skills is [75% + .5%/lvl - 95%x5
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x5 50%].
 Category: Body Enhancement
 
-Passive: Hunter’s Sight 2-7
+Passive: Hunter’s Sight 2-13
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings to find clues about your prey’s whereabouts.
 2nd stage: Through experience you can feel your prey’s general state of distress.
@@ -83,7 +84,7 @@ To keep up with your faster moving body a healer of Azarinth has to be able to c
 This can happen only once per hour.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal 2-15
+Passive: Azarinth Reversal 2-19
 You have learned of Destruction and Reconstruction.
 Now you will learn of their Reversal.
 Upon activation, Destruction will send a part of the struck enemy’s mana into yourself.

@@ -10,33 +10,33 @@ Body enhancement magic is improved by 200%
 All fighting styles using hand to hand combat are more refined
 Your control over ash is enhanced greatly
 
-Active: Veil of Ash 2-20
+Active: Veil of Ash 3-1
 A thin mist of ash forms around you to both protect you and attack nearby enemies. You are in full control.
-The veil increases your resilience by [60% + .5%/lvl - 80%x5 = 400.0%].
+The veil increases your resilience by [60% + .5%/lvl - 80.5%x5 = 402.5%].
 2nd stage: Your resistances also benefit from the Veil of Ash’s bonus.
 3rd stage: The density of your Veil of Ash increases, now affected by your Ash and Ember Manipulation.
 Increases the defensive capabilities of all ash and ember you control.
 Category: Body Enhancement – Ashen magic
 
-Active: Form of Ash and Ember 2-18
-Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 54%x5 = 270.0%].
+Active: Form of Ash and Ember 2-20
+Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 55%x5 = 275.0%].
 2nd stage: The longer you fight while in the Form of Ash and Ember, the deeper it roots.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
 Category: Aura – Body Enhancement
 
-Active: Ash Creation 2-17
+Active: Ash Creation 2-20
 Create ash in a certain radius around you.
 It can be used as a surge to blind or as a shroud to hide.
 2nd stage: You can control the density of the ash to an extent.
 Category: Ashen Magic
 
-Active: Embered Body Heat 1-20
+Active: Embered Body Heat 2-9
 Regulate the heat in your body to protect yourself against harsh climates or even blend in your environment.
 2nd stage: The Embers run deep.
 Your blood boils and the ash around you singes, should you will it.
 Category: Body Enhancement – Ashen Magic
 
-Active: Wave of Ember 2-12
+Active: Wave of Ember 2-19
 Burn the inside of whatever your body hits with a surge of heat and embers.
 2nd stage: The flame burns on. 
 Targets hit will have fire burning through them.
@@ -52,27 +52,27 @@ Your control increases greatly.
 The elements themselves become an extension of your body, an extension of your will, for as long as they stay in physical contact with you.
 Category: Ashen magic
 
-Passive: Ashen Wings 2-14
+Passive: Ashen Wings 2-17
 Your understanding of Ash Wielder allows you to form wings from ash and ember.
 Strike your enemies from above and close the distance to deliver your wrath.
 2nd stage: Your wings become more dense and tangible, able to help you defend and attack.
 Category: Body Enhancement – Ashen Magic
 
-Passive: Eyes of Ash 2-19
-Increases your perception by [30% + .5%/lvl - 49.5%x5 = 247.5%] when fighting without a weapon.
+Passive: Eyes of Ash 2-20
+Increases your perception by [30% + .5%/lvl - 50.0%x5 = 250.0%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
 Category: Body Enhancement – Ashen magic
 
-Passive: Body of Ash 2-16
-Increases your reflexes and speed by [30% + .5%/lvl - 48.0%x5 = 240.0%] when fighting without a weapon.
+Passive: Body of Ash 2-19
+Increases your reflexes and speed by [30% + .5%/lvl - 49.5%x5 = 247.5%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Your instincts sharpen and your ability to avoid damage to your vitals when dodging increases.
 Category: Body Enhancement – Ashen magic
 
-Passive: Ashen Warrior 2-15
+Passive: Ashen Warrior 2-20
 You are familiar with the fighting style of Ash. 
-Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 67.5%x5 = 337.5%] higher.
+Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 70.0%x5 = 350.0%] higher.
 2nd stage: Shroud your weapons in ash to produce various effects.
 Shrouded weapons deal additional damage. Affected by Ash and Ember Manipulation.
 Category: Body Enhancement
