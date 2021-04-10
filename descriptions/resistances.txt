@@ -3,11 +3,14 @@ Wielding the true arcane is a rare and powerful talent only accessible to few.
 The raw energies tear at not just flesh and bone but at the magical structure and minds of whomever faces them.
 Its red glow turns purple the more refined it is.
 This skill shall help you counter masters of the arcane.
+2nd stage: Your flow of mana has been ruptured many times by the raw form of magic, making it substantially more resistant to both adept mages and natural occurrences of the true arcane.
 
 Blast Resistance
 Explosions can be an unpredictable and chaotic thing.
 You have survived quite an impressive one to get this skill.
 It will help you negate the damage ever so slightly for the next time you chose to stand in one.
+2nd stage: Despite common sense, you just keep on doing it. Either you should start reading safety manuals or embrace that you are a true explosion elemental.
+Your organs, bones, muscles and your skin become partially shock absorbent. Please stop.
 
 Blood Magic Resistance
 The arts of blood manipulation can be deceptive and dangerous to both ally and foe.
@@ -22,6 +25,8 @@ Corrosion Resistance
 Many substances can be corrosive.
 Even the strongest stone will be cut through by the right combination of chemicals.
 You have been exposed to more corrosion than many others and with this skill your resistance to many substances will be heightened.
+2nd stage: Your insatiable need to melt and dissolve your body has changed its structure significantly.
+Your very cells have become more resistant to change and imbalance.
 
 Crystal Resistance
 Crystals aren’t just shiny decorations to old ruins and caves.
@@ -42,6 +47,7 @@ Earth Magic Resistance
 The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.
 This skill will help you negate more of its damage.
+2nd stage: Your skin and bones harden, adapting more and more to the element that threatened your life again and again.
 
 Fear Resistance
 You have overcome something truly terrifying to you.
@@ -61,6 +67,7 @@ Through extreme exposure, your skin, muscles and bones become much harder to bur
 Ice Resistance
 You have endured the biting cold of ice and lived to tell the tale.
 One of the deadliest climates and magics will now be less dangerous to you with this skill.
+2nd stage: Freezing temperatures no longer affect your body. It is not advised to jump in front of flying ice lances or to anger the spirits.
 
 Light Magic Resistance
 The power of the sun harnessed and enhanced by magic.
@@ -110,8 +117,11 @@ Water Resistance
 In your days you have learned many things.
 One of them is that water pressure is not a joke.
 This Resistance helps a little with reducing the damage.
+2nd stage: You’ve taken so much damage from water based attacks it might be good to check if you’re not actually on fire.
+Getting more used to it your body and armor magically redirects the pressure to lessen the burden on you.
 
 Wind Resistance
 The ever elusive magic of Wind can cut from any side.
 You have learned that it might’ve been a good idea to become a Void mage.
 This skill helps you resist the power of wind a little more.
+2nd stage: The mana flow inside of you has acclimated itself to the air around you, making you more aerodynamic.

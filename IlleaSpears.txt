@@ -61,19 +61,19 @@ General Skills:
 1-3  Veteran
 
 Resistances:
-1-15 Arcane Magic Resistance
-1-17 Blast Resistance
+2-1  Arcane Magic Resistance
+2-1  Blast Resistance
 1-8  Blood Magic Resistance
 1-3  Blood Manipulation Resistance
-1-18 Corrosion Resistance
+2-1  Corrosion Resistance
 1-15 Crystal Resistance
 2-2  Curse Resistance
 1-1  Dark Magic Resistance
-1-19 Earth Resistance
+2-1  Earth Resistance
 1-5  Fear Resistance
 1-17 Health Drain Resistance
 2-3  Heat Resistance
-1-18 Ice Resistance
+2-1  Ice Resistance
 1-16 Light Magic Resistance
 2-5  Lightning Resistance
 1-18 Mana Drain Resistance
@@ -83,5 +83,12 @@ Resistances:
 1-20 Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
-1-16 Water Resistance
-1-17 Wind Resistance
+2-1  Water Resistance
+2-1  Wind Resistance
+
+Non-numeric defensive buffs
+Class:
+	Your bones are three times as dense - Body of the First Hunter 2nd
+Resistance:
+	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
+	Your organs, bones, muscles and your skin become partially shock absorbent - Blast Resistance 2nd
