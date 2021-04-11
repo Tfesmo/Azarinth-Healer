@@ -31,7 +31,7 @@ Effective Health:  79,500
 Azarinth Healer
 3-4  Destruction
 3-3  Hunter Recovery
-3-6  State of Azarinth
+3-7  State of Azarinth
 3-7  Blink
 2-20 Azarinth Hunter Sphere
 2-20 Body of the First Hunter
@@ -47,7 +47,7 @@ Ash Wielder
 2-17 Embered Body Heat
 2-20 Wave of Ember
 3-3  Ash and Ember Manipulation
-2-19 Ashen Wings
+2-20 Ashen Wings
 2-20 Eyes of Ash
 2-19 Body of Ash
 2-20 Ashen Warrior
@@ -81,7 +81,7 @@ Resistances:
 2-13 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
-2-8  Poison Resistance
+2-9  Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
