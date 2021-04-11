@@ -30,7 +30,7 @@ Effective Health:  79,500
 
 Azarinth Healer
 3-3  Destruction
-3-1  Hunter Recovery
+3-2  Hunter Recovery
 3-6  State of Azarinth
 3-7  Blink
 2-20 Azarinth Hunter Sphere
@@ -81,7 +81,7 @@ Resistances:
 2-13 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
-2-3  Poison Resistance
+2-6  Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance

@@ -9,6 +9,7 @@ Chapter 37
 Chapter 42
 	- Takes poison for 25/s, comments that it's nothing compared to Reconstruction
 	- Either author error or mana limitations to explain inconsistency with Chapter 37 above
+	- EDIT: Likely that this is from the Chapter 50 stuff where body damage takes longer
 
 Chapter 47
 	- Blink @2-20 is ~10 mana per activation
@@ -21,15 +22,20 @@ Chapter  50
 	- Indicates it takes six minutes to refill mana, current calculations with Meditation should refill in less than five.  Math error somewhere.
 
 Chapter 184
-	-Recovery is at least 50 hp/sec based on poison testing.
-	-Illea notes certain injuries take longer based on her expertise.
+	- Recovery is at least 50 hp/sec based on poison testing.
+	- Illea notes certain injuries take longer based on her expertise.
 
 Chapter 231
-	-Illea sacrifices 500 health with the knowledge she can heal it back in less than 2 seconds
-	-Floor on Restoration of 250 hp/sec
+	- Illea sacrifices 500 health with the knowledge she can heal it back in less than 2 seconds
+	- Floor on Restoration of 250 hp/sec
+	- EDIT: 250 is too high, see Chapter 273 notes.  Not sure why Illea sacrificed that much when facing a dangerous blow.  Resilience boost more valuable than the health lost?
 
 Chapter 266
-	-3rd tier Restoration (@3-1, +100% healing bonus) stores ~3.1k for "nearly one and a half thousand" mana.
-	-Speculation: 1550/1476 is almost exactly 5%.
-	-This would give her 3rd tier restoration a formula of 1:1 mana:hp, plus 5% additional hp per level in the 3rd tier, then multiplied by her healing bonus.
-	-Depending on rounding and how close "nearly" means, this could go as low as 2% per additional level based on available evidence, assuming the growth is linear at all.
+	- 3rd tier Restoration (@3-1, +100% healing bonus) stores ~3.1k for "nearly one and a half thousand" mana
+	- Speculation: 1550/1476 is almost exactly 5%
+	- This would give her 3rd tier restoration a formula of 1:1 mana:hp, plus 5% additional hp per level in the 3rd tier, then multiplied by her healing bonus
+	- Depending on rounding and how close "nearly" means, this could go as low as 2% per additional level based on available evidence, assuming the growth is linear at all
+
+Chapter 273
+	- While poison testing Illea pegs her Hunter Restoration @3-2 at right around 60 hp/sec
+	- Notes that Hunter Recovery is nearly double over Restoration
