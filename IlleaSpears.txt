@@ -29,8 +29,8 @@ w/Med:   0.47% [20.5]
 Effective Health:  79,500
 
 Azarinth Healer
-3-3  Destruction
-3-2  Hunter Recovery
+3-4  Destruction
+3-3  Hunter Recovery
 3-6  State of Azarinth
 3-7  Blink
 2-20 Azarinth Hunter Sphere
@@ -41,7 +41,7 @@ Azarinth Healer
 2-19 Azarinth Reversal
 
 Ash Wielder
-3-5  Veil of Ash
+3-6  Veil of Ash
 2-20 Form of Ash Ember
 3-3  Ash Creation
 2-17 Embered Body Heat
@@ -57,7 +57,7 @@ General Skills:
 1-1  Harmony of the Drowned
 1-4  Heavy Archery
 1-7  Identify
-2-18 Meditation
+2-19 Meditation
 1-6  Veteran
 
 Resistances:
@@ -81,7 +81,7 @@ Resistances:
 2-13 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
-2-6  Poison Resistance
+2-8  Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
