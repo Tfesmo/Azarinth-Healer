@@ -79,7 +79,7 @@ Resistances:
 2-6  Lightning Resistance
 2-12 Mana Drain Resistance
 2-13 Mental Resistance
-1-7  Mist Magic Resistance
+1-8  Mist Magic Resistance
 2-4  Pain Tolerance
 2-9  Poison Resistance
 1-1  Silver Magic Resistance
