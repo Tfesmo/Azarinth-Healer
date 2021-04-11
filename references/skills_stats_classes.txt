@@ -28,3 +28,13 @@ Chapter 202
 Chapter 253
 	- Per Terok (OG mecha-dwarf)
 	- 300 is always an evolution.  Rare examples @ 111, 250.
+
+Chapter 278
+	- From Maro:
+	- Vit/Wis most important
+	- Recommends not leaving Str/Dex behind completely for Int
+	- Has skills that boost Int and End
+	- Muses on 3rd tier skill requirements
+	- Illea:
+	- Notes Int boosts all magic, auras, creation, manipulation, and mana intrusion.  Unsure how it benefits auras since those have explicit numbers?
+	- Effectively everything but raw physical damage and healing.
