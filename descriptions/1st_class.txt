@@ -18,13 +18,16 @@ The stronger the physical force, the higher the damage caused.
 3rd stage: Due to the healing nature of Destruction it partially ignores protection against Mana intrusion.
 Category: Healing
 
-Active: Hunter Recovery 2-20
+Active: Hunter Recovery 3-1
 Send a healing pulse of mana into yourself or your ally with a touch.
 This skill can be channeled.
 The effects on your own body are vastly improved.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
 As long as mana and health remain, your Hunter Recovery will restore your body.
 Lose your head and see for yourself!
+3rd stage: You have healed your body time and time again, knowing every cell and where it belongs.
+Sacrifice a large amount of mana to rush your healing to unprecedented speeds.
+Lack of knowledge about your body may result in heavy damage.
 Category: Healing
 
 Active: State of Azarinth 3-3
