@@ -28,3 +28,8 @@ Chapter 231
 	-Illea sacrifices 500 health with the knowledge she can heal it back in less than 2 seconds
 	-Floor on Restoration of 250 hp/sec
 
+Chapter 266
+	-3rd tier Restoration (@3-1, +100% healing bonus) stores ~3.1k for "nearly one and a half thousand" mana.
+	-Speculation: 1550/1476 is almost exactly 5%.
+	-This would give her 3rd tier restoration a formula of 1:1 mana:hp, plus 5% additional hp per level in the 3rd tier, then multiplied by her healing bonus.
+	-Depending on rounding and how close "nearly" means, this could go as low as 2% per additional level based on available evidence, assuming the growth is linear at all.
