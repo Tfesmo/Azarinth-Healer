@@ -41,7 +41,7 @@ Azarinth Healer
 2-19 Azarinth Reversal
 
 Ash Wielder
-3-4  Veil of Ash
+3-5  Veil of Ash
 2-20 Form of Ash Ember
 3-3  Ash Creation
 2-17 Embered Body Heat
@@ -81,7 +81,7 @@ Resistances:
 2-13 Mental Resistance
 1-7  Mist Magic Resistance
 2-4  Pain Tolerance
-2-1  Poison Resistance
+2-3  Poison Resistance
 1-1  Silver Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
