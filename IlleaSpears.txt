@@ -44,7 +44,7 @@ Ash Wielder
 3-4  Veil of Ash
 2-20 Form of Ash Ember
 3-3  Ash Creation
-2-15 Embered Body Heat
+2-17 Embered Body Heat
 2-20 Wave of Ember
 3-3  Ash and Ember Manipulation
 2-19 Ashen Wings
