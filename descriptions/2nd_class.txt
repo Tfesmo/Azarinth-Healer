@@ -11,7 +11,8 @@ All fighting styles using hand to hand combat are more refined
 Your control over ash is enhanced greatly
 
 Active: Veil of Ash 3-1
-A thin mist of ash forms around you to both protect you and attack nearby enemies. You are in full control.
+A thin mist of ash forms around you to both protect you and attack nearby enemies.
+You are in full control.
 The veil increases your resilience by [60% + .5%/lvl - 80.5%x5 = 402.5%].
 2nd stage: Your resistances also benefit from the Veil of Ash’s bonus.
 3rd stage: The density of your Veil of Ash increases, now affected by your Ash and Ember Manipulation.
@@ -28,7 +29,8 @@ Active: Ash Creation 2-20
 Create ash in a certain radius around you.
 It can be used as a surge to blind or as a shroud to hide.
 2nd stage: You can control the density of the ash to an extent.
-3rd stage: You have proven your dedication. Ash swirls to aid and destroy at your whims.
+3rd stage: You have proven your dedication.
+Ash swirls to aid and destroy at your whims.
 Category: Ashen Magic
 
 Active: Embered Body Heat 2-9
@@ -75,5 +77,6 @@ Passive: Ashen Warrior 2-20
 You are familiar with the fighting style of Ash. 
 Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 70.0%x5 = 350.0%] higher.
 2nd stage: Shroud your weapons in ash to produce various effects.
-Shrouded weapons deal additional damage. Affected by Ash and Ember Manipulation.
+Shrouded weapons deal additional damage.
+Affected by Ash and Ember Manipulation.
 Category: Body Enhancement
