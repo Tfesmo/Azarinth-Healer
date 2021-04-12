@@ -10,3 +10,13 @@ Examples:
 Assumes reduction from resilience and stats like "Your resistance to magical damage" is multiplicative.  The total on the stat page is calculated based on half physical, half magical.
 
 Ignores resistances (as they apply inconsistently), and non-numeric bonuses such as density increases.
+
+Example Calculation:
+1000 health
++300% resil (4x)
++100% magic resistance (2x)
++100% durability (2x)
+
+Physical EH: 1000x4x2 = 8000
+Magical  EH: 1000x4x2x2 = 16000
+Balanced EH: 12000

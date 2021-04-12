@@ -32,7 +32,7 @@ Lack of knowledge about your body may result in heavy damage.
 Category: Healing
 
 Active: Azarinth Awakening 3-10
-Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl - 75.0%x6 = 450.0%].
+Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl - 75.0%x7 = 525.0%].
 2nd stage: Your sight, hearing and sense of smell is also affected by Azarinth Awakening.
 3rd stage: You are one with the Azarinth.
 The skill’s upkeep has been removed.
@@ -62,17 +62,17 @@ Category: Aura – Perception Aura
 Passive: Sentinel Core 2-20
 Your body was changed by magic.
 All pain is reduced greatly.
-You body is 40% [x8 320%] more durable.
+You body is 40% [x9 360%] more durable.
 You heal even fatal injuries without help of healing magic.
-Your natural Health regeneration is improved by [100% + .5%/lvl - 120%x8 = 960%].
+Your natural Health regeneration is improved by [100% + .5%/lvl - 120%x9 = 1080%].
 2nd stage: The magic of Azarinth settles inside your body.
-Your resistance to magical damage is increased by a static 25% [x8 200%] and your bones are three times as heavy and dense.
+Your resistance to magical damage is increased by a static 25% [x9 225%] and your bones are three times as heavy and dense.
 Category: Healing – Body Enhancement
 
 Passive: Azarinth Fighting 3-5
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% + .5%/lvl - 97.5%x5 = 487.5%].
-2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x5 50%].
+Damage inflicted with your own body and related skills is [75% + .5%/lvl - 97.5%x7 = 682.5%].
+2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x7 70%].
 3rd stage: Azarinth Fighting consists of more than offense alone.
 A true Azarinth Healer knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.

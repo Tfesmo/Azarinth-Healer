@@ -1,33 +1,34 @@
 Name: Ilea Spears
 
 Class 1: 300 - The Azarinth Sentinel
-Class 2: 300 - Inheritor of Eternal Ash
+Class 2: 300 - Kin of Ash
 
-500% Body Enhancement
+600% Body Enhancement
 200% Healing
+100% Ashen
 
 Vit: 626
 End: 400
-Str: 500 [4475]
-Dex: 400 [1780]
-Int: 615 [3300]
+Str: 510 [5240.3]
+Dex: 415 [2085.4]
+Int: 620 [6370.5]
 Wis: 655
 
-Resilience: 1305.0%
-Speed+:     1095.0%
-Reflexes+:   300.0%
-Damage+:    1014.0%
+Resilience: 1927.5%
+Speed+:     1327.5%
+Reflexes+:   400.0%
+Damage+:    1183.0%
 
 Health  : 6260
 Stamina : 4000
 Mana    : 6550
 
 Regen:
-hp/sec:  0.18% [10.8]
+hp/sec:  0.20% [12.0]
 mp/sec:  0.14% [9.3]
 w/Med:   0.67% [44.0]
 
-Effective Health: 721,102.2
+Effective Health: 1,210,929.4
 
 Azarinth Healer
 3-9  Absolute Destruction
@@ -42,16 +43,16 @@ Azarinth Healer
 2-20 Azarinth Reversal
 
 Ash Wielder
-3-10 Veil of Ash
-3-5  Form of Ash Ember
-3-7  Ash Creation
-2-20 Embered Body Heat
-2-20 Wave of Ember
-3-5  Ash and Ember Manipulation
+3-10 Armor of Ash
+3-5  Aspect of Ash
+3-7  True Ash Creation
+2-20 Heart of Cinder
+2-20 Storm of Cinders
+3-5  Ash and Ember Unity
 2-20 Ashen Wings
 2-20 Eyes of Ash
-2-20 Body of Ash
-3-3  Ashen Warrior
+2-20 Avatar of Ash
+3-3  Keeper of Ash
 
 General Skills:
 1-6  Elos Standard language
@@ -91,9 +92,14 @@ Resistances:
 2-1  Wind Resistance
 1-1  Wood Magic Resistance
 
+12x1st tier
+16x2nd tier
+
 Non-numeric defensive buffs
 Class:
-	Your bones are three times as heavy and dense - Body of the First Hunter 2nd
+	Your bones are three times as heavy and dense - Sentinel Core 2nd
+	Muscles are (160% + 60% = 220%) more dense - Avatar of Ash 2nd
+	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
 	Your organs, bones, muscles and your skin become partially shock absorbent - Blast Resistance 2nd
