@@ -19,10 +19,12 @@ The veil increases your resilience by [60% + .5%/lvl - 80.5%x5 = 402.5%].
 Increases the defensive capabilities of all ash and ember you control.
 Category: Body Enhancement – Ashen magic
 
-Active: Form of Ash and Ember 2-20
+Active: Form of Ash and Ember 3-1
 Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 55%x5 = 275.0%].
 2nd stage: The longer you fight while in the Form of Ash and Ember, the deeper it roots.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
+3rd stage: Familiarity with the skill removes its upkeep.
+When reaching the maximum second tier bonus you may reset it by amplifying your next attack with ash and ember.
 Category: Aura – Body Enhancement
 
 Active: Ash Creation 2-20
