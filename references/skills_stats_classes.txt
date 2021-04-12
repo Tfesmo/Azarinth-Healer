@@ -38,3 +38,9 @@ Chapter 278
 	- Illea:
 	- Notes Int boosts all magic, auras, creation, manipulation, and mana intrusion.  Unsure how it benefits auras since those have explicit numbers?
 	- Effectively everything but raw physical damage and healing.
+
+Chapter 284
+	- On Vitality/health and the effect on damage:
+	"While the Taleen metal wasn’t anything special according to the smiths she had met, she still didn’t manage to majorly dent it with each punch.
+	Perhaps it was the way they forged it or something related to the machine itself.
+	If her own body and ash was anything to go by then perhaps the metal was considered their body and only once their Vitality reached a certain threshold, it would get majorly damaged."
