@@ -7,28 +7,28 @@ Class 2: 300 - Kin of Ash
 200% Healing
 100% Ashen
 
-Vit: 626
+Vit: 686
 End: 400
 Str: 510 [5240.3]
 Dex: 415 [2085.4]
 Int: 620 [6370.5]
-Wis: 655
+Wis: 705
 
 Resilience: 1927.5%
 Speed+:     1327.5%
 Reflexes+:   400.0%
 Damage+:    1183.0%
 
-Health  : 6260
+Health  : 6860
 Stamina : 4000
-Mana    : 6550
+Mana    : 7050
 
 Regen:
-hp/sec:  0.20% [12.0]
-mp/sec:  0.14% [9.3]
-w/Med:   0.67% [44.0]
+hp/sec:  0.20% [13.5]
+mp/sec:  0.15% [10.6]
+w/Med:   0.71% [50.4]
 
-Effective Health: 1,210,929.4
+Effective Health: 1,359,570.5
 
 Azarinth Healer
 3-9  Absolute Destruction
