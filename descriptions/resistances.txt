@@ -98,6 +98,7 @@ Mist Magic Resistance
 Mist magic is a rare talent, found in students of the arcane adept in both wind and water magic.
 It is an elusive power, difficult to wield yet ultimately destructive and impossible to avoid.
 You have faced it and lived. This skill will help you do so again.
+2nd stage: Through increasing exposure you have learned to stop the elusive mist from passing through you.
 
 Pain Tolerance
 Being a bit of a masochist, you have learned to ignore some of the pain.
