@@ -94,14 +94,14 @@ Resistances:
 2-1  Wind Resistance
 1-1  Wood Magic Resistance
 
-12x1st tier
+13x1st tier
 16x2nd tier
 
 Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (160% + 60% = 220%) more dense - Avatar of Ash 2nd
+	Muscles are (160% + 65% = 225%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
