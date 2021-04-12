@@ -39,3 +39,7 @@ Chapter 266
 Chapter 273
 	- While poison testing Illea pegs her Hunter Restoration @3-2 at right around 60 hp/sec
 	- Notes that Hunter Recovery is nearly double over Restoration
+
+Chapter 302
+	- Illea notes that going from +100% to +200% Healing Magic bonus doubles her healing (to 150/sec).
+	- Should be a 50% increase (3/2).  Math error?  She was at 60/sec in previous note, so could also be from the evolution as skill changed.
