@@ -29,22 +29,22 @@ w/Med:   0.47% [20.5]
 Effective Health:  79,500
 
 Azarinth Healer
-3-4  Destruction
-3-3  Hunter Recovery
-3-8  State of Azarinth
+3-5  Destruction
+3-6  Hunter Recovery
+3-9  State of Azarinth
 3-8  Blink
 2-20 Azarinth Hunter Sphere
 2-20 Body of the First Hunter
 2-20 Azarinth Fighting
-2-17 Hunter's Sight
+2-19 Hunter's Sight
 2-20 Azarinth Perception
 2-19 Azarinth Reversal
 
 Ash Wielder
+3-2  Form of Ash Ember
 3-7  Veil of Ash
-3-1  Form of Ash Ember
-3-3  Ash Creation
-2-17 Embered Body Heat
+3-4  Ash Creation
+2-18 Embered Body Heat
 2-20 Wave of Ember
 3-3  Ash and Ember Manipulation
 2-20 Ashen Wings
@@ -62,7 +62,7 @@ General Skills:
 
 Resistances:
 2-2  Arcane Magic Resistance
-2-2  Blast Resistance
+2-3  Blast Resistance
 1-8  Blood Magic Resistance
 1-4  Blood Manipulation Resistance
 2-1  Corrosion Resistance
@@ -72,14 +72,14 @@ Resistances:
 1-1  Dust Magic Resistance
 2-1  Earth Resistance
 1-5  Fear Resistance
-2-14 Health Drain Resistance
+2-16 Health Drain Resistance
 2-3  Heat Resistance
 2-1  Ice Resistance
 1-16 Light Magic Resistance
 2-6  Lightning Resistance
-2-12 Mana Drain Resistance
+2-14 Mana Drain Resistance
 2-13 Mental Resistance
-1-8  Mist Magic Resistance
+1-17 Mist Magic Resistance
 2-4  Pain Tolerance
 2-9  Poison Resistance
 1-1  Silver Magic Resistance
