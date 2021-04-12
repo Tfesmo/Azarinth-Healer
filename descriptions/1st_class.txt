@@ -93,11 +93,14 @@ To keep up with your faster moving body a healer of Azarinth has to be able to c
 This can happen only once per hour.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal 2-20
-You have learned of Destruction and Reconstruction.
+Passive: Azarinth Reversal 3-1
+You have learned of Absolute Destruction and Sentinel Reconstruction.
 Now you will learn of their Reversal.
-Upon activation, Destruction will send a part of the struck enemy’s mana into yourself.
-No mana will be released on impact, rendering Destruction’s offensive potential to zero.
-Upon activation, Reconstruction will send a destructive force of channeled mana into yourself or an enemy you touch, the healing aspects are reduced to zero.
-2nd stage: You may have both aspects activated at the same time.
+Upon activation, Absolute Destruction will send a part of the struck enemy’s mana into yourself.
+No mana will be released on impact, rendering Absolute Destruction’s offensive potential to zero.
+Upon activation, Sentinel Reconstruction will send a destructive force of channeled mana into yourself or an enemy you touch, the healing aspects are reduced to zero.
+2nd stage: You may have both the original and reversed aspects activated at the same time.
+3rd stage: Healing, power, resilience and speed.
+An Azarinth Healer requires balance.
+Your respective Destruction and Reconstruction spells have their potency increased by a static 25% of your lowest stat. [100%]
 Category: Body Enhancement

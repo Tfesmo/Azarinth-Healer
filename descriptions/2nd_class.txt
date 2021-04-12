@@ -42,11 +42,12 @@ Increase the heat in your body and release it in a blast around you.
 The heat you may reach is only limited by your very life.
 Category: Body Enhancement – Ashen Magic
 
-Active: Storm of Cinders 2-20
+Active: Storm of Cinders 3-1
 Burn the inside of whatever your body hits with a surge of heat and embers or release the attack in a burst of fire and cinders.
 2nd stage: The flame burns on.
 Targets hit will have fire burning through or on them.
 Time and consecutive attacks will increase the effect.
+3rd stage: Storm of Cinders burns away all that stands against it, damaging mana intrusion capabilities of defensive enchantments, natural- as well as manufactured armor.
 Category: Ashen magic
 
 Passive: Ash and Ember Unity 3-5
