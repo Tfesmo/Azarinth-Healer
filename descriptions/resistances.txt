@@ -108,6 +108,11 @@ It is an elusive power, difficult to wield yet ultimately destructive and imposs
 You have faced it and lived. This skill will help you do so again.
 2nd stage: Through increasing exposure you have learned to stop the elusive mist from passing through you.
 
+Obsidian Magic Resistance
+A rare form of steel manipulation requiring a strong mind and an abundance of Obsidian.
+Like many obscure schools of magic, its powers are varied and flexible, molded by their masters.
+Your body has suffered heavy damage from such magic, making it a little more resistant.
+
 Pain Tolerance
 Being a bit of a masochist, you have learned to ignore some of the pain.
 No, only physical pain.
