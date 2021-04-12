@@ -1,43 +1,43 @@
 Name: Ilea Spears
 
-Class 1: 300 - Azarinth First Hunter
+Class 1: 300 - The Azarinth Sentinel
 Class 2: 300 - Inheritor of Eternal Ash
 
-400% Body Enhancement
-100% Healing
+500% Body Enhancement
+200% Healing
 
-Vit: 611
+Vit: 626
 End: 400
 Str: 500 [3437.5]
 Dex: 400 [1550]
-Int: 600
-Wis: 650
+Int: 615
+Wis: 655
 
-Resilience: 1012.5%
-Speed+:      837.5%
-Reflexes+:   250.0%
-Damage+:     845.0%
+Resilience: 1305.0%
+Speed+:     1095.0%
+Reflexes+:   300.0%
+Damage+:    1014.0%
 
-Health  : 6110
+Health  : 6260
 Stamina : 4000
-Mana    : 6500
+Mana    : 6550
 
 Regen:
-hp/sec:  0.04% [2.4]
-mp/sec:  0.14% [9.2]
-w/Med:   0.67% [43.3]
+hp/sec:  0.18% [10.8]
+mp/sec:  0.14% [9.3]
+w/Med:   0.67% [44.0]
 
-Effective Health:  84,967.2
+Effective Health: 721,102.2
 
 Azarinth Healer
-3-9  Destruction
-3-12 Hunter Recovery
-3-10 State of Azarinth
+3-9  Absolute Destruction
+3-12 Sentinel Reconstruction
+3-10 Azarinth Awakening
 3-10 Blink
-2-20 Azarinth Hunter Sphere
-2-20 Body of the First Hunter
+2-20 Sentinel Sphere
+2-20 Sentinel Core
 3-5  Azarinth Fighting
-2-20 Hunter's Sight
+2-20 Sentinel Huntress
 2-20 Azarinth Perception
 2-20 Azarinth Reversal
 
@@ -93,7 +93,7 @@ Resistances:
 
 Non-numeric defensive buffs
 Class:
-	Your bones are three times as dense - Body of the First Hunter 2nd
+	Your bones are three times as heavy and dense - Body of the First Hunter 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
 	Your organs, bones, muscles and your skin become partially shock absorbent - Blast Resistance 2nd

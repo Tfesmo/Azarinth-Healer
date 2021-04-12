@@ -1,39 +1,40 @@
-Azarinth First Hunter
+The Azarinth Sentinel
 
-Vitality +15
-Strength + 15
-Dexterity + 15
-Intelligence +15
-Wisdom +15
+Vitality +30
+Strength +15
+Dexterity +15
+Intelligence +30
+Wisdom +20
 
-Body enhancement magic is improved by 200%
-All healing magic skills are improved by 100%
-Natural health regeneration increased by 1% per minute
-Food, water and sleep needed to sustain yourself is reduced
+Body enhancement magic is improved by 300%
+All healing magic skills are improved by 200%
+Natural health regeneration is increased by 1% per minute
+Food, water and sleep needed to sustain yourself are reduced
 
-Active: Destruction 3-9
+Active: Absolute Destruction 3-9
 Send a destructive pulse of mana into your enemy with every punch or kick.
-The stronger the physical force, the higher the damage caused.
-2nd stage: The amount of mana used per strike can be regulated with a maximum of 20 mana per strike.
+Your Intelligence stat enhances the damage potential.
+2nd stage: The amount of mana used per strike can be regulated with a maximum of 100 mana per strike.
+You may charge each strike whilst unmoving with 100 mana per second to a maximum of 3000 mana.
 3rd stage: Due to the healing nature of Destruction it partially ignores protection against Mana intrusion.
 Category: Healing
 
-Active: Hunter Recovery 3-12
+Active: Sentinel Reconstruction 3-12
 Send a healing pulse of mana into yourself or your ally with a touch.
 This skill can be channeled.
-The effects on your own body are vastly improved.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
-As long as mana and health remain, your Hunter Recovery will restore your body.
+As long as mana and health remains, your Sentinel Reconstruction will restore your body.
 Lose your head and see for yourself!
+Health loss and critical blows are recalculated due to the nature of your healing.
 3rd stage: You have healed your body time and time again, knowing every cell and where it belongs.
 Sacrifice a large amount of mana to rush your healing to unprecedented speeds.
 Lack of knowledge about your body may result in heavy damage.
 Category: Healing
 
-Active: State of Azarinth 3-10
-Your body glows with the power of Azarinth, increasing your resilience, speed and strength by [35% + .5%/lvl - 60.0%x5 = 300.0%]
-2nd stage: Your sight, hearing and sense of smell is also affected by State of Azarinth.
-3rd stage: You are one with State of Azarinth.
+Active: Azarinth Awakening 3-10
+Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl - 75.0%x6 = 450.0%].
+2nd stage: Your sight, hearing and sense of smell is also affected by Azarinth Awakening.
+3rd stage: You are one with the Azarinth.
 The skill’s upkeep has been removed.
 Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
@@ -50,23 +51,23 @@ You may travel to said destination once every three days.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 
-Active: Azarinth Hunter Sphere 2-20
+Active: Sentinel Sphere 2-20
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
-2nd stage: The Sphere influences the senses of smell, hearing, touch and taste as you will it.
-Additionally you gain a vague idea of traps and hidden paths inside the sphere.
+2nd stage: The Sentinel Sphere opens your senses to the arcane, a paramount skill both on and off the battlefield.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ raidus @ 2-19, ch71
 
-Passive: Body of the First Hunter 2-20
+Passive: Sentinel Core 2-20
 Your body was changed by magic.
-All pain is reduced by 25% [x2 50%].
+All pain is reduced greatly.
+You body is 40% [x8 320%] more durable.
 You heal even fatal injuries without help of healing magic.
-Your natural regeneration is improved by [50% + .5%/lvl - 70%x2 = 140%].
+Your natural Health regeneration is improved by [100% + .5%/lvl - 120%x8 = 960%].
 2nd stage: The magic of Azarinth settles inside your body.
-Your resistance to magical damage is increased by a static 25% [x2 50%] and your bones are three times as dense.
-Category: Healing
+Your resistance to magical damage is increased by a static 25% [x8 200%] and your bones are three times as heavy and dense.
+Category: Healing – Body Enhancement
 
 Passive: Azarinth Fighting 3-5
 You are familiar with the fighting style of Azarinth.
@@ -77,10 +78,12 @@ A true Azarinth Healer knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.
 Category: Body Enhancement
 
-Passive: Hunter’s Sight 2-20
+Passive: Sentinel Huntress 2-20
+Huntress turned Sentinel.
 Your eyes are unmatched and so is your nose.
-Perceive the smallest irregularities in your surroundings to find clues about your prey’s whereabouts.
-2nd stage: Through experience you can feel your prey’s general state of distress.
+Perceive the smallest irregularities in your surroundings as well as the ambient mana to find clues about your target’s whereabouts.
+2nd stage: You gain a sense for the distress in the people around you.
+Amplify this by sacrificing mana.
 Category: Body Enhancement
 
 Passive: Azarinth Perception 20-20

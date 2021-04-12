@@ -10,17 +10,17 @@ Body enhancement magic is improved by 200%
 All fighting styles using hand to hand combat are more refined
 Your control over ash is enhanced greatly
 
-Active: Veil of Ash 3-9
+Active: Veil of Ash 3-10
 A thin mist of ash forms around you to both protect you and attack nearby enemies.
 You are in full control.
-The veil increases your resilience by [60% + .5%/lvl - 84.5%x5 = 422.5%].
+The veil increases your resilience by [60% + .5%/lvl - 85.0%x6 = 510%].
 2nd stage: Your resistances also benefit from the Veil of Ash’s bonus.
 3rd stage: The density of your Veil of Ash increases, now affected by your Ash and Ember Manipulation.
 Increases the defensive capabilities of all ash and ember you control.
 Category: Body Enhancement – Ashen magic
 
 Active: Form of Ash and Ember 3-5
-Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 57.5%x5 = 287.5%].
+Ember glows within you raising your resilience, speed, strength and dexterity by [35% + .5%/lvl - 57.5%x6 = 345.0%].
 2nd stage: The longer you fight while in the Form of Ash and Ember, the deeper it roots.
 Each minute of fighting adds 15% to the bonuses with a maximum of 150%.
 3rd stage: Familiarity with the skill removes its upkeep.
@@ -64,20 +64,20 @@ Strike your enemies from above and close the distance to deliver your wrath.
 Category: Body Enhancement – Ashen Magic
 
 Passive: Eyes of Ash 2-20
-Increases your perception by [30% + .5%/lvl - 50.0%x5 = 250.0%] when fighting without a weapon.
+Increases your perception by [30% + .5%/lvl - 50.0%x6 = 300.0%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
 Category: Body Enhancement – Ashen magic
 
 Passive: Body of Ash 2-20
-Increases your reflexes and speed by [30% + .5%/lvl - 50.0%x5 = 250.0%] when fighting without a weapon.
+Increases your reflexes and speed by [30% + .5%/lvl - 50.0%x6 = 300.0%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Your instincts sharpen and your ability to avoid damage to your vitals when dodging increases.
 Category: Body Enhancement – Ashen magic
 
 Passive: Ashen Warrior 3-3
 You are familiar with the fighting style of Ash. 
-Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 71.5%x5 = 357.5%] higher.
+Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 71.5%x6 = 429.0%] higher.
 2nd stage: Shroud your weapons in ash to produce various effects.
 Shrouded weapons deal additional damage.
 Affected by Ash and Ember Manipulation.
