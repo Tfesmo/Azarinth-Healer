@@ -31,20 +31,20 @@ w/Med:   0.71% [50.4]
 Effective Health: 1,359,570.5
 
 Azarinth Healer
-3-9  Absolute Destruction
+3-10 Absolute Destruction
 3-12 Sentinel Reconstruction
 3-10 Azarinth Awakening
 3-10 Blink
 2-20 Sentinel Sphere
 2-20 Sentinel Core
-3-5  Azarinth Fighting
+3-6  Azarinth Fighting
 2-20 Sentinel Huntress
 2-20 Azarinth Perception
 2-20 Azarinth Reversal
 
 Ash Wielder
 3-10 Armor of Ash
-3-5  Aspect of Ash
+3-6  Aspect of Ash
 3-7  True Ash Creation
 2-20 Heart of Cinder
 2-20 Storm of Cinders
@@ -95,7 +95,7 @@ Resistances:
 12x1st tier
 16x2nd tier
 
-Non-numeric defensive buffs
+Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
