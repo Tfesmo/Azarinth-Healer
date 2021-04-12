@@ -61,6 +61,10 @@ Fear Resistance
 You have overcome something truly terrifying to you.
 Your ability to deal with non magical fear is increased.
 
+Gravity Magic Resistance
+A force of nature, bound and warped my magic itself.
+Perhaps not noticing the damage dealt to your body, you have developed a way to resist this magic.
+
 Health Drain Resistance
 Some creatures have the ability to drain your health.
 You have been subjected to such a spell and have endured.

@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 300 - The Azarinth Sentinel
-Class 2: 300 - Kin of Ash
+Class 1: 302 - The Azarinth Sentinel
+Class 2: 301 - Kin of Ash
 
 600% Body Enhancement
 200% Healing
@@ -29,15 +29,16 @@ mp/sec:  0.15% [10.6]
 w/Med:   0.71% [50.4]
 
 Effective Health: 1,359,570.5
+Additive EH:        171,500.0
 
 Azarinth Healer
-3-10 Absolute Destruction
+3-11 Absolute Destruction
 3-12 Sentinel Reconstruction
-3-10 Azarinth Awakening
+3-11 Azarinth Awakening
 3-10 Blink
 2-20 Sentinel Sphere
 2-20 Sentinel Core
-3-6  Azarinth Fighting
+3-8  Azarinth Fighting
 2-20 Sentinel Huntress
 2-20 Azarinth Perception
 3-1  Azarinth Reversal
@@ -47,12 +48,12 @@ Ash Wielder
 3-6  Aspect of Ash
 3-7  True Ash Creation
 2-20 Heart of Cinder
-3-1  Storm of Cinders
-3-5  Ash and Ember Unity
+3-2  Storm of Cinders
+3-6  Ash and Ember Unity
 2-20 Ashen Wings
 2-20 Eyes of Ash
 2-20 Avatar of Ash
-3-3  Keeper of Ash
+3-4  Keeper of Ash
 
 General Skills:
 1-6  Elos Standard language
@@ -64,7 +65,7 @@ General Skills:
 
 Resistances:
 2-3  Arcane Magic Resistance
-2-4  Blast Resistance
+2-5  Blast Resistance
 1-14 Blood Magic Resistance
 1-4  Blood Manipulation Resistance
 2-1  Corrosion Resistance
@@ -75,6 +76,7 @@ Resistances:
 1-1  Dust Magic Resistance
 2-1  Earth Resistance
 1-9  Fear Resistance
+1-2  Gravity Magic Resistance
 2-20 Health Drain Resistance
 2-12 Heat Resistance
 2-2  Ice Resistance
@@ -86,7 +88,7 @@ Resistances:
 2-4  Pain Tolerance
 2-9  Poison Resistance
 1-1  Silver Magic Resistance
-1-3  Time Magic Resistance
+1-4  Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
 2-1  Wind Resistance
