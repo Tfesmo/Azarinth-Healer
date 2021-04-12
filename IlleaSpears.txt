@@ -31,8 +31,8 @@ Effective Health:  79,500
 Azarinth Healer
 3-4  Destruction
 3-3  Hunter Recovery
-3-7  State of Azarinth
-3-7  Blink
+3-8  State of Azarinth
+3-8  Blink
 2-20 Azarinth Hunter Sphere
 2-20 Body of the First Hunter
 2-20 Azarinth Fighting
@@ -41,7 +41,7 @@ Azarinth Healer
 2-19 Azarinth Reversal
 
 Ash Wielder
-3-6  Veil of Ash
+3-7  Veil of Ash
 2-20 Form of Ash Ember
 3-3  Ash Creation
 2-17 Embered Body Heat
@@ -62,7 +62,7 @@ General Skills:
 
 Resistances:
 2-2  Arcane Magic Resistance
-2-1  Blast Resistance
+2-2  Blast Resistance
 1-8  Blood Magic Resistance
 1-4  Blood Manipulation Resistance
 2-1  Corrosion Resistance
