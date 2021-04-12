@@ -43,6 +43,10 @@ You have stood against a being of true darkness.
 Its magic was not able to pierce your defenses and you stand to tell the tale.
 This skill will help you repeat such actions.
 
+Death Magic Resistance
+Common in the deepest and most depraved parts of the world, the magic of death itself seeks nothing but to destroy, to rot and kill.
+It is difficult to survive but to someone like you, what is death but another challenge?
+
 Dust Magic Resistance
 Dangerous and elusive magic answering to few who seek its complexity, understand its beauty.
 You have faced a mage of dust and lived, preparing you for the next confrontation, should it come to pass.
@@ -118,6 +122,10 @@ Silver Magic Resistance
 A rare magic to be sure and just as deadly.
 Not quite corrosion or poison, silver magic can be devious, its effects complex.
 You have survived and are one of few who have been exposed and lived.
+
+Time Magic Resistance
+The intricacies of time magic are difficult to grasp, its secrets hidden forever to most who attempt the plunge.
+A rare few have managed to bend the elusive force to their will, making it a dangerous tool both for themselves and for their enemies.
 
 Void Magic Resistance
 The mystical magic usually used to enchant high level items applied as a form of combat magic.

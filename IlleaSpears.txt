@@ -63,19 +63,20 @@ General Skills:
 Resistances:
 2-3  Arcane Magic Resistance
 2-4  Blast Resistance
-1-8  Blood Magic Resistance
+1-14 Blood Magic Resistance
 1-4  Blood Manipulation Resistance
 2-1  Corrosion Resistance
-1-15 Crystal Resistance
+1-18 Crystal Resistance
 2-2  Curse Resistance
-1-1  Dark Magic Resistance
+1-12 Dark Magic Resistance
+1-5  Death Magic Resistance
 1-1  Dust Magic Resistance
 2-1  Earth Resistance
 1-5  Fear Resistance
 2-18 Health Drain Resistance
 2-6  Heat Resistance
-2-1  Ice Resistance
-1-16 Light Magic Resistance
+2-2  Ice Resistance
+1-17 Light Magic Resistance
 2-6  Lightning Resistance
 2-17 Mana Drain Resistance
 2-13 Mental Resistance
@@ -83,6 +84,7 @@ Resistances:
 2-4  Pain Tolerance
 2-9  Poison Resistance
 1-1  Silver Magic Resistance
+1-3  Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
 2-1  Wind Resistance
