@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 294 - Azarinth First Hunter
-Class 2: 293 - Inheritor of Eternal Ash
+Class 1: 299 - Azarinth First Hunter
+Class 2: 299 - Inheritor of Eternal Ash
 
 Stats:
 
@@ -32,7 +32,7 @@ Azarinth Healer
 3-9  Destruction
 3-12 Hunter Recovery
 3-10 State of Azarinth
-3-9  Blink
+3-10 Blink
 2-20 Azarinth Hunter Sphere
 2-20 Body of the First Hunter
 3-4  Azarinth Fighting
@@ -42,8 +42,8 @@ Azarinth Healer
 
 Ash Wielder
 3-10 Veil of Ash
-3-4  Form of Ash Ember
-3-6  Ash Creation
+3-5  Form of Ash Ember
+3-7  Ash Creation
 2-20 Embered Body Heat
 2-20 Wave of Ember
 3-4  Ash and Ember Manipulation
