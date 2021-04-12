@@ -127,6 +127,11 @@ A rare magic to be sure and just as deadly.
 Not quite corrosion or poison, silver magic can be devious, its effects complex.
 You have survived and are one of few who have been exposed and lived.
 
+Stamina Drain Resistance
+The more rarely used drain magic focused on Stamina.
+It’s effects are not as immediately noticeable as Health or Mana drain skills but the end result is just as devastating.
+You have learned to resist such spells to an extent.
+
 Time Magic Resistance
 The intricacies of time magic are difficult to grasp, its secrets hidden forever to most who attempt the plunge.
 A rare few have managed to bend the elusive force to their will, making it a dangerous tool both for themselves and for their enemies.

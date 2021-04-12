@@ -66,12 +66,12 @@ General Skills:
 Resistances:
 2-3  Arcane Magic Resistance
 2-5  Blast Resistance
-1-14 Blood Magic Resistance
+1-15 Blood Magic Resistance
 1-4  Blood Manipulation Resistance
 2-1  Corrosion Resistance
 1-18 Crystal Resistance
 2-2  Curse Resistance
-1-12 Dark Magic Resistance
+1-13 Dark Magic Resistance
 1-12 Death Magic Resistance
 1-1  Dust Magic Resistance
 2-1  Earth Resistance
@@ -88,20 +88,21 @@ Resistances:
 2-4  Pain Tolerance
 2-9  Poison Resistance
 1-1  Silver Magic Resistance
+1-1  Stamina Drain Resistance
 1-4  Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
 2-1  Wind Resistance
 1-1  Wood Magic Resistance
 
-13x1st tier
+14x1st tier
 16x2nd tier
 
 Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (160% + 65% = 225%) more dense - Avatar of Ash 2nd
+	Muscles are (160% + 70% = 230%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
