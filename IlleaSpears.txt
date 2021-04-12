@@ -8,9 +8,9 @@ Class 2: 300 - Inheritor of Eternal Ash
 
 Vit: 626
 End: 400
-Str: 500 [3437.5]
-Dex: 400 [1550]
-Int: 615
+Str: 500 [4475]
+Dex: 400 [1780]
+Int: 615 [3300]
 Wis: 655
 
 Resilience: 1305.0%
