@@ -11,7 +11,7 @@ All healing magic skills are improved by 100%
 Natural health regeneration increased by 1% per minute
 Food, water and sleep needed to sustain yourself is reduced
 
-Active: Destruction 3-8
+Active: Destruction 3-9
 Send a destructive pulse of mana into your enemy with every punch or kick.
 The stronger the physical force, the higher the damage caused.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 20 mana per strike.
@@ -39,7 +39,7 @@ Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
 Category: Aura – Body Enhancement
 
-Active: Blink 3-9
+Active: Blink 3-10
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
@@ -68,9 +68,9 @@ Your natural regeneration is improved by [50% + .5%/lvl - 70%x2 = 140%].
 Your resistance to magical damage is increased by a static 25% [x2 50%] and your bones are three times as dense.
 Category: Healing
 
-Passive: Azarinth Fighting 3-3
+Passive: Azarinth Fighting 3-5
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% + .5%/lvl - 96.5%x5 482.5%].
+Damage inflicted with your own body and related skills is [75% + .5%/lvl - 97.5%x5 = 487.5%].
 2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x5 50%].
 3rd stage: Azarinth Fighting consists of more than offense alone.
 A true Azarinth Healer knows when to stand and let an enemy strike.

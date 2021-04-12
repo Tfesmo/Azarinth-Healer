@@ -83,3 +83,37 @@ As the great father of Kroiin has foretold his sons and daughters will bring dea
 Has fifteen or more Resistance skills, three or more of which in the 2nd stage. Has the Ash Wielder class at lvl 200.’
 ‘The Inheritor of Eternal Ash has chosen to shroud herself in the powerful and eternal ash. Many have tried to end her and just as many have failed. 
 She marches onwards, stronger and calmer but the Ember deep down burns hotter than ever, waiting to break out of its protective shell.’
+
+300:
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Azarinth Elder. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+You have pushed yourself to the pinnacle of humanity and thus deserve to carry the name of Elder. Leveled at least five Azarinth skills to the end of the second tier. Carries the skill Meditation at the end of the second tier. Has an Azarinth class at level 300 or higher.
+The Elders of the Azarinth Order pave the way to the future. Conquest and expansion are theirs to plan and execute. They have the power to rebuild what was lost. Known to be strategic minds, an elder leading a group of Azarinth Healers might very well be unstoppable.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Beast of Azarinth. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+Your blood lust permeates all. Leveled at least eight Azarinth skills to the end of the second tier. Destruction and Azarinth Fighting in the third tier. Has killed at least 1000 higher leveled beings. Has sustained 1000 heavy injuries. Has an Azarinth class at level 300.
+Far from the path of the once powerful healing order, they have chosen to seek their own power and the destruction of life itself. Fueled by hatred and blood the Beast of Azarinth marches on, unable to find or bring peace. Forbidden magic of Death corrupts the power once destined to heal and mend.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Azarinth Pioneer. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+Adventure is your second name. Leveled ten Azarinth skills to the end of the second tier. Has traveled where no human dares to go, has survived natural dangers capable of decimating armies. Founded a settlement or discovered a lost city. Has an Azarinth class at level 300.
+The Pioneer has chosen their own path, discovering the forgotten and perfecting their skills and powers. Be it erupting volcanoes, the waves of the ocean or blizzards cold enough to freeze their very blood, nothing will stop their want for adventure. Powerful regeneration and constitution come with their mantle.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Azarinth Destroyer. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+You have no equal in battle. Leveled ten Azarinth skills to the end of the second tier. Has Destruction, State of Azarinth and Azarinth Fighting in the third tier. Has killed an enemy above level 500. You have fought hordes of enemies above your own level and prevailed. Has the Azarinth First Hunter class at level 300.
+The Destroyer is a rare sight to behold. A master of Azarinth Magic, each strike powerful and with intent. They move over the battlefield with grace, leaving nothing behind. The true power of the Azarinth Order or anybody they would choose to join. Their Strength is second to none, cracking even steel with their fists.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes The Azarinth Wayfarer. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+The unfathomable. Leveled ten Azarinth skills to the end of the second tier. Has Blink and State of Azarinth in the third tier. Has killed an enemy above level 600. Has traveled to another realm and returned. Has the Veteran skill at level 5 or higher. Speaks two languages. Has the Azarinth First Hunter class at level 300.
+The Azarinth Wayfarer has grasped the impossible nature of magic, has crossed the boundaries between realms. True understanding will follow those unwilling to accept the status quo. They are a master of their surroundings, of space itself.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Azarinth Regenerator. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+More monster than man. Leveled eight Azarinth skills to the end of the second tier. Has Hunter Recovery and State of Azarinth in the third tier. Has killed ten enemies above level 500. Has ten Resistance skills at level 5 or higher. Has Pain Tolerance in the second tier. Has lost either head or all limbs in battle before recovering. Has the Azarinth First Hunter class at level 300.
+The Azarinth Regenerator fears no enemy. Be it ice or fire, they stand against it unmoving. Bearers of the pain they have suffered, unwilling to accept defeat. Virtually unkillable they are prepared to face whatever may move into their path, their bodies mere weapons, tools to be used.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes Avenger of Azarinth. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+A hunter unmatched. Leveled ten Azarinth skills to the end of the second tier. Has Destruction, Azarinth Fighting and State of Azarinth in the third tier. Has killed ten enemies at full power above level 400 while alone. Has five General skills in the second tier. Has participated in acts of revenge, found and killed those responsible. Has lost limbs in the midst of battle and continued the fight. Has the Azarinth First Hunter class at level 300.
+An avenger stopping at nothing to bring justice to those deserving. Judge and executioner, powerful and deadly enough to hunt down any target they deem unworthy. Unstoppable and fueled by the magic of Azarinth, healing any injury that might delay them, their bodies mere arbiters of revenge.
+
+‘ding’ ‘Requirements met for class evolution: Azarinth First Hunter becomes The Azarinth Sentinel. No current skills or stats will be lost, be aware that other evolutions and skills may become unavailable -
+Life and Death. Leveled ten Azarinth skills to the end of the second tier. Has Destruction, Hunter Recovery, Azarinth Fighting and State of Azarinth in the third tier. Has killed ten enemies at full power above level 500 while alone. On their own, has faced hordes of enemies above their own level and prevailed. Has fifteen or more Resistance skills in the second tier, two or more at the highest level. Has helped and healed strangers of various races, unasked for or even meeting hostility. Risked their life for others on multiple occasions. Has the Azarinth First Hunter class at level 300.
+The Azarinth Sentinel has reached the pinnacle of Azarinth magic, mastering its style while not forgetting their roots. A healer at heart they seek to mend the wounds of those they deem close and strangers alike. True veterans of battle they have chosen a path most peculiar. Savior to one and Destroyer to another. Their bodies forged into weapons, their mana overpowering all. A force of their own, to decide on the fate of beings.
+
