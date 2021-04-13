@@ -59,7 +59,7 @@ General Skills:
 1-6  Elos Standard language
 1-1  Harmony of the Drowned
 1-4  Heavy Archery
-1-8  Identify
+1-9  Identify
 2-20 Meditation
 1-6  Veteran
 
@@ -81,7 +81,7 @@ Resistances:
 2-14 Heat Resistance
 2-3  Ice Resistance
 1-17 Light Magic Resistance
-2-6  Lightning Resistance
+2-7  Lightning Resistance
 2-20 Mana Drain Resistance
 2-13 Mental Resistance
 2-10 Mist Magic Resistance

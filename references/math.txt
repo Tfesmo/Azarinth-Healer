@@ -49,3 +49,17 @@ Chapter 331
 	- "Wait, with twenty five percent reduction… I can heal myself constantly now, without losing mana. As long as meditation is up at least."
 	- Her mp/sec with Meditation should be a bit over 50.  This puts the cost of her normal Sentinel Restoration at around ~55-65 mp/sec before Sentinel Core.
 	- Possible my math on regen is incorrect, as that seems very high for the healing involved given that it's supposed to be more efficient than 3rd tier.
+
+Chapter 339
+	- "What’s your lightning resistance at?” Trian asked, lightning flowing over his arm.
+	- “Second tier, level six.” She replied.
+	- “I believe it was around ten percent absorption at level one for the resistance, probably up to thirteen percent then with your level.
+	  I tested Claire and it varied between one percent and ten at level one, depending on… well we didn’t really find a definitive answer.”
+
+	- Ilea nodded, sacrificing two thousand health before healing herself back instantly. “Alright, I’m down around seven hundred mana. Hit me.”
+	- This is @3-16 for Sentinel Restoration.
+	- 2000/700 is right in line with the same healing she had @3-1, plus the 50% boost from additional healing from her evolution.
+	- Math error or no scaling?
+
+	- Sentinel Core:
+	- 10% + 1% per level of resistance in mana absorbtion, per Trian
