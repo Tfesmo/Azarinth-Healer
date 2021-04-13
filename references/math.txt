@@ -43,3 +43,9 @@ Chapter 273
 Chapter 302
 	- Illea notes that going from +100% to +200% Healing Magic bonus doubles her healing (to 150/sec).
 	- Should be a 50% increase (3/2).  Math error?  She was at 60/sec in previous note, so could also be from the evolution as skill changed.
+
+Chapter 331
+	- Illea on the 25% mana reduction from 3rd stage Sentinel Core:
+	- "Wait, with twenty five percent reduction… I can heal myself constantly now, without losing mana. As long as meditation is up at least."
+	- Her mp/sec with Meditation should be a bit over 50.  This puts the cost of her normal Sentinel Restoration at around ~55-65 mp/sec before Sentinel Core.
+	- Possible my math on regen is incorrect, as that seems very high for the healing involved given that it's supposed to be more efficient than 3rd tier.

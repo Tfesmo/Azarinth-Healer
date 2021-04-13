@@ -59,14 +59,18 @@ Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ raidus @ 2-19, ch71
 
-Passive: Sentinel Core 2-20
+Passive: Sentinel Core 3-1
 Your body was changed by magic.
 All pain is reduced greatly.
-You body is 40% [x9 360%] more durable.
+You body is [20% + .5%/lvl - 40.5%x9 = 364.5%] more durable.
 You heal even fatal injuries without help of healing magic.
-Your natural Health regeneration is improved by [100% + .5%/lvl - 120%x9 = 1080%].
+Your natural Health regeneration is improved by [100% + .5%/lvl - 120.5%x9 = 1084.5%].
 2nd stage: The magic of Azarinth settles inside your body.
 Your resistance to magical damage is increased by a static 25% [x9 225%] and your bones are three times as heavy and dense.
+3rd stage: Your body was battered and forged by magic.
+You absorb mana from enemy spells that hit you.
+Efficiency is determined by enemy mana used and your resistance to the type of magic.
+Mana cost for all skills reduced by a static 25%.
 Category: Healing – Body Enhancement
 
 Passive: Azarinth Fighting 3-5

@@ -36,10 +36,11 @@ Create ash in a certain radius around you.
 Ash swirls to aid and destroy at your whims.
 Category: Ashen Magic
 
-Active: Heart of Cinder 2-20
+Active: Heart of Cinder 3-1
 Increase the heat in your body and release it in a blast around you.
 2nd stage: The embers run deep.
 The heat you may reach is only limited by your very life.
+3rd stage: Focus on release to change the blast into a cone of destruction sent out of either arm.
 Category: Body Enhancement – Ashen Magic
 
 Active: Storm of Cinders 3-1
