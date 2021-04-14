@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 315 - The Azarinth Sentinel
-Class 2: 314 - Kin of Ash
+Class 1: 316 - The Azarinth Sentinel
+Class 2: 315 - Kin of Ash
 
 600% Body Enhancement
 200% Healing
