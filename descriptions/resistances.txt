@@ -95,6 +95,10 @@ You have endured the biting cold of ice and lived to tell the tale.
 One of the deadliest climates and magics will now be less dangerous to you with this skill.
 2nd stage: Freezing temperatures no longer affect your body. It is not advised to jump in front of flying ice lances or to anger the spirits.
 
+Lava Magic Resistance
+An elemental form of molten rock, reserved for those few living in conditions most consider deadly.
+You have met and fought such a being, its magic opposed by Heat and Earth magic resistance but ultimately something different, more primordial and ancient.
+
 Light Magic Resistance
 The power of the sun harnessed and enhanced by magic.
 You have experienced the burning heat of light and pushed ahead. This skill will help you be more resistant.
@@ -157,6 +161,9 @@ The fleeting conscience of man and beast. Flesh, energy, motion and thought.
 The Soul stands separate entirely, yet intertwined all the same.
 Through hardship you have learned understanding, not through meditation and study.
 A brutal yet comforting truth, strengthening that which cannot be grasped.
+
+Sound Magic Resistance
+Intricate and difficult to master, used by both mages and monsters. You have withstood and survived sound attacks, making you more resistant to its effects.
 
 Space Magic Resistance
 Most who try to chase this elusive school of magic will find and choose the Void instead.
