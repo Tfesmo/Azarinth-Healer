@@ -91,11 +91,11 @@ Resistances:
 1-3  Obsidian Magic Resistance
 2-9  Pain Tolerance
 2-14 Poison Resistance
-2-1  Sand Magic Resistance
+2-13 Sand Magic Resistance
 1-1  Silver Magic Resistance
 1-8  Soul Magic Resistance
 1-4  Space Magic Resistance
-2-3  Stamina Drain Resistance
+2-8  Stamina Drain Resistance
 2-10 Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
