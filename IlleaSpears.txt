@@ -35,7 +35,7 @@ Azarinth Healer
 3-17 Absolute Destruction
 3-17 Sentinel Reconstruction
 3-15 Azarinth Awakening
-3-12 Blink
+3-13 Blink
 2-20 Sentinel Sphere
 3-5  Sentinel Core
 3-14 Azarinth Fighting
@@ -95,7 +95,7 @@ Resistances:
 1-4  Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
-2-7  Wind Resistance
+2-8  Wind Resistance
 1-9  Wood Magic Resistance
 
 15x1st tier
