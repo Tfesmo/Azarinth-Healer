@@ -47,7 +47,7 @@ Ash Wielder
 3-18 Armor of Ash
 3-10 Aspect of Ash
 3-11 True Ash Creation
-3-6  Heart of Cinder
+3-7  Heart of Cinder
 3-5  Storm of Cinders
 3-10 Ash and Ember Unity
 2-20 Ashen Wings
@@ -68,12 +68,12 @@ Resistances:
 1-1  Ash Magic Resistance
 2-11 Blast Resistance
 1-15 Blood Magic Resistance
-1-11 Blood Manipulation Resistance
+1-13 Blood Manipulation Resistance
 2-9  Corrosion Resistance
 2-1  Crystal Resistance
-2-3  Curse Resistance
+2-5  Curse Resistance
 1-15 Dark Magic Resistance
-2-4  Death Magic Resistance
+2-5  Death Magic Resistance
 1-1  Dust Magic Resistance
 2-2  Earth Resistance
 1-9  Fear Resistance
@@ -81,7 +81,7 @@ Resistances:
 2-20 Health Drain Resistance
 2-18 Heat Resistance
 2-7  Ice Resistance
-1-17 Light Magic Resistance
+1-19 Light Magic Resistance
 2-8  Lightning Resistance
 2-20 Mana Drain Resistance
 2-15 Mental Resistance
@@ -96,7 +96,7 @@ Resistances:
 1-7  Void Magic Resistance
 2-1  Water Resistance
 2-10 Wind Resistance
-1-9  Wood Magic Resistance
+1-12 Wood Magic Resistance
 
 15x1st tier
 18x2nd tier
