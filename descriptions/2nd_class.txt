@@ -11,39 +11,39 @@ All Ashen magic skills are improved by 100%
 All fighting styles using hand to hand combat are more refined
 Your will is ash and embers
 
-Active: Armor of Ash 3-10
+Active: Armor of Ash 3-19
 A shroud of condensed ash to shield you.
 Hard as steel and forming to your will.
-The Armor increases your resilience by [100% + .5%/lvl - 125.0%x8 = 1000.0%].
+The Armor increases your resilience by [100% + .5%/lvl - 129.5%x8 = 1036.0%].
 Halved effects if armor beyond light category is worn.
 2nd stage: The strength of your Resistance skills also benefit from the Armor of Ash.
 3rd stage: Increases the defensive capabilities of all ash and ember you control.
 Effects additionally apply to your body itself, halved if armor beyond light category is worn.
 Category: Body Enhancement – Ashen magic
 
-Active: Aspect of Ash 3-5
-Ember glows within you raising your resilience, speed, Strength, Intelligence and Dexterity by [35% + .5%/lvl - 57.5%x7 = 402.5%].
+Active: Aspect of Ash 3-14
+Ember glows within you raising your resilience, speed, Strength, Intelligence and Dexterity by [35% + .5%/lvl - 62.0%x7 = 434.0%].
 2nd stage: The longer you fight in the Aspect of Ash, the deeper it roots.
 Each minute of fighting adds 15% more power to the skill with a maximum of 150%.
 3rd stage: Familiarity with the skill removes its upkeep.
 When reaching the maximum second tier bonus you may reset it by amplifying your next attack with ash and ember.
 Category: Aura – Body Enhancement
 
-Active: True Ash Creation 3-7
+Active: True Ash Creation 3-14
 Create ash in a certain radius around you.
 2nd stage: You can control the density of the ash to an extent.
 3rd stage: You have proven your dedication.
 Ash swirls to aid and destroy at your whims.
 Category: Ashen Magic
 
-Active: Heart of Cinder 3-1
+Active: Heart of Cinder 3-10
 Increase the heat in your body and release it in a blast around you.
 2nd stage: The embers run deep.
 The heat you may reach is only limited by your very life.
 3rd stage: Focus on release to change the blast into a cone of destruction sent out of either arm.
 Category: Body Enhancement – Ashen Magic
 
-Active: Storm of Cinders 3-1
+Active: Storm of Cinders 3-9
 Burn the inside of whatever your body hits with a surge of heat and embers or release the attack in a burst of fire and cinders.
 2nd stage: The flame burns on.
 Targets hit will have fire burning through or on them.
@@ -51,7 +51,7 @@ Time and consecutive attacks will increase the effect.
 3rd stage: Storm of Cinders burns away all that stands against it, damaging mana intrusion capabilities of defensive enchantments, natural- as well as manufactured armor.
 Category: Ashen magic
 
-Passive: Ash and Ember Unity 3-5
+Passive: Ash and Ember Unity 3-11
 You are one with Ash and Ember.
 Allies rushing to your aid.
 2nd stage: Your understanding grows, allowing you to create greater change in ash and ember.
@@ -71,8 +71,8 @@ Increases your perception by [30% + .5%/lvl - 50.0%x6 = 300.0%] when fighting wi
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
 Category: Body Enhancement – Ashen magic
 
-Passive: Avatar of Ash 3-1
-Increases your reflexes and speed by [30% + .5%/lvl - 50.0%x8 = 400.0%].
+Passive: Avatar of Ash 3-3
+Increases your reflexes and speed by [30% + .5%/lvl - 51.5%x8 = 412.0%].
 Your ability to avoid damage to your vitals when dodging increases.
 2nd stage: Your muscles grow more dense.
 For each Resistance skill your body becomes tougher.
@@ -83,9 +83,9 @@ Each Resistance skill in the second tier increases the potential density of your
 Category: Body Enhancement – Ashen magic
 *see IlleaSpears.txt, half of the 2nd tier Muscle Density calculation
 
-Passive: Keeper of Ash 3-3
+Passive: Keeper of Ash 3-12
 You are one with the fighting style of Ash.
-Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 71.5%x7 = 500.5%] higher.
+Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl - 76.0%x7 = 532.0%] higher.
 2nd stage: Adds density to your bones, muscles and skin to increase strength, speed and damage.
 Base body weight is doubled.
 3rd stage: Reduces stamina consumption by a static 35%.

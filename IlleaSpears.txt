@@ -1,58 +1,58 @@
 Name: Ilea Spears
 
-Class 1: 322 - The Azarinth Sentinel
-Class 2: 321 - Kin of Ash
+Class 1: 323 - The Azarinth Sentinel
+Class 2: 322 - Kin of Ash
 
 600% Body Enhancement
 200% Healing
 100% Ashen
 
-Vit: 686
+Vit: 746
 End: 400
-Str: 510 [5240.3]
-Dex: 415 [2085.4]
-Int: 620 [6370.5]
-Wis: 705
+Str: 510 [5525.9]
+Dex: 415 [2216.1]
+Int: 735 [7963.7]
+Wis: 775
 
-Resilience: 1927.5%
-Speed+:     1327.5%
-Reflexes+:   400.0%
-Damage+:    1183.0%
+Resilience: 2019.5%
+Speed+:     1395.5%
+Reflexes+:   412.0%
+Damage+:    1256.5%
 
-Health  : 6860
+Health  : 7460
 Stamina : 4000
-Mana    : 7050
+Mana    : 7750
 
 Regen:
-hp/sec:  0.20% [13.5]
-mp/sec:  0.15% [10.6]
-w/Med:   0.71% [50.4]
+hp/sec:  0.23% [15.3]
+mp/sec:  0.16% [12.6]
+w/Med:   0.78% [60.1]
 
-Effective Health: 1,359,570.5
-Additive EH:        171,500.0
+Effective Health: 1,711,888.1
+Additive EH:        197,055.9
 
 Azarinth Healer
 3-18 Absolute Destruction
-3-18 Sentinel Reconstruction
+3-19 Sentinel Reconstruction
 3-17 Azarinth Awakening
 3-13 Blink
 3-2  Sentinel Sphere
-3-10 Sentinel Core
-3-16 Azarinth Fighting
+3-11 Sentinel Core
+3-17 Azarinth Fighting
 2-20 Sentinel Huntress
 2-20 Azarinth Perception
-3-10 Azarinth Reversal
+3-11 Azarinth Reversal
 
 Ash Wielder
 3-19 Armor of Ash
 3-14 Aspect of Ash
-3-13 True Ash Creation
-3-9  Heart of Cinder
+3-14 True Ash Creation
+3-10 Heart of Cinder
 3-9  Storm of Cinders
 3-11 Ash and Ember Unity
 2-20 Ashen Wings
 2-20 Eyes of Ash
-3-2  Avatar of Ash
+3-3  Avatar of Ash
 3-12 Keeper of Ash
 
 General Skills:
@@ -61,15 +61,15 @@ General Skills:
 1-5  Heavy Archery
 1-9  Identify
 2-20 Meditation
-1-1  Monster Hunter
-1-14 Veteran
+1-2  Monster Hunter
+1-15 Veteran
 
 Resistances:
 2-16 Arcane Magic Resistance
 1-1  Ash Magic Resistance
 2-11 Blast Resistance
 1-15 Blood Magic Resistance
-1-20 Blood Manipulation Resistance
+2-1  Blood Manipulation Resistance
 2-9  Corrosion Resistance
 2-1  Crystal Resistance
 2-9  Curse Resistance
@@ -99,14 +99,14 @@ Resistances:
 2-12 Wind Resistance
 2-1  Wood Magic Resistance
 
-13x1st tier
-20x2nd tier
+12x1st tier
+21x2nd tier
 
 Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (200% + 65% = 265%) more dense - Avatar of Ash 2nd
+	Muscles are (210% + 60% = 270%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
