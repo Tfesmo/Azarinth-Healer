@@ -63,3 +63,6 @@ Chapter 339
 
 	- Sentinel Core:
 	- 10% + 1% per level of resistance in mana absorbtion, per Trian
+
+Chapter 390
+	- Illea notes that a -100 hp/sec poison reduces her healing by nearly half, so it should be around 200/sec.
