@@ -1,6 +1,9 @@
 Elos Standard Language
 You can speak and read the Standard language of Elos.
 
+English Language
+You can speak the English Language.
+
 Harmony of the Drowned
 You have been submerged in liquid for longer than you should’ve survived.
 You crave to become a creature of the deep and have proven that you will go any lengths to achieve that.

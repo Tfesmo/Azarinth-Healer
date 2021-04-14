@@ -1,7 +1,7 @@
 Name: Ilea Spears
 
-Class 1: 328 - The Azarinth Sentinel
-Class 2: 327 - Kin of Ash
+Class 1: 329 - The Azarinth Sentinel
+Class 2: 328 - Kin of Ash
 
 600% Body Enhancement
 200% Healing
@@ -36,30 +36,31 @@ Azarinth Healer
 3-20 Sentinel Reconstruction
 3-18 Azarinth Awakening
 3-14 Blink
-3-2  Sentinel Sphere
+3-4  Sentinel Sphere
 3-13 Sentinel Core
 3-18 Azarinth Fighting
 2-20 Sentinel Huntress
 2-20 Azarinth Perception
-3-14 Azarinth Reversal
+3-15 Azarinth Reversal
 
 Ash Wielder
 3-20 Armor of Ash
-3-16 Aspect of Ash
+3-17 Aspect of Ash
 3-16 True Ash Creation
 3-10 Heart of Cinder
 3-13 Storm of Cinders
-3-14 Ash and Ember Unity
+3-15 Ash and Ember Unity
 2-20 Ashen Wings
 2-20 Eyes of Ash
-3-4  Avatar of Ash
+3-6  Avatar of Ash
 3-14 Keeper of Ash
 
 General Skills:
 1-6  Elos Standard language
-1-2  Harmony of the Drowned
+1-15 English Language
+1-5  Harmony of the Drowned
 1-5  Heavy Archery
-1-9  Identify
+1-10 Identify
 2-20 Meditation
 1-2  Monster Hunter
 2-1  Veteran
@@ -69,16 +70,16 @@ Resistances:
 1-1  Ash Magic Resistance
 2-11 Blast Resistance
 1-15 Blood Magic Resistance
-2-7  Blood Manipulation Resistance
-2-13 Corrosion Resistance
+2-10 Blood Manipulation Resistance
+2-15 Corrosion Resistance
 2-1  Crystal Resistance
 2-9  Curse Resistance
 1-15 Dark Magic Resistance
 2-8  Death Magic Resistance
 1-1  Dust Magic Resistance
 2-2  Earth Resistance
-1-9  Fear Resistance
-1-7  Gravity Magic Resistance
+1-10 Fear Resistance
+2-3  Gravity Magic Resistance
 2-20 Health Drain Resistance
 2-20 Heat Resistance
 2-10 Ice Resistance
@@ -99,14 +100,14 @@ Resistances:
 2-12 Wind Resistance
 2-1  Wood Magic Resistance
 
-12x1st tier
-21x2nd tier
+11x1st tier
+22x2nd tier
 
 Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (210% + 60% = 270%) more dense - Avatar of Ash 2nd
+	Muscles are (220% + 55% = 275%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd

@@ -73,6 +73,8 @@ Your ability to deal with non magical fear is increased.
 Gravity Magic Resistance
 A force of nature, bound and warped my magic itself.
 Perhaps not noticing the damage dealt to your body, you have developed a way to resist this magic.
+2nd stage: You remain firmly planted and understand a little of the intricacies of gravity.
+A more practical sense that allows you to move in varied gravity with less difficulty.  Be it magical or otherwise.
 
 Health Drain Resistance
 Some creatures have the ability to drain your health.
