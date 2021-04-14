@@ -97,3 +97,6 @@ Chapter 405
 Chapter 409
 	- Illea notes Sentinel Reconstruction @3-21 is 324 hp/sec for 4 mp/sec.
 	- Doesn't really match previous numbers but this is explicit so takes priority.
+
+Chapter 412
+	- mp/sec w/Med should be ~14, based on Fae draining 20 and the remainder being 6.

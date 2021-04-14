@@ -152,6 +152,10 @@ The Soul stands separate entirely, yet intertwined all the same.
 Through hardship you have learned understanding, not through meditation and study.
 A brutal yet comforting truth, strengthening that which cannot be grasped.
 
+Space Magic Resistance
+Most who try to chase this elusive school of magic will find and choose the Void instead.
+You have fought a being of truly peculiar making, have faced and survived its spells and may count yourself amongst the few to call this skill their own.
+
 Stamina Drain Resistance
 The more rarely used drain magic focused on Stamina.
 It’s effects are not as immediately noticeable as Health or Mana drain skills but the end result is just as devastating.
@@ -160,6 +164,8 @@ You have learned to resist such spells to an extent.
 Time Magic Resistance
 The intricacies of time magic are difficult to grasp, its secrets hidden forever to most who attempt the plunge.
 A rare few have managed to bend the elusive force to their will, making it a dangerous tool both for themselves and for their enemies.
+2nd stage: While it certainly eludes your simple mind, your body has learned that the flows and waves of time are fickle. 
+Bent and shrouded for too many times, you have found a center in it all. A calm in the sea of time. It will take a true master to disturb what you have found to be truth.
 
 Void Magic Resistance
 The mystical magic usually used to enchant high level items applied as a form of combat magic.
