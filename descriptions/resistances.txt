@@ -5,6 +5,10 @@ Its red glow turns purple the more refined it is.
 This skill shall help you counter masters of the arcane.
 2nd stage: Your flow of mana has been ruptured many times by the raw form of magic, making it substantially more resistant to both adept mages and natural occurrences of the true arcane.
 
+Ash Magic Resistance
+You have found a being similar to your own, wielding magic you are not just familiar with but have mastered.
+A small increase in your resistance but perhaps a new insight into your own connection to Ash itself.
+
 Blast Resistance
 Explosions can be an unpredictable and chaotic thing.
 You have survived quite an impressive one to get this skill.
