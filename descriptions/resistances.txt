@@ -36,6 +36,7 @@ Crystal Resistance
 Crystals aren’t just shiny decorations to old ruins and caves.
 You have learned that the arcane scholars have found ways to turn the beautiful natural phenomenon into something quite more deadly.
 Less deadly to you with this skill.
+2nd stage: Your body adapts, crystal growth and transmutation now exponentially harder to achieve on your tissue.
 
 Curse Resistance
 Curses are seldom cast and even more seldom survived.
