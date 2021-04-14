@@ -66,3 +66,12 @@ Chapter 339
 
 Chapter 390
 	- Illea notes that a -100 hp/sec poison reduces her healing by nearly half, so it should be around 200/sec.
+
+Chapter 396
+	- Natural health regen should be 1.1%, not 1%
+	- Lots of math/testing at the start of this chapter but no strong conclusions
+	- w/Lucas:
+	- "level determines a reduction in damage. A percentage. This can vary greatly however, depending on what level the enemy skill used possesses. So, even if you have a high level light magic resistance, my spell being in the third tier will still do significant damage"
+	- "The bonuses, I believe it was around forty percent at level twenty and I think eighty at the end of the second tier. I personally don’t have a resistance at that level but I’ve tested plenty. If the progression continues to be linear, it will be eighty percent"
+	- "I believe the skill levels add or retract one percent respectively, depending if your resistance is higher or lower than the skill attacking you"
+	- Lvl 1=5%, 2=6%, 3=7%, 4=8%, then 2% per level after
