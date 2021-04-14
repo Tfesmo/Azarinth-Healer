@@ -75,3 +75,9 @@ Chapter 396
 	- "The bonuses, I believe it was around forty percent at level twenty and I think eighty at the end of the second tier. I personally don’t have a resistance at that level but I’ve tested plenty. If the progression continues to be linear, it will be eighty percent"
 	- "I believe the skill levels add or retract one percent respectively, depending if your resistance is higher or lower than the skill attacking you"
 	- Lvl 1=5%, 2=6%, 3=7%, 4=8%, then 2% per level after
+
+Chapter 402
+	- Illea pegs her mana reg @ 8/sec without Med.
+	- Currently unable to reconcile this with the original formulas from Chapter 9
+	- Meditation “nearly doubles” basic mana regen.
+	- Changing formula so Meditation only impacts the base 2% makes this work out (9.75%/min without, 18.15%/min with)
