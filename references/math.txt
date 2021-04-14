@@ -81,3 +81,15 @@ Chapter 402
 	- Currently unable to reconcile this with the original formulas from Chapter 9
 	- Meditation “nearly doubles” basic mana regen.
 	- Changing formula so Meditation only impacts the base 2% makes this work out (9.75%/min without, 18.15%/min with)
+
+Chapter 405
+	- Enavurin on resistances:
+	- 1-1 =5%
+	- 1-10=10%
+	- 1-20=20%
+	- 2-1 =26%
+	- 2-20=45%
+	- Cap is 95%
+	- Speculation:
+	- 3-1 =51%+
+	- 3-30=80% - follows the progression but seems too high to be reasonable.
