@@ -35,7 +35,7 @@ Azarinth Healer
 3-20 Absolute Destruction
 3-20 Sentinel Reconstruction
 3-18 Azarinth Awakening
-3-13 Blink
+3-14 Blink
 3-2  Sentinel Sphere
 3-13 Sentinel Core
 3-18 Azarinth Fighting
@@ -69,8 +69,8 @@ Resistances:
 1-1  Ash Magic Resistance
 2-11 Blast Resistance
 1-15 Blood Magic Resistance
-2-4  Blood Manipulation Resistance
-2-10 Corrosion Resistance
+2-7  Blood Manipulation Resistance
+2-13 Corrosion Resistance
 2-1  Crystal Resistance
 2-9  Curse Resistance
 1-15 Dark Magic Resistance
@@ -78,7 +78,7 @@ Resistances:
 1-1  Dust Magic Resistance
 2-2  Earth Resistance
 1-9  Fear Resistance
-1-2  Gravity Magic Resistance
+1-7  Gravity Magic Resistance
 2-20 Health Drain Resistance
 2-20 Heat Resistance
 2-10 Ice Resistance
