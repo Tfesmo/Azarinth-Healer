@@ -61,7 +61,7 @@ General Skills:
 1-5  Heavy Archery
 1-9  Identify
 2-20 Meditation
-1-12 Veteran
+1-13 Veteran
 
 Resistances:
 2-16 Arcane Magic Resistance
