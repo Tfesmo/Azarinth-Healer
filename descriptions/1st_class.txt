@@ -51,10 +51,12 @@ You may travel to said destination once every three days.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 
-Active: Sentinel Sphere 2-20
+Active: Sentinel Sphere 3-1
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 2nd stage: The Sentinel Sphere opens your senses to the arcane, a paramount skill both on and off the battlefield.
+3rd stage: Redirect damage dealt by magic or the elements within the sphere towards yourself. 
+Efficiency and control are influenced by related skills and your respective resistances.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ raidus @ 2-19, ch71

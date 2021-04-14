@@ -71,13 +71,17 @@ Increases your perception by [30% + .5%/lvl - 50.0%x6 = 300.0%] when fighting wi
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
 Category: Body Enhancement – Ashen magic
 
-Passive: Avatar of Ash 2-20
+Passive: Avatar of Ash 3-1
 Increases your reflexes and speed by [30% + .5%/lvl - 50.0%x8 = 400.0%].
 Your ability to avoid damage to your vitals when dodging increases.
 2nd stage: Your muscles grow more dense.
 For each Resistance skill your body becomes tougher.
 First tier Resistances equal a static 5% increase, second tier equal a static 10% increase.
+3rd stage: You can choose to allow magic damage to bypass your related resistance skills.
+Effect is canceled automatically upon reaching 50% of your health.
+Each Resistance skill in the second tier increases the potential density of your created ash by a static 5%*.
 Category: Body Enhancement – Ashen magic
+*see IlleaSpears.txt, half of the 2nd tier Muscle Density calculation
 
 Passive: Keeper of Ash 3-3
 You are one with the fighting style of Ash.

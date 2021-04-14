@@ -20,6 +20,10 @@ Your mana and stamina regeneration is increased by a factor of [300% + 3%/lvl = 
 This factor is improved upon leveling up the skill.
 2nd stage: Your familiarity with Meditation lets you move slowly while the skill is active.
 
+Monster Hunter
+Many times have you faced creatures well beyond your level. You revel in it, seek them out and you prevail. Your presence demands respect.
+Imbue you voice to show your intent. Effects vary depending on your disposition as well as those affected and their levels in relation to yours.
+
 Veteran
 You have experienced the shouts and spells of beings completely out of your range of imagination.
 You will not survive but at least you won’t be completely immobilized while you get eaten. Good luck warrior.
