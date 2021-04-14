@@ -38,7 +38,7 @@ Azarinth Healer
 3-12 Blink
 2-20 Sentinel Sphere
 3-1  Sentinel Core
-3-12 Azarinth Fighting
+3-13 Azarinth Fighting
 2-20 Sentinel Huntress
 2-20 Azarinth Perception
 3-6  Azarinth Reversal
@@ -46,8 +46,8 @@ Azarinth Healer
 Ash Wielder
 3-15 Armor of Ash
 3-9  Aspect of Ash
-3-8  True Ash Creation
-3-1  Heart of Cinder
+3-9  True Ash Creation
+3-2  Heart of Cinder
 3-3  Storm of Cinders
 3-8  Ash and Ember Unity
 2-20 Ashen Wings
