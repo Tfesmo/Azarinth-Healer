@@ -141,6 +141,12 @@ Surviving either of those you have developed a general resistance to poisons.
 2nd stage: Either you need better guards or you need to stop eating everything you see.
 Experience has granted you an ability to sense poison. Additionally its spread throughout your body is slower, reducing its effects.
 
+Sand Magic Resistance
+A powerful and versatile school of magic, able to slash, crush and suffocate. Usually found and common in certain desert regions, its masters unchallenged within their domain.
+Exposure has made you more resilient to this type of magic.
+2nd stage: Through exposure and forced understanding, you will find it easier to move through sand.
+An ability most sand mages and creatures master early in their development and one of their core advantages.
+
 Silver Magic Resistance
 A rare magic to be sure and just as deadly.
 Not quite corrosion or poison, silver magic can be devious, its effects complex.
@@ -160,6 +166,8 @@ Stamina Drain Resistance
 The more rarely used drain magic focused on Stamina.
 It’s effects are not as immediately noticeable as Health or Mana drain skills but the end result is just as devastating.
 You have learned to resist such spells to an extent.
+2nd stage: Stamina exhaustion won’t impact you as heavily anymore as it did previously.
+Your body is used to rapid magical Stamina Drain and can counteract its absence through mana and health respectively.
 
 Time Magic Resistance
 The intricacies of time magic are difficult to grasp, its secrets hidden forever to most who attempt the plunge.
