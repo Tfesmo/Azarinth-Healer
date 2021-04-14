@@ -91,8 +91,9 @@ One of the deadliest climates and magics will now be less dangerous to you with 
 
 Light Magic Resistance
 The power of the sun harnessed and enhanced by magic.
-You have experienced the burning heat of light and pushed ahead.
-This skill will help you be more resistant.
+You have experienced the burning heat of light and pushed ahead. This skill will help you be more resistant.
+2nd stage: Staring into the light should have really blinded you at this point. Instead, you have gotten used to it. 
+Your eyes are much less sensitive to the negative effects associated with light. You are mostly immune to sudden blinding changes, be they an abrupt abundance or lack of light.
 
 Lightning Resistance
 Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
@@ -175,3 +176,5 @@ This skill helps you resist the power of wind a little more.
 Wood Magic Resistance
 A connection made from a mage to nature allowed for this talent to take root.
 Facing the force of nature you grow more accustomed to its effects, your body more resilient to the magic of the forest.
+2nd stage: Magic of life and nature. It is concerning how much you have enraged the usually peaceful creatures and mages using this school.
+Through painfully learned understanding, your body can now absorb a fraction of the life used.
