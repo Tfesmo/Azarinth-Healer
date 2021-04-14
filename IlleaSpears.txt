@@ -62,14 +62,14 @@ General Skills:
 1-9  Identify
 2-20 Meditation
 1-2  Monster Hunter
-1-15 Veteran
+1-16 Veteran
 
 Resistances:
 2-16 Arcane Magic Resistance
 1-1  Ash Magic Resistance
 2-11 Blast Resistance
 1-15 Blood Magic Resistance
-2-1  Blood Manipulation Resistance
+2-4  Blood Manipulation Resistance
 2-9  Corrosion Resistance
 2-1  Crystal Resistance
 2-9  Curse Resistance
@@ -83,7 +83,7 @@ Resistances:
 2-20 Heat Resistance
 2-7  Ice Resistance
 2-4  Light Magic Resistance
-2-8  Lightning Resistance
+2-14 Lightning Resistance
 2-20 Mana Drain Resistance
 2-16 Mental Resistance
 2-10 Mist Magic Resistance
