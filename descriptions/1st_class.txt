@@ -40,7 +40,7 @@ Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
 Category: Aura – Body Enhancement
 
-Active: Blink 3-13
+Active: Blink 3-15
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
@@ -50,8 +50,10 @@ You may change it every six months.
 You may travel to said destination once every three days.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
+*42.5m range @ 3-15, 15m @ 1-1, ch409
+*Formula should be: 15m + .5m/lvl
 
-Active: Sentinel Sphere 3-2
+Active: Sentinel Sphere 3-5
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 2nd stage: The Sentinel Sphere opens your senses to the arcane, a paramount skill both on and off the battlefield.
@@ -59,7 +61,8 @@ The higher the level the further the sphere reaches.
 Efficiency and control are influenced by related skills and your respective resistances.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
-*20m+ raidus @ 2-19, ch71
+*20m+ radius @ 2-19, ch71
+*~30m radius @ 3-5, ch409
 
 Passive: Sentinel Core 3-11
 Your body was changed by magic.
@@ -92,11 +95,13 @@ Perceive the smallest irregularities in your surroundings as well as the ambient
 Amplify this by sacrificing mana.
 Category: Body Enhancement
 
-Passive: Azarinth Perception 20-20
+Passive: Azarinth Perception 3-1
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
 2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
 This can happen only once per hour.
+3rd stage: Your resilience and speed is doubled during the spike in perception.
+Increases usage to twice per hour.
 Category: Body Enhancement
 
 Passive: Azarinth Reversal 3-11

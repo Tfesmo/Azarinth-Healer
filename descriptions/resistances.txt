@@ -18,8 +18,10 @@ Your organs, bones, muscles and your skin become partially shock absorbent. Plea
 
 Blood Magic Resistance
 The arts of blood manipulation can be deceptive and dangerous to both ally and foe.
-You have stood against the old magic and lived.
-Next time your chance of survival will be even higher.
+You have stood against the old magic and lived. Next time your chance of survival will be even higher.
+2nd stage: Masters of this ancient art have found ways to use the very essence of your life against you.
+With sheer ferocity, you have shown that not every creature born of blood is prey alone.
+They will find it a challenge to invade and use what belongs to you alone.
 
 Blood Manipulation Resistance
 A rare gift similar to poisons having an effect with dangerous results.

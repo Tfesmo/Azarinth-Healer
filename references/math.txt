@@ -94,9 +94,6 @@ Chapter 405
 	- 3-1 =51%+
 	- 3-30=80% - follows the progression but seems too high to be reasonable.
 
-Chapter 408
-	- Illea notes that 3rd tier Reconstruction costs 4x to heal.
-	- This doesn't fit with 4 mana:1 hp based on previous data (2k health for 700 mana)
-	- If it means channel is 1/4th the cost of 3rd tier, then this fits pretty well.
-	- 200 hp/sec would be about 70/4 would be 16-17.
-	- This also matches her comment about healing constantly with Meditation, and normal regen = 8/sec and Med doubling it.
+Chapter 409
+	- Illea notes Sentinel Reconstruction @3-21 is 324 hp/sec for 4 mp/sec.
+	- Doesn't really match previous numbers but this is explicit so takes priority.

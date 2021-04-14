@@ -59,10 +59,14 @@ Allies rushing to your aid.
 Ash not connected benefits from passive abilities enhancing your body.
 Category: Ashen magic
 
-Passive: Ashen Wings 2-20
+Passive: Ashen Wings 3-1
 Your understanding of Ash Wielder allows you to form wings from ash and ember.
 Strike your enemies from above and close the distance to deliver your wrath.
 2nd stage: Your wings become more dense and tangible, able to help you defend and attack.
+3rd stage: Ash Creation and Unity prove you are above the rest.
+Shape and form your wings to your liking, now directly affected by your control.
+An added tail shall make you one with the skies above, not a mere human imitating flight but one who revels in it.
+You may charge your wings with mana and stamina to dramatically increase your flight velocity at the cost of heavily reduced control.
 Category: Body Enhancement – Ashen Magic
 
 Passive: Eyes of Ash 2-20
