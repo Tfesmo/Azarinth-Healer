@@ -69,10 +69,12 @@ An added tail shall make you one with the skies above, not a mere human imitatin
 You may charge your wings with mana and stamina to dramatically increase your flight velocity at the cost of heavily reduced control.
 Category: Body Enhancement – Ashen Magic
 
-Passive: Eyes of Ash 2-20
+Passive: Eyes of Ash 3-1
 Increases your perception by [30% + .5%/lvl - 50.0%x6 = 300.0%] when fighting without a weapon.
 2nd stage: Effects apply with weapons as well.
 Opportunity calls, you notice possible critical weak points on enemies with more ease.
+3rd stage: Your eyes are vastly improved.
+Great distances and a lack of light won’t pose a problem to you anymore.
 Category: Body Enhancement – Ashen magic
 
 Passive: Avatar of Ash 3-3

@@ -87,12 +87,16 @@ A true Azarinth Healer knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.
 Category: Body Enhancement
 
-Passive: Sentinel Huntress 2-20
+Passive: Sentinel Huntress 3-1
 Huntress turned Sentinel.
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings as well as the ambient mana to find clues about your target’s whereabouts.
 2nd stage: You gain a sense for the distress in the people around you.
 Amplify this by sacrificing mana.
+3rd stage: Through Azarinth magic, you may mark an enemy or ally with the Sentinel Mark.
+Allies may use the stored mana to signal The Azarinth Sentinel.
+Each level in the third tier adds an additional mark that can be used.
+Marks forcefully applied have a limited duration.
 Category: Body Enhancement
 
 Passive: Azarinth Perception 3-1

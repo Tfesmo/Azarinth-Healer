@@ -33,27 +33,27 @@ Additive EH:        197,055.9
 
 Azarinth Healer
 3-20 Absolute Destruction
-3-23 Sentinel Reconstruction
+3-25 Sentinel Reconstruction
 3-23 Azarinth Awakening
-3-15 Blink
+3-16 Blink
 3-7  Sentinel Sphere
-3-18 Sentinel Core
-3-21 Azarinth Fighting
-2-20 Sentinel Huntress
-3-2  Azarinth Perception
+3-19 Sentinel Core
+3-22 Azarinth Fighting
+3-1  Sentinel Huntress
+3-4  Azarinth Perception
 3-15 Azarinth Reversal
 
 Ash Wielder
-3-23 Armor of Ash
-3-20 Aspect of Ash
+3-24 Armor of Ash
+3-21 Aspect of Ash
 3-20 True Ash Creation
-3-11 Heart of Cinder
+3-12 Heart of Cinder
 3-13 Storm of Cinders
 3-19 Ash and Ember Unity
-3-3  Ashen Wings
-2-20 Eyes of Ash
+3-4  Ashen Wings
+3-1  Eyes of Ash
 3-14 Avatar of Ash
-3-17 Keeper of Ash
+3-18 Keeper of Ash
 
 General Skills:
 1-6  Elos Standard language
@@ -62,8 +62,8 @@ General Skills:
 1-5  Heavy Archery
 1-10 Identify
 2-20 Meditation
-1-14 Monster Hunter
-2-8  Veteran
+1-15 Monster Hunter
+2-9  Veteran
 
 Resistances:
 2-17 Arcane Magic Resistance
@@ -77,13 +77,13 @@ Resistances:
 1-15 Dark Magic Resistance
 2-8  Death Magic Resistance
 1-1  Dust Magic Resistance
-2-2  Earth Resistance
+2-3  Earth Resistance
 1-10 Fear Resistance
 2-3  Gravity Magic Resistance
 2-20 Health Drain Resistance
 2-20 Heat Resistance
 2-10 Ice Resistance
-1-3  Lava Magic Resistance
+1-10 Lava Magic Resistance
 2-20 Light Magic Resistance
 2-14 Lightning Resistance
 2-20 Mana Drain Resistance
@@ -92,10 +92,10 @@ Resistances:
 1-3  Obsidian Magic Resistance
 2-9  Pain Tolerance
 2-14 Poison Resistance
-2-14 Sand Magic Resistance
+2-16 Sand Magic Resistance
 1-1  Silver Magic Resistance
 1-8  Soul Magic Resistance
-1-3  Sound Magic Resistance
+1-4  Sound Magic Resistance
 1-4  Space Magic Resistance
 2-8  Stamina Drain Resistance
 2-10 Time Magic Resistance
