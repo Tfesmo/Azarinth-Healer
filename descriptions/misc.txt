@@ -2,3 +2,25 @@
 You grow more resilient +10 Vitality.
 The flow of your mana was changed +10 Intelligence +10 Wisdom.
 You recharge Mana at a faster pace +100% mana recovery rate.’
+
+‘ding’ ‘You have proven to be more resilient and masochistic than few before you, training without ANY regard for your own body or mind in a wide variety of General skills. Mostly Resistances.
+To find and acquire these skills is already an achievement worthy of mention. To train them to their maximum potential is far beyond even that.
+For reaching level three hundred in at least one class, unlocking thirty General skills and achieving a minimum of 2nd lvl 20 in ten or more General skills, you have unlocked 3rd tier General skill points.’
+
+‘General skills available for third tier advancement:’
+
+- Meditation
+You have fought with Meditation active, have trusted in the skill and have consistently used it to its full potential in the midst of battle. It is certainly crafty and yet quite opposite to the actual intention.
+Through your complete disregard for such matters, you have unlocked the potential third tier of Meditation.
+
+- Blood Manipulation Resistance
+You have faced both the carefully crafted Corruption of the Descent as well as the might of a Starved Vampire. Neither has fazed you, proving that your body is ready to advance Blood Manipulation Resistance to the third tier.
+
+- Heat Resistance
+Be it Cliff Wyverns or the power of a Trakorov, you have faced and lived through their smoldering fire. Truly, it is remarkable your path has not lead to fire related classes but here we are. You may advance this skill to the third tier.
+
+- Light Magic Resistance
+Not many have witnessed the combined effort of Elder Sun Sprites and even fewer have lived to tell the tale. It is beyond anything the second tier would provide protection against, making you ready for the third tier.
+
+- Wind Resistance
+The Storm Griffin is an ancient and proud creature. Your survival is a grave insult and proof enough that you deserve to reach the next tier of Wind Resistance.

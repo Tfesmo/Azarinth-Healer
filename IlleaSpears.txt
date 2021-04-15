@@ -25,8 +25,8 @@ Mana    : 7750
 
 Regen:
 hp/sec:  0.23% [15.3]
-mp/sec:  0.16% [12.6]
-w/Med:   0.30% [23.4]
+mp/sec:  0.16% [ 9.9]
+w/Med:   0.30% [16.3]
 
 Effective Health: 1,711,888.1
 Additive EH:        197,055.9
@@ -50,9 +50,9 @@ Ash Wielder
 3-13 Heart of Cinder
 3-15 Storm of Cinders
 3-20 Ash and Ember Unity
-3-5  Ashen Wings
+3-7  Ashen Wings
 3-2  Eyes of Ash
-3-15 Avatar of Ash
+3-16 Avatar of Ash
 3-19 Keeper of Ash
 
 General Skills:
@@ -61,15 +61,15 @@ General Skills:
 1-5  Harmony of the Drowned
 1-5  Heavy Archery
 1-10 Identify
-2-20 Meditation
+2-20  Meditation
 1-16 Monster Hunter
-2-10 Veteran
+2-11 Veteran
 
 Resistances:
 2-17 Arcane Magic Resistance
 1-1  Ash Magic Resistance
 2-20 Blast Resistance
-2-11 Blood Magic Resistance
+2-13 Blood Magic Resistance
 2-20 Blood Manipulation Resistance
 2-15 Corrosion Resistance
 2-1  Crystal Resistance
@@ -96,12 +96,12 @@ Resistances:
 1-1  Silver Magic Resistance
 1-8  Soul Magic Resistance
 1-4  Sound Magic Resistance
-1-5  Space Magic Resistance
+1-8  Space Magic Resistance
 2-10 Stamina Drain Resistance
-2-10 Time Magic Resistance
+2-20 Time Magic Resistance
 1-7  Void Magic Resistance
 2-1  Water Resistance
-2-14 Wind Resistance
+2-20 Wind Resistance
 2-1  Wood Magic Resistance
 
 11x1st tier

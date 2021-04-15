@@ -22,6 +22,8 @@ While in the state of meditation you cannot move.
 Your mana and stamina regeneration is increased by a factor of [300% + 3%/lvl = 405%]. 
 This factor is improved upon leveling up the skill.
 2nd stage: Your familiarity with Meditation lets you move slowly while the skill is active.
+3rd stage: Few ever reach this stage, normally through centuries of study and meditation. You have stood amidst death, trusting the flow of mana to be at your side.
+Vast experience and understanding has changed your very core. The effects of Wisdom are doubled. Meditation is no longer limited by movement.
 
 Monster Hunter
 Many times have you faced creatures well beyond your level. You revel in it, seek them out and you prevail. Your presence demands respect.
