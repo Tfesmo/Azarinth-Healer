@@ -148,6 +148,9 @@ You’re feeling a little more numb towards pain but careful...the damage is sti
 2nd stage: You’ve been through more pain than most others.
 You are now able to completely turn off your perception of pain.
 Be wary as there is a reason pain exists.
+3rd stage: Pain comes in many forms. Pain to your body which you have learned to ignore. Pain to the mind itself which you have resisted. Pain to your soul, which you have endured.
+A pain coming with the forces of magic, the arcane, tearing and cutting at the core of what you are. You have experienced pain beyond which can be survived. And yet you live. A testament of resilience and perseverance, regeneration and a powerful mind. Let it fuel you, empower you.
+Pain now lets you focus, clears your mind instead of distracting it. You shall not be broken.
 
 Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
@@ -173,6 +176,8 @@ The fleeting conscience of man and beast. Flesh, energy, motion and thought.
 The Soul stands separate entirely, yet intertwined all the same.
 Through hardship you have learned understanding, not through meditation and study.
 A brutal yet comforting truth, strengthening that which cannot be grasped.
+2nd stage: Battered and cracked. Challenged and near broken. Your Soul has endured through sheer tenacity against that which meant to bring its end.
+A serene calm now sways through your very essence, changed and evolved, grounded and calm.
 
 Sound Magic Resistance
 Intricate and difficult to master, used by both mages and monsters. You have withstood and survived sound attacks, making you more resistant to its effects.
@@ -199,6 +204,8 @@ Void Magic Resistance
 The mystical magic usually used to enchant high level items applied as a form of combat magic.
 It’s as deadly as it is silent. How exactly you survived is unclear, perhaps the caster willed it so.
 Next time it might work against a true enemy as well.
+2nd stage: You have resisted the true magic of the Void, your body and will showing unrelenting grit. More than a simple spell will be required to invade your body with the void.
+Your very existence and all of its parts are connected to you through the threads of magic.
 
 Water Resistance
 In your days you have learned many things.
