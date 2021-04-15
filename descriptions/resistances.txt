@@ -4,6 +4,8 @@ The raw energies tear at not just flesh and bone but at the magical structure an
 Its red glow turns purple the more refined it is.
 This skill shall help you counter masters of the arcane.
 2nd stage: Your flow of mana has been ruptured many times by the raw form of magic, making it substantially more resistant to both adept mages and natural occurrences of the true arcane.
+3rd stage: You have survived both arcane storms and immeasurably dense pockets of mana. Your body has changed and adapted, both able to walk within mana sparse as well as highly saturated areas.
+Constructs made from your mana become more resistant and substantial.
 
 Ash Magic Resistance
 You have found a being similar to your own, wielding magic you are not just familiar with but have mastered.
@@ -100,6 +102,7 @@ One of the deadliest climates and magics will now be less dangerous to you with 
 Lava Magic Resistance
 An elemental form of molten rock, reserved for those few living in conditions most consider deadly.
 You have met and fought such a being, its magic opposed by Heat and Earth magic resistance but ultimately something different, more primordial and ancient.
+2nd stage: Your body can store heat more effectively, your skin and muscles less prone to melting. Lava has become to you like water is to others, its substance less restricting as you move through it.
 
 Light Magic Resistance
 The power of the sun harnessed and enhanced by magic.

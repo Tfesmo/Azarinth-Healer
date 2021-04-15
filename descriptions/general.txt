@@ -28,6 +28,8 @@ Vast experience and understanding has changed your very core. The effects of Wis
 Monster Hunter
 Many times have you faced creatures well beyond your level. You revel in it, seek them out and you prevail. Your presence demands respect.
 Imbue you voice to show your intent. Effects vary depending on your disposition as well as those affected and their levels in relation to yours.
+2nd stage: You become better at communicating your intent. Infuse your voice with up to 100 mana to increase its range and effect on those that hear it.
+Fully infused, you may lure even powerful creatures towards your location, depending on your intent.
 
 Veteran
 You have experienced the shouts and spells of beings completely out of your range of imagination.
