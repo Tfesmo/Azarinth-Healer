@@ -100,3 +100,9 @@ Chapter 409
 
 Chapter 412
 	- mp/sec w/Med should be ~14, based on Fae draining 20 and the remainder being 6.
+
+Chapter 426
+	- Meditation 3rd tier, Wisdom doubled:
+	- "The bonus to Wisdom alone increased her mana per minute from 4.5% to 9%, doubling again thanks to her maximum mana doubling from 9050 to 18’000.
+	- Around 33 per second without Meditation and nearly 46 per second with the skill."
+	- Was able to get formulas that match 33/46 pretty well

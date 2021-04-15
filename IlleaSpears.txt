@@ -7,29 +7,29 @@ Class 2: 345 - Kin of Ash
 200% Healing
 100% Ashen
 
-Vit: 746
-End: 400
-Str: 510 [5525.9]
-Dex: 415 [2216.1]
-Int: 735 [7963.7]
-Wis: 775
+Vit: 816
+End: 405
+Str: 515 [5525.9]
+Dex: 420 [2216.1]
+Int: 740 [7963.7]
+Wis: 910
 
-Resilience: 2019.5%
-Speed+:     1395.5%
-Reflexes+:   412.0%
-Damage+:    1256.5%
+Resilience: 2092.5%
+Speed+:     1496.5%
+Reflexes+:   464.0%
+Damage+:    1302.0%
 
-Health  : 7460
-Stamina : 4000
-Mana    : 7750
+Health  :  8,160
+Stamina :  4,000
+Mana    : 18,200
 
 Regen:
-hp/sec:  0.23% [15.3]
-mp/sec:  0.16% [ 9.9]
-w/Med:   0.30% [16.3]
+hp/sec:  0.23% [17.3]
+mp/sec:  0.19% [33.7]
+w/Med:   0.26% [46.5]
 
-Effective Health: 1,711,888.1
-Additive EH:        197,055.9
+Effective Health: 2,090,987.3
+Additive EH:        224,808.0
 
 Azarinth Healer
 3-21 Absolute Destruction
@@ -61,7 +61,7 @@ General Skills:
 1-5  Harmony of the Drowned
 1-5  Heavy Archery
 1-10 Identify
-2-20  Meditation
+3-1  Meditation
 1-16 Monster Hunter
 2-11 Veteran
 
