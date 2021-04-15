@@ -109,6 +109,8 @@ Your eyes are much less sensitive to the negative effects associated with light.
 
 Lightning Resistance
 Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
+2nd stage: You are so familiar with Lightning that your body can transform a fraction of the energy into Mana and Stamina.
+3rd stage: The spread of lightning within your body is slowed down significantly and with sufficient practice, you may redirect a part of the power out once more.
 
 Mana Drain Resistance
 Rare foes will have the ability to drain your mana.
@@ -149,6 +151,8 @@ You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
 2nd stage: Either you need better guards or you need to stop eating everything you see.
 Experience has granted you an ability to sense poison. Additionally its spread throughout your body is slower, reducing its effects.
+3rd stage: Your favorite drink and seasoning for every food, you revel in that which destroys you. No more.
+You may neutralize the effects of many poisons on touch, in a mug of ale, your body, or someone else’s with the help of mana intrusion abilities, should you choose to do so.
 
 Sand Magic Resistance
 A powerful and versatile school of magic, able to slash, crush and suffocate. Usually found and common in certain desert regions, its masters unchallenged within their domain.
