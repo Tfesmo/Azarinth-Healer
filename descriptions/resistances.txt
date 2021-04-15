@@ -186,6 +186,7 @@ Space Magic Resistance
 Most who try to chase this elusive school of magic will find and choose the Void instead.
 You have fought a being of truly peculiar making, have faced and survived its spells and may count yourself amongst the few to call this skill their own.
 2nd stage: A true mystery, how you have sustained so much damage through Space Magic. You must have truly angered a being to summon such scorn. Your body and its parts become more difficult to displace.
+3rd stage: Your being comprehends space magic in its arcane nature, able to ignore some of the aspects of it. You may still be slowed if your adversary is too powerful but it will be difficult to pin you down entirely.
 
 Stamina Drain Resistance
 The more rarely used drain magic focused on Stamina.
