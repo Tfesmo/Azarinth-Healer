@@ -106,3 +106,7 @@ Chapter 426
 	- "The bonus to Wisdom alone increased her mana per minute from 4.5% to 9%, doubling again thanks to her maximum mana doubling from 9050 to 18’000.
 	- Around 33 per second without Meditation and nearly 46 per second with the skill."
 	- Was able to get formulas that match 33/46 pretty well
+
+Chapter 427
+	- "The hundred and thirty percent to the potential density of her ash was huge compared to another five percent to her already insanely inflated resilience."
+	- Based on this, can probably assume all bonuses are additive.

@@ -82,12 +82,12 @@ Increases your reflexes and speed by [30% + .5%/lvl - 51.5%x8 = 412.0%].
 Your ability to avoid damage to your vitals when dodging increases.
 2nd stage: Your muscles grow more dense.
 For each Resistance skill your body becomes tougher.
-First tier Resistances equal a static 5% increase, second tier equal a static 10% increase.
+First tier Resistances equal a static 5% increase, second tier equal a static 10% increase, third tier equal a static 15% increase.*
 3rd stage: You can choose to allow magic damage to bypass your related resistance skills.
 Effect is canceled automatically upon reaching 50% of your health.
-Each Resistance skill in the second tier increases the potential density of your created ash by a static 5%*.
+Each Resistance skill in the second tier or higher increases the potential density of your created ash by a static 5%.*
 Category: Body Enhancement – Ashen magic
-*see IlleaSpears.txt, half of the 2nd tier Muscle Density calculation
+*see IlleaSpears.txt for 2nd tier Muscle Density calculation
 
 Passive: Keeper of Ash 3-12
 You are one with the fighting style of Ash.

@@ -24,3 +24,5 @@ Balanced EH: 12000
 Additive Calculation:
 Assumes you take all bonuses and add them to gether, then do the 1/(1 + total)
 With the above calucation would +500% total, so a 6x multiplier on EH for magical, 5x on physical, 5500 balanced EH.
+
+Based on chapter 427, Additive is more likely to be accurate.
