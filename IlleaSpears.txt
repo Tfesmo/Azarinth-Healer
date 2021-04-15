@@ -95,7 +95,7 @@ Resistances:
 1-1  Silver Magic Resistance
 2-3  Soul Magic Resistance
 1-4  Sound Magic Resistance
-2-16 Space Magic Resistance
+2-17 Space Magic Resistance
 2-20 Stamina Drain Resistance
 2-20 Time Magic Resistance
 2-11 Void Magic Resistance
