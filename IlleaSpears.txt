@@ -79,7 +79,7 @@ Resistances:
 2-8  Death Magic Resistance
 1-9  Diamond Magic Resistance
 1-1  Dust Magic Resistance
-2-3  Earth Resistance
+2-5  Earth Resistance
 1-5  Emerald Magic Resistance
 1-10 Fear Resistance
 2-20 Gravity Magic Resistance
@@ -107,7 +107,7 @@ Resistances:
 1-6  Topaz Magic Resistance
 1-2  Vine Magic Resistance
 2-11 Void Magic Resistance
-2-1  Water Resistance
+2-4  Water Resistance
 2-20 Wind Resistance
 2-1  Wood Magic Resistance
 
