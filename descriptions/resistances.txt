@@ -68,6 +68,11 @@ Diamond Magic Resistance
 A considerably hard substance, capable of channeling powerful mana if the user understands its properties.
 Rarely seen due to the required gems and necessary fundamental understanding and connection to its composition.
 
+Divination Magic Resistance
+Be it seers, oracles, or madmen. Undeniably there are those gifted with the ability to pierce the veils of space and time itself.
+You must be important enough to warrant special attention, leading to a resistance to such magic.
+If anything, this new ability will increase said attention but at the very least, your most private moments might not be so easily perceived.
+
 Dust Magic Resistance
 Dangerous and elusive magic answering to few who seek its complexity, understand its beauty.
 You have faced a mage of dust and lived, preparing you for the next confrontation, should it come to pass.
