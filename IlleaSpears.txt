@@ -55,15 +55,16 @@ Ash Wielder
 3-22 Keeper of Ash
 
 General Skills:
+1-1  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-7  Harmony of the Drowned
 1-6  Heavy Archery
-1-11 Identify
+1-12 Identify
 3-3  Meditation
 2-4  Monster Hunter
 1-2  Oxygen Repository
-1-1  Sage of Torment
+1-2  Sage of Torment
 2-17 Veteran
 
 Resistances:
@@ -73,6 +74,7 @@ Resistances:
 1-10 Blight Resistance
 2-16 Blood Magic Resistance
 2-20 Blood Manipulation Resistance
+1-4  Bone Magic Resistance
 2-20 Corrosion Resistance
 2-3  Crystal Resistance
 2-20 Curse Resistance
@@ -84,6 +86,7 @@ Resistances:
 2-6  Earth Resistance
 1-9  Emerald Magic Resistance
 1-10 Fear Resistance
+1-5  Flesh Magic Resistance
 2-20 Gravity Magic Resistance
 2-20 Health Drain Resistance
 3-5  Heat Resistance
@@ -113,7 +116,7 @@ Resistances:
 2-20 Wind Resistance
 2-1  Wood Magic Resistance
 
-15x1st tier
+17x1st tier
 24x2nd tier
  6x3rd tier
 
@@ -121,7 +124,7 @@ Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (90% + 240% + 75% = 405%) more dense - Avatar of Ash 2nd
+	Muscles are (90% + 240% + 85% = 415%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd

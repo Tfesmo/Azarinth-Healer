@@ -35,6 +35,10 @@ Your blood was tampered with through magic but you have survived, making it hard
 2nd stage: Stop putting weird substances you find into open wounds.
 Perhaps your parents told you that playing in dirt was good for your immune system but there are limits. Your body can now fight blood manipulation actively.
 
+Bone Magic Resistance
+The ability to shift, grow and use ones own body to gain an advantage in battle is as old as magic itself. A skill which many humans had mastered in a time before language.
+Now most of that knowledge is gone and few remain to practice these arts. You have faced it in battle and survived. Of course you did. Sigh.
+
 Corrosion Resistance
 Many substances can be corrosive.
 Even the strongest stone will be cut through by the right combination of chemicals.
@@ -90,6 +94,11 @@ Emeralds have the ability to create vines from magic. Acute control and high und
 Fear Resistance
 You have overcome something truly terrifying to you.
 Your ability to deal with non magical fear is increased.
+
+Flesh Magic Resistance
+Not perhaps the prettiest of magic schools nor the most sanitary. Its ability to disturb and maim at the same time make it quite effective against those of higher thought.
+For the same reasons it is rarely found used by humans or those who preach purity. You stood unwavering against its power, unimpressed and with the only intent to learn this skill.
+Perhaps it would fit you.
 
 Gravity Magic Resistance
 A force of nature, bound and warped my magic itself.
