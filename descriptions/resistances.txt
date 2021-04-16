@@ -209,6 +209,10 @@ A rare magic to be sure and just as deadly.
 Not quite corrosion or poison, silver magic can be devious, its effects complex.
 You have survived and are one of few who have been exposed and lived.
 
+Smoke Magic Resistance
+Usually the result of fire magic, this school focused on smoke itself. Wielded by a master, it can be just as deadly and destructive, if not more so.
+Knowing you, you probably just set fire inside a closed off cave and enjoyed the choking sensation. Slut.
+
 Soul Magic Resistance
 The fleeting conscience of man and beast. Flesh, energy, motion and thought.
 The Soul stands separate entirely, yet intertwined all the same.
@@ -266,6 +270,8 @@ The ever elusive magic of Wind can cut from any side.
 You have learned that it might’ve been a good idea to become a Void mage.
 This skill helps you resist the power of wind a little more.
 2nd stage: The mana flow inside of you has acclimated itself to the air around you, making you more aerodynamic.
+3rd stage: As you adjust to the flows of powerful wind magic and natural torrents, you find yourself often capable of using some of the power.
+Perhaps to propel yourself forward or stop abruptly. Wind mages might think you one of their own.
 
 Wood Magic Resistance
 A connection made from a mage to nature allowed for this talent to take root.
