@@ -18,6 +18,10 @@ It will help you negate the damage ever so slightly for the next time you chose 
 2nd stage: Despite common sense, you just keep on doing it. Either you should start reading safety manuals or embrace that you are a true explosion elemental.
 Your organs, bones, muscles and your skin become partially shock absorbent. Please stop.
 
+Blight Resistance
+A rare phenomenon often caused by ancient curse magic colliding with naturally poisonous, unclean or corrupting environments.
+When wielded by a mage it can turn into a dangerous weapon.
+
 Blood Magic Resistance
 The arts of blood manipulation can be deceptive and dangerous to both ally and foe.
 You have stood against the old magic and lived. Next time your chance of survival will be even higher.
@@ -60,6 +64,10 @@ It is difficult to survive but to someone like you, what is death but another ch
 2nd stage: Necromancers, Blood, and Death mages hate you.
 Your blood, bones and your body are mostly unusable in their rituals.
 
+Diamond Magic Resistance
+A considerably hard substance, capable of channeling powerful mana if the user understands its properties.
+Rarely seen due to the required gems and necessary fundamental understanding and connection to its composition.
+
 Dust Magic Resistance
 Dangerous and elusive magic answering to few who seek its complexity, understand its beauty.
 You have faced a mage of dust and lived, preparing you for the next confrontation, should it come to pass.
@@ -69,6 +77,10 @@ The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.
 This skill will help you negate more of its damage.
 2nd stage: Your skin and bones harden, adapting more and more to the element that threatened your life again and again.
+
+Emerald Magic Resistance
+Vine magic is a magic school closely associated with water and earth, often used to entrap creatures where trees and vegetation is naturally abundant.
+Emeralds have the ability to create vines from magic. Acute control and high understanding is necessary to achieve a usable result.
 
 Fear Resistance
 You have overcome something truly terrifying to you.
@@ -160,11 +172,19 @@ Experience has granted you an ability to sense poison. Additionally its spread t
 3rd stage: Your favorite drink and seasoning for every food, you revel in that which destroys you. No more.
 You may neutralize the effects of many poisons on touch, in a mug of ale, your body, or someone else’s with the help of mana intrusion abilities, should you choose to do so.
 
+Ruby Magic Resistance
+A sub magic school of gem magic, harnessing the arcane connection of rubies. Rarely seen among living creatures, unstable and difficult to control.
+Golems are one of few exceptions to the problems of using such magic.
+
 Sand Magic Resistance
 A powerful and versatile school of magic, able to slash, crush and suffocate. Usually found and common in certain desert regions, its masters unchallenged within their domain.
 Exposure has made you more resilient to this type of magic.
 2nd stage: Through exposure and forced understanding, you will find it easier to move through sand.
 An ability most sand mages and creatures master early in their development and one of their core advantages.
+
+Sapphire Magic Resistance
+A sub magic school of gem magic.
+Sapphires are attuned to water magic in a way few natural stones and gems are, letting a trained user focus powerful torrents of collected or created water to form devastating and precise attacks.
 
 Silver Magic Resistance
 A rare magic to be sure and just as deadly.
@@ -200,6 +220,14 @@ The intricacies of time magic are difficult to grasp, its secrets hidden forever
 A rare few have managed to bend the elusive force to their will, making it a dangerous tool both for themselves and for their enemies.
 2nd stage: While it certainly eludes your simple mind, your body has learned that the flows and waves of time are fickle. 
 Bent and shrouded for too many times, you have found a center in it all. A calm in the sea of time. It will take a true master to disturb what you have found to be truth.
+
+Topaz Magic Resistance
+Gems especially capable of channeling light magic, focusing beams to an extent otherwise impossible.
+The necessary understanding and craftsmanship to create usable gems is vast, minute mistakes causing dangerous malfunctions.
+
+Vine Magic Resistance
+The versatility and abundance of vines have caused many hunters to specialize in its use.
+Often coupled with venom, this at first glance less dangerous magic becomes the last thing many a creature experiences. You have avoided that fate. For now.
 
 Void Magic Resistance
 The mystical magic usually used to enchant high level items applied as a form of combat magic.
