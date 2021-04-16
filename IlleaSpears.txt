@@ -58,11 +58,12 @@ General Skills:
 1-6  Elos Standard language
 1-15 English Language
 1-7  Harmony of the Drowned
-1-5  Heavy Archery
+1-6  Heavy Archery
 1-11 Identify
 3-3  Meditation
-2-  Monster Hunter
+2-4  Monster Hunter
 1-2  Oxygen Repository
+1-1  Sage of Torment
 2-17 Veteran
 
 Resistances:

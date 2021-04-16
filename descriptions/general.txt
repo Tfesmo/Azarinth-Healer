@@ -31,9 +31,13 @@ Imbue you voice to show your intent. Effects vary depending on your disposition 
 2nd stage: You become better at communicating your intent. Infuse your voice with up to 100 mana to increase its range and effect on those that hear it.
 Fully infused, you may lure even powerful creatures towards your location, depending on your intent.
 
-Oxygen Repository – lvl 1
+Oxygen Repository
 Due to unfortunate and/or sexual circumstances, you have been deprived of air for extended periods of time. Somehow you have pushed through to survive.
 Your body has learned that it may not always be supplied with what it needs. You may survive much longer without oxygen and may store what little you can get for extended periods of time. Apologies for ruining your sex life.
+
+Sage of Torment
+You have reached strength through pain and struggle. With time they have become companions on your way to power. As long as you train those willing, they shall find comfort and resilience in your presence.
+You are an example of what is possible, through sheer tenacity. Also, you inflict a lot of pain.
 
 Veteran
 You have experienced the shouts and spells of beings completely out of your range of imagination.
