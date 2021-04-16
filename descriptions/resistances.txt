@@ -28,6 +28,8 @@ You have stood against the old magic and lived. Next time your chance of surviva
 2nd stage: Masters of this ancient art have found ways to use the very essence of your life against you.
 With sheer ferocity, you have shown that not every creature born of blood is prey alone.
 They will find it a challenge to invade and use what belongs to you alone.
+3rd stage: Your very blood has changed and evolved. While it may still be susceptible to change and foreign influence, it will not take the abuse lightly.
+Enemies will find their blood magic will demand a sacrifice should they choose to injure you. You may deactivate this effect.
 
 Blood Manipulation Resistance
 A rare gift similar to poisons having an effect with dangerous results.

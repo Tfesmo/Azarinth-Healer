@@ -58,3 +58,6 @@ You trained with a Trakorov. Why?
 - Veteran
 You have faced creatures completely out of your league, since arriving here and up to this very moment. Not just that but you mostly faced them alone, even managed to get two four marks to fight each other.
 It’s hard to say if you’re a veteran or just a plain lunatic. Either way, you may unlock the third tier of Veteran.
+
+- Blood Magic Resistance
+You have made masters of blood magic your enemies, pushing through and surviving despite the odds. Your body has been ravaged by this school of magic so many times, any count would be meaningless. Creatures beyond your imagination have tried to kill you, without success.
