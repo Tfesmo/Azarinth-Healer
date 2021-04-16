@@ -186,6 +186,10 @@ Experience has granted you an ability to sense poison. Additionally its spread t
 3rd stage: Your favorite drink and seasoning for every food, you revel in that which destroys you. No more.
 You may neutralize the effects of many poisons on touch, in a mug of ale, your body, or someone else’s with the help of mana intrusion abilities, should you choose to do so.
 
+Rot Resistance
+With your regeneration and healing, it was unlikely that such a resistance would ever manifest. However you have found a powerful source of unnatural rot.
+Perhaps fueled by a curse or magic. Congratulations on yet another painful and horrific experience.
+
 Ruby Magic Resistance
 A sub magic school of gem magic, harnessing the arcane connection of rubies. Rarely seen among living creatures, unstable and difficult to control.
 Golems are one of few exceptions to the problems of using such magic.
