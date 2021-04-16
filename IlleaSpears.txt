@@ -38,7 +38,7 @@ Azarinth Healer
 3-14 Sentinel Sphere
 3-24 Sentinel Core
 3-27 Azarinth Fighting
-3-3  Sentinel Huntress
+3-4  Sentinel Huntress
 3-13 Azarinth Perception
 3-17 Azarinth Reversal
 
