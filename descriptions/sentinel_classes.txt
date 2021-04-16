@@ -1,0 +1,57 @@
+‘ding’ ‘Requirements met for class change: Guardian Medic. This Class will replace either [Child of Fire] or [Fire Mage] with all associated skills and stats -
+Has endured the harrowing training of the Medic Sentinels without breaking. Has gained ample understanding of the human body and its functions. Has mastered various first aid techniques. Has gained a basic understanding of various forms of healing magic.
+Has gained understanding of various combat abilities. Has the First Aid, Fear Resistance and Veteran skills. Has risked their own life to safe another.
+The Guardian Medic combines the combat and defense oriented teachings of the Medic Sentinel Corps with a focus on healing magic. This healer will keep their allies alive and protected, no matter what.
+Healers may be desirable in a team of adventurers but a Guardian Medic trained in Ravenhall can keep up with the best of them, able to provide support and protection during combat without losing to fear or pressure.
+If someone finds themselves in the worst possible situation, they should pray that one of their allies is a Guardian Medic.
+
+‘New Class: Guardian Medic
+
+Vitality +20
+Strength +5
+Intelligence +10
+
+All healing magic skills are improved by 200%
+Body Enhancement magic is improved by 50%
+Resilience is increased by 50%
+
+Skills gained in Guardian Medic:
+
+Active: Focused Heal – lvl 1
+Your mana surges as you channel regenerative power into yourself or one ally.
+Category: Healing
+
+Active: Healing Aura – lvl 1
+All mana regeneration is channeled instead into a one meter spherical aura that heals yourself and all allies within.
+Category: Healing Aura – Body Enhancement
+
+Active: Guardian Spirit – lvl 1
+You stand against all. Increases your resilience by 50% [75%] and your Strength by 20% [30%].
+Category: Aura – Body Enhancement
+
+Passive: Medic Resolve – lvl 1
+Your mind and body are trained and experienced. You will not flinch, stagger or fear as easily. Your focus will not waver when in danger.
+Category: Body Enhancement
+
+Passive: Sentinel Warrior – lvl 1
+You are familiar with various weapons and fighting techniques. Damage inflicted with your preferred weapon type and your own body is increased by 50% [75%].
+Category: Body Enhancement
+
+‘ding’ ‘Requirements met for class change: Medic Sentinel. This Class will replace [insert class] with all associated skills and stats -
+Has endured the harrowing training of the Medic Sentinels without breaking. Has gained ample understanding of the human body and its functions. Has mastered various first aid techniques. Has a basic understanding of alchemy.
+Has gained understanding of various combat abilities. Has the First Aid and Fear Resistance skills. Has at least five Resistance skills at level ten or higher.
+Trained and forged under the scrutiny of veterans in their own right. Chosen by the Medic Sentinels, you will embody what it means to be part of their ranks. Should you choose this path, you shall find no lack of adversity and struggle but with it opportunities and sheer unlimited potential.
+With both defensive and healing abilities, the Medic Sentinel provides the backbone to any organized team. And even alone, they should not be underestimated.
+
+‘ding’ ‘Requirements met for class change: Ashen Medic. This Class will replace [insert class] with all associated skills and stats -
+Has endured the harrowing training of the Medic Sentinels without breaking. Has gained ample understanding of the human body and its functions. Has mastered various first aid techniques. Has gained a substantial understanding of ash.
+Has gained understanding of various advanced combat abilities. Has endured several near death experiences. Has the Pain Tolerance and Ash Magic Resistance skills in the second tier. Has the First Aid, Fear Resistance and Veteran skills. Has at least five Resistance skills at level ten or higher.
+The Ashen Medic would not at first be recognized as a healer. Perhaps you may even be mistaken for your benefactor. It’s on you to try and live up to such expectations.
+A hunter with a balanced offense and defense, using both Ash and healing abilities to fight on the front lines or to provide time and opportunities for more offensive fighters. Your path is set and opportunity calls.
+
+‘ding’ ‘Requirements met for class change: Ashen Sentinel. This Class will replace [insert class] with all associated skills and stats -
+Has endured the harrowing training of the Medic Sentinels without breaking. Has gained ample understanding of the human body and its functions. Has gained a substantial understanding of ash and its uses in combat.
+Has gained understanding of various advanced combat abilities. Has come to the brink of death at least five times and pushed on. Has the Pain Tolerance, Ash Magic Resistance, and Lightning Resistance skills in the second tier.
+Has the Veteran and Fear Resistance skills. Has at least five Resistance skills at level ten or higher. Has defeated an enemy fifty levels higher than themselves while alone.
+The Ashen Sentinel is both protector and destroyer. Wielding powerful ash magic, they are unpredictable and prepared for everything. Unwavering and ready to meet death with weapons drawn, they instill fear in their enemies and confidence in their allies.
+With minor healing spells and high regeneration, these warriors are difficult to take down. Ambition and drive may lead you to reach the same heights Lilith herself has reached.
