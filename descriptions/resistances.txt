@@ -21,6 +21,7 @@ Your organs, bones, muscles and your skin become partially shock absorbent. Plea
 Blight Resistance
 A rare phenomenon often caused by ancient curse magic colliding with naturally poisonous, unclean or corrupting environments.
 When wielded by a mage it can turn into a dangerous weapon.
+2nd stage: You have survived blight exposure for prolonged periods of time. Weak spells or natural blight will not be able to penetrate past your skin anymore.
 
 Blood Magic Resistance
 The arts of blood manipulation can be deceptive and dangerous to both ally and foe.
@@ -40,6 +41,8 @@ Perhaps your parents told you that playing in dirt was good for your immune syst
 Bone Magic Resistance
 The ability to shift, grow and use ones own body to gain an advantage in battle is as old as magic itself. A skill which many humans had mastered in a time before language.
 Now most of that knowledge is gone and few remain to practice these arts. You have faced it in battle and survived. Of course you did. Sigh.
+2nd stage: You seem to really love bone magic. Due to the prolonged exposure and your increasing understanding of its structure, your own skeleton becomes more robust.
+Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage.
 
 Corrosion Resistance
 Many substances can be corrosive.
@@ -73,6 +76,7 @@ Your blood, bones and your body are mostly unusable in their rituals.
 Diamond Magic Resistance
 A considerably hard substance, capable of channeling powerful mana if the user understands its properties.
 Rarely seen due to the required gems and necessary fundamental understanding and connection to its composition.
+2nd stage: Through long term exposure and thousands of injuries, your skin has adapted some of the diamond’s properties, its durability increased.
 
 Divination Magic Resistance
 Be it seers, oracles, or madmen. Undeniably there are those gifted with the ability to pierce the veils of space and time itself.
@@ -92,6 +96,7 @@ This skill will help you negate more of its damage.
 Emerald Magic Resistance
 Vine magic is a magic school closely associated with water and earth, often used to entrap creatures where trees and vegetation is naturally abundant.
 Emeralds have the ability to create vines from magic. Acute control and high understanding is necessary to achieve a usable result.
+2nd stage: You have been entrapped so many times that you find it easier than before to escape. Quick movements of your arms and hands, a twist of your torso, or a sudden jerk of your legs may be all you need to escape being bound.
 
 Fear Resistance
 You have overcome something truly terrifying to you.
@@ -191,6 +196,7 @@ You may neutralize the effects of many poisons on touch, in a mug of ale, your b
 Rot Resistance
 With your regeneration and healing, it was unlikely that such a resistance would ever manifest. However you have found a powerful source of unnatural rot.
 Perhaps fueled by a curse or magic. Congratulations on yet another painful and horrific experience.
+2nd stage: Your body has endured more than most, solely thanks to your magical regeneration. Time and exposure have made your body more resilient to infection, damaging bacteria, and fungal growth.
 
 Ruby Magic Resistance
 A sub magic school of gem magic, harnessing the arcane connection of rubies. Rarely seen among living creatures, unstable and difficult to control.
@@ -214,6 +220,7 @@ You have survived and are one of few who have been exposed and lived.
 Smoke Magic Resistance
 Usually the result of fire magic, this school focused on smoke itself. Wielded by a master, it can be just as deadly and destructive, if not more so.
 Knowing you, you probably just set fire inside a closed off cave and enjoyed the choking sensation. Slut.
+2nd stage: The effects of breathing in smoke have become irrelevant to you. Only its magical power remains. You should still look for air. It’s good for you.
 
 Soul Magic Resistance
 The fleeting conscience of man and beast. Flesh, energy, motion and thought.
@@ -259,6 +266,8 @@ It’s as deadly as it is silent. How exactly you survived is unclear, perhaps t
 Next time it might work against a true enemy as well.
 2nd stage: You have resisted the true magic of the Void, your body and will showing unrelenting grit. More than a simple spell will be required to invade your body with the void.
 Your very existence and all of its parts are connected to you through the threads of magic.
+3rd stage: Your body is bound to the space around it. The void cannot take what it does not own, nor move what cannot be moved.
+The effects of Void Magic are reduced. Its damage remains but you can no longer be ripped out of space itself, nor be moved against your will by the magic of void.
 
 Water Resistance
 In your days you have learned many things.

@@ -9,140 +9,152 @@ Class 2: 348 - Kin of Ash
 
 Vit: 816
 End: 405
-Str: 515 [5525.9]
-Dex: 420 [2216.1]
-Int: 740 [7963.7]
+Str: 515 [6102.8]
+Dex: 425 [2507.5]
+Int: 765 [9065.3]
 Wis: 910
 
-Resilience: 2092.5%
-Speed+:     1496.5%
-Reflexes+:   464.0%
-Damage+:    1302.0%
+Resilience: 2,165.0%
+Speed+:     1,605.0%
+Reflexes+:    520.0%
+Damage+:    1,354.5%
 
 Health  :  8,160
-Stamina :  4,000
+Stamina :  4,050
 Mana    : 18,200
 
 Regen:
-hp/sec:  0.23% [17.3]
+hp/sec:  0.24% [17.9]
 mp/sec:  0.19% [33.7]
-w/Med:   0.26% [46.5]
+w/Med:   0.26% [47.0]
 
-Additive EH: 224,808.0
+Mitigation:  96.5% [hp x 28.7]
+Additive EH: 234,396.0
 
 Azarinth Healer
 3-23 Absolute Destruction
 3-30 Sentinel Reconstruction
-3-28 Azarinth Awakening
-3-24 Blink
-3-19 Sentinel Sphere
-3-27 Sentinel Core
-3-28 Azarinth Fighting
-3-4  Sentinel Huntress
-3-16 Azarinth Perception
-3-18 Azarinth Reversal
+3-30 Azarinth Awakening
+3-27 Blink
+3-25 Sentinel Sphere
+3-30 Sentinel Core
+3-30 Azarinth Fighting
+3-8  Sentinel Huntress
+3-23 Azarinth Perception
+3-19 Azarinth Reversal
 
 Ash Wielder
 3-30 Armor of Ash
-3-28 Aspect of Ash
-3-25 True Ash Creation
-3-17 Heart of Cinder
+3-30 Aspect of Ash
+3-30 True Ash Creation
+3-19 Heart of Cinder
 3-17 Storm of Cinders
-3-23 Ash and Ember Unity
-3-19 Ashen Wings
-3-11 Eyes of Ash
-3-25 Avatar of Ash
-3-24 Keeper of Ash
+3-27 Ash and Ember Unity
+3-24 Ashen Wings
+3-17 Eyes of Ash
+3-30 Avatar of Ash
+3-27 Keeper of Ash
 
 General Skills:
-1-6  Deviant of Humanity
+1-3  Dancing
+1-8  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
-1-7  Harmony of the Drowned
-1-8  Heavy Archery
-1-12 Identify
-3-4  Meditation
-2-7  Monster Hunter
-1-8  Oxygen Repository
-1-6  Sage of Torment
-3-2  Veteran
+1-2  Gourmet
+1-8  Harmony of the Drowned
+1-11 Heavy Archery
+1-13 Identify
+3-7  Meditation
+3-1  Monster Hunter
+1-14 Oxygen Repository
+1-18 Sage of Torment
+1-2  Soul Perception
+1-3  Teaching
+3-4  Veteran
+1-5  Warhammer Mastery
 
 Resistances:
-3-14 Arcane Magic Resistance
+3-16 Arcane Magic Resistance
 1-1  Ash Magic Resistance
 2-20 Blast Resistance
-1-10 Blight Resistance
-3-1  Blood Magic Resistance
+2-1  Blight Resistance
+3-8  Blood Magic Resistance
 2-20 Blood Manipulation Resistance
-1-16 Bone Magic Resistance
+2-5  Bone Magic Resistance
 2-20 Corrosion Resistance
-2-8  Crystal Resistance
+2-14 Crystal Resistance
 2-20 Curse Resistance
-2-2  Dark Magic Resistance
+2-6  Dark Magic Resistance
 2-8  Death Magic Resistance
-1-13 Diamond Magic Resistance
-1-3  Divination Magic Resistance
-1-1  Dust Magic Resistance
-2-11 Earth Resistance
-1-9  Emerald Magic Resistance
+2-3  Diamond Magic Resistance
+1-5  Divination Magic Resistance
+1-6  Dust Magic Resistance
+2-20 Earth Resistance
+2-1  Emerald Magic Resistance
 1-10 Fear Resistance
-1-6  Flesh Magic Resistance
+1-8  Flesh Magic Resistance
 2-20 Gravity Magic Resistance
 2-20 Health Drain Resistance
-3-6  Heat Resistance
+3-7  Heat Resistance
 2-20 Ice Resistance
 2-20 Lava Magic Resistance
 2-20 Light Magic Resistance
-3-2  Lightning Resistance
+3-4  Lightning Resistance
 2-20 Mana Drain Resistance
 3-5  Mental Resistance
-2-15 Mist Magic Resistance
+2-20 Mist Magic Resistance
 1-3  Obsidian Magic Resistance
 3-3  Pain Tolerance
 3-2  Poison Resistance
-1-4  Rot Resistance
-1-6  Ruby Magic Resistance
+2-1  Rot Resistance
+1-14 Ruby Magic Resistance
 2-20 Sand Magic Resistance
-1-9  Sapphire Magic Resistance
+1-13 Sapphire Magic Resistance
 1-1  Silver Magic Resistance
-1-12 Smoke Magic Resistance
+2-3  Smoke Magic Resistance
 2-3  Soul Magic Resistance
-1-13 Sound Magic Resistance
+1-18 Sound Magic Resistance
 3-2  Space Magic Resistance
 2-20 Stamina Drain Resistance
 2-20 Time Magic Resistance
-1-12 Topaz Magic Resistance
-1-5  Vine Magic Resistance
-2-16 Void Magic Resistance
-2-10 Water Resistance
+1-18 Topaz Magic Resistance
+1-14 Vine Magic Resistance
+3-2  Void Magic Resistance
+2-20 Water Resistance
 3-2  Wind Resistance
 2-1  Wood Magic Resistance
 
-18x1st tier
-23x2nd tier
- 8x3rd tier
+12x1st tier
+28x2nd tier
+ 9x3rd tier
+
+Ash Density: 37*5% = 185%
 
 Non-numeric or non-global defensive buffs
 Class:
 	Your bones are three times as heavy and dense - Sentinel Core 2nd
 	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (120% + 230% + 90% = 440%) more dense - Avatar of Ash 2nd
+	Muscles are (135% + 280% + 60% = 475%) more dense - Avatar of Ash 2nd
 	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
 	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic Resistance 2nd
 	Your organs, bones, muscles and your skin become partially shock absorbent - Blast Resistance 2nd
+	Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage - Bone Magic Resistance 2nd
+	Your skin has adapted some of the diamond’s properties, its durability increased - Diamond Magic Resistance 2nd
 
 Summary:
 	Bones: 
 		Three times as heavy and dense.
 		Increased density.
 		Hardened.
+		Increased durability.
 	Muscles:
 		[Percentage] more dense. (Avatar of Ash 2nd)
 		Increased density.
 	Skin:
 		Increased density.
 		Hardened.
+		Increased durability.
 	All:
 		Increased defensive capabilities, halved if armor beyond light category is worn.
 		Partially shock absorbent.

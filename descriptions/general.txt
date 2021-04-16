@@ -1,3 +1,6 @@
+Dancing
+The ability to move your body to music and to coordinate your movements with those around you or a partner. It’s really a surprise this took you so long, considering your dexterous body.
+
 Deviant of Humanity
 You face creatures most other humans have nightmares about, call beings your friends that occupy the pages of legends told by your kind.
 You have reached a level of power that few humans will ever call their own. And yet you push onward, knowing of the dangers that wait in the dark.
@@ -8,6 +11,9 @@ You can speak and read the Standard language of Elos.
 
 English Language
 You can speak the English Language.
+
+Gourmet
+You have consumed only high class cuisine for at least two weeks. You spare no expense, learning about dishes and the intricate combinations of taste through extravagant experiences.
 
 Harmony of the Drowned
 You have been submerged in liquid for longer than you should’ve survived.
@@ -35,6 +41,7 @@ Many times have you faced creatures well beyond your level. You revel in it, see
 Imbue you voice to show your intent. Effects vary depending on your disposition as well as those affected and their levels in relation to yours.
 2nd stage: You become better at communicating your intent. Infuse your voice with up to 100 mana to increase its range and effect on those that hear it.
 Fully infused, you may lure even powerful creatures towards your location, depending on your intent.
+3rd stage: You may communicate even more intricate messages to monsters of all kinds. Infusing your voice allows you to imitate the calls of generally lower leveled monsters you have previously heard.
 
 Oxygen Repository
 Due to unfortunate and/or sexual circumstances, you have been deprived of air for extended periods of time. Somehow you have pushed through to survive.
@@ -44,9 +51,19 @@ Sage of Torment
 You have reached strength through pain and struggle. With time they have become companions on your way to power. As long as you train those willing, they shall find comfort and resilience in your presence.
 You are an example of what is possible, through sheer tenacity. Also, you inflict a lot of pain.
 
+Soul Perception
+Through sheer luck and naivete, you have achieved enlightenment. A part of it that is. And perhaps not really enlightenment. Others might call it that but it’s really just the ability to perceive your soul or essence.
+It’s a dubious skill that might help philosophers understand a piece of life’s puzzle but for you it will be mostly useless. Congratulations regardless. A skill that didn’t require killing and blood to unlock. Marvelous.
+
+Teaching
+Through time and effort did you share knowledge and experiences with those considered your students. You will find it easier to explain concepts as this skill reaches higher levels.
+
 Veteran
 You have experienced the shouts and spells of beings completely out of your range of imagination.
 You will not survive but at least you won’t be completely immobilized while you get eaten. Good luck warrior.
 2nd stage: You are immune to the fear of facing that which you do not understand.  Be wary, some might sense your arrogance in the face of power, others might fear it.
 3rd stage: It seems you don’t just happen upon impossible fights, you outright look for them. Your confidence and experience is obvious, not just to yourself but others too.
 Your second tier now extends to allies within a fifty meter radius, should you allow for such to happen. Additionally, your ability to gauge an unknown enemy’s power is vastly improved.
+
+Warhammer Mastery
+You have learned to use the Warhammer to an adequate capacity. This skill will let you handle the heavy weapon a little more easily. Your swings will move with just a little more weight and your balance will improve significantly.
