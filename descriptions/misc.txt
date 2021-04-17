@@ -64,3 +64,6 @@ You have made masters of blood magic your enemies, pushing through and surviving
 
 - Blast Resistance
 Taleen Praetorians are made to destroy their enemy. If they reach critical health, their remaining energy is channeled into a complicated set of enchantments, creating a magical explosion that could rival four mark creatures. You have proven to be quite adequately prepared to face such power. Twice in a row even.
+
+- Water Resistance
+You have survived attack spells specialized and perfected over centuries by none other than the great Destroyer. The outrageous power of magical creatures imitated by sheer ingenuity and perfect control.
