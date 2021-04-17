@@ -11,7 +11,7 @@ All healing magic skills are improved by 200%
 Natural health regeneration is increased by 1% per minute
 Food, water and sleep needed to sustain yourself are reduced
 
-Active: Absolute Destruction 3-18
+Active: Absolute Destruction
 Send a destructive pulse of mana into your enemy with every punch or kick.
 Your Intelligence stat enhances the damage potential.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 100 mana per strike.
@@ -19,7 +19,7 @@ You may charge each strike whilst unmoving with 100 mana per second to a maximum
 3rd stage: Due to the healing nature of Destruction it partially ignores protection against Mana intrusion.
 Category: Healing
 
-Active: Sentinel Reconstruction 3-19
+Active: Sentinel Reconstruction
 Send a healing pulse of mana into yourself or your ally with a touch.
 This skill can be channeled.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
@@ -31,8 +31,8 @@ Sacrifice a large amount of mana to rush your healing to unprecedented speeds.
 Lack of knowledge about your body may result in heavy damage.
 Category: Healing
 
-Active: Azarinth Awakening 3-17
-Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl - 78.5%x7 = 549.5%].
+Active: Azarinth Awakening
+Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl].
 2nd stage: Your sight, hearing and sense of smell is also affected by Azarinth Awakening.
 3rd stage: You are one with the Azarinth.
 The skill’s upkeep has been removed.
@@ -40,7 +40,7 @@ Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
 Category: Aura – Body Enhancement
 
-Active: Blink 3-15
+Active: Blink
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between blinks is reduced greatly. 
@@ -53,7 +53,7 @@ Category: Teleportation Magic
 *42.5m range @ 3-15, 15m @ 1-1, ch409
 *Formula should be: 15m + .5m/lvl
 
-Active: Sentinel Sphere 3-5
+Active: Sentinel Sphere
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the sphere reaches.
 2nd stage: The Sentinel Sphere opens your senses to the arcane, a paramount skill both on and off the battlefield.
@@ -64,30 +64,30 @@ Category: Aura – Perception Aura
 *20m+ radius @ 2-19, ch71
 *~30m radius @ 3-5, ch409
 
-Passive: Sentinel Core 3-11
+Passive: Sentinel Core
 Your body was changed by magic.
 All pain is reduced greatly.
-You body is [20% + .5%/lvl - 45.5%x9 = 409.5%] more durable.
+You body is [20% + .5%/lvl] more durable.
 You heal even fatal injuries without help of healing magic.
-Your natural Health regeneration is improved by [100% + .5%/lvl - 125.5%x9 = 1129.5%].
+Your natural Health regeneration is improved by [100% + .5%/lvl].
 2nd stage: The magic of Azarinth settles inside your body.
-Your resistance to magical damage is increased by a static 25% [x9 225%] and your bones are three times as heavy and dense.
+Your resistance to magical damage is increased by a static [25%] and your bones are three times as heavy and dense.
 3rd stage: Your body was battered and forged by magic.
 You absorb mana from enemy spells that hit you.
 Efficiency is determined by enemy mana used and your resistance to the type of magic.
 Mana cost for all skills reduced by a static 25%.
 Category: Healing – Body Enhancement
 
-Passive: Azarinth Fighting 3-17
+Passive: Azarinth Fighting
 You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% + .5%/lvl - 103.5%x7 = 724.5%].
-2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static 10% [x7 70%].
+Damage inflicted with your own body and related skills is [75% + .5%/lvl].
+2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static [10%].
 3rd stage: Azarinth Fighting consists of more than offense alone.
 A true Azarinth Healer knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.
 Category: Body Enhancement
 
-Passive: Sentinel Huntress 3-1
+Passive: Sentinel Huntress
 Huntress turned Sentinel.
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings as well as the ambient mana to find clues about your target’s whereabouts.
@@ -99,7 +99,7 @@ Each level in the third tier adds an additional mark that can be used.
 Marks forcefully applied have a limited duration.
 Category: Body Enhancement
 
-Passive: Azarinth Perception 3-1
+Passive: Azarinth Perception
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body a healer of Azarinth has to be able to control it.
 2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
@@ -108,7 +108,7 @@ This can happen only once per hour.
 Increases usage to twice per hour.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal 3-11
+Passive: Azarinth Reversal
 You have learned of Absolute Destruction and Sentinel Reconstruction.
 Now you will learn of their Reversal.
 Upon activation, Absolute Destruction will send a part of the struck enemy’s mana into yourself.
@@ -117,5 +117,5 @@ Upon activation, Sentinel Reconstruction will send a destructive force of channe
 2nd stage: You may have both the original and reversed aspects activated at the same time.
 3rd stage: Healing, power, resilience and speed.
 An Azarinth Healer requires balance.
-Your respective Destruction and Reconstruction spells have their potency increased by a static 25% of your lowest stat. [100%]
+Your respective Destruction and Reconstruction spells have their potency increased by a static 25% of your lowest stat.
 Category: Body Enhancement
