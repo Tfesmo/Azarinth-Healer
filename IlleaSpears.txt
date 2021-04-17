@@ -47,7 +47,7 @@ Kin of Ash
 3-30 Armor of Ash            [135.0% x 8 = 1,080.0% Resilience]
 3-30 Aspect of Ash           [70.0% x 7 = 490.0% Resilience, Speed, Strength, Intelligence and Dexterity]
 3-30 True Ash Creation
-3-19 Heart of Cinders
+3-19 Heart of Cinder
 3-17 Storm of Cinders
 3-27 Ash and Ember Unity
 3-24 Ashen Wings
