@@ -1,4 +1,4 @@
-The Faen Valkyrie
+ The Faen Valkyrie
 
 Intelligence +20
 Wisdom +20
@@ -34,15 +34,11 @@ Increases your magic damage resistance by [5% + .1%/lvl].
 You won’t be fazed anymore by heavy damage or powerful sources of light and sound.
 Category: Body enhancement – Space Magic
 
-Passive – Lull of Battle
-You are one with war and battle. Less Endurance is needed the longer you fight.
-Category: Aura – Body Enhancement
-
-Untaken:
 Passive – Space Awareness
 You become more aware of the density and shifts in the fabric of Space itself.
 Category: Body Enhancement – Perception Aura
 
+Untaken:
 Active – Spear of Creation
 Wield the fire of creation as an extension of your arms. The spear is especially useful against magical defenses.
 Category: Fire Magic – Space Magic

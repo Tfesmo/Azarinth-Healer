@@ -2,7 +2,7 @@ Name: Ilea Spears
 
 Class 1: 351 - The Azarinth Sentinel
 Class 2: 351 - Kin of Ash
-Class 3:   1 - The Faen Valkyrie
+Class 3:   3 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -60,7 +60,7 @@ Kin of Ash
 The Faen Valkyrie
 1-1  Force
 1-1  Flare of Creation       [25.5% x 8 = 204.0% Resilience]
-1-1  Displacement
+1-2  Displacement
 1-1  Space Shift
 1-1  Body of the Valkyrie    [15.5% x 9 = 139.5% Resilience, 5.1% x 9 = 45.9% Physical Resistance, 5.0% x 9 = 45.9% Magic Resistance]
 1-1  Lull of Battle
