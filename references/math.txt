@@ -110,3 +110,6 @@ Chapter 426
 Chapter 427
 	- "The hundred and thirty percent to the potential density of her ash was huge compared to another five percent to her already insanely inflated resilience."
 	- Based on this, can probably assume all bonuses are additive.
+
+Chapter 494
+	- Illea's mp regen is roughly 54/sec at this point, Armaments bring it down to a trickle.  So probably around ~50 mp/sec to run her living armor.  May go down with use/experience?
