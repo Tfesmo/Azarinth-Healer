@@ -1,37 +1,37 @@
-Class 1: 358 - The Azarinth Sentinel
-Class 2: 357 - Kin of Ash
-Class 3: 104 - The Faen Valkyrie
+Class 1: 360 - The Azarinth Sentinel
+Class 2: 360 - Kin of Ash
+Class 3: 114 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
 100% Ashen
 100% Space
 
-Vit:  855
+Vit:  885
 End:  420
 Str:  515  [6,901.0]
 Dex:  425  [2,805.0]
 Int:  855 [11,457.0]
 Wis: 1000
 
-Resilience: 3,243.0%
+Resilience: 3,251.0%
 Speed+:     1,825.0%
 Damage+:    1,556.0%
 
-Health:  12,551
+Health:  12,991
 Stamina:  4,200
 Mana:    20,000
 
 Regen:
-hp/sec:  0.27% [30.3]
+hp/sec:  0.27% [31.4]
 mp/sec:  0.20% [40.0]
 w/Med:   0.27% [54.8]
 
-Mitigation:       97.548% [hp x 40.83]
-Effective Health: 508,381.9
+Mitigation:       97.553% [hp x 40.91]
+Effective Health: 527,226.7
 
 The Azarinth Sentinel
-3-26 Absolute Destruction     x3 
+3-27 Absolute Destruction     x3 
 3-30 Sentinel Reconstruction  x3 
 3-30 Azarinth Awakening       x8 [85.0% => 680.0% Resilience, Speed, Intelligence and Strength]
 3-28 Blink                    x1 
@@ -46,8 +46,8 @@ Kin of Ash
 3-30 Armor of Ash             x9 [135.0% => 1,215.0% Resilience]
 3-30 Aspect of Ash            x8 [70.0% => 560.0% Resilience, Speed, Strength, Intelligence and Dexterity]
 3-30 True Ash Creation        x2 
-3-23 Heart of Cinder          x9 
-3-20 Storm of Cinders         x2 
+3-24 Heart of Cinder          x9 
+3-21 Storm of Cinders         x2 
 3-28 Ash and Ember Unity      x2 
 3-26 Ashen Wings              x9 
 3-18 Eyes of Ash              x9 [59.0% => 531.0% Perception]
@@ -55,12 +55,12 @@ Kin of Ash
 3-29 Keeper of Ash            x8 [84.5% => 676.0% Damage]
 
 The Faen Valkyrie
-2-3  Force                    x2 
-2-6  Flare of Creation        x8 [38.0% => 304.0% Resilience]
-2-8  Displacement             x2 
-2-2  Space Shift              x2 
+2-6  Force                    x2 
+2-8  Flare of Creation        x8 [39.0% => 312.0% Resilience]
+2-10 Displacement             x2 
+2-3  Space Shift              x2 
 2-2  Body of the Valkyrie     x9 [26.0% => 234.0% Resilience, 7.2% => 64.8% Physical Resistance, 5.0% => 64.8% Magic Resistance, 5.2% => 46.8% Health]
-1-15 Space Awareness          x8 
+1-17 Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
@@ -72,7 +72,7 @@ General Skills:
 1-11 Heavy Archery
 1-14 Identify
 3-8  Meditation
-3-2  Monster Hunter
+3-3  Monster Hunter
 1-14 Oxygen Repository
 1-18 Sage of Torment
 1-5  Soul Perception
@@ -130,7 +130,7 @@ Resistances:
 3-2  Void Magic Resistance
 2-20 Water Resistance
 3-2  Wind Resistance
-2-2  Wood Magic Resistance
+2-3  Wood Magic Resistance
 
 13 1st tier
 24 2nd tier
