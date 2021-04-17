@@ -14,7 +14,7 @@ Dex: 425 [2,805.0]
 Int: 820 [10,988.0]
 Wis: 1000
 
-Resilience: 3,163.5%
+Resilience: 3,213.0%
 Speed+:     1,825.0%
 Damage+:    1,552.0%
 
@@ -27,19 +27,19 @@ hp/sec:  0.27% [19.8]
 mp/sec:  0.20% [40.0]
 w/Med:   0.27% [54.8]
 
-Mitigation:       97.491% [hp x 39.90]
-Effective Health: 325,060.3
+Mitigation:       97.528% [hp x 40.49]
+Effective Health: 329,525.2
 
 The Azarinth Sentinel
 3-25 Absolute Destruction     x3 
 3-30 Sentinel Reconstruction  x3 
 3-30 Azarinth Awakening       x8 [85.0% => 680.0% Resilience, Speed, Intelligence and Strength]
 3-28 Blink                    x1 
-3-25 Sentinel Sphere          x1 
+3-26 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
 3-8  Sentinel Huntress        x8 
-3-24 Azarinth Perception      x8 
+3-25 Azarinth Perception      x8 
 3-20 Azarinth Reversal        x8 [105% to Deconstruction/Reconstruction]
 
 Kin of Ash
@@ -48,7 +48,7 @@ Kin of Ash
 3-30 True Ash Creation        x2 
 3-21 Heart of Cinder          x9 
 3-19 Storm of Cinders         x2 
-3-27 Ash and Ember Unity      x2 
+3-28 Ash and Ember Unity      x2 
 3-25 Ashen Wings              x9 
 3-17 Eyes of Ash              x9 [58.5% => 526.5% Perception]
 3-30 Avatar of Ash            x9 [65.0% => 585.0% Reflexes and Speed]
@@ -57,10 +57,10 @@ Kin of Ash
 The Faen Valkyrie
 1-15 Force                    x2 
 2-3  Flare of Creation        x8 [36.5% => 292.0% Resilience]
-2-1  Displacement             x2 
-1-16 Space Shift              x2 
-1-7  Body of the Valkyrie     x9 [18.5% => 166.5% Resilience, 5.7% => 51.3% Physical Resistance, 5.0% => 51.3% Magic Resistance]
-1-5  Space Awareness          x8 
+2-3  Displacement             x2 
+1-19 Space Shift              x2 
+1-18 Body of the Valkyrie     x9 [24.0% => 216.0% Resilience, 6.8% => 61.2% Physical Resistance, 5.0% => 61.2% Magic Resistance]
+1-6  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
@@ -71,13 +71,14 @@ General Skills:
 1-8  Harmony of the Drowned
 1-11 Heavy Archery
 1-14 Identify
+
 3-8  Meditation
 3-2  Monster Hunter
 1-14 Oxygen Repository
 1-18 Sage of Torment
 1-2  Soul Perception
 1-3  Teaching
-3-5  Veteran
+3-6  Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -100,7 +101,7 @@ Resistances:
 1-6  Dust Magic Resistance
 2-20 Earth Resistance
 2-1  Emerald Magic Resistance
-1-10 Fear Resistance
+1-11 Fear Resistance
 1-8  Flesh Magic Resistance
 2-20 Gravity Magic Resistance
 2-20 Health Drain Resistance
