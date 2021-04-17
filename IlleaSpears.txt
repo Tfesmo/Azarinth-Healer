@@ -18,9 +18,9 @@ Resilience: 3,077.5%
 Speed+:     1,825.0%
 Damage+:    1,548.0%
 
-Health  :  8,160
-Stamina :  4,050
-Mana    : 18,600
+Health:   8,160
+Stamina:  4,050
+Mana:    18,600
 
 Regen:
 hp/sec:  0.27% [19.7]
