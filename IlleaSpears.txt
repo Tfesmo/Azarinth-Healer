@@ -81,7 +81,7 @@ Resistances:
 2-1  Blight Resistance
 3-8  Blood Magic Resistance
 2-20 Blood Manipulation Resistance
-2-5  Bone Magic Resistance
+2-6  Bone Magic Resistance
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
