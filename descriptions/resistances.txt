@@ -136,12 +136,15 @@ Lava Magic Resistance
 An elemental form of molten rock, reserved for those few living in conditions most consider deadly.
 You have met and fought such a being, its magic opposed by Heat and Earth magic resistance but ultimately something different, more primordial and ancient.
 2nd stage: Your body can store heat more effectively, your skin and muscles less prone to melting. Lava has become to you like water is to others, its substance less restricting as you move through it.
+3rd stage: You gain the ability to absorb heat from both within your body and your surroundings, effectively cooling yourself and your vicinity, allowing you to survive in high temperature environments.
 
 Light Magic Resistance
 The power of the sun harnessed and enhanced by magic.
 You have experienced the burning heat of light and pushed ahead. This skill will help you be more resistant.
 2nd stage: Staring into the light should have really blinded you at this point. Instead, you have gotten used to it. 
 Your eyes are much less sensitive to the negative effects associated with light. You are mostly immune to sudden blinding changes, be they an abrupt abundance or lack of light.
+3rd stage: You have been exposed to incredible sources of light magic. Your body has gained the ability to absorb some of the properties of the light around you, allowing you to see even in the absence of light as long as you have been exposed in the past week.
+Damaging natural occurrences of certain wavelengths no longer pass through you but are instead absorbed, should you wish for such to happen. Excess energy will be transformed into both heat and mana.
 
 Lightning Resistance
 Either in a storm or fighting a ferocious beast blessed by lightning you have resisted. This skill will help further with your endeavors.
