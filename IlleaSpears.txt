@@ -18,7 +18,6 @@ Wis: 930
 
 Resilience: 3,052.5%
 Speed+:     1,825.0%
-Reflexes+:    585.0%
 Damage+:    1,548.0%
 
 Health  :  8,160
