@@ -7,11 +7,11 @@ Class 3:  86 - The Faen Valkyrie
 100% Ashen
 100% Space
 
-Vit: 820
-End: 420
-Str: 515  [6,901.0]
-Dex: 425  [2,805.0]
-Int: 820 [10,988.0]
+Vit:  820
+End:  420
+Str:  515  [6,901.0]
+Dex:  425  [2,805.0]
+Int:  820 [10,988.0]
 Wis: 1000
 
 Resilience: 3,213.0%
