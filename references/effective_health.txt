@@ -33,7 +33,7 @@ This is just a breakdown of part of the EH calculation to better show the differ
 
 For example:
 90.0% [hp x 10]
-Means her resisilience + all other bonuses (magic, physical, durability, etc) reduces her total damage taken by 90%, which makes each point of health worth 10.
+Means her resilience + all other bonuses (magic, durability, etc) reduces her total damage taken by 90%, which makes each point of health worth 10.
 
 95.0% [hp x 20]
 Means a 95% reduction, or a 20x health multiplier.
