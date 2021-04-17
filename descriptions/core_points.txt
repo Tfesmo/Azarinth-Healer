@@ -1,0 +1,29 @@
+‘ding’ ‘Following requirements have been met. Has [Locked] or has unlocked an additional class beyond the limitations of their race.
+Core skill points have been unlocked.
+Core skill points replace Class specific third tier skill points.
+
+[3rd tier Class Skill Point] – [Advance a Class skill to the third tier – Cost: 1]
+[Stat Gain] – [Gain 50 stat points to distribute freely – Cost: 2]
+[Skill Boost] – [Increase the level of a skill. Subdued effects at higher skill levels – Cost: 3]
+[Locked]
+[Locked]
+[Locked]
+[Locked]
+[Locked]
+
+You have survived an untouched Arcane Shift – 1 Core skill point awarded
+You have visited the Great Salt – 1 Core skill point awarded
+You have befriended a Mind Weaver – 1 Core skill point awarded
+You have befriended a Fae – 1 Core skill point awarded
+A song about you has spread to five cities – 1 Core skill point awarded
+You have trained with a Lightning Elemental – 1 Core skill point awarded
+You have reached the speed of sound – 1 Core skill point awarded
+You have unlocked Third tier General skills – 1 Core skill point awarded
+You have ridden a Trakorov – 1 Core skill point awarded
+You have absorbed pure Arcane energy – 1 Core skill point awarded
+You have entered the Home of the Fae – 1 Core skill point awarded
+You have unlocked 10 third tier General skills – 1 Core skill point awarded
+You have helped create three new classes – 1 Core skill point awarded
+You have unlocked 50 resistance skills – 1 Core skill point awarded
+You have unlocked the Soul Perception skill – 1 Core skill point awarded
+You have unlocked a Third Class – 1 Core skill point awarded

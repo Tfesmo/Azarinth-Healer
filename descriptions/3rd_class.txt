@@ -1,0 +1,72 @@
+The Faen Valkyrie
+
+Intelligence +20
+Wisdom +20
+
+Space Magic is improved by 100%
+Resilience is increased by 250%
+Body Enhancement Magic is improved by 100%
+
+Active - Flare of Creation
+Let the fires erupt, burning away your health in the exchange for devastating power.
+Attacks with your body are infused with the Flame of Creation, dealing lingering damage to health, mana, and magical constructs.
+You are immune to stunning, fear, and shout abilities.
+Your resilience is increased by [25% + .5%/lvl].
+Category: Aura – Body Enhancement
+
+Active – Displacement
+Shift space to your will, making an object or person appear somewhere else.
+Category: Space Magic
+
+Active – Force
+Push away or stop objects, constructs, and people from reaching you with Space magic
+Category: Space Magic – Aura
+
+Passive – Space Shift
+Space wields easier for you, allowing you to unravel its mysteries.
+Teleportation abilities can be used again [50% + .5%/lvl] faster and you can travel [20% + .5%/lvl] farther.
+Category: Space magic
+
+Passive – Body of the Valkyrie
+The flame of creation flows through your veins, increasing your resilience by [15% + .5%/lvl].
+Increases your physical damage resistance by [5% + .1%/lvl].
+Increases your magic damage resistance by [5% + .1%/lvl].
+You won’t be fazed anymore by heavy damage or powerful sources of light and sound.
+Category: Body enhancement – Space Magic
+
+Passive – Lull of Battle
+You are one with war and battle. Less Endurance is needed the longer you fight.
+Category: Aura – Body Enhancement
+
+Untaken:
+Passive – Space Awareness
+You become more aware of the density and shifts in the fabric of Space itself.
+Category: Body Enhancement – Perception Aura
+
+Active – Spear of Creation
+Wield the fire of creation as an extension of your arms. The spear is especially useful against magical defenses.
+Category: Fire Magic – Space Magic
+
+Active – Burst of Creation
+Let the fires spread, creating a sphere of lingering flames around yourself.
+Category: Fire Magic – Space Magic
+
+Active – Phaseshift
+Expending a large amount of mana, you can temporarily unbind your body from the physical and pass through barriers. You may let spells and physical objects pass through you unhindered. Be aware that certain types of magic will retain some or all of their impact.
+Category: Space Magic
+
+Active – Shrouding Cloak
+Invoke Space magic to hide yourself or objects in your vicinity in plain sight.
+Category: Space Magic – Aura
+
+Active – Blazing Force Shield
+Form a shield of fire before you that will devour spells and objects alike.
+Category: Fire Magic – Space Magic
+
+Passive – Dimension storage
+You gain a personal dimensional storage space allowing you to store and retrieve unliving physical items at your will.
+Category: Space Magic
+
+Passive – Lull of Battle
+You are one with war and battle. Less Endurance is needed the longer you fight.
+Category: Aura – Body Enhancement

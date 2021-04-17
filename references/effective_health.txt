@@ -7,7 +7,7 @@ Examples:
 100% Resilience: 1/(1 + 100%) = 50% damage taken
 200% Resilience: 1/(1 + 200%) = 33.3% damage taken
 
-Assumes reduction from resilience and stats like "Your resistance to magical damage" is multiplicative.  The total on the stat page is calculated based on half physical, half magical.
+The total on the stat page is calculated based on half physical, half magical.
 
 Ignores resistances (as they apply inconsistently), and non-numeric bonuses such as density increases.
 
@@ -17,12 +17,23 @@ Example Calculation:
 +100% magic resistance (2x)
 +100% durability (2x)
 
-Physical EH: 1000x4x2 = 8000
-Magical  EH: 1000x4x2x2 = 16000
-Balanced EH: 12000
-
-Additive Calculation:
 Assumes you take all bonuses and add them to gether, then do the 1/(1 + total)
+Example Calculation:
+1000 health
++300% resil (4x)
++100% magic resistance (2x)
++100% durability (2x)
+
 With the above calucation would +500% total, so a 6x multiplier on EH for magical, 5x on physical, 5500 balanced EH.
 
 Based on chapter 427, Additive is more likely to be accurate.
+
+Mitigation:
+This is just a breakdown of part of the EH calculation to better show the difference between extra health and actually taking less damage.
+
+For example:
+90.0% [hp x 10]
+Means her resisilience + all other bonuses (magic, physical, durability, etc) reduces her total damage taken by 90%, which makes each point of health worth 10.
+
+95.0% [hp x 20]
+Means a 95% reduction, or a 20x health multiplier.
