@@ -71,7 +71,6 @@ General Skills:
 1-8  Harmony of the Drowned
 1-11 Heavy Archery
 1-14 Identify
-
 3-8  Meditation
 3-2  Monster Hunter
 1-14 Oxygen Repository
@@ -93,7 +92,6 @@ Resistances:
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
-
 2-6  Dark Magic Resistance
 2-8  Death Magic Resistance
 2-3  Diamond Magic Resistance
@@ -107,7 +105,6 @@ Resistances:
 2-20 Health Drain Resistance
 3-7  Heat Resistance
 2-20 Ice Resistance
-
 3-1  Lava Magic Resistance
 3-1  Light Magic Resistance
 3-4  Lightning Resistance
@@ -119,7 +116,6 @@ Resistances:
 3-2  Poison Resistance
 2-1  Rot Resistance
 1-14 Ruby Magic Resistance
-
 2-20 Sand Magic Resistance
 1-13 Sapphire Magic Resistance
 1-1  Silver Magic Resistance
@@ -136,40 +132,40 @@ Resistances:
 3-2  Wind Resistance
 2-1  Wood Magic Resistance
 
-13x1st tier
-24x2nd tier
-13x3rd tier
+13 1st tier
+24 2nd tier
+13 3rd tier
 
-Ash Density: 37*5% = 185%
+Ash Density: 37x5% = 185%
 
 Non-numeric or non-global defensive buffs
 Class:
-	Your bones are three times as heavy and dense - Sentinel Core 2nd
-	Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-	Muscles are (195% + 240% + 65% = 500%) more dense - Avatar of Ash 2nd
-	Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
+        Your bones are three times as heavy and dense - Sentinel Core 2nd
+        Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
+        Muscles are (195% + 240% + 65% = 500%) more dense - Avatar of Ash 2nd
+        Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
 Resistance:
-	Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd
-	Your organs, bones, muscles and your skin become partially shock absorbent - Blast 2nd
-	Your bones and muscles have adapted to the stress you have put them under, weaving an even more intricate fabric of your ever increasing defensive capability - Blast 3rd
-	Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage - Bone Magic 2nd
-	Your skin has adapted some of the diamond’s properties, its durability increased - Diamond Magic 2nd
+        Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd
+        Your organs, bones, muscles and your skin become partially shock absorbent - Blast 2nd
+        Your bones and muscles have adapted to the stress you have put them under, weaving an even more intricate fabric of your ever increasing defensive capability - Blast 3rd
+        Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage - Bone Magic 2nd
+        Your skin has adapted some of the diamond’s properties, its durability increased - Diamond Magic 2nd
 
 Summary:
-	Bones: 
-		Three times as heavy and dense.
-		Increased density.
-		Hardened.
-		Increased durability.
-		Stress adapted.
-	Muscles:
-		[Percentage] more dense. (Avatar of Ash 2nd)
-		Increased density.
-		Stress adapted.
-	Skin:
-		Increased density.
-		Hardened.
-		Increased durability.
-	All:
-		Increased defensive capabilities, halved if armor beyond light category is worn.
-		Partially shock absorbent.
+        Bones: 
+                Three times as heavy and dense.
+                Increased density.
+                Hardened.
+                Increased durability.
+                Stress adapted.
+        Muscles:
+                [500%] more dense. (Avatar of Ash 2nd)
+                Increased density.
+                Stress adapted.
+        Skin:
+                Increased density.
+                Hardened.
+                Increased durability.
+        All:
+                Increased defensive capabilities, halved if armor beyond light category is worn.
+                Partially shock absorbent.
