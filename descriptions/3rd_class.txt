@@ -16,10 +16,15 @@ Let the fires erupt, burning away your health in the exchange for devastating po
 Attacks with your body are infused with the Flame of Creation, dealing lingering damage to health, mana, and magical constructs.
 You are immune to stunning, fear, and shout abilities.
 Your resilience is increased by [25% + .5%/lvl].
+2nd stage: The pale flame settles within your core.
+Flare of Creation now affects enemy health regeneration.
+This effect is higher for areas directly touched by the Flame of Creation.
 Category: Aura – Body Enhancement
 
 Active – Displacement
 Shift space to your will, making an object or person appear somewhere else.
+2nd stage: Your familiarity with teleportation and Space Magic allow you to move one additional object for each level in the 2nd tier.
+Magical constructs are now affected by Displacement.
 Category: Space Magic
 
 Passive – Space Shift

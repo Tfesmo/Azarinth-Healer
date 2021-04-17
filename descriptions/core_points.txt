@@ -27,3 +27,7 @@ You have helped create three new classes – 1 Core skill point awarded
 You have unlocked 50 resistance skills – 1 Core skill point awarded
 You have unlocked the Soul Perception skill – 1 Core skill point awarded
 You have unlocked a Third Class – 1 Core skill point awarded
+
+‘ding’ ‘You have found and destroyed those you had feared – One Core skill point awarded’
+‘ding’ ‘You have reached one thousand Wisdom – One Core skill point awarded’
+‘ding’ ‘Successfully infiltrated the Izacan dungeon – One Core skill point awarded’

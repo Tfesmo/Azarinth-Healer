@@ -61,3 +61,6 @@ It’s hard to say if you’re a veteran or just a plain lunatic. Either way, yo
 
 - Blood Magic Resistance
 You have made masters of blood magic your enemies, pushing through and surviving despite the odds. Your body has been ravaged by this school of magic so many times, any count would be meaningless. Creatures beyond your imagination have tried to kill you, without success.
+
+- Blast Resistance
+Taleen Praetorians are made to destroy their enemy. If they reach critical health, their remaining energy is channeled into a complicated set of enchantments, creating a magical explosion that could rival four mark creatures. You have proven to be quite adequately prepared to face such power. Twice in a row even.
