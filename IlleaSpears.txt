@@ -27,8 +27,8 @@ hp/sec:  0.27% [19.7]
 mp/sec:  0.19% [35.0]
 w/Med:   0.26% [48.7]
 
-Mitigation:  97.416% [hp x 38.73]
-Additive EH: 314,196.7
+Mitigation:       97.416% [38.73]
+Effective Health: 314,196.7
 
 The Azarinth Sentinel
 3-24 Absolute Destruction     x3 
