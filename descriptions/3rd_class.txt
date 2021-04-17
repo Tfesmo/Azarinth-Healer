@@ -7,6 +7,10 @@ Space Magic is improved by 100%
 Resilience is increased by 250%
 Body Enhancement Magic is improved by 100%
 
+Active – Force
+Push away or stop objects, constructs, and people from reaching you with Space magic
+Category: Space Magic – Aura
+
 Active - Flare of Creation
 Let the fires erupt, burning away your health in the exchange for devastating power.
 Attacks with your body are infused with the Flame of Creation, dealing lingering damage to health, mana, and magical constructs.
@@ -17,10 +21,6 @@ Category: Aura – Body Enhancement
 Active – Displacement
 Shift space to your will, making an object or person appear somewhere else.
 Category: Space Magic
-
-Active – Force
-Push away or stop objects, constructs, and people from reaching you with Space magic
-Category: Space Magic – Aura
 
 Passive – Space Shift
 Space wields easier for you, allowing you to unravel its mysteries.
