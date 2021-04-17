@@ -14,21 +14,21 @@ Dex:  425  [2,805.0]
 Int:  820 [10,988.0]
 Wis: 1000
 
-Resilience: 3,213.0%
+Resilience: 3,226.5%
 Speed+:     1,825.0%
 Damage+:    1,552.0%
 
-Health:   8,200
+Health:  11,964
 Stamina:  4,200
 Mana:    20,000
 
 Regen:
-hp/sec:  0.27% [19.8]
+hp/sec:  0.27% [28.9]
 mp/sec:  0.20% [40.0]
 w/Med:   0.27% [54.8]
 
-Mitigation:       97.528% [hp x 40.49]
-Effective Health: 329,525.2
+Mitigation:       97.538% [hp x 40.65]
+Effective Health: 482,553.9
 
 The Azarinth Sentinel
 3-25 Absolute Destruction     x3 
@@ -55,16 +55,16 @@ Kin of Ash
 3-28 Keeper of Ash            x8 [84.0% => 672.0% Damage]
 
 The Faen Valkyrie
-1-15 Force                    x2 
+1-17 Force                    x2 
 2-3  Flare of Creation        x8 [36.5% => 292.0% Resilience]
 2-3  Displacement             x2 
-1-19 Space Shift              x2 
-1-18 Body of the Valkyrie     x9 [24.0% => 216.0% Resilience, 6.8% => 61.2% Physical Resistance, 5.0% => 61.2% Magic Resistance]
-1-6  Space Awareness          x8 
+2-1  Space Shift              x2 
+2-1  Body of the Valkyrie     x9 [25.5% => 229.5% Resilience, 7.1% => 63.9% Physical Resistance, 5.0% => 63.9% Magic Resistance, 5.1% => 45.9% Health]
+1-12 Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
-1-9  Deviant of Humanity
+1-10 Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-2  Gourmet
@@ -75,7 +75,7 @@ General Skills:
 3-2  Monster Hunter
 1-14 Oxygen Repository
 1-18 Sage of Torment
-1-2  Soul Perception
+1-5  Soul Perception
 1-3  Teaching
 3-6  Veteran
 1-9  Warhammer Mastery
@@ -144,6 +144,7 @@ Class:
         Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
         Muscles are (195% + 240% + 65% = 500%) more dense - Avatar of Ash 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
+        The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
 Resistance:
         Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd
         Your organs, bones, muscles and your skin become partially shock absorbent - Blast 2nd
@@ -155,13 +156,14 @@ Summary:
         Bones: 
                 Three times as heavy and dense.
                 Increased density.
-                Hardened.
+                Hardened x2.
                 Increased durability.
                 Stress adapted.
         Muscles:
                 [500%] more dense. (Avatar of Ash 2nd)
                 Increased density.
                 Stress adapted.
+                Hardened.
         Skin:
                 Increased density.
                 Hardened.
