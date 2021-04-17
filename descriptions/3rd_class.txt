@@ -8,7 +8,9 @@ Resilience is increased by 250%
 Body Enhancement Magic is improved by 100%
 
 Active – Force
-Push away or stop objects, constructs, and people from reaching you with Space magic
+Push away or stop objects, constructs, and people from reaching you with Space magic.
+2nd stage: The strength of Force is increased against schools of magic you are familiar with.
+You may use Force freely within its sphere of influence, pushing in each direction.
 Category: Space Magic – Aura
 
 Active - Flare of Creation
