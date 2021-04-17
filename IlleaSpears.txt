@@ -1,6 +1,6 @@
 Class 1: 351 - The Azarinth Sentinel
 Class 2: 351 - Kin of Ash
-Class 3:   5 - The Faen Valkyrie
+Class 3:  15 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -14,7 +14,7 @@ Dex: 425 [2,805.0]
 Int: 785 [10,519.0]
 Wis: 930
 
-Resilience: 3,052.5%
+Resilience: 3,077.5%
 Speed+:     1,825.0%
 Damage+:    1,548.0%
 
@@ -27,8 +27,8 @@ hp/sec:  0.27% [19.7]
 mp/sec:  0.19% [35.0]
 w/Med:   0.26% [48.7]
 
-Mitigation:       97.416% [hp x 38.73]
-Effective Health: 314,196.7
+Mitigation:       97.433% [hp x 39.00]
+Effective Health: 316,310.2
 
 The Azarinth Sentinel
 3-24 Absolute Destruction     x3 
@@ -55,12 +55,12 @@ Kin of Ash
 3-27 Keeper of Ash            x8 [83.5% => 668.0% Damage]
 
 The Faen Valkyrie
-1-2  Force                    x2 
-1-2  Flare of Creation        x8 [26.0% => 208.0% Resilience]
-1-2  Displacement             x2 
-1-1  Space Shift              x2 
-1-1  Body of the Valkyrie     x9 [15.5% => 139.5% Resilience, 5.1% => 45.9% Physical Resistance, 5.0% => 45.9% Magic Resistance]
-1-1  Space Awareness          x8 
+1-4  Force                    x2 
+1-6  Flare of Creation        x8 [28.0% => 224.0% Resilience]
+1-5  Displacement             x2 
+1-3  Space Shift              x2 
+1-3  Body of the Valkyrie     x9 [16.5% => 148.5% Resilience, 5.3% => 47.7% Physical Resistance, 5.0% => 47.7% Magic Resistance]
+1-2  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
@@ -78,7 +78,7 @@ General Skills:
 1-2  Soul Perception
 1-3  Teaching
 3-4  Veteran
-1-5  Warhammer Mastery
+1-6  Warhammer Mastery
 
 Resistances:
 3-16 Arcane Magic Resistance
