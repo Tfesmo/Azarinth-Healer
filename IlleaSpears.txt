@@ -95,7 +95,7 @@ Resistances:
 2-6  Dark Magic Resistance
 2-8  Death Magic Resistance
 2-3  Diamond Magic Resistance
-1-6  Divination Magic Resistance
+1-7  Divination Magic Resistance
 1-6  Dust Magic Resistance
 2-20 Earth Resistance
 2-1  Emerald Magic Resistance
@@ -151,7 +151,7 @@ Resistance:
         Your bones and muscles have adapted to the stress you have put them under, weaving an even more intricate fabric of your ever increasing defensive capability - Blast 3rd
         Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage - Bone Magic 2nd
         Your skin has adapted some of the diamond’s properties, its durability increased - Diamond Magic 2nd
-        You’re more resilient to cuts and pressure - Water Magic 3rd
+        You’re more resilient to cuts and pressure - Water 3rd
 
 Summary:
         Bones: 
