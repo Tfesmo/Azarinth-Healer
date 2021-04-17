@@ -87,7 +87,7 @@ First tier Resistances equal a static 5% increase, second tier equal a static 10
 Effect is canceled automatically upon reaching 50% of your health.
 Each Resistance skill in the second tier or higher increases the potential density of your created ash by a static 5%.*
 Category: Body Enhancement – Ashen magic
-*see IlleaSpears.txt for 2nd tier Muscle Density calculation
+*see IlleaSpears.txt for 2nd/3rd tier Density calculations
 
 Passive: Keeper of Ash
 You are one with the fighting style of Ash.
