@@ -71,6 +71,7 @@ General Skills:
 1-9  Harmony of the Drowned
 1-11 Heavy Archery
 1-15 Identify
+
 3-9  Meditation
 3-4  Monster Hunter
 1-14 Oxygen Repository
@@ -92,6 +93,7 @@ Resistances:
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
+
 2-6  Dark Magic Resistance
 2-8  Death Magic Resistance
 2-3  Diamond Magic Resistance
@@ -108,6 +110,7 @@ Resistances:
 3-1  Lava Magic Resistance
 3-1  Light Magic Resistance
 3-5  Lightning Resistance
+
 2-20 Mana Drain Resistance
 3-5  Mental Resistance
 2-20 Mist Magic Resistance
@@ -124,6 +127,7 @@ Resistances:
 1-18 Sound Magic Resistance
 3-2  Space Magic Resistance
 2-20 Stamina Drain Resistance
+
 2-20 Time Magic Resistance
 1-18 Topaz Magic Resistance
 1-14 Vine Magic Resistance
