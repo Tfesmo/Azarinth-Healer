@@ -66,3 +66,6 @@ Chapter 530
 	- Meadow:
 	- "The fourth tier itself is not easily achieved. Beside myself, there are only two beings I’ve known who have managed to reach it and shared the information with me."
 	- "So far I believe only one skill per Class can be advanced, and only once you have enhanced every single skill with Core skill points"
+
+Chapter 531
+	- Meadow: “That’s not how Intelligence works at all. It simply increases your magic skill damage and some other attributes connected to your skills”
