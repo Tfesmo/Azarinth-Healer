@@ -48,6 +48,7 @@ Fully infused, you may lure even powerful creatures towards your location, depen
 Oxygen Repository
 Due to unfortunate and/or sexual circumstances, you have been deprived of air for extended periods of time. Somehow you have pushed through to survive.
 Your body has learned that it may not always be supplied with what it needs. You may survive much longer without oxygen and may store what little you can get for extended periods of time. Apologies for ruining your sex life.
+2nd stage: Your body has adapted to a lack of oxygen. Extended periods without oxygen will weaken you significantly but will no longer be deadly as long as mana remains.
 
 Sage of Torment
 You have reached strength through pain and struggle. With time they have become companions on your way to power. As long as you train those willing, they shall find comfort and resilience in your presence.

@@ -1,34 +1,34 @@
-Class 1: 401 - The Azarinth Sentinel
-Class 2: 400 - Kin of Ash
-Class 3: 276 - The Faen Valkyrie
+Class 1: 438 - The Azarinth Sentinel
+Class 2: 435 - Kin of Ash
+Class 3: 355 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
 100% Ashen
 100% Space
 
-Vit: 1100
-End:  435
+Vit: 1250
+End:  450
 Str:  515  [6,901.0]
-Dex:  435  [2,871.0]
-Int: 1090 [14,606.0]
-Wis: 1100
+Dex:  450  [2,970.0]
+Int: 1200 [16,080.0]
+Wis: 1250
 
-Resilience: 3,435.0%
+Resilience: 3,443.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  18,524
-Stamina:  4,350
-Mana:    22,000
+Health:  21,050
+Stamina:  4,500
+Mana:    25,000
 
 Regen:
-hp/sec:  0.27% [44.8]
-mp/sec:  0.22% [47.7]
-w/Med:   0.29% [64.2]
+hp/sec:  0.27% [50.9]
+mp/sec:  0.24% [60.4]
+w/Med:   0.32% [79.2]
 
-Mitigation:       97.670%   [hp x 42.96]
-Effective Health: 787,862.8 [hp x 72.35]
+Mitigation:       97.675%   [hp x 43.04]
+Effective Health: 896,982.6 [hp x 72.49]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -40,31 +40,31 @@ The Azarinth Sentinel
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
 3-17 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
-3-28 Azarinth Reversal        x8 [109% to Deconstruction/Reconstruction]
+3-28 Azarinth Reversal        x8 [113% to Deconstruction/Reconstruction]
 
 Kin of Ash
 3-30 Armor of Ash             x9 [135.0% => 1,215.0% Resilience]
 3-30 Aspect of Ash            x8 [70.0% => 560.0% Resilience, Speed, Strength, Intelligence and Dexterity]
 3-30 True Ash Creation        x2 
 3-30 Heart of Cinder          x9 
-3-27 Storm of Cinders         x2 
+3-28 Storm of Cinders         x2 
 3-30 Ash and Ember Unity      x2 
 3-30 Ashen Wings              x9 
-3-27 Eyes of Ash              x9 [63.5% => 571.5% Perception]
+3-28 Eyes of Ash              x9 [64.0% => 576.0% Perception]
 3-30 Avatar of Ash            x9 [65.0% => 585.0% Reflexes and Speed]
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-3-2  Phaseshift               x2 
-3-7  Flare of Creation        x8 [48.5% => 388.0% Resilience]
+3-3  Phaseshift               x2 
+3-9  Flare of Creation        x8 [49.5% => 396.0% Resilience]
 3-9  Displacement             x2 
-3-4  Space Shift              x2 
+3-5  Space Shift              x2 
 3-6  Body of the Valkyrie     x9 [38.0% => 342.0% Resilience, 9.6% => 86.4% Physical Resistance, 5.0% => 86.4% Magic Resistance, 7.6% => 68.4% Health]
-3-1  Space Awareness          x8 
+3-2  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
-2-5  Deviant of Humanity
+2-6  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-5  Gourmet
@@ -74,11 +74,11 @@ General Skills:
 
 3-10 Meditation
 3-7  Monster Hunter
-1-20 Oxygen Repository
+2-1  Oxygen Repository
 2-1  Sage of Torment
 1-5  Soul Perception
 1-3  Teaching
-3-11 Veteran
+3-12 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -112,7 +112,7 @@ Resistances:
 3-1  Light Magic Resistance
 3-5  Lightning Resistance
 
-3-3  Mana Drain Resistance
+3-4  Mana Drain Resistance
 3-5  Mental Resistance
 2-20 Mist Magic Resistance
 1-3  Obsidian Magic Resistance
