@@ -7,28 +7,28 @@ Class 3: 375 - The Faen Valkyrie
 100% Ashen
 100% Space
 
-Vit: 1250
+Vit: 1300
 End:  450
 Str:  515  [6,901.0]
 Dex:  450  [2,970.0]
 Int: 1200 [16,080.0]
-Wis: 1250
+Wis: 1300
 
 Resilience: 3,481.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  21,500
+Health:  22,360
 Stamina:  4,500
-Mana:    25,000
+Mana:    26,000
 
 Regen:
-hp/sec:  0.27% [52.0]
-mp/sec:  0.24% [60.4]
-w/Med:   0.32% [79.3]
+hp/sec:  0.27% [54.0]
+mp/sec:  0.25% [65.0]
+w/Med:   0.33% [84.6]
 
 Mitigation:       97.697%   [hp x 43.46]
-Effective Health: 924,715.0 [hp x 74.75]
+Effective Health: 961,703.6 [hp x 74.75]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
