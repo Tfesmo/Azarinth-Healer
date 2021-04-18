@@ -11,6 +11,7 @@ Active – Phaseshift
 Expending a large amount of mana, you can temporarily unbind your body from the physical and pass through barriers.
 You may let spells and physical objects pass through you unhindered.
 Be aware that certain types of magic will retain some or all of their impact.
+2nd stage: Resilience bonuses from skills are doubled when entering Phaseshift.
 Category: Space Magic
 *mp/sec = 75,150,300,600,1200,2400,repeats
 
@@ -69,10 +70,12 @@ Category: Body Enhancement – Perception Aura
 Untaken:
 Active – Spear of Creation
 Wield the fire of creation as an extension of your arms. The spear is especially useful against magical defenses.
+2nd stage: Sacrifice health to double the range of your spear. Spear of Creation gains bonus damage the lower your health reaches.
 Category: Fire Magic – Space Magic
 
 Active – Burst of Creation
 Let the fires spread, creating a sphere of lingering flames around yourself.
+2nd stage: Burst of Creation can be used much more frequently and the fires now move with you at their center as they expand.
 Category: Fire Magic – Space Magic
 
 Active – Force
@@ -83,10 +86,12 @@ Category: Space Magic – Aura
 
 Active – Shrouding Cloak
 Invoke Space magic to hide yourself or objects in your vicinity in plain sight.
+2nd stage: Shrouding Cloak now affects sound and smell.
 Category: Space Magic – Aura
 
 Active – Blazing Force Shield
 Form a shield of fire before you that will devour spells and objects alike.
+2nd stage: You gain mana from devoured spells.
 Category: Fire Magic – Space Magic
 
 Passive – Dimension storage
