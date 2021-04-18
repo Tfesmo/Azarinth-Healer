@@ -11,6 +11,11 @@ Ash Magic Resistance
 You have found a being similar to your own, wielding magic you are not just familiar with but have mastered.
 A small increase in your resistance but perhaps a new insight into your own connection to Ash itself.
 
+Astral Magic Resistance
+The power of the stars, harnessed and used to wreak unimaginable destruction. Few beings are able to channel this power through their bodies. It would not come as a surprise to find a human, of all beings finding a way to modify their weak vessel for its use.
+You should not let your encounters fool you, this school of magic is quite extraordinary and just as rare.
+2nd stage: You have faced enough wielders of Astral Magic to warrant a second tier resistance. Your body is much less likely to disintegrate against this powerful school of magic.
+
 Blast Resistance
 Explosions can be an unpredictable and chaotic thing.
 You have survived quite an impressive one to get this skill.
