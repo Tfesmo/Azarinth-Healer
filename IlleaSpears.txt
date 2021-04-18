@@ -1,78 +1,79 @@
-Class 1: 352 - The Azarinth Sentinel
-Class 2: 352 - Kin of Ash
-Class 3:  86 - The Faen Valkyrie
+Class 1: 364 - The Azarinth Sentinel
+Class 2: 364 - Kin of Ash
+Class 3: 158 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
 100% Ashen
 100% Space
 
-Vit:  820
+Vit:  930
 End:  420
 Str:  515  [6,901.0]
 Dex:  425  [2,805.0]
-Int:  820 [10,988.0]
+Int:  900 [12,060.0]
 Wis: 1000
 
-Resilience: 3,226.5%
+Resilience: 3,291.5%
 Speed+:     1,825.0%
-Damage+:    1,552.0%
+Damage+:    1,556.0%
 
-Health:  11,964
+Health:  13,736
 Stamina:  4,200
 Mana:    20,000
 
 Regen:
-hp/sec:  0.27% [28.9]
+hp/sec:  0.27% [33.2]
 mp/sec:  0.20% [40.0]
-w/Med:   0.27% [54.8]
+w/Med:   0.27% [54.9]
 
-Mitigation:       97.538% [hp x 40.65]
-Effective Health: 482,553.9
+Mitigation:       97.578% [hp x 41.32]
+Effective Health: 563,086.7
 
 The Azarinth Sentinel
-3-25 Absolute Destruction     x3 
+3-28 Absolute Destruction     x3 
 3-30 Sentinel Reconstruction  x3 
 3-30 Azarinth Awakening       x8 [85.0% => 680.0% Resilience, Speed, Intelligence and Strength]
 3-28 Blink                    x1 
-3-26 Sentinel Sphere          x1 
+3-28 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
 3-8  Sentinel Huntress        x8 
-3-25 Azarinth Perception      x8 
-3-20 Azarinth Reversal        x8 [105% to Deconstruction/Reconstruction]
+3-27 Azarinth Perception      x8 
+3-21 Azarinth Reversal        x8 [105% to Deconstruction/Reconstruction]
 
 Kin of Ash
 3-30 Armor of Ash             x9 [135.0% => 1,215.0% Resilience]
 3-30 Aspect of Ash            x8 [70.0% => 560.0% Resilience, Speed, Strength, Intelligence and Dexterity]
 3-30 True Ash Creation        x2 
-3-21 Heart of Cinder          x9 
-3-19 Storm of Cinders         x2 
+3-27 Heart of Cinder          x9 
+3-23 Storm of Cinders         x2 
 3-28 Ash and Ember Unity      x2 
-3-25 Ashen Wings              x9 
-3-17 Eyes of Ash              x9 [58.5% => 526.5% Perception]
+3-26 Ashen Wings              x9 
+3-19 Eyes of Ash              x9 [59.5% => 535.5% Perception]
 3-30 Avatar of Ash            x9 [65.0% => 585.0% Reflexes and Speed]
-3-28 Keeper of Ash            x8 [84.0% => 672.0% Damage]
+3-29 Keeper of Ash            x8 [84.5% => 676.0% Damage]
 
 The Faen Valkyrie
-1-17 Force                    x2 
-2-3  Flare of Creation        x8 [36.5% => 292.0% Resilience]
-2-3  Displacement             x2 
-2-1  Space Shift              x2 
-2-1  Body of the Valkyrie     x9 [25.5% => 229.5% Resilience, 7.1% => 63.9% Physical Resistance, 5.0% => 63.9% Magic Resistance, 5.1% => 45.9% Health]
-1-12 Space Awareness          x8 
+2-17 Force                    x2 
+2-17 Flare of Creation        x8 [43.5% => 348.0% Resilience]
+2-18 Displacement             x2 
+2-8  Space Shift              x2 
+2-3  Body of the Valkyrie     x9 [26.5% => 238.5% Resilience, 7.3% => 65.7% Physical Resistance, 5.0% => 65.7% Magic Resistance, 5.3% => 47.7% Health]
+2-2  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
-1-10 Deviant of Humanity
+1-11 Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-2  Gourmet
-1-8  Harmony of the Drowned
+1-9  Harmony of the Drowned
 1-11 Heavy Archery
-1-14 Identify
-3-8  Meditation
-3-2  Monster Hunter
+1-15 Identify
+
+3-9  Meditation
+3-4  Monster Hunter
 1-14 Oxygen Repository
 1-18 Sage of Torment
 1-5  Soul Perception
@@ -92,10 +93,11 @@ Resistances:
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
+
 2-6  Dark Magic Resistance
 2-8  Death Magic Resistance
 2-3  Diamond Magic Resistance
-1-6  Divination Magic Resistance
+1-7  Divination Magic Resistance
 1-6  Dust Magic Resistance
 2-20 Earth Resistance
 2-1  Emerald Magic Resistance
@@ -107,14 +109,15 @@ Resistances:
 2-20 Ice Resistance
 3-1  Lava Magic Resistance
 3-1  Light Magic Resistance
-3-4  Lightning Resistance
+3-5  Lightning Resistance
+
 2-20 Mana Drain Resistance
 3-5  Mental Resistance
 2-20 Mist Magic Resistance
 1-3  Obsidian Magic Resistance
 3-3  Pain Tolerance
 3-2  Poison Resistance
-2-1  Rot Resistance
+2-5  Rot Resistance
 1-14 Ruby Magic Resistance
 2-20 Sand Magic Resistance
 1-13 Sapphire Magic Resistance
@@ -124,17 +127,18 @@ Resistances:
 1-18 Sound Magic Resistance
 3-2  Space Magic Resistance
 2-20 Stamina Drain Resistance
+
 2-20 Time Magic Resistance
 1-18 Topaz Magic Resistance
 1-14 Vine Magic Resistance
 3-2  Void Magic Resistance
-2-20 Water Resistance
+3-1  Water Resistance
 3-2  Wind Resistance
-2-1  Wood Magic Resistance
+2-3  Wood Magic Resistance
 
 13 1st tier
-24 2nd tier
-13 3rd tier
+23 2nd tier
+14 3rd tier
 
 Ash Density: 37x5% = 185%
 
@@ -142,7 +146,7 @@ Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
         Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-        Muscles are (195% + 240% + 65% = 500%) more dense - Avatar of Ash 2nd
+        Muscles are (210% + 230% + 65% = 505%) more dense - Avatar of Ash 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
 Resistance:
@@ -151,6 +155,7 @@ Resistance:
         Your bones and muscles have adapted to the stress you have put them under, weaving an even more intricate fabric of your ever increasing defensive capability - Blast 3rd
         Both bone magic attacks and anything else trying to break or injure your bones will have a harder time inflicting significant damage - Bone Magic 2nd
         Your skin has adapted some of the diamond’s properties, its durability increased - Diamond Magic 2nd
+        You’re more resilient to cuts and pressure - Water 3rd
 
 Summary:
         Bones: 
@@ -160,7 +165,7 @@ Summary:
                 Increased durability.
                 Stress adapted.
         Muscles:
-                [500%] more dense. (Avatar of Ash 2nd)
+                [505%] more dense. (Avatar of Ash 2nd)
                 Increased density.
                 Stress adapted.
                 Hardened.
@@ -171,3 +176,4 @@ Summary:
         All:
                 Increased defensive capabilities, halved if armor beyond light category is worn.
                 Partially shock absorbent.
+                Cut/pressure resistant.

@@ -32,3 +32,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have reached one thousand Wisdom – One Core skill point awarded’
 ‘ding’ ‘Successfully infiltrated the Izacan dungeon – One Core skill point awarded’
 ‘ding’ ‘You have activated the Armaments of Trials bestowed to you – One Core skill point awarded’
+‘ding’ ‘You have cleared a major human settlement of a city wide infestation – One Core skill point awarded’

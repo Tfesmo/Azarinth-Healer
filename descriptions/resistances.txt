@@ -281,6 +281,8 @@ One of them is that water pressure is not a joke.
 This Resistance helps a little with reducing the damage.
 2nd stage: You’ve taken so much damage from water based attacks it might be good to check if you’re not actually on fire.
 Getting more used to it your body and armor magically redirects the pressure to lessen the burden on you.
+3rd stage: You have seen the true power of the sea.
+The structure of your body has adapted, forming microscopic webs that will make you more resilient to cuts and pressure, most notably against water.
 
 Wind Resistance
 The ever elusive magic of Wind can cut from any side.
