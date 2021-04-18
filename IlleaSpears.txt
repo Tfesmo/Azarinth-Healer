@@ -1,6 +1,6 @@
 Class 1: 364 - The Azarinth Sentinel
 Class 2: 364 - Kin of Ash
-Class 3: 158 - The Faen Valkyrie
+Class 3: 160 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -58,7 +58,7 @@ The Faen Valkyrie
 2-17 Force                    x2 
 2-17 Flare of Creation        x8 [43.5% => 348.0% Resilience]
 2-18 Displacement             x2 
-2-8  Space Shift              x2 
+2-9  Space Shift              x2 
 2-3  Body of the Valkyrie     x9 [26.5% => 238.5% Resilience, 7.3% => 65.7% Physical Resistance, 5.0% => 65.7% Magic Resistance, 5.3% => 47.7% Health]
 2-2  Space Awareness          x8 
 
