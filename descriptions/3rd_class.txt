@@ -39,7 +39,7 @@ This ability can only be used every [1200] seconds.
 Additionally you may change the orientation of the objects you displace.
 Category: Space Magic
 *Impacted by Space Shift
-*~450 mp/sec for 3rd tier @3-1
+*~450 mp/sec for 3rd tier @3-1.  225 after 3rd tier Space Shift
 
 Passive – Space Shift
 Space wields easier for you, allowing you to unravel its mysteries.
@@ -47,6 +47,9 @@ Teleportation abilities can be used again [50% + .5%/lvl] faster and you can tra
 2nd stage: Interrupt or stop an enemy teleportation spell within a distance of [10m + .5m/lvl].
 Cooldown and efficiency is affected by available teleportation spells.
 You cannot teleport while this skill is active.
+3rd stage: Your understanding of space magic grows.
+You learn to latch on to ongoing teleportation spells with your own teleportation abilities.
+Long range and channeled teleportation spells have their range doubled and their cooldown as well as cost reduced by half.
 Category: Space magic
 
 Passive – Body of the Valkyrie
@@ -57,6 +60,8 @@ You won’t be fazed anymore by heavy damage or powerful sources of light and so
 2nd stage: Your body has withstood incredible damage, endured the hardships of battle.
 The fires flowing through you have hardened your bones and muscles.
 Your health is increased by [5% + .1%/lvl].
+3rd stage: Your ability to adapt to your enemy grows.
+Continued battle against the same foe increases damage reduction against its attacks by 0.5% [4.5%] per minute to a maximum of a static 50%.
 Category: Body enhancement – Space Magic
 
 Passive – Space Awareness
