@@ -1,0 +1,2 @@
+‘ding’ ‘Your group has defeated [Corrupted Sand Elemental – lvl 1483]’ // Ch421 // 335/334
+‘ding’ ‘Your group has defeated [Larinis – Daughter of Sephilon – lvl 1740]’ // Ch550 // 438/435/355

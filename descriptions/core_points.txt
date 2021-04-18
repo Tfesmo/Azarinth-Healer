@@ -45,3 +45,6 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have secured the continued survival of the Rock Beetles – One Core skill point awarded’
 ‘ding’ ‘You win – One Core skill point awarded’   #argument vs Meadow
 ‘ding’ ‘You have met a mature Ice Elemental and didn’t die – One Core skill point awarded’
+‘ding’ ‘You have ridden an Ice Elemental into battle – One Core skill point awarded’
+‘ding’ ‘You have successfully distracted a Daughter of Sephilon – One Core skill point awarded’
+‘ding’ ‘You have saved an incomprehensible being from its dying realm – One Core skill point awarded’
