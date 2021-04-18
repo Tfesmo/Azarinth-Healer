@@ -43,3 +43,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have secured the continued survival of the Awakened Willows – One Core skill point awarded’
 ‘ding’ ‘You have secured the continued survival of the Wildflower Ants – One Core skill point awarded’
 ‘ding’ ‘You have secured the continued survival of the Rock Beetles – One Core skill point awarded’
+‘ding’ ‘You win – One Core skill point awarded’   #argument vs Meadow

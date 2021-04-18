@@ -67,7 +67,7 @@ General Skills:
 2-1  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
-1-3  Gourmet
+1-4  Gourmet
 1-9  Harmony of the Drowned
 1-11 Heavy Archery
 1-17 Identify
@@ -102,7 +102,7 @@ Resistances:
 1-6  Dust Magic Resistance
 2-20 Earth Resistance
 2-1  Emerald Magic Resistance
-1-11 Fear Resistance
+1-12 Fear Resistance
 1-8  Flesh Magic Resistance
 2-20 Gravity Magic Resistance
 2-20 Health Drain Resistance
