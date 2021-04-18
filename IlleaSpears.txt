@@ -1,6 +1,6 @@
-Class 1: 396 - The Azarinth Sentinel
-Class 2: 395 - Kin of Ash
-Class 3: 244 - The Faen Valkyrie
+Class 1: 397 - The Azarinth Sentinel
+Class 2: 396 - Kin of Ash
+Class 3: 248 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -14,21 +14,21 @@ Dex:  435  [2,871.0]
 Int: 1000 [13,400.0]
 Wis: 1100
 
-Resilience: 3,422.0%
+Resilience: 3,426.5%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  18,326
+Health:  18,425
 Stamina:  4,350
 Mana:    22,000
 
 Regen:
-hp/sec:  0.27% [44.3]
+hp/sec:  0.27% [44.5]
 mp/sec:  0.22% [47.7]
 w/Med:   0.29% [64.2]
 
-Mitigation:       97.662%   [hp x 42.82]
-Effective Health: 776,894.1 [hp x 71.33]
+Mitigation:       97.665%   [hp x 42.87]
+Effective Health: 782,003.1 [hp x 71.81]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -38,7 +38,7 @@ The Azarinth Sentinel
 3-30 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
-3-15 Sentinel Huntress        x8 
+3-16 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
 3-27 Azarinth Reversal        x8 [109% to Deconstruction/Reconstruction]
 
@@ -59,7 +59,7 @@ The Faen Valkyrie
 3-6  Flare of Creation        x8 [48.0% => 384.0% Resilience]
 3-8  Displacement             x2 
 3-3  Space Shift              x2 
-3-4  Body of the Valkyrie     x9 [37.0% => 333.0% Resilience, 9.4% => 84.6% Physical Resistance, 5.0% => 84.6% Magic Resistance, 7.4% => 66.6% Health]
+3-5  Body of the Valkyrie     x9 [37.5% => 337.5% Resilience, 9.5% => 85.5% Physical Resistance, 5.0% => 85.5% Magic Resistance, 7.5% => 67.5% Health]
 3-1  Space Awareness          x8 
 
 General Skills:
