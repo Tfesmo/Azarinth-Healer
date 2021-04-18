@@ -11,7 +11,7 @@ Vit: 1100
 End:  435
 Str:  515  [6,901.0]
 Dex:  435  [2,871.0]
-Int: 1000 [13,400.0]
+Int: 1090 [14,606.0]
 Wis: 1100
 
 Resilience: 3,435.0%
@@ -70,7 +70,7 @@ General Skills:
 1-5  Gourmet
 1-9  Harmony of the Drowned
 1-11 Heavy Archery
-1-17 Identify
+1-18 Identify
 
 3-10 Meditation
 3-7  Monster Hunter
