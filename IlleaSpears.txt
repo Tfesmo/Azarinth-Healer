@@ -55,7 +55,7 @@ Kin of Ash
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-2-20 Force                    x2 
+1-1  Phaseshift               x2 
 3-1  Flare of Creation        x8 [45.5% => 364.0% Resilience]
 3-1  Displacement             x2 
 2-15 Space Shift              x2 

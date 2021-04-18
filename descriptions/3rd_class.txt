@@ -7,11 +7,12 @@ Space Magic is improved by 100%
 Resilience is increased by 250%
 Body Enhancement Magic is improved by 100%
 
-Active – Force
-Push away or stop objects, constructs, and people from reaching you with Space magic.
-2nd stage: The strength of Force is increased against schools of magic you are familiar with.
-You may use Force freely within its sphere of influence, pushing in each direction.
-Category: Space Magic – Aura
+Active – Phaseshift
+Expending a large amount of mana, you can temporarily unbind your body from the physical and pass through barriers.
+You may let spells and physical objects pass through you unhindered.
+Be aware that certain types of magic will retain some or all of their impact.
+Category: Space Magic
+*mp/sec = 75,150,300,600,1200,2400,repeats
 
 Active - Flare of Creation
 Let the fires erupt, burning away your health in the exchange for devastating power.
@@ -74,9 +75,11 @@ Active – Burst of Creation
 Let the fires spread, creating a sphere of lingering flames around yourself.
 Category: Fire Magic – Space Magic
 
-Active – Phaseshift
-Expending a large amount of mana, you can temporarily unbind your body from the physical and pass through barriers. You may let spells and physical objects pass through you unhindered. Be aware that certain types of magic will retain some or all of their impact.
-Category: Space Magic
+Active – Force
+Push away or stop objects, constructs, and people from reaching you with Space magic.
+2nd stage: The strength of Force is increased against schools of magic you are familiar with.
+You may use Force freely within its sphere of influence, pushing in each direction.
+Category: Space Magic – Aura
 
 Active – Shrouding Cloak
 Invoke Space magic to hide yourself or objects in your vicinity in plain sight.
