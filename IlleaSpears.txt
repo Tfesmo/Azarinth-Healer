@@ -14,7 +14,7 @@ Dex:  450  [2,970.0]
 Int: 1200 [16,080.0]
 Wis: 1300
 
-Resilience: 3,481.0%
+Resilience: 3,485.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
@@ -27,8 +27,8 @@ hp/sec:  0.27% [54.0]
 mp/sec:  0.25% [65.0]
 w/Med:   0.33% [84.6]
 
-Mitigation:       97.697%   [hp x 43.46]
-Effective Health: 961,703.6 [hp x 74.75]
+Mitigation:       97.699%   [hp x 43.50]
+Effective Health: 962,598.0 [hp x 74.82]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -56,7 +56,7 @@ Kin of Ash
 
 The Faen Valkyrie
 3-8  Phaseshift               x2 
-3-14 Flare of Creation        x8 [52.0% => 416.0% Resilience]
+3-15 Flare of Creation        x8 [52.5% => 420.0% Resilience]
 3-11 Displacement             x2 
 3-7  Space Shift              x2 
 3-10 Body of the Valkyrie     x9 [40.0% => 360.0% Resilience, 10.0% => 90.0% Physical Resistance, 5.0% => 90.0% Magic Resistance, 8.0% => 72.0% Health]
@@ -102,7 +102,7 @@ Resistances:
 1-6  Dust Magic Resistance
 2-20 Earth Resistance
 2-1  Emerald Magic Resistance
-1-12 Fear Resistance
+1-13 Fear Resistance
 1-8  Flesh Magic Resistance
 1-1  Gold Magic Resistance
 2-20 Gravity Magic Resistance
