@@ -12,6 +12,11 @@ Expending a large amount of mana, you can temporarily unbind your body from the 
 You may let spells and physical objects pass through you unhindered.
 Be aware that certain types of magic will retain some or all of their impact.
 2nd stage: Resilience bonuses from skills are doubled when entering Phaseshift.
+3rd stage: You have bent space to your will.
+To avoid death and to cause it.
+You gain a deeper understanding of the Flame of Creation.
+Abilities sacrificing health may be used during Phaseshift with all effects activating once your body returns to its normal form.
+The duration of any resulting effects equals that of the preceding Phaseshift.
 Category: Space Magic
 *mp/sec = 75,150,300,600,1200,2400,repeats
 
@@ -69,6 +74,8 @@ You become more aware of the density and shifts in the fabric of Space itself.
 2nd stage: Further understanding of the spacial fabric allows you to manipulate its forces with greater ease and higher intensity.
 You learn to perceive even the tiniest ripples in space.
 In the case of active fissures, you find yourself able to peer into the other side.
+3rd stage: You have peered through the fabric of space itself and have learned to unravel its intricate structure.
+You gain the ability to perceive and differentiate magical frameworks and how to manipulate them within your space without failure.
 Category: Body Enhancement – Perception Aura
 
 
