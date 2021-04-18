@@ -21,13 +21,23 @@ Your resilience is increased by [25% + .5%/lvl].
 2nd stage: The pale flame settles within your core.
 Flare of Creation now affects enemy health regeneration.
 This effect is higher for areas directly touched by the Flame of Creation.
+3rd stage: Your experience with Flare of Creation allows you to infuse your magical constructs with its effects.
+For each level in the third tier, the skill’s upkeep is reduced by a static [10/lvl] points of health per second and you may sacrifice an additional static [100/lvl] points of health per second to enhance the skill’s effects.
 Category: Aura – Body Enhancement
+*Discount only counts 3rd tier levels
 
 Active – Displacement
 Shift space to your will, making an object or person appear somewhere else.
 2nd stage: Your familiarity with teleportation and Space Magic allow you to move one additional object for each level in the 2nd tier.
 Magical constructs are now affected by Displacement.
+3rd stage: You may choose two flat areas and connect them through space.
+At the time of marking an area, it has to be within the range of Displacement.
+Areas have to be connected within one minute of activating the spell and cannot be further apart than [250m].
+This ability can only be used every [1200] seconds.
+Additionally you may change the orientation of the objects you displace.
 Category: Space Magic
+*Impacted by Space Shift
+*~450 mp/sec for 3rd tier @3-1
 
 Passive – Space Shift
 Space wields easier for you, allowing you to unravel its mysteries.
