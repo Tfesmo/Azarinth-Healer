@@ -1,34 +1,34 @@
-Class 1: 462 - The Azarinth Sentinel
-Class 2: 457 - Kin of Ash
-Class 3: 408 - The Faen Valkyrie
+Class 1: 471 - The Azarinth Sentinel
+Class 2: 465 - Kin of Ash
+Class 3: 416 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
 100% Ashen
 100% Space
 
-Vit: 1350
+Vit: 1400
 End:  450
 Str:  515  [6,901.0]
 Dex:  450  [2,970.0]
-Int: 1410 [18,894.0]
-Wis: 1400
+Int: 1420 [19,028.0]
+Wis: 1450
 
-Resilience: 3,536.5%
+Resilience: 3,549.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  24,070
+Health:  25,088
 Stamina:  4,500
-Mana:    28,000
+Mana:    29,000
 
 Regen:
-hp/sec:  0.27% [58.2] [376.2 seconds]
-mp/sec:  0.27% [74.7] [375.0 seconds]
-w/Med:   0.34% [95.9] [291.8 seconds]
+hp/sec:  0.27% [60.6] [376.2 seconds]
+mp/sec:  0.28% [79.8] [363.6 seconds]
+w/Med:   0.35% [101.8] [284.9 seconds]
 
-Mitigation:       97.729%     [hp x 44.08]
-Effective Health: 1,049,367.8 [hp x 78.59]
+Mitigation:       97.736%     [hp x 44.21]
+Effective Health: 1,096,997.9 [hp x 79.23]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -38,7 +38,7 @@ The Azarinth Sentinel
 3-30 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
-3-25 Sentinel Huntress        x8 
+3-29 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
 3-30 Azarinth Reversal        x8 [113% to Deconstruction/Reconstruction]
 
@@ -55,11 +55,11 @@ Kin of Ash
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-3-14 Phaseshift               x2 
-3-20 Flare of Creation        x8 [55.0% => 440.0% Resilience]
-3-15 Displacement             x2 
-3-12 Space Shift              x2 
-3-17 Body of the Valkyrie     x9 [43.5% => 391.5% Resilience, 10.7% => 96.3% Physical Resistance, 5.0% => 96.3% Magic Resistance, 8.7% => 78.3% Health]
+3-17 Phaseshift               x2 
+3-22 Flare of Creation        x8 [56.0% => 448.0% Resilience]
+3-18 Displacement             x2 
+3-14 Space Shift              x2 
+3-18 Body of the Valkyrie     x9 [44.0% => 396.0% Resilience, 10.8% => 97.2% Physical Resistance, 5.0% => 97.2% Magic Resistance, 8.8% => 79.2% Health]
 3-3  Space Awareness          x8 
 
 General Skills:
@@ -70,22 +70,22 @@ General Skills:
 1-5  Gourmet
 1-9  Harmony of the Drowned
 1-11 Heavy Archery
-1-18 Identify
+1-19 Identify
 
 3-12 Meditation
-3-11 Monster Hunter
+3-12 Monster Hunter
 2-1  Oxygen Repository
 2-7  Sage of Torment
-1-5  Soul Perception
+1-8  Soul Perception
 1-6  Teaching
 3-16 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
-3-18  [68% - 95%] Arcane Magic Resistance
+3-19  [69% - 95%] Arcane Magic Resistance
 2-2   [27% - 44%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
-3-1   [51% - 82%] Blast Resistance
+3-2   [52% - 84%] Blast Resistance
 2-1   [26% - 42%] Blight Resistance
 3-18  [68% - 95%] Blood Magic Resistance
 2-20  [45% - 80%] Blood Manipulation Resistance
@@ -98,7 +98,7 @@ Resistances:
 2-20  [45% - 80%] Death Magic Resistance
 2-6   [31% - 52%] Devour Resistance
 2-3   [28% - 46%] Diamond Magic Resistance
-1-8   [08% - 16%] Divination Magic Resistance
+1-9   [09% - 18%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
 2-20  [45% - 80%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
@@ -107,14 +107,14 @@ Resistances:
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
-3-9   [59% - 95%] Heat Resistance
+3-12  [62% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
 3-1   [51% - 82%] Lava Magic Resistance
 3-1   [51% - 82%] Light Magic Resistance
 3-9   [59% - 95%] Lightning Resistance
 
 3-7   [57% - 94%] Mana Drain Resistance
-3-15  [65% - 95%] Mental Resistance
+3-16  [66% - 95%] Mental Resistance
 2-20  [45% - 80%] Mist Magic Resistance
 1-3   [06% - 07%] Obsidian Magic Resistance
 3-3   [53% - 86%] Pain Tolerance
@@ -125,7 +125,7 @@ Resistances:
 1-13  [13% - 26%] Sapphire Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
 2-3   [28% - 46%] Smoke Magic Resistance
-2-11  [36% - 62%] Soul Magic Resistance
+2-13  [38% - 66%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-5   [55% - 90%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
@@ -133,7 +133,7 @@ Resistances:
 2-20  [45% - 80%] Time Magic Resistance
 1-18  [18% - 36%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
-3-5   [55% - 90%] Void Magic Resistance
+3-6   [56% - 92%] Void Magic Resistance
 3-1   [51% - 82%] Water Resistance
 3-2   [52% - 84%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
