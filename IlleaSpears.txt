@@ -1,6 +1,6 @@
-Class 1: 476 - The Azarinth Sentinel
-Class 2: 470 - Kin of Ash
-Class 3: 425 - The Faen Valkyrie
+Class 1: 477 - The Azarinth Sentinel
+Class 2: 471 - Kin of Ash
+Class 3: 426 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
