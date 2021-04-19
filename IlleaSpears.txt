@@ -1,6 +1,6 @@
-Class 1: 477 - The Azarinth Sentinel
-Class 2: 471 - Kin of Ash
-Class 3: 426 - The Faen Valkyrie
+Class 1: 479 - The Azarinth Sentinel
+Class 2: 473 - Kin of Ash
+Class 3: 428 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -14,21 +14,21 @@ Dex:  450  [2,970.0]
 Int: 1435 [19,229.0]
 Wis: 1450
 
-Resilience: 3,562.0%
+Resilience: 3,570.5%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  26,245
+Health:  26,375
 Stamina:  4,500
 Mana:    29,000
 
 Regen:
-hp/sec:  0.27% [63.4] [376.2 seconds]
+hp/sec:  0.27% [63.7] [376.2 seconds]
 mp/sec:  0.28% [79.8] [363.6 seconds]
 w/Med:   0.35% [101.9] [284.5 seconds]
 
-Mitigation:       97.744%     [hp x 44.36]
-Effective Health: 1,151,236.9 [hp x 80.29]
+Mitigation:       97.749%     [hp x 44.45]
+Effective Health: 1,159,299.9 [hp x 80.86]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -56,29 +56,29 @@ Kin of Ash
 
 The Faen Valkyrie
 3-19 Phaseshift               x2 
-3-23 Flare of Creation        x8 [56.5% => 452.0% Resilience]
+3-24 Flare of Creation        x8 [57.0% => 456.0% Resilience]
 3-21 Displacement             x2 
 3-17 Space Shift              x2 
-3-20 Body of the Valkyrie     x9 [45.0% => 405.0% Resilience, 11.0% => 99.0% Physical Resistance, 5.0% => 99.0% Magic Resistance, 9.0% => 81.0% Health, 1.50% => 13.50%/minute]
+3-21 Body of the Valkyrie     x9 [45.5% => 409.5% Resilience, 11.1% => 99.9% Physical Resistance, 5.0% => 99.9% Magic Resistance, 9.1% => 81.9% Health, 1.55% => 13.95%/minute]
 3-4  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
-3-1  Deviant of Humanity
+3-2  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-5  Gourmet
-1-9  Harmony of the Drowned
+1-11 Harmony of the Drowned
 1-11 Heavy Archery
 1-20 Identify
 
 3-13 Meditation
 3-12 Monster Hunter
-2-1  Oxygen Repository
+2-2  Oxygen Repository
 2-7  Sage of Torment
 1-9  Soul Perception
 1-6  Teaching
-3-17 Veteran
+3-18 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -102,7 +102,7 @@ Resistances:
 1-6   [07% - 12%] Dust Magic Resistance
 2-20  [45% - 80%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
-1-13  [13% - 26%] Fear Resistance
+1-16  [16% - 32%] Fear Resistance
 1-9   [09% - 18%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
@@ -134,7 +134,7 @@ Resistances:
 1-18  [18% - 36%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
 3-8   [58% - 95%] Void Magic Resistance
-3-1   [51% - 82%] Water Resistance
+3-2   [52% - 84%] Water Resistance
 3-2   [52% - 84%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
 
