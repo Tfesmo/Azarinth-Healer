@@ -1,6 +1,6 @@
-Class 1: 461 - The Azarinth Sentinel
-Class 2: 456 - Kin of Ash
-Class 3: 407 - The Faen Valkyrie
+Class 1: 462 - The Azarinth Sentinel
+Class 2: 457 - Kin of Ash
+Class 3: 408 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -58,13 +58,13 @@ The Faen Valkyrie
 3-14 Phaseshift               x2 
 3-19 Flare of Creation        x8 [54.5% => 436.0% Resilience]
 3-14 Displacement             x2 
-3-10 Space Shift              x2 
+3-11 Space Shift              x2 
 3-16 Body of the Valkyrie     x9 [43.0% => 387.0% Resilience, 10.6% => 95.4% Physical Resistance, 5.0% => 95.4% Magic Resistance, 8.6% => 77.4% Health]
 3-3  Space Awareness          x8 
 
 General Skills:
 1-3  Dancing
-2-18 Deviant of Humanity
+2-19 Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-5  Gourmet
@@ -82,7 +82,7 @@ General Skills:
 1-9  Warhammer Mastery
 
 Resistances:
-3-17 Arcane Magic Resistance
+3-18 Arcane Magic Resistance
 2-2  Ash Magic Resistance
 2-20 Astral Magic Resistance
 3-1  Blast Resistance
