@@ -38,7 +38,7 @@ The Azarinth Sentinel
 3-30 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
-3-24 Sentinel Huntress        x8 
+3-25 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
 3-30 Azarinth Reversal        x8 [113% to Deconstruction/Reconstruction]
 
@@ -64,7 +64,7 @@ The Faen Valkyrie
 
 General Skills:
 1-3  Dancing
-2-17 Deviant of Humanity
+2-18 Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-5  Gourmet
@@ -107,7 +107,7 @@ Resistances:
 1-1  Gold Magic Resistance
 2-20 Gravity Magic Resistance
 2-20 Health Drain Resistance
-3-7  Heat Resistance
+3-9  Heat Resistance
 2-20 Ice Resistance
 3-1  Lava Magic Resistance
 3-1  Light Magic Resistance
@@ -125,7 +125,7 @@ Resistances:
 1-13 Sapphire Magic Resistance
 1-1  Silver Magic Resistance
 2-3  Smoke Magic Resistance
-2-3  Soul Magic Resistance
+2-9  Soul Magic Resistance
 1-18 Sound Magic Resistance
 3-5  Space Magic Resistance
 2-20 Stamina Drain Resistance
