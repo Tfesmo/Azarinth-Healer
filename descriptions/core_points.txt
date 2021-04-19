@@ -1,14 +1,15 @@
-‘ding’ ‘Following requirements have been met. Has [Locked] or has unlocked an additional class beyond the limitations of their race.
+‘ding’ ‘Following requirements have been met. Has reached level 500 or has unlocked an additional class beyond the limitations of their race.
 Core skill points have been unlocked.
 Core skill points replace Class specific third tier skill points.
+Additional options have been unlocked
 
 [3rd tier Class Skill Point] – [Advance a Class skill to the third tier – Cost: 1]
-[Stat Gain] – [Gain 50 stat points to distribute freely – Cost: 2]
-[Skill Boost] – [Increase the level of a skill. Subdued effects at higher skill levels – Cost: 3]
+[Stat Gain]                  – [Gain 50 stat points to distribute freely – Cost: 2]
+[Skill Boost]                – [Increase the level of a skill. Subdued effects at higher skill levels – Cost: 3]
 [Locked]
+[Skill Enhancement]          – [Enhance a fully leveled third tier Class skill by resetting it to 3rd lvl 1 – Cost: 5]
 [Locked]
-[Locked]
-[Locked]
+[Derivative General Skill]   – [Learn a General skill based on frequently used Class techniques – Cost: 3]
 [Locked]
 
 You have survived an untouched Arcane Shift – 1 Core skill point awarded
@@ -56,3 +57,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have escaped Iz, saving both yourself and your team – One Core skill point awarded’
 ‘ding’ ‘You have defeated a Mature Bluetail in its preferred environment – One Core skill point awarded’
 ‘ding’ ‘You have seen a Leviathan and lived to tell the tale – One Core skill point awarded’
+‘ding’ ‘You have defeated the Terror of Krahen Keep – One Core skill point awarded.

@@ -1,22 +1,25 @@
-The Azarinth Sentinel
+The Arcane Eternal
 
-Vitality +30
+Vitality +50
 Strength +15
 Dexterity +15
-Intelligence +30
-Wisdom +20
+Intelligence +100
+Wisdom +200
 
-Body enhancement magic is improved by 300%
-All healing magic skills are improved by 200%
+Body enhancement magic is improved by 400%
+All healing magic skills are improved by 300%
 Natural health regeneration is increased by 1% per minute
-Food, water and sleep needed to sustain yourself are reduced
+Food, water and sleep needed to sustain yourself are no longer required
+You do not age
+Your mana capacity is tripled
 
-Active: Absolute Destruction
-Send a destructive pulse of mana into your enemy with every punch or kick.
+Active: Archon Strike
+Send a destructive pulse of mana into your enemy with every attack using your arms, fists, fingers, legs, feet, or head.
 Your Intelligence stat enhances the damage potential.
-2nd stage: The amount of mana used per strike can be regulated with a maximum of 100 mana per strike.
-You may charge each strike whilst unmoving with 100 mana per second to a maximum of 3000 mana.
-3rd stage: Due to the healing nature of Destruction it partially ignores protection against Mana intrusion.
+2nd stage: The amount of mana used per strike can be regulated with a maximum of 1000 mana per strike.
+You may charge each strike with 1000 mana per second to a maximum of 5000 mana.
+3rd stage: You may choose to use Archon Strike as a non intrusive attack, instead sending a wave of destructive healing onto your enemy.
+Due to the healing nature of Archon Strike it partially ignores protection against Mana intrusion.
 Category: Healing
 
 Active: Sentinel Reconstruction
@@ -40,25 +43,27 @@ Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
 Category: Aura – Body Enhancement
 
-Active: Blink
+Active: Transfer
 Immediately appear at a distant place.
 Distance based on the level of the skill.
-2nd stage: The time between blinks is reduced greatly. 
-No ground contact needed between blinks.
-3rd stage: You may set one destination you touch.
-You may change it every six months.
-You may travel to said destination once every three days.
+2nd stage: The time between transfers is reduced greatly.
+No ground contact needed between transfers.
+Upon arrival, you may use up to 500 mana to create an arcane explosion damaging enemies and disrupting magical constructs and spells.
+3rd stage: You may set three destinations you touch.
+You may change each destination once per week.
+You may travel to each destination once every day.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 *42.5m range @ 3-15, 15m @ 1-1, ch409
 *Formula should be: 15m + .5m/lvl
 
-Active: Sentinel Sphere
+Active: Arcane Dominion
 Perceive everything in a sphere around you while this skill is activated.
-The higher the level the further the sphere reaches.
-2nd stage: The Sentinel Sphere opens your senses to the arcane, a paramount skill both on and off the battlefield.
-3rd stage: Redirect damage dealt by magic or the elements within the sphere towards yourself. 
-Efficiency and control are influenced by related skills and your respective resistances.
+The higher the level the further the dominion reaches.
+2nd stage: Arcane dominion opens your senses to the arcane.
+A paramount skill both on and off the battlefield.
+Elements and spells you control within your dominion have increased harmony.
+3rd stage: You may use Sentinel Reconstruction on all beings within your dominion.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ radius @ 2-19, ch71
@@ -78,44 +83,53 @@ Efficiency is determined by enemy mana used and your resistance to the type of m
 Mana cost for all skills reduced by a static 25%.
 Category: Healing – Body Enhancement
 
-Passive: Azarinth Fighting
-You are familiar with the fighting style of Azarinth.
-Damage inflicted with your own body and related skills is [75% + .5%/lvl].
-2nd stage: Getting used to fighting in close quarters, your reaction time is increased by a static [10%].
-3rd stage: Azarinth Fighting consists of more than offense alone.
-A true Azarinth Healer knows when to stand and let an enemy strike.
+Passive: Eternal Brawling 
+You have adapted the fighting style of the Azarinth school to something you now call your own.
+Damage inflicted with your own body and related skills is [75% + .5%/lvl] higher.
+Your arms, fists, fingers, legs, and head deal a slight amount of arcane damage with each strike.
+2nd stage: Getting used to fighting in close quarters, your reaction time is increased to accommodate your increasing speed and control.
+Your bones are steeped with mana, increasing both their weight and resilience two fold.
+3rd stage: Eternal Brawling consists of more than offense alone.
+A true brawler knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.
-Category: Body Enhancement
+Category: Body Enhancement – Arcane Magic
 
-Passive: Sentinel Huntress
-Huntress turned Sentinel.
+Passive: Eternal Huntress
+Huntress turned Eternal.
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings as well as the ambient mana to find clues about your target’s whereabouts.
+Perceive the trails of dangerous prey.
 2nd stage: You gain a sense for the distress in the people around you.
 Amplify this by sacrificing mana.
-3rd stage: Through Azarinth magic, you may mark an enemy or ally with the Sentinel Mark.
-Allies may use the stored mana to signal The Azarinth Sentinel.
-Each level in the third tier adds an additional mark that can be used.
+You gain a sense for the arcane, feeling even minor spells around you.
+As you practice to differentiate these spells, you will learn of their intent.
+3rd stage: Through Azarinth magic, you may mark an enemy or ally with the Eternal Mark.
+Allies may use the mark to send a short message to the Arcane Eternal once per day.
+The Arcane Eternal can send a short message to each non forcefully applied mark once per day.
+Each level in the third tier adds two additional marks that can be used.
 Marks forcefully applied have a limited duration.
 Category: Body Enhancement
 
-Passive: Azarinth Perception
+Passive: Eternal Sight
 Increases your perception and reflexes while fighting.
-To keep up with your faster moving body a healer of Azarinth has to be able to control it.
-2nd stage: Your perception spikes for two seconds, should you be about to receive a blow that would take 75% or more of your life.
+To keep up with your faster moving body, the Arcane Eternal has to control it.
+2nd stage: Eternal Sight spikes for two seconds, should you be about to receive a blow that would take 50% or more of your health, or should your mind be incapacitated with an incoming blow.
 This can happen only once per hour.
 3rd stage: Your resilience and speed is doubled during the spike in perception.
-Increases usage to twice per hour.
+Increases usage to thrice per hour.
+Spend at static 25% of your mana to increase the effect of Eternal Sight by one second.
 Category: Body Enhancement
 
-Passive: Azarinth Reversal
-You have learned of Absolute Destruction and Sentinel Reconstruction.
+Passive: Arcane Circulation
+You have learned of Archon Strike and Sentinel Reconstruction.
 Now you will learn of their Reversal.
-Upon activation, Absolute Destruction will send a part of the struck enemy’s mana into yourself.
-No mana will be released on impact, rendering Absolute Destruction’s offensive potential to zero.
+Upon activation, Archon Strike will send a part of the struck enemy’s mana into yourself.
+No mana will be released on impact, rendering Archon Strike’s offensive potential to zero.
 Upon activation, Sentinel Reconstruction will send a destructive force of channeled mana into yourself or an enemy you touch, the healing aspects are reduced to zero.
 2nd stage: You may have both the original and reversed aspects activated at the same time.
+When an enemy partially or fully resists either Archon Strike or Sentinel Reconstruction, you absorb the dissipating mana.
 3rd stage: Healing, power, resilience and speed.
-An Azarinth Healer requires balance.
+All requires balance.
 Your respective Destruction and Reconstruction spells have their potency increased by a static 25% of your lowest stat.
+You may channel health in addition to mana into the respective offensive uses of Archon Strike and Sentinel Reconstruction.
 Category: Body Enhancement
