@@ -1,6 +1,6 @@
 Class 1: 447 - The Azarinth Sentinel
 Class 2: 443 - Kin of Ash
-Class 3: 375 - The Faen Valkyrie
+Class 3: 378 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -119,7 +119,7 @@ Resistances:
 1-3  Obsidian Magic Resistance
 3-3  Pain Tolerance
 3-2  Poison Resistance
-2-5  Rot Resistance
+2-6  Rot Resistance
 1-14 Ruby Magic Resistance
 2-20 Sand Magic Resistance
 1-13 Sapphire Magic Resistance
