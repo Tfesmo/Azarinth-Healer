@@ -48,6 +48,10 @@ Imbue you voice to show your intent. Effects vary depending on your disposition 
 Fully infused, you may lure even powerful creatures towards your location, depending on your intent.
 3rd stage: You may communicate even more intricate messages to monsters of all kinds. Infusing your voice allows you to imitate the calls of generally lower leveled monsters you have previously heard.
 
+Monstrous
+You have achieved level 500, reaching the realm of true monstrosity. Those of your kind may not find it easy to accept your newfound nature.
+You can choose to mask your power to those considerably weaker than you [250 levels below your highest Class level]. Specialized abilities or enhanced Identification may breach this ability.
+
 Oxygen Repository
 Due to unfortunate and/or sexual circumstances, you have been deprived of air for extended periods of time. Somehow you have pushed through to survive.
 Your body has learned that it may not always be supplied with what it needs. You may survive much longer without oxygen and may store what little you can get for extended periods of time. Apologies for ruining your sex life.
