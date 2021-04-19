@@ -59,7 +59,7 @@ The Faen Valkyrie
 3-22 Flare of Creation        x8 [56.0% => 448.0% Resilience]
 3-19 Displacement             x2 
 3-16 Space Shift              x2 
-3-18 Body of the Valkyrie     x9 [44.0% => 396.0% Resilience, 10.8% => 97.2% Physical Resistance, 5.0% => 97.2% Magic Resistance, 8.8% => 79.2% Health]
+3-18 Body of the Valkyrie     x9 [44.0% => 396.0% Resilience, 10.8% => 97.2% Physical Resistance, 5.0% => 97.2% Magic Resistance, 8.8% => 79.2% Health, 1.40% => 12.60%/minute]
 3-4  Space Awareness          x8 
 
 General Skills:

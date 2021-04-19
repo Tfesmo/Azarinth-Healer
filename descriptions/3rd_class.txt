@@ -66,7 +66,7 @@ You won’t be fazed anymore by heavy damage or powerful sources of light and so
 The fires flowing through you have hardened your bones and muscles.
 Your health is increased by [5% + .1%/lvl].
 3rd stage: Your ability to adapt to your enemy grows.
-Continued battle against the same foe increases damage reduction against its attacks by 0.5% [4.5%] per minute to a maximum of a static 50%.
+Continued battle against the same foe increases damage reduction against its attacks by [0.5% + .05%/lvl] per minute to a maximum of a static 50%.
 Category: Body enhancement – Space Magic
 
 Passive – Space Awareness
