@@ -1,6 +1,6 @@
-Class 1: 472 - The Azarinth Sentinel
-Class 2: 466 - Kin of Ash
-Class 3: 418 - The Faen Valkyrie
+Class 1: 476 - The Azarinth Sentinel
+Class 2: 470 - Kin of Ash
+Class 3: 425 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -14,21 +14,21 @@ Dex:  450  [2,970.0]
 Int: 1420 [19,028.0]
 Wis: 1450
 
-Resilience: 3,549.0%
+Resilience: 3,562.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  25,088
+Health:  25,340
 Stamina:  4,500
 Mana:    29,000
 
 Regen:
-hp/sec:  0.27% [60.6] [376.2 seconds]
+hp/sec:  0.27% [61.2] [376.2 seconds]
 mp/sec:  0.28% [79.8] [363.6 seconds]
 w/Med:   0.35% [101.9] [284.5 seconds]
 
-Mitigation:       97.736%     [hp x 44.21]
-Effective Health: 1,096,997.9 [hp x 79.23]
+Mitigation:       97.744%     [hp x 44.36]
+Effective Health: 1,111,539.1 [hp x 80.29]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -55,11 +55,11 @@ Kin of Ash
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-3-17 Phaseshift               x2 
-3-22 Flare of Creation        x8 [56.0% => 448.0% Resilience]
-3-19 Displacement             x2 
-3-16 Space Shift              x2 
-3-18 Body of the Valkyrie     x9 [44.0% => 396.0% Resilience, 10.8% => 97.2% Physical Resistance, 5.0% => 97.2% Magic Resistance, 8.8% => 79.2% Health, 1.40% => 12.60%/minute]
+3-19 Phaseshift               x2 
+3-23 Flare of Creation        x8 [56.5% => 452.0% Resilience]
+3-21 Displacement             x2 
+3-17 Space Shift              x2 
+3-20 Body of the Valkyrie     x9 [45.0% => 405.0% Resilience, 11.0% => 99.0% Physical Resistance, 5.0% => 99.0% Magic Resistance, 9.0% => 81.0% Health, 1.50% => 13.50%/minute]
 3-4  Space Awareness          x8 
 
 General Skills:
@@ -82,10 +82,10 @@ General Skills:
 1-9  Warhammer Mastery
 
 Resistances:
-3-19  [69% - 95%] Arcane Magic Resistance
+3-20  [70% - 95%] Arcane Magic Resistance
 2-2   [27% - 44%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
-3-2   [52% - 84%] Blast Resistance
+3-4   [54% - 88%] Blast Resistance
 2-1   [26% - 42%] Blight Resistance
 3-18  [68% - 95%] Blood Magic Resistance
 2-20  [45% - 80%] Blood Manipulation Resistance
@@ -107,7 +107,7 @@ Resistances:
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
-3-12  [62% - 95%] Heat Resistance
+3-14  [64% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
 3-1   [51% - 82%] Lava Magic Resistance
 3-3   [53% - 86%] Light Magic Resistance
@@ -133,7 +133,7 @@ Resistances:
 2-20  [45% - 80%] Time Magic Resistance
 1-18  [18% - 36%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
-3-6   [56% - 92%] Void Magic Resistance
+3-8   [58% - 95%] Void Magic Resistance
 3-1   [51% - 82%] Water Resistance
 3-2   [52% - 84%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
