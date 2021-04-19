@@ -38,7 +38,7 @@ The Azarinth Sentinel
 3-30 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
-3-20 Sentinel Huntress        x8 
+3-24 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
 3-30 Azarinth Reversal        x8 [113% to Deconstruction/Reconstruction]
 
@@ -75,15 +75,15 @@ General Skills:
 3-12 Meditation
 3-11 Monster Hunter
 2-1  Oxygen Repository
-2-2  Sage of Torment
+2-7  Sage of Torment
 1-5  Soul Perception
-1-4  Teaching
+1-6  Teaching
 3-15 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
 3-17 Arcane Magic Resistance
-1-5  Ash Magic Resistance
+2-2  Ash Magic Resistance
 2-20 Astral Magic Resistance
 3-1  Blast Resistance
 2-1  Blight Resistance
@@ -138,17 +138,17 @@ Resistances:
 3-2  Wind Resistance
 2-20 Wood Magic Resistance
 
-13 1st tier
-23 2nd tier
+12 1st tier
+24 2nd tier
 16 3rd tier
 
-Ash Density: 39 x 5% = 195%
+Ash Density: 40 x 5% = 200%
 
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
         Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-        Muscles are (240% + 230% + 65% = 535%) more dense - Avatar of Ash 2nd
+        Muscles are (240% + 240% + 60% = 540%) more dense - Avatar of Ash 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
 Resistance:
@@ -167,7 +167,7 @@ Summary:
                 Increased durability.
                 Stress adapted.
         Muscles:
-                [535%] more dense. (Avatar of Ash 2nd)
+                [540%] more dense. (Avatar of Ash 2nd)
                 Increased density.
                 Stress adapted.
                 Hardened.
