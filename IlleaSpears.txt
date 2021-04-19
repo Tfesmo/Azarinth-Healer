@@ -125,7 +125,7 @@ Resistances:
 1-13 Sapphire Magic Resistance
 1-1  Silver Magic Resistance
 2-3  Smoke Magic Resistance
-2-9  Soul Magic Resistance
+2-11 Soul Magic Resistance
 1-18 Sound Magic Resistance
 3-5  Space Magic Resistance
 2-20 Stamina Drain Resistance
