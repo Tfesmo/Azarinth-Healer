@@ -70,7 +70,7 @@ General Skills:
 1-5  Gourmet
 1-9  Harmony of the Drowned
 1-11 Heavy Archery
-1-19 Identify
+1-20 Identify
 
 3-13 Meditation
 3-12 Monster Hunter
