@@ -82,61 +82,61 @@ General Skills:
 1-9  Warhammer Mastery
 
 Resistances:
-3-18 Arcane Magic Resistance
-2-2  Ash Magic Resistance
-2-20 Astral Magic Resistance
-3-1  Blast Resistance
-2-1  Blight Resistance
-3-18 Blood Magic Resistance
-2-20 Blood Manipulation Resistance
-2-16 Bone Magic Resistance
-2-20 Corrosion Resistance
-2-14 Crystal Resistance
-2-20 Curse Resistance
+3-18  [68% - 95%] Arcane Magic Resistance
+2-2   [27% - 44%] Ash Magic Resistance
+2-20  [45% - 80%] Astral Magic Resistance
+3-1   [51% - 82%] Blast Resistance
+2-1   [26% - 42%] Blight Resistance
+3-18  [68% - 95%] Blood Magic Resistance
+2-20  [45% - 80%] Blood Manipulation Resistance
+2-16  [41% - 72%] Bone Magic Resistance
+2-20  [45% - 80%] Corrosion Resistance
+2-14  [39% - 68%] Crystal Resistance
+2-20  [45% - 80%] Curse Resistance
 
-2-6  Dark Magic Resistance
-2-20 Death Magic Resistance
-2-6  Devour Resistance
-2-3  Diamond Magic Resistance
-1-8  Divination Magic Resistance
-1-6  Dust Magic Resistance
-2-20 Earth Resistance
-2-1  Emerald Magic Resistance
-1-13 Fear Resistance
-1-9  Flesh Magic Resistance
-1-1  Gold Magic Resistance
-2-20 Gravity Magic Resistance
-2-20 Health Drain Resistance
-3-9  Heat Resistance
-2-20 Ice Resistance
-3-1  Lava Magic Resistance
-3-1  Light Magic Resistance
-3-9  Lightning Resistance
+2-6   [31% - 52%] Dark Magic Resistance
+2-20  [45% - 80%] Death Magic Resistance
+2-6   [31% - 52%] Devour Resistance
+2-3   [28% - 46%] Diamond Magic Resistance
+1-8   [08% - 16%] Divination Magic Resistance
+1-6   [07% - 12%] Dust Magic Resistance
+2-20  [45% - 80%] Earth Resistance
+2-1   [26% - 42%] Emerald Magic Resistance
+1-13  [13% - 26%] Fear Resistance
+1-9   [09% - 18%] Flesh Magic Resistance
+1-1   [05% - 05%] Gold Magic Resistance
+2-20  [45% - 80%] Gravity Magic Resistance
+2-20  [45% - 80%] Health Drain Resistance
+3-9   [59% - 95%] Heat Resistance
+2-20  [45% - 80%] Ice Resistance
+3-1   [51% - 82%] Lava Magic Resistance
+3-1   [51% - 82%] Light Magic Resistance
+3-9   [59% - 95%] Lightning Resistance
 
-3-7  Mana Drain Resistance
-3-15 Mental Resistance
-2-20 Mist Magic Resistance
-1-3  Obsidian Magic Resistance
-3-3  Pain Tolerance
-3-2  Poison Resistance
-3-4  Rot Resistance
-1-14 Ruby Magic Resistance
-2-20 Sand Magic Resistance
-1-13 Sapphire Magic Resistance
-1-1  Silver Magic Resistance
-2-3  Smoke Magic Resistance
-2-11 Soul Magic Resistance
-1-18 Sound Magic Resistance
-3-5  Space Magic Resistance
-2-20 Stamina Drain Resistance
+3-7   [57% - 94%] Mana Drain Resistance
+3-15  [65% - 95%] Mental Resistance
+2-20  [45% - 80%] Mist Magic Resistance
+1-3   [06% - 07%] Obsidian Magic Resistance
+3-3   [53% - 86%] Pain Tolerance
+3-2   [52% - 84%] Poison Resistance
+3-4   [54% - 88%] Rot Resistance
+1-14  [14% - 28%] Ruby Magic Resistance
+2-20  [45% - 80%] Sand Magic Resistance
+1-13  [13% - 26%] Sapphire Magic Resistance
+1-1   [05% - 05%] Silver Magic Resistance
+2-3   [28% - 46%] Smoke Magic Resistance
+2-11  [36% - 62%] Soul Magic Resistance
+1-18  [18% - 36%] Sound Magic Resistance
+3-5   [55% - 90%] Space Magic Resistance
+2-20  [45% - 80%] Stamina Drain Resistance
 
-2-20 Time Magic Resistance
-1-18 Topaz Magic Resistance
-1-14 Vine Magic Resistance
-3-5  Void Magic Resistance
-3-1  Water Resistance
-3-2  Wind Resistance
-2-20 Wood Magic Resistance
+2-20  [45% - 80%] Time Magic Resistance
+1-18  [18% - 36%] Topaz Magic Resistance
+1-14  [14% - 28%] Vine Magic Resistance
+3-5   [55% - 90%] Void Magic Resistance
+3-1   [51% - 82%] Water Resistance
+3-2   [52% - 84%] Wind Resistance
+2-20  [45% - 80%] Wood Magic Resistance
 
 12 1st tier
 24 2nd tier
