@@ -64,7 +64,7 @@ The Faen Valkyrie
 
 General Skills:
 1-3  Dancing
-2-20 Deviant of Humanity
+3-1  Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
 1-5  Gourmet
