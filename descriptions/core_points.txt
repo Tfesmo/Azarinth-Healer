@@ -51,3 +51,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have survived the Seeking Wrath of Lumian spell while below level one thousand – One Core skill point awarded’
 ‘ding’ ‘You have laid to rest the lost spirit of Lumian, freeing both her and the people she had sworn to protect – One Core skill point awarded’
 ‘ding’ ‘You have defeated a four mark creature while alone before reaching level 500 – One Core skill point awarded’
+‘ding’ ‘You have survived and prevailed in battle against a level 800 foe despite brain death and continued damage to your body – One Core skill point awarded’
