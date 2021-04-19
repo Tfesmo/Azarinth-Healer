@@ -48,3 +48,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have ridden an Ice Elemental into battle – One Core skill point awarded’
 ‘ding’ ‘You have successfully distracted a Daughter of Sephilon – One Core skill point awarded’
 ‘ding’ ‘You have saved an incomprehensible being from its dying realm – One Core skill point awarded’
+‘ding’ ‘You have survived the Seeking Wrath of Lumian spell while below level one thousand – One Core skill point awarded’

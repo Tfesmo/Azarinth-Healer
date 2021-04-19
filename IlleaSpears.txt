@@ -1,6 +1,6 @@
 Class 1: 447 - The Azarinth Sentinel
 Class 2: 443 - Kin of Ash
-Class 3: 378 - The Faen Valkyrie
+Class 3: 380 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -14,21 +14,21 @@ Dex:  450  [2,970.0]
 Int: 1200 [16,080.0]
 Wis: 1300
 
-Resilience: 3,485.0%
+Resilience: 3,498.0%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  22,360
+Health:  22,594
 Stamina:  4,500
 Mana:    26,000
 
 Regen:
-hp/sec:  0.27% [54.0]
-mp/sec:  0.25% [65.0]
-w/Med:   0.33% [84.6]
+hp/sec:  0.27% [54.6] [376.2 seconds]
+mp/sec:  0.25% [65.0] [400.0 seconds]
+w/Med:   0.33% [84.6] [307.2 seconds]
 
-Mitigation:       97.699%   [hp x 43.50]
-Effective Health: 962,598.0 [hp x 74.82]
+Mitigation:       97.707%   [hp x 43.65]
+Effective Health: 975,812.3 [hp x 75.86]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -55,11 +55,11 @@ Kin of Ash
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-3-8  Phaseshift               x2 
-3-15 Flare of Creation        x8 [52.5% => 420.0% Resilience]
+3-9  Phaseshift               x2 
+3-16 Flare of Creation        x8 [53.0% => 424.0% Resilience]
 3-11 Displacement             x2 
 3-7  Space Shift              x2 
-3-10 Body of the Valkyrie     x9 [40.0% => 360.0% Resilience, 10.0% => 90.0% Physical Resistance, 5.0% => 90.0% Magic Resistance, 8.0% => 72.0% Health]
+3-12 Body of the Valkyrie     x9 [41.0% => 369.0% Resilience, 10.2% => 91.8% Physical Resistance, 5.0% => 91.8% Magic Resistance, 8.2% => 73.8% Health]
 3-3  Space Awareness          x8 
 
 General Skills:
@@ -78,7 +78,7 @@ General Skills:
 2-1  Sage of Torment
 1-5  Soul Perception
 1-3  Teaching
-3-13 Veteran
+3-14 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -87,9 +87,9 @@ Resistances:
 2-20 Astral Magic Resistance
 3-1  Blast Resistance
 2-1  Blight Resistance
-3-9  Blood Magic Resistance
+3-12 Blood Magic Resistance
 2-20 Blood Manipulation Resistance
-2-6  Bone Magic Resistance
+2-9  Bone Magic Resistance
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
@@ -119,7 +119,7 @@ Resistances:
 1-3  Obsidian Magic Resistance
 3-3  Pain Tolerance
 3-2  Poison Resistance
-2-6  Rot Resistance
+2-14 Rot Resistance
 1-14 Ruby Magic Resistance
 2-20 Sand Magic Resistance
 1-13 Sapphire Magic Resistance
