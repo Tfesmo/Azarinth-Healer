@@ -3,3 +3,5 @@
 
 ‘ding’ ‘You have defeated [Howling Queen of Rot – lvl 1062]’ // Ch565 // 447/443/382
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1108]’ // Ch618 // 479/473/428
+‘ding’ ‘You have defeated [Mature Bluetail – lvl 1029]’
+‘ding’ ‘You have defeated [Mature Bluetail – lvl 1003]’
