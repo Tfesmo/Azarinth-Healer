@@ -67,3 +67,6 @@ Taleen Praetorians are made to destroy their enemy. If they reach critical healt
 
 - Water Resistance
 You have survived attack spells specialized and perfected over centuries by none other than the great Destroyer. The outrageous power of magical creatures imitated by sheer ingenuity and perfect control.
+
+- Rot Resistance
+You’ve basked in the power of an incredibly potent Rot aura. Most humans would die near instantly when exposed but you of course, have come to enjoy it. Perhaps it’s necessary for you to go to these lengths when other people can eat blue cheese for a similar experience.

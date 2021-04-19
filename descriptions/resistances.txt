@@ -221,6 +221,9 @@ Rot Resistance
 With your regeneration and healing, it was unlikely that such a resistance would ever manifest. However you have found a powerful source of unnatural rot.
 Perhaps fueled by a curse or magic. Congratulations on yet another painful and horrific experience.
 2nd stage: Your body has endured more than most, solely thanks to your magical regeneration. Time and exposure have made your body more resilient to infection, damaging bacteria, and fungal growth.
+3rd stage: You damn near bask in rotten magic. Rotten matter just turned into a delicacy to you.
+The process of rot has turned beneficial, destroying but also healing you at the same time. The more familiar with specific sources you become, the more you’ll be able to benefit from this boon.
+Just make sure to was yourself thoroughly afterwards.
 
 Ruby Magic Resistance
 A sub magic school of gem magic, harnessing the arcane connection of rubies. Rarely seen among living creatures, unstable and difficult to control.

@@ -1,6 +1,6 @@
 Class 1: 447 - The Azarinth Sentinel
 Class 2: 443 - Kin of Ash
-Class 3: 380 - The Faen Valkyrie
+Class 3: 382 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -11,24 +11,24 @@ Vit: 1300
 End:  450
 Str:  515  [6,901.0]
 Dex:  450  [2,970.0]
-Int: 1200 [16,080.0]
+Int: 1410 [18,894.0]
 Wis: 1300
 
-Resilience: 3,498.0%
+Resilience: 3,502.5%
 Speed+:     1,825.0%
 Damage+:    1,560.0%
 
-Health:  22,594
+Health:  22,711
 Stamina:  4,500
 Mana:    26,000
 
 Regen:
-hp/sec:  0.27% [54.6] [376.2 seconds]
+hp/sec:  0.27% [54.9] [376.2 seconds]
 mp/sec:  0.25% [65.0] [400.0 seconds]
 w/Med:   0.33% [84.6] [307.2 seconds]
 
-Mitigation:       97.707%   [hp x 43.65]
-Effective Health: 975,812.3 [hp x 75.86]
+Mitigation:       97.710%   [hp x 43.70]
+Effective Health: 981,989.6 [hp x 76.35]
 
 The Azarinth Sentinel
 3-30 Absolute Destruction     x3 
@@ -55,11 +55,11 @@ Kin of Ash
 3-30 Keeper of Ash            x8 [85.0% => 680.0% Damage]
 
 The Faen Valkyrie
-3-9  Phaseshift               x2 
+3-10 Phaseshift               x2 
 3-16 Flare of Creation        x8 [53.0% => 424.0% Resilience]
-3-11 Displacement             x2 
-3-7  Space Shift              x2 
-3-12 Body of the Valkyrie     x9 [41.0% => 369.0% Resilience, 10.2% => 91.8% Physical Resistance, 5.0% => 91.8% Magic Resistance, 8.2% => 73.8% Health]
+3-12 Displacement             x2 
+3-8  Space Shift              x2 
+3-13 Body of the Valkyrie     x9 [41.5% => 373.5% Resilience, 10.3% => 92.7% Physical Resistance, 5.0% => 92.7% Magic Resistance, 8.3% => 74.7% Health]
 3-3  Space Awareness          x8 
 
 General Skills:
@@ -73,7 +73,7 @@ General Skills:
 1-18 Identify
 
 3-11 Meditation
-3-8  Monster Hunter
+3-9  Monster Hunter
 2-1  Oxygen Repository
 2-1  Sage of Torment
 1-5  Soul Perception
@@ -87,9 +87,9 @@ Resistances:
 2-20 Astral Magic Resistance
 3-1  Blast Resistance
 2-1  Blight Resistance
-3-12 Blood Magic Resistance
+3-14 Blood Magic Resistance
 2-20 Blood Manipulation Resistance
-2-9  Bone Magic Resistance
+2-10 Bone Magic Resistance
 2-20 Corrosion Resistance
 2-14 Crystal Resistance
 2-20 Curse Resistance
@@ -119,7 +119,7 @@ Resistances:
 1-3  Obsidian Magic Resistance
 3-3  Pain Tolerance
 3-2  Poison Resistance
-2-14 Rot Resistance
+3-1  Rot Resistance
 1-14 Ruby Magic Resistance
 2-20 Sand Magic Resistance
 1-13 Sapphire Magic Resistance
@@ -139,8 +139,8 @@ Resistances:
 2-20 Wood Magic Resistance
 
 13 1st tier
-24 2nd tier
-15 3rd tier
+23 2nd tier
+16 3rd tier
 
 Ash Density: 39 x 5% = 195%
 
@@ -148,7 +148,7 @@ Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
         Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-        Muscles are (225% + 240% + 65% = 530%) more dense - Avatar of Ash 2nd
+        Muscles are (240% + 230% + 65% = 535%) more dense - Avatar of Ash 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
 Resistance:
@@ -167,7 +167,7 @@ Summary:
                 Increased durability.
                 Stress adapted.
         Muscles:
-                [530%] more dense. (Avatar of Ash 2nd)
+                [535%] more dense. (Avatar of Ash 2nd)
                 Increased density.
                 Stress adapted.
                 Hardened.
