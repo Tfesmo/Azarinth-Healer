@@ -1,6 +1,6 @@
-Class 1: 471 - The Azarinth Sentinel
-Class 2: 465 - Kin of Ash
-Class 3: 417 - The Faen Valkyrie
+Class 1: 472 - The Azarinth Sentinel
+Class 2: 466 - Kin of Ash
+Class 3: 418 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -110,7 +110,7 @@ Resistances:
 3-12  [62% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
 3-1   [51% - 82%] Lava Magic Resistance
-3-1   [51% - 82%] Light Magic Resistance
+3-3   [53% - 86%] Light Magic Resistance
 3-9   [59% - 95%] Lightning Resistance
 
 3-7   [57% - 94%] Mana Drain Resistance
