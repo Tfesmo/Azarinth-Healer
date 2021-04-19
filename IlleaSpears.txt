@@ -1,6 +1,6 @@
 Class 1: 461 - The Azarinth Sentinel
 Class 2: 456 - Kin of Ash
-Class 3: 406 - The Faen Valkyrie
+Class 3: 407 - The Faen Valkyrie
 
 700% Body Enhancement
 200% Healing
@@ -38,7 +38,7 @@ The Azarinth Sentinel
 3-30 Sentinel Sphere          x1 
 3-30 Sentinel Core           x10 [55.0% => 550.0% Durability, 135.0% => 1,350.0% Health Regen, 25.0% => 250.0% Magic Resistance]
 3-30 Azarinth Fighting        x8 [110.0% => 880.0% Damage, 10.0% => 80.0% Reaction Time]
-3-19 Sentinel Huntress        x8 
+3-20 Sentinel Huntress        x8 
 3-30 Azarinth Perception      x8 
 3-30 Azarinth Reversal        x8 [113% to Deconstruction/Reconstruction]
 
