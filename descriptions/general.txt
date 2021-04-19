@@ -29,7 +29,9 @@ This skill will improve upon your capabilities, making the bow just a little eas
 
 Identify
 You can grasp general information from someone or something.
-12 levels above as a base, after that 2 per level more.
+2nd stage: Ascertain more details with Identify.
+*Discord: 1st tier = 12+2 per level - second tier base is 24+3 per level in the second tier (+the 40 levels from tier 1) - So second tier max is 24+40(1st tier)+60(2nd tier)=124 levels
+*2-1 should be 67 levels above
 
 Meditation
 While in the state of meditation you cannot move. 

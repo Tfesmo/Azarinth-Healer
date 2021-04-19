@@ -117,6 +117,8 @@ Emeralds have the ability to create vines from magic. Acute control and high und
 Fear Resistance
 You have overcome something truly terrifying to you.
 Your ability to deal with non magical fear is increased.
+2nd stage: You have experienced true terror, your very core shaken many times. You overcame or at least survived.
+Even when your instincts are overwhelmed, you will find your mind calm enough to analyze the threat, your body warned but not paralyzed. Remain vigilant in the face of terror.
 
 Flesh Magic Resistance
 Not perhaps the prettiest of magic schools nor the most sanitary. Its ability to disturb and maim at the same time make it quite effective against those of higher thought.
