@@ -113,3 +113,24 @@ Category: Space Magic
 Passive – Lull of Battle
 You are one with war and battle. Less Endurance is needed the longer you fight.
 Category: Aura – Body Enhancement
+
+@400:
+Active – Ward of Creation
+Summon a shield of flame that floats around you. The Ward blocks and absorbs spells, growing in power. When the Ward has reached maximum capacity, you may unleash the stored up energy in a blast of fire.
+Category – Fire Magic - Space Magic
+
+Active – Force Projectile
+Unleash an invisible blast of concentrated space magic.
+Category – Space Magic
+
+Active – Force Tear
+Use space magic to tear out or damage a part of your enemy.
+Category – Space Magic
+
+Passive – Space Drift
+Move your body with space magic. Increased mana expenditure enhances the speed of flight.
+Category: Body Enhancement – Space Magic
+
+Passive – Space Telepathy
+Learn to communicate through space itself, forming thoughts into perceivable concepts for space aware sapient beings.
+Category: Body Enhancement – Space Magic
