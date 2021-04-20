@@ -1,0 +1,10 @@
+Base: 50kg
+Assume bones are 15% of Illea's weight.
+
+Multipliers:
+KoA: x2
+Sentinel Core: Bones x3
+Blast Resistance 3rd: x1.2*
+Eternal Brawling: Bones x2
+
+*guess

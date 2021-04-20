@@ -145,6 +145,8 @@ Resistances:
 
 Ash Density: 41 x 5% = 205%
 
+Weight: 210.0 kgs [463.0 lbs] [0.23 tons]
+
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
