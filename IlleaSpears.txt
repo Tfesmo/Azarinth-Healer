@@ -115,7 +115,7 @@ Resistances:
 2-20  [45% - 80%] Health Drain Resistance
 3-22  [72% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
-3-3   [53% - 86%] Lava Magic Resistance
+3-5   [55% - 90%] Lava Magic Resistance
 3-3   [53% - 86%] Light Magic Resistance
 3-9   [59% - 95%] Lightning Resistance
 
