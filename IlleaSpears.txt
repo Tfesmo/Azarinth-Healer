@@ -130,6 +130,7 @@ Resistances:
 1-14  [14% - 28%] Ruby Magic Resistance
 2-20  [45% - 80%] Sand Magic Resistance
 1-13  [13% - 26%] Sapphire Magic Resistance
+1-1   [05% - 05%] Shadow Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
 2-3   [28% - 46%] Smoke Magic Resistance
 2-13  [38% - 66%] Soul Magic Resistance
@@ -145,7 +146,7 @@ Resistances:
 3-9   [59% - 95%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
 
-12 1st tier
+13 1st tier
 24 2nd tier
 17 3rd tier
 
@@ -158,7 +159,7 @@ Maxed: 1,512.0 kgs [3,333.4 lbs] [1.67 tons]
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
-        Muscles are (255% + 240% + 60% = 555%) more dense - Avatar of Ash [E] 2nd
+        Muscles are (255% + 240% + 65% = 560%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
@@ -179,7 +180,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [555%] more dense.
+                [560%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

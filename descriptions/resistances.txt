@@ -247,6 +247,10 @@ Sapphire Magic Resistance
 A sub magic school of gem magic.
 Sapphires are attuned to water magic in a way few natural stones and gems are, letting a trained user focus powerful torrents of collected or created water to form devastating and precise attacks.
 
+Shadow Magic Resistance
+A sub school of light magic allowing for a highly specialized set of tools to both incapacitate and kill. A more subtle approach and finesse is required to bring this magic to its true potential.
+You have faced and survived encounters with masters of its use, making you more resilient against it.
+
 Silver Magic Resistance
 A rare magic to be sure and just as deadly.
 Not quite corrosion or poison, silver magic can be devious, its effects complex.
