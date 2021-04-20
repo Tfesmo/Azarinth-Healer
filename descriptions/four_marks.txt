@@ -6,3 +6,4 @@
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1108]’ // Ch618 // 479/473/428
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1029]’
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1003]’
+‘ding’ ‘You have defeated [Scorching Wyrm – lvl 1238]’

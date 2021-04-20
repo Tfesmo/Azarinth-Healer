@@ -1,6 +1,6 @@
-Class 1: 500 - The Arcane Eternal
-Class 2: 494 - Kin of Ash
-Class 3: 457 - The Faen Valkyrie
+Class 1: 505 - The Arcane Eternal
+Class 2: 500 - Kin of Ash
+Class 3: 465 - The Faen Valkyrie
 
 800% Body Enhancement
 300% Healing
@@ -14,21 +14,21 @@ Dex:  450  [3,285.0]
 Int: 1601 [23,935.0]
 Wis: 1750
 
-Resilience: 3,991.5%
+Resilience: 4,001.5%
 Speed+:     2,045.0%
 Damage+:    1,755.0%
 
-Health:   30,070
+Health:   30,380
 Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:  0.32% [86.2] [317.1 seconds]
+hp/sec:  0.32% [87.1] [317.1 seconds]
 mp/sec:  0.33% [341.3] [307.7 seconds]
 w/Med:   0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.004%     [hp x 50.16]
-Effective Health: 1,491,021.0 [hp x 97.30]
+Mitigation:       98.009%     [hp x 50.28]
+Effective Health: 1,509,734.1 [hp x 98.54]
 
 The Arcane Eternal
 3-30 Archon Strike            x4 
@@ -57,29 +57,29 @@ Kin of Ash
 The Faen Valkyrie
 3-21 Phaseshift               x2 
 3-27 Flare of Creation        x9 [58.5% => 526.5% Resilience]
-3-23 Displacement             x2 
-3-19 Space Shift              x2 
-3-24 Body of the Valkyrie    x10 [47.0% => 470.0% Resilience, 11.4% => 114.0% Physical Resistance, 5.0% => 114.0% Magic Resistance, 9.4% => 94.0% Health, 1.70% => 17.00%/minute]
+3-24 Displacement             x2 
+3-20 Space Shift              x2 
+3-26 Body of the Valkyrie    x10 [48.0% => 480.0% Resilience, 11.6% => 116.0% Physical Resistance, 5.0% => 116.0% Magic Resistance, 9.6% => 96.0% Health, 1.80% => 18.00%/minute]
 3-4  Space Awareness          x9 
 
 General Skills:
 1-3  Dancing
-3-8  Deviant of Humanity
+3-10 Deviant of Humanity
 1-6  Elos Standard language
 1-15 English Language
-1-5  Gourmet
+1-6  Gourmet
 1-16 Harmony of the Drowned
 1-11 Heavy Archery
 2-1  Identify
 
 3-14 Meditation
-3-13 Monster Hunter
+3-14 Monster Hunter
 1-1  Monstrous
 2-6  Oxygen Repository
 2-7  Sage of Torment
 1-9  Soul Perception
 1-6  Teaching
-3-20 Veteran
+3-21 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -108,9 +108,9 @@ Resistances:
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
-3-18  [68% - 95%] Heat Resistance
+3-22  [72% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
-3-1   [51% - 82%] Lava Magic Resistance
+3-3   [53% - 86%] Lava Magic Resistance
 3-3   [53% - 86%] Light Magic Resistance
 3-9   [59% - 95%] Lightning Resistance
 
@@ -119,6 +119,7 @@ Resistances:
 2-20  [45% - 80%] Mist Magic Resistance
 1-3   [06% - 07%] Obsidian Magic Resistance
 3-3   [53% - 86%] Pain Tolerance
+1-4   [06% - 08%] Petrification Resistance
 3-2   [52% - 84%] Poison Resistance
 3-4   [54% - 88%] Rot Resistance
 1-14  [14% - 28%] Ruby Magic Resistance
@@ -139,7 +140,7 @@ Resistances:
 3-7   [57% - 94%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
 
-11 1st tier
+12 1st tier
 25 2nd tier
 16 3rd tier
 
@@ -151,7 +152,7 @@ Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
         Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
-        Muscles are (240% + 250% + 55% = 545%) more dense - Avatar of Ash 2nd
+        Muscles are (240% + 250% + 60% = 550%) more dense - Avatar of Ash 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
@@ -172,7 +173,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [545%] more dense.
+                [550%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

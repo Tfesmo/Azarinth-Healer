@@ -212,6 +212,10 @@ Be wary as there is a reason pain exists.
 A pain coming with the forces of magic, the arcane, tearing and cutting at the core of what you are. You have experienced pain beyond which can be survived. And yet you live. A testament of resilience and perseverance, regeneration and a powerful mind. Let it fuel you, empower you.
 Pain now lets you focus, clears your mind instead of distracting it. You shall not be broken.
 
+Petrification Resistance
+You have encountered petrifying magic. Its effects are difficult to counter but yes, simply cutting away until there is no more stone works.
+Extended study and preparation could’ve helped but hey, you do you. It’ll be even easier next time.
+
 Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.
 Surviving either of those you have developed a general resistance to poisons.
