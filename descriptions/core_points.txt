@@ -66,3 +66,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have challenged Audur, Guardian of the West – One Core skill point awarded’
 ‘ding’ ‘You have fought a Dragon – One Core skill point awarded’
 ‘ding’ ‘You have survived the Cleansing Flame – One Core skill point awarded’
+‘ding’ ‘You have escaped Audur’s domain – One Core skill point awarded’
