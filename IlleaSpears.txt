@@ -9,39 +9,39 @@ Class 3: 465 - The Faen Valkyrie
 
 Vit: 1720
 End:  450
-Str:  545  [8,229.5]
+Str:  545  [8,256.8]
 Dex:  450  [3,600.0]
-Int: 1650 [24,915.0]
+Int: 1650 [24,997.5]
 Wis: 1750
 
-Resilience: 4,698.5%
-Speed+:     2,022.0%
+Resilience: 4,735.0%
+Speed+:     2,033.0%
 Damage+:    1,950.0%
 
-Health:   35,552
+Health:   36,120
 Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:   0.31% [109.0] [326.0 seconds]
-w/Mantle: 0.40% [141.6] [251.0 seconds]
+hp/sec:   0.31% [111.6] [323.5 seconds]
+w/Mantle: 0.40% [144.8] [249.5 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.220%     [hp x  56.23]
-Effective Health: 1,976,104.6 [hp x 116.22]
+Mitigation:       98.237%     [hp x  56.76]
+Effective Health: 2,026,151.4 [hp x 119.19]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
-3-2  Sentinel Reconstruction [E]     x4 
-3-2  Azarinth Awakening [E]         x10 [71.0% => 710.0% Resilience, Speed, Intelligence and Strength]
-3-1  Transfer [E]                    x1 
+3-4  Sentinel Reconstruction [E]     x4 
+3-3  Azarinth Awakening [E]         x10 [71.5% => 715.0% Resilience, Speed, Intelligence and Strength]
+3-2  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
-3-2  Sentinel Core [E]              x13 [41.0% => 533.0% Durability, 121.0% => 1,573.0% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-4  Sentinel Core [E]              x13 [42.0% => 546.0% Durability, 122.0% => 1,586.0% Health Regen, 25.0% => 325.0% Magic Resistance]
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
-3-1  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-2  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan            x12 [160.0% => 1,920.0% Resilience]
@@ -49,53 +49,53 @@ Second: The Ashen Titan
 3-30 Origin of Ash and Embers        x3 
 3-30 Embered Heart                  x12 
 3-30 Tempered Seal                   x3 
-3-1  Authority of Ash and Ember [E]  x3 
+3-2  Authority of Ash and Ember [E]  x3 
 3-2  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-2  Avatar of Ash [E]              x12 [51.0% => 612.0% Reflexes and Speed]
+3-3  Avatar of Ash [E]              x12 [51.5% => 618.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
-3-23 Phaseshift                      x2 
-3-27 Flare of Creation              x10 [58.5% => 585.0% Resilience]
-3-24 Displacement                    x2 
-3-22 Space Shift                     x2 
-3-27 Body of the Valkyrie           x11 [48.5% => 533.5% Resilience, 11.7% => 128.7% Physical Resistance, 5.0% => 128.7% Magic Resistance, 9.7% => 106.7% Health, 1.85% => 20.35%/minute]
-3-8  Space Awareness                x10 
+3-29 Phaseshift                      x2 
+3-30 Flare of Creation              x10 [60.0% => 600.0% Resilience]
+3-29 Displacement                    x2 
+3-28 Space Shift                     x2 
+3-30 Body of the Valkyrie           x11 [50.0% => 550.0% Resilience, 12.0% => 132.0% Physical Resistance, 5.0% => 132.0% Magic Resistance, 10.0% => 110.0% Health, 2.00% => 22.00%/minute]
+3-28 Space Awareness                x10 
 
 General Skills:
-1-2  Ashen Limbs
-1-1  Bulwark of Ash
-1-3  Dancing
-3-12 Deviant of Humanity
-1-1  Drill 
+1-12 Ashen Limbs
+1-9  Bulwark of Ash
+1-5  Dancing
+3-13 Deviant of Humanity
+1-3  Drill 
 1-6  Elos Standard language
 1-15 English Language
-1-6  Gourmet
+1-7  Gourmet
 1-16 Harmony of the Drowned
 1-11 Heavy Archery
 2-1  Identify
 
 3-14 Meditation
 3-14 Monster Hunter
-1-1  Monstrous
-2-7  Oxygen Repository
-2-9  Sage of Torment
-1-9  Soul Perception
-1-2  Spear of Ash
-1-6  Teaching
+1-2  Monstrous
+2-8  Oxygen Repository
+2-13 Sage of Torment
+1-10 Soul Perception
+1-14 Spear of Ash
+1-8  Teaching
 3-22 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
 3-20  [70% - 95%] Arcane Magic Resistance
-2-2   [27% - 44%] Ash Magic Resistance
+2-4   [29% - 48%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
-3-4   [54% - 88%] Blast Resistance
+3-5   [55% - 90%] Blast Resistance
 2-1   [26% - 42%] Blight Resistance
 3-18  [68% - 95%] Blood Magic Resistance
 2-20  [45% - 80%] Blood Manipulation Resistance
-2-16  [41% - 72%] Bone Magic Resistance
+2-17  [42% - 74%] Bone Magic Resistance
 2-20  [45% - 80%] Corrosion Resistance
 2-14  [39% - 68%] Crystal Resistance
 2-20  [45% - 80%] Curse Resistance
@@ -104,27 +104,27 @@ Resistances:
 2-20  [45% - 80%] Death Magic Resistance
 2-6   [31% - 52%] Devour Resistance
 2-3   [28% - 46%] Diamond Magic Resistance
-1-9   [09% - 18%] Divination Magic Resistance
+1-10  [10% - 20%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
-3-3   [53% - 86%] Earth Resistance
+3-5   [55% - 90%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
 2-1   [26% - 42%] Fear Resistance
 1-9   [09% - 18%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
-3-22  [72% - 95%] Heat Resistance
+3-23  [73% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
-3-5   [55% - 90%] Lava Magic Resistance
+3-9   [59% - 95%] Lava Magic Resistance
 3-3   [53% - 86%] Light Magic Resistance
-3-9   [59% - 95%] Lightning Resistance
+3-10  [60% - 95%] Lightning Resistance
 
 3-7   [57% - 94%] Mana Drain Resistance
 3-17  [67% - 95%] Mental Resistance
 2-20  [45% - 80%] Mist Magic Resistance
 1-3   [06% - 07%] Obsidian Magic Resistance
 3-3   [53% - 86%] Pain Tolerance
-1-7   [08% - 14%] Petrification Resistance
+1-14  [14% - 28%] Petrification Resistance
 3-2   [52% - 84%] Poison Resistance
 3-4   [54% - 88%] Rot Resistance
 1-14  [14% - 28%] Ruby Magic Resistance
@@ -143,7 +143,7 @@ Resistances:
 1-14  [14% - 28%] Vine Magic Resistance
 3-8   [58% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
-3-9   [59% - 95%] Wind Resistance
+3-10  [60% - 95%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
 
 13 1st tier
