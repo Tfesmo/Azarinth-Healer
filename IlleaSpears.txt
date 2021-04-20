@@ -14,30 +14,30 @@ Dex:  450  [3,600.0]
 Int: 1650 [24,832.5]
 Wis: 1750
 
-Resilience: 4,688.0%
+Resilience: 4,693.5%
 Speed+:     2,011.0%
 Damage+:    1,950.0%
 
-Health:   35,363
+Health:   35,552
 Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:   0.31% [108.0] [327.3 seconds]
-w/Mantle: 0.40% [140.5] [251.8 seconds]
+hp/sec:   0.31% [109.0] [326.0 seconds]
+w/Mantle: 0.40% [141.6] [251.0 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.214%     [hp x  56.05]
-Effective Health: 1,959,393.1 [hp x 115.23]
+Mitigation:       98.218%     [hp x  56.18]
+Effective Health: 1,974,327.0 [hp x 116.12]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
-3-1  Sentinel Reconstruction [E]     x4 
+3-2  Sentinel Reconstruction [E]     x4 
 3-1  Azarinth Awakening [E]         x10 [70.5% => 705.0% Resilience, Speed, Intelligence and Strength]
 3-1  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
-3-1  Sentinel Core [E]              x13 [40.5% => 526.5% Durability, 120.5% => 1,566.5% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-2  Sentinel Core [E]              x13 [41.0% => 533.0% Durability, 121.0% => 1,573.0% Health Regen, 25.0% => 325.0% Magic Resistance]
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
@@ -50,24 +50,24 @@ Second: The Ashen Titan
 3-30 Embered Heart                  x12 
 3-30 Tempered Seal                   x3 
 3-1  Authority of Ash and Ember [E]  x3 
-3-1  Ashen Wings [E]                x12 
+3-2  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
 3-1  Avatar of Ash [E]              x12 [50.5% => 606.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
-3-21 Phaseshift                      x2 
+3-23 Phaseshift                      x2 
 3-27 Flare of Creation              x10 [58.5% => 585.0% Resilience]
 3-24 Displacement                    x2 
-3-20 Space Shift                     x2 
-3-26 Body of the Valkyrie           x11 [48.0% => 528.0% Resilience, 11.6% => 127.6% Physical Resistance, 5.0% => 127.6% Magic Resistance, 9.6% => 105.6% Health, 1.80% => 19.80%/minute]
+3-21 Space Shift                     x2 
+3-27 Body of the Valkyrie           x11 [48.5% => 533.5% Resilience, 11.7% => 128.7% Physical Resistance, 5.0% => 128.7% Magic Resistance, 9.7% => 106.7% Health, 1.85% => 20.35%/minute]
 3-4  Space Awareness                x10 
 
 General Skills:
-1-1  Ashen Limbs
+1-2  Ashen Limbs
 1-1  Bulwark of Ash
 1-3  Dancing
-3-10 Deviant of Humanity
+3-11 Deviant of Humanity
 1-1  Drill 
 1-6  Elos Standard language
 1-15 English Language
@@ -79,12 +79,12 @@ General Skills:
 3-14 Meditation
 3-14 Monster Hunter
 1-1  Monstrous
-2-6  Oxygen Repository
+2-7  Oxygen Repository
 2-7  Sage of Torment
 1-9  Soul Perception
-1-1  Spear of Ash
+1-2  Spear of Ash
 1-6  Teaching
-3-21 Veteran
+3-22 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -142,7 +142,7 @@ Resistances:
 1-14  [14% - 28%] Vine Magic Resistance
 3-8   [58% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
-3-7   [57% - 94%] Wind Resistance
+3-9   [59% - 95%] Wind Resistance
 2-20  [45% - 80%] Wood Magic Resistance
 
 12 1st tier
