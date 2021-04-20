@@ -1,6 +1,6 @@
 Class 1: 500 - The Arcane Eternal
-Class 2: 493 - Kin of Ash
-Class 3: 456 - The Faen Valkyrie
+Class 2: 494 - Kin of Ash
+Class 3: 457 - The Faen Valkyrie
 
 800% Body Enhancement
 300% Healing
