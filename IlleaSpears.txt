@@ -61,7 +61,7 @@ Third: The Faen Valkyrie
 3-24 Displacement                    x2 
 3-22 Space Shift                     x2 
 3-27 Body of the Valkyrie           x11 [48.5% => 533.5% Resilience, 11.7% => 128.7% Physical Resistance, 5.0% => 128.7% Magic Resistance, 9.7% => 106.7% Health, 1.85% => 20.35%/minute]
-3-7  Space Awareness                x10 
+3-8  Space Awareness                x10 
 
 General Skills:
 1-2  Ashen Limbs
@@ -106,7 +106,7 @@ Resistances:
 2-3   [28% - 46%] Diamond Magic Resistance
 1-9   [09% - 18%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
-3-2   [52% - 84%] Earth Resistance
+3-3   [53% - 86%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
 2-1   [26% - 42%] Fear Resistance
 1-9   [09% - 18%] Flesh Magic Resistance
@@ -135,7 +135,7 @@ Resistances:
 2-3   [28% - 46%] Smoke Magic Resistance
 2-13  [38% - 66%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
-3-6   [56% - 92%] Space Magic Resistance
+3-7   [57% - 94%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
 
 2-20  [45% - 80%] Time Magic Resistance
