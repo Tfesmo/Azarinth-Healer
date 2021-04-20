@@ -330,3 +330,4 @@ A connection made from a mage to nature allowed for this talent to take root.
 Facing the force of nature you grow more accustomed to its effects, your body more resilient to the magic of the forest.
 2nd stage: Magic of life and nature. It is concerning how much you have enraged the usually peaceful creatures and mages using this school.
 Through painfully learned understanding, your body can now absorb a fraction of the life used.
+3rd stage: You are a being of death and corruption, having invoked the wrath of Audur. Wood spells and conjurations are less effective and much more costly once they come in touch with your flesh.
