@@ -10,16 +10,22 @@ How to read the stat sheet:
 Hopefully most of this is fairly intuitive.  Here's the custom areas:
 
 Stats increased by variable skills have the final value shown in brackets
->Int: 1601 [23,935.0]
+```
+Int: 1601 [23,935.0]
+```
 
 The regen block is %/sec [amount/sec] [seconds from 0 to full]
->hp/sec:  0.32% [86.2] [317.1 seconds]
->mp/sec:  0.33% [341.3] [307.7 seconds]
->w/Med:   0.40% [422.1] [248.8 seconds]
+```
+hp/sec:  0.32% [86.2] [317.1 seconds]
+mp/sec:  0.33% [341.3] [307.7 seconds]
+w/Med:   0.40% [422.1] [248.8 seconds]
+```
 
 Effective Health, see: https://github.com/Tfesmo/Azarinth-Healer/blob/main/references/effective_health.txt
->Mitigation:       98.004%     [hp x 50.16]
->Effective Health: 1,491,021.0 [hp x 97.30]
+```
+Mitigation:       98.004%     [hp x 50.16]
+Effective Health: 1,491,021.0 [hp x 97.30]
+```
 
 The multiplier after each class skill name is the multiplier it gets from class magic increases
 >3-30 Azarinth Awakening       x9 [85.0% => 765.0% Resilience, Speed, Intelligence and Strength]
