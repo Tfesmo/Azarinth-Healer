@@ -1,62 +1,79 @@
-Kin of Ash
+The Ashen Titan
 
-Vitality +30
-Strength +20
+Vitality +200
+Strength +50
 Dexterity +20
 Intelligence +20
 Wisdom +15
 
-Body enhancement magic is improved by 300%
-All Ashen magic skills are improved by 100%
+Body enhancement magic is improved by 400%
+All Ashen magic skills are improved by 200%
 All fighting styles using hand to hand combat are more refined
 Your will is ash and embers
+You cannot be stunned by enemy attacks
+Your bones and muscles have increased density
 
-Active: Armor of Ash
-A shroud of condensed ash to shield you.
-Hard as steel and forming to your will.
-The Armor increases your resilience by [100% + .5%/lvl].
-Halved effects if armor beyond light category is worn.
-2nd stage: The strength of your Resistance skills also benefit from the Armor of Ash.
+Active: Mantle of the Titan
+An armor of hardened ash protects you.
+Stronger than steel and forming to your will.
+The Mantle increases your resilience by [125% + .5%/lvl].
+2nd stage: The strength of your Resistance skills also benefit from Mantle of the Titan.
+The Mantle is a part of the Titan’s body.
+It benefits from natural regeneration.
+You can feel through your Mantle and you can heal it.
 3rd stage: Increases the defensive capabilities of all ash and ember you control.
-Effects additionally apply to your body itself, halved if armor beyond light category is worn.
+Increase the ash used to form your mantle by up to a static 300%.
+The additional ash used requires conscious manipulation.
 Category: Body Enhancement – Ashen magic
 
-Active: Aspect of Ash
+Active: Titan Core
 Ember glows within you raising your resilience, speed, Strength, Intelligence and Dexterity by [35% + .5%/lvl].
-2nd stage: The longer you fight in the Aspect of Ash, the deeper it roots.
+Your learn how to generate and store heat within your Titan Core.
+This effect has a separate mana requirement.
+2nd stage: The longer you fight with Titan Core active, the deeper it roots.
 Each minute of fighting adds 15% more power to the skill with a maximum of 150%.
 3rd stage: Familiarity with the skill removes its upkeep.
-When reaching the maximum second tier bonus you may reset it by amplifying your next attack with ash and ember.
+You can choose to increase your weight by [10%] for each passing minute to a maximum of a static 500%, increasing your natural health regeneration and heat generation by the same factor.
 Category: Aura – Body Enhancement
 
-Active: True Ash Creation
-Create ash in a certain radius around you.
-2nd stage: You can control the density of the ash to an extent.
+Active: Origin of Ash and Embers
+Create ash and embers in a certain radius around you.
+2nd stage: You can control the density of the ash and the heat of embers to an extent.
 3rd stage: You have proven your dedication.
-Ash swirls to aid and destroy at your whims.
+Ash and embers move to aid and destroy at your whims.
 Category: Ashen Magic
 
-Active: Heart of Cinder
+Active: Embered Heart
 Increase the heat in your body and release it in a blast around you.
 2nd stage: The embers run deep.
 The heat you may reach is only limited by your very life.
+Your resistance to heat held within your body is doubled.
 3rd stage: Focus on release to change the blast into a cone of destruction sent out of either arm.
+You may store heat within ash you control, the more ash used, the higher its potential to hold heat.
+Ash not connected to you releases its stored heat upon a strong impact in a blast around it.
 Category: Body Enhancement – Ashen Magic
 
-Active: Storm of Cinders
+Active: Tempered Seal
 Burn the inside of whatever your body hits with a surge of heat and embers or release the attack in a burst of fire and cinders.
 2nd stage: The flame burns on.
 Targets hit will have fire burning through or on them.
 Time and consecutive attacks will increase the effect.
-3rd stage: Storm of Cinders burns away all that stands against it, damaging mana intrusion capabilities of defensive enchantments, natural- as well as manufactured armor.
+When using your arms, fists, fingers, legs, feet, or head, you gain the ability to send pockets of heat within your enemies alongside the initial surge of heat and embers.
+Activate these pockets to cause a violent explosion of fire within the affected targets.
+Can be activated three seconds after pocket formation or until heat is lost.
+3rd stage: Tempered Seal burns away all that stand against it, damaging mana intrusion capabilities of defensive enchantments, natural- as well as manufactured armor.
+You may add heat to existing heat pockets or form more.
 Category: Ashen magic
 
-Passive: Ash and Ember Unity
+Passive: Authority of Ash and Ember
 You are one with Ash and Ember.
 Allies rushing to your aid.
 2nd stage: Your understanding grows, allowing you to create greater change in ash and ember.
+Imbue mana into your creations.
+Ash and Ember you imbued retains its form until the mana is used up.
 3rd stage: The elements themselves become an extension of your body, an extension of your will, for as long as they stay in physical contact with you.
 Ash not connected benefits from passive abilities enhancing your body.
+You may imbue simple commands into ash and ember you have imbued with mana.
 Category: Ashen magic
 
 Passive: Ashen Wings
@@ -69,12 +86,13 @@ An added tail shall make you one with the skies above, not a mere human imitatin
 You may charge your wings with mana and stamina to dramatically increase your flight velocity at the cost of heavily reduced control.
 Category: Body Enhancement – Ashen Magic
 
-Passive: Eyes of Ash
-Increases your perception by [30% + .5%/lvl] when fighting without a weapon.
-2nd stage: Effects apply with weapons as well.
-Opportunity calls, you notice possible critical weak points on enemies with more ease.
+Passive: Vision of Ash
+Increases your perception by [30% + .5%/lvl] when fighting.
+2nd stage: Opportunity calls, you notice possible critical weak points on enemies with more ease.
+You can choose to see through ash and embers.
 3rd stage: Your eyes are vastly improved.
 Great distances and a lack of light won’t pose a problem to you anymore.
+You can control ash and embers that you can see.
 Category: Body Enhancement – Ashen magic
 
 Passive: Avatar of Ash
@@ -89,10 +107,13 @@ Each Resistance skill in the second tier or higher increases the potential densi
 Category: Body Enhancement – Ashen magic
 *see IlleaSpears.txt for 2nd/3rd tier Density calculations
 
-Passive: Keeper of Ash
+Passive: Embered Form – 3rd lvl 30:
 You are one with the fighting style of Ash.
-Damage inflicted with your own body and while shrouded in Ash is [50% + .5%/lvl] higher.
+Damage inflicted is [50% + .5%/lvl] higher.
 2nd stage: Adds density to your bones, muscles and skin to increase strength, speed and damage.
 Base body weight is doubled.
+The abuse your body takes from your own strikes and their feedback is reduced.
 3rd stage: Reduces stamina consumption by a static 35%.
+Mana intrusion attacks formed or charged within your arms, hands, fingers, legs, feet, or your head can instead be converted into a purely physical damage increase to the executed attack.
+Be aware that this increase will be heavily demanding for your body.
 Category: Body Enhancement

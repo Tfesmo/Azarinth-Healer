@@ -1,66 +1,67 @@
 Class 1: 505 - The Arcane Eternal
-Class 2: 500 - Kin of Ash
+Class 2: 500 - The Ashen Titan
 Class 3: 465 - The Faen Valkyrie
 
-800% Body Enhancement
+900% Body Enhancement
 300% Healing
-100% Ashen
+200% Ashen
 100% Space
 
-Vit: 1550
+Vit: 1720
 End:  450
-Str:  515  [7,699.3]
-Dex:  450  [3,285.0]
-Int: 1601 [23,935.0]
+Str:  545  [8,992.5]
+Dex:  450  [3,600.0]
+Int: 1601 [26,416.5]
 Wis: 1750
 
-Resilience: 4,001.5%
-Speed+:     2,045.0%
-Damage+:    1,755.0%
+Resilience: 4,833.0%
+Speed+:     2,330.0%
+Damage+:    1,950.0%
 
-Health:   30,380
+Health:   35,363
 Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:  0.32% [87.1] [317.1 seconds]
-mp/sec:  0.33% [341.3] [307.7 seconds]
-w/Med:   0.40% [422.1] [248.8 seconds]
+hp/sec:   0.34% [120.3] [294.0 seconds]
+w/Mantle: 0.43% [152.7] [231.6 seconds]
+mp/sec:   0.33% [341.3] [307.7 seconds]
+w/Med:    0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.009%     [hp x 50.28]
-Effective Health: 1,509,734.1 [hp x 98.54]
+Mitigation:       98.315%     [hp x  59.38]
+Effective Health: 2,077,328.7 [hp x 122.09]
 
 The Arcane Eternal
-3-30 Archon Strike            x4 
-3-30 Sentinel Reconstruction  x4 
-3-30 Azarinth Awakening       x9 [85.0% => 765.0% Resilience, Speed, Intelligence and Strength]
-3-30 Transfer                 x1 
-3-30 Arcane Dominion          x1 
-3-30 Sentinel Core           x12 [55.0% => 660.0% Durability, 135.0% => 1,620.0% Health Regen, 25.0% => 300.0% Magic Resistance]
-3-30 Eternal Brawling         x9 [110.0% => 990.0% Damage]
-3-30 Eternal Huntress         x9 
-3-30 Eternal Sight            x9 
-3-30 Arcane Circulation       x9 [112.5% to Deconstruction/Reconstruction]
+3-30 Archon Strike               x4 
+3-30 Sentinel Reconstruction     x4 
+3-30 Azarinth Awakening         x10 [85.0% => 850.0% Resilience, Speed, Intelligence and Strength]
+3-30 Transfer                    x1 
+3-30 Arcane Dominion             x1 
+3-30 Sentinel Core              x13 [55.0% => 715.0% Durability, 135.0% => 1,755.0% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-30 Eternal Brawling           x10 [110.0% => 1,100.0% Damage]
+3-30 Eternal Huntress           x10 
+3-30 Eternal Sight              x10 
+3-30 Arcane Circulation         x10 [112.5% to Deconstruction/Reconstruction]
 
-Kin of Ash
-3-30 Armor of Ash            x10 [135.0% => 1,350.0% Resilience]
-3-30 Aspect of Ash            x9 [70.0% => 630.0% Resilience, Speed, Strength, Intelligence and Dexterity]
-3-30 True Ash Creation        x2 
-3-30 Heart of Cinder         x10 
-3-30 Storm of Cinders         x2 
-3-30 Ash and Ember Unity      x2 
-3-30 Ashen Wings             x10 
-3-30 Eyes of Ash             x10 [65.0% => 650.0% Perception]
-3-30 Avatar of Ash           x10 [65.0% => 650.0% Reflexes and Speed]
-3-30 Keeper of Ash            x9 [85.0% => 765.0% Damage]
+The Ashen Titan
+3-30 Mantle of the Titan        x12 [160.0% => 1,920.0% Resilience]
+3-30 Titan Core                 x10 [70.0% => 700.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-30 Origin of Ash and Embers    x3 
+3-30 Embered Heart              x12 
+3-30 Tempered Seal               x3 
+3-30 Authority of Ash and Ember  x3 
+3-30 Ashen Wings                x12 
+3-30 Vision of Ash              x12 [65.0% => 780.0% Perception]
+3-30 Avatar of Ash              x12 [65.0% => 780.0% Reflexes and Speed]
+3-30 Embered Form               x10 [85.0% => 850.0% Damage]
 
 The Faen Valkyrie
-3-21 Phaseshift               x2 
-3-27 Flare of Creation        x9 [58.5% => 526.5% Resilience]
-3-24 Displacement             x2 
-3-20 Space Shift              x2 
-3-26 Body of the Valkyrie    x10 [48.0% => 480.0% Resilience, 11.6% => 116.0% Physical Resistance, 5.0% => 116.0% Magic Resistance, 9.6% => 96.0% Health, 1.80% => 18.00%/minute]
-3-4  Space Awareness          x9 
+3-21 Phaseshift                  x2 
+3-27 Flare of Creation          x10 [58.5% => 585.0% Resilience]
+3-24 Displacement                x2 
+3-20 Space Shift                 x2 
+3-26 Body of the Valkyrie       x11 [48.0% => 528.0% Resilience, 11.6% => 127.6% Physical Resistance, 5.0% => 127.6% Magic Resistance, 9.6% => 105.6% Health, 1.80% => 19.80%/minute]
+3-4  Space Awareness            x10 
 
 General Skills:
 1-3  Dancing
@@ -146,14 +147,14 @@ Resistances:
 
 Ash Density: 41 x 5% = 205%
 
-Weight: 210.0 kgs [463.0 lbs] [0.23 tons]
+Weight:  252.0 kgs   [555.6 lbs] [0.28 tons]
+Maxed: 1,512.0 kgs [3,333.4 lbs] [1.67 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core 2nd
-        Increases the defensive capabilities of all ash and ember you control. Effects additionally apply to your body itself, halved if armor beyond light category is worn - Armor of Ash 3rd
         Muscles are (240% + 250% + 60% = 550%) more dense - Avatar of Ash 2nd
-        Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Keeper of Ash 2nd
+        Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
 Resistance:
@@ -182,6 +183,5 @@ Summary:
                 Hardened.
                 Increased durability.
         All:
-                Increased defensive capabilities, halved if armor beyond light category is worn.
                 Partially shock absorbent.
                 Cut/pressure resistant.
