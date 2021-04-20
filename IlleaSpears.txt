@@ -9,13 +9,13 @@ Class 3: 465 - The Faen Valkyrie
 
 Vit: 1720
 End:  450
-Str:  545  [8,202.3]
+Str:  545  [8,229.5]
 Dex:  450  [3,600.0]
-Int: 1650 [24,832.5]
+Int: 1650 [24,915.0]
 Wis: 1750
 
-Resilience: 4,693.5%
-Speed+:     2,011.0%
+Resilience: 4,698.5%
+Speed+:     2,022.0%
 Damage+:    1,950.0%
 
 Health:   35,552
@@ -28,13 +28,13 @@ w/Mantle: 0.40% [141.6] [251.0 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.218%     [hp x  56.18]
-Effective Health: 1,974,327.0 [hp x 116.12]
+Mitigation:       98.220%     [hp x  56.23]
+Effective Health: 1,976,104.6 [hp x 116.22]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
 3-2  Sentinel Reconstruction [E]     x4 
-3-1  Azarinth Awakening [E]         x10 [70.5% => 705.0% Resilience, Speed, Intelligence and Strength]
+3-2  Azarinth Awakening [E]         x10 [71.0% => 710.0% Resilience, Speed, Intelligence and Strength]
 3-1  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
 3-2  Sentinel Core [E]              x13 [41.0% => 533.0% Durability, 121.0% => 1,573.0% Health Regen, 25.0% => 325.0% Magic Resistance]
@@ -52,16 +52,16 @@ Second: The Ashen Titan
 3-1  Authority of Ash and Ember [E]  x3 
 3-2  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-1  Avatar of Ash [E]              x12 [50.5% => 606.0% Reflexes and Speed]
+3-2  Avatar of Ash [E]              x12 [51.0% => 612.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
 3-23 Phaseshift                      x2 
 3-27 Flare of Creation              x10 [58.5% => 585.0% Resilience]
 3-24 Displacement                    x2 
-3-21 Space Shift                     x2 
+3-22 Space Shift                     x2 
 3-27 Body of the Valkyrie           x11 [48.5% => 533.5% Resilience, 11.7% => 128.7% Physical Resistance, 5.0% => 128.7% Magic Resistance, 9.7% => 106.7% Health, 1.85% => 20.35%/minute]
-3-5  Space Awareness                x10 
+3-7  Space Awareness                x10 
 
 General Skills:
 1-2  Ashen Limbs
