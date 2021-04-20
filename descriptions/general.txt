@@ -1,3 +1,9 @@
+Ashen Limbs
+You have mastered the ability to fight with limbs made entirely of ash. Required manipulation is reduced by 25%.
+
+Bulwark of Ash
+Many times have you used walls of ash to defend yourself and your allies. Resilience of ashen walls is increased by 20%.
+
 Dancing
 The ability to move your body to music and to coordinate your movements with those around you or a partner. It’s really a surprise this took you so long, considering your dexterous body.
 
@@ -8,6 +14,9 @@ You anticipate them. Welcome them. Those who would dismiss you may now take noti
 2nd stage: You remain human at your core but your actions have pushed you beyond the limitations of your species.
 Inspire terror in the hearts of your own kind or those who would dismiss humanity, should you wish to do so. The status of a predator among its prey will be evident by your very presence.
 3rd stage: You diverge further from what it means to be human. The magic you have come to call your own and the body once born human find themselves more compatible, their strengths fusing to show what you have become.
+
+Drill
+You have used your body and ash to form what is essentially a human powered drill. While quite silly, the devastating attacks showed results. Drills spin 50% faster.
 
 Elos Standard Language
 You can speak and read the Standard language of Elos.
@@ -66,6 +75,9 @@ You gain insight into the development of your pupils’ resistances, allowing yo
 Soul Perception
 Through sheer luck and naivete, you have achieved enlightenment. A part of it that is. And perhaps not really enlightenment. Others might call it that but it’s really just the ability to perceive your soul or essence.
 It’s a dubious skill that might help philosophers understand a piece of life’s puzzle but for you it will be mostly useless. Congratulations regardless. A skill that didn’t require killing and blood to unlock. Marvelous.
+
+Spear of Ash
+You have mastered the ability to form and throw spears made of ash. Damage dealt with ashen spears is increased by 20%.
 
 Teaching
 Through time and effort did you share knowledge and experiences with those considered your students. You will find it easier to explain concepts as this skill reaches higher levels.

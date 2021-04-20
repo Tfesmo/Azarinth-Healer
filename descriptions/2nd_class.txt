@@ -65,7 +65,7 @@ Can be activated three seconds after pocket formation or until heat is lost.
 You may add heat to existing heat pockets or form more.
 Category: Ashen magic
 
-Passive: Authority of Ash and Ember
+Passive: Authority of Ash and Ember [E]
 You are one with Ash and Ember.
 Allies rushing to your aid.
 2nd stage: Your understanding grows, allowing you to create greater change in ash and ember.
@@ -73,10 +73,10 @@ Imbue mana into your creations.
 Ash and Ember you imbued retains its form until the mana is used up.
 3rd stage: The elements themselves become an extension of your body, an extension of your will, for as long as they stay in physical contact with you.
 Ash not connected benefits from passive abilities enhancing your body.
-You may imbue simple commands into ash and ember you have imbued with mana.
+You may imbue commands into ash and ember you have imbued with mana.
 Category: Ashen magic
 
-Passive: Ashen Wings
+Passive: Ashen Wings [E]
 Your understanding of Ash Wielder allows you to form wings from ash and ember.
 Strike your enemies from above and close the distance to deliver your wrath.
 2nd stage: Your wings become more dense and tangible, able to help you defend and attack.
@@ -84,6 +84,7 @@ Strike your enemies from above and close the distance to deliver your wrath.
 Shape and form your wings to your liking, now directly affected by your control.
 An added tail shall make you one with the skies above, not a mere human imitating flight but one who revels in it.
 You may charge your wings with mana and stamina to dramatically increase your flight velocity at the cost of heavily reduced control.
+Your resilience is increased greatly during a charged flight.
 Category: Body Enhancement – Ashen Magic
 
 Passive: Vision of Ash
@@ -95,7 +96,7 @@ Great distances and a lack of light won’t pose a problem to you anymore.
 You can control ash and embers that you can see.
 Category: Body Enhancement – Ashen magic
 
-Passive: Avatar of Ash
+Passive: Avatar of Ash [E]
 Increases your reflexes and speed by [30% + .5%/lvl].
 Your ability to avoid damage to your vitals when dodging increases.
 2nd stage: Your muscles grow more dense.
@@ -104,6 +105,7 @@ First tier Resistances equal a static 5% increase, second tier equal a static 10
 3rd stage: You can choose to allow magic damage to bypass your related resistance skills.
 Effect is canceled automatically upon reaching 50% of your health.
 Each Resistance skill in the second tier or higher increases the potential density of your created ash by a static 5%.*
+Each Resistance skill in the third tier increases the speed of your ash projectiles by 5%.*
 Category: Body Enhancement – Ashen magic
 *see IlleaSpears.txt for 2nd/3rd tier Density calculations
 

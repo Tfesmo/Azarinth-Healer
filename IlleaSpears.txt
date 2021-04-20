@@ -9,13 +9,13 @@ Class 3: 465 - The Faen Valkyrie
 
 Vit: 1720
 End:  450
-Str:  545  [8,992.5]
+Str:  545  [8,202.3]
 Dex:  450  [3,600.0]
-Int: 1650 [27,225.0]
+Int: 1650 [24,832.5]
 Wis: 1750
 
-Resilience: 4,833.0%
-Speed+:     2,330.0%
+Resilience: 4,688.0%
+Speed+:     2,011.0%
 Damage+:    1,950.0%
 
 Health:   35,363
@@ -23,49 +23,52 @@ Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:   0.34% [120.3] [294.0 seconds]
-w/Mantle: 0.43% [152.7] [231.6 seconds]
+hp/sec:   0.31% [108.0] [327.3 seconds]
+w/Mantle: 0.40% [140.5] [251.8 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.1] [248.8 seconds]
 
-Mitigation:       98.315%     [hp x  59.38]
-Effective Health: 2,077,328.7 [hp x 122.09]
+Mitigation:       98.214%     [hp x  56.05]
+Effective Health: 1,959,393.1 [hp x 115.23]
 
 First: The Arcane Eternal
-3-30 Archon Strike               x4 
-3-30 Sentinel Reconstruction     x4 
-3-30 Azarinth Awakening         x10 [85.0% => 850.0% Resilience, Speed, Intelligence and Strength]
-3-30 Transfer                    x1 
-3-30 Arcane Dominion             x1 
-3-30 Sentinel Core              x13 [55.0% => 715.0% Durability, 135.0% => 1,755.0% Health Regen, 25.0% => 325.0% Magic Resistance]
-3-30 Eternal Brawling           x10 [110.0% => 1,100.0% Damage]
-3-30 Eternal Huntress           x10 
-3-30 Eternal Sight              x10 
-3-30 Arcane Circulation         x10 [112.5% to Deconstruction/Reconstruction]
+3-30 Archon Strike                   x4 
+3-1  Sentinel Reconstruction [E]     x4 
+3-1  Azarinth Awakening [E]         x10 [70.5% => 705.0% Resilience, Speed, Intelligence and Strength]
+3-1  Transfer [E]                    x1 
+3-30 Arcane Dominion                 x1 
+3-1  Sentinel Core [E]              x13 [40.5% => 526.5% Durability, 120.5% => 1,566.5% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
+3-30 Eternal Huntress               x10 
+3-30 Eternal Sight                  x10 
+3-1  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
-3-30 Mantle of the Titan        x12 [160.0% => 1,920.0% Resilience]
-3-30 Titan Core                 x10 [70.0% => 700.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
-3-30 Origin of Ash and Embers    x3 
-3-30 Embered Heart              x12 
-3-30 Tempered Seal               x3 
-3-30 Authority of Ash and Ember  x3 
-3-30 Ashen Wings                x12 
-3-30 Vision of Ash              x12 [65.0% => 780.0% Perception]
-3-30 Avatar of Ash              x12 [65.0% => 780.0% Reflexes and Speed]
-3-30 Embered Form               x10 [85.0% => 850.0% Damage]
+3-30 Mantle of the Titan            x12 [160.0% => 1,920.0% Resilience]
+3-30 Titan Core                     x10 [70.0% => 700.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-30 Origin of Ash and Embers        x3 
+3-30 Embered Heart                  x12 
+3-30 Tempered Seal                   x3 
+3-1  Authority of Ash and Ember [E]  x3 
+3-1  Ashen Wings [E]                x12 
+3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
+3-1  Avatar of Ash [E]              x12 [50.5% => 606.0% Reflexes and Speed]
+3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
-3-21 Phaseshift                  x2 
-3-27 Flare of Creation          x10 [58.5% => 585.0% Resilience]
-3-24 Displacement                x2 
-3-20 Space Shift                 x2 
-3-26 Body of the Valkyrie       x11 [48.0% => 528.0% Resilience, 11.6% => 127.6% Physical Resistance, 5.0% => 127.6% Magic Resistance, 9.6% => 105.6% Health, 1.80% => 19.80%/minute]
-3-4  Space Awareness            x10 
+3-21 Phaseshift                      x2 
+3-27 Flare of Creation              x10 [58.5% => 585.0% Resilience]
+3-24 Displacement                    x2 
+3-20 Space Shift                     x2 
+3-26 Body of the Valkyrie           x11 [48.0% => 528.0% Resilience, 11.6% => 127.6% Physical Resistance, 5.0% => 127.6% Magic Resistance, 9.6% => 105.6% Health, 1.80% => 19.80%/minute]
+3-4  Space Awareness                x10 
 
 General Skills:
+1-1  Ashen Limbs
+1-1  Bulwark of Ash
 1-3  Dancing
 3-10 Deviant of Humanity
+1-1  Drill 
 1-6  Elos Standard language
 1-15 English Language
 1-6  Gourmet
@@ -79,6 +82,7 @@ General Skills:
 2-6  Oxygen Repository
 2-7  Sage of Torment
 1-9  Soul Perception
+1-1  Spear of Ash
 1-6  Teaching
 3-21 Veteran
 1-9  Warhammer Mastery
@@ -102,7 +106,7 @@ Resistances:
 2-3   [28% - 46%] Diamond Magic Resistance
 1-9   [09% - 18%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
-2-20  [45% - 80%] Earth Resistance
+3-1   [51% - 82%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
 2-1   [26% - 42%] Fear Resistance
 1-9   [09% - 18%] Flesh Magic Resistance
@@ -142,18 +146,19 @@ Resistances:
 2-20  [45% - 80%] Wood Magic Resistance
 
 12 1st tier
-25 2nd tier
-16 3rd tier
+24 2nd tier
+17 3rd tier
 
 Ash Density: 41 x 5% = 205%
+Ash Speed:   17 x 5% = 85%
 
 Weight:  252.0 kgs   [555.6 lbs] [0.28 tons]
 Maxed: 1,512.0 kgs [3,333.4 lbs] [1.67 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
-        Your bones are three times as heavy and dense - Sentinel Core 2nd
-        Muscles are (240% + 250% + 60% = 550%) more dense - Avatar of Ash 2nd
+        Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
+        Muscles are (255% + 240% + 60% = 555%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
         The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
@@ -174,7 +179,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [550%] more dense.
+                [555%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

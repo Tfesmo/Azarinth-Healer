@@ -22,7 +22,7 @@ You may charge each strike with 1000 mana per second to a maximum of 5000 mana.
 Due to the healing nature of Archon Strike it partially ignores protection against Mana intrusion.
 Category: Healing
 
-Active: Sentinel Reconstruction
+Active: Sentinel Reconstruction [E]
 Send a healing pulse of mana into yourself or your ally with a touch.
 This skill can be channeled.
 2nd stage: Your control is increased greatly, you can now focus your healing on specific parts of the body.
@@ -32,26 +32,29 @@ Health loss and critical blows are recalculated due to the nature of your healin
 3rd stage: You have healed your body time and time again, knowing every cell and where it belongs.
 Sacrifice a large amount of mana to rush your healing to unprecedented speeds.
 Lack of knowledge about your body may result in heavy damage.
+Effect can be used on allies.
 Category: Healing
 
-Active: Azarinth Awakening
+Active: Azarinth Awakening [E]
 Your body glows with the power of Azarinth, increasing your resilience, speed, Intelligence and Strength by [50% + .5%/lvl].
 2nd stage: Your sight, hearing and sense of smell is also affected by Azarinth Awakening.
 3rd stage: You are one with the Azarinth.
 The skill’s upkeep has been removed.
 Instead you may overcharge it with your life’s energy.
 The amount depends on both skill level and health used.
+Excess health regeneration and healing beyond your full health can instead be used to overcharge Azarinth Awakening.
 Category: Aura – Body Enhancement
 
-Active: Transfer
+Active: Transfer [E]
 Immediately appear at a distant place.
 Distance based on the level of the skill.
 2nd stage: The time between transfers is reduced greatly.
 No ground contact needed between transfers.
 Upon arrival, you may use up to 500 mana to create an arcane explosion damaging enemies and disrupting magical constructs and spells.
-3rd stage: You may set three destinations you touch.
+3rd stage: You may set five destinations you touch.
 You may change each destination once per week.
 You may travel to each destination once every day.
+Cast time is reduced by a static 50% for destinations you have already transferred to.
 Category: Teleportation Magic
 *32m range @ 2-14, ch37
 *42.5m range @ 3-15, 15m @ 1-1, ch409
@@ -69,10 +72,10 @@ Category: Aura – Perception Aura
 *20m+ radius @ 2-19, ch71
 *~30m radius @ 3-5, ch409
 
-Passive: Sentinel Core
+Passive: Sentinel Core [E]
 Your body was changed by magic.
 All pain is reduced greatly.
-You body is [20% + .5%/lvl] more durable.
+Your body is [20% + .5%/lvl] more durable.
 You heal even fatal injuries without help of healing magic.
 Your natural Health regeneration is improved by [100% + .5%/lvl].
 2nd stage: The magic of Azarinth settles inside your body.
@@ -81,6 +84,8 @@ Your resistance to magical damage is increased by a static [25%] and your bones 
 You absorb mana from enemy spells that hit you.
 Efficiency is determined by enemy mana used and your resistance to the type of magic.
 Mana cost for all skills reduced by a static 25%.
+Your body can absorb ambient mana.
+Amount dependent on availability and harmony.
 Category: Healing – Body Enhancement
 
 Passive: Eternal Brawling 
@@ -120,7 +125,7 @@ Increases usage to thrice per hour.
 Spend at static 25% of your mana to increase the effect of Eternal Sight by one second.
 Category: Body Enhancement
 
-Passive: Arcane Circulation
+Passive: Arcane Circulation [E]
 You have learned of Archon Strike and Sentinel Reconstruction.
 Now you will learn of their Reversal.
 Upon activation, Archon Strike will send a part of the struck enemy’s mana into yourself.
@@ -132,4 +137,5 @@ When an enemy partially or fully resists either Archon Strike or Sentinel Recons
 All requires balance.
 Your respective Destruction and Reconstruction spells have their potency increased by a static 25% of your lowest stat.
 You may channel health in addition to mana into the respective offensive uses of Archon Strike and Sentinel Reconstruction.
+Health cost to activate effects is reduced by a static 20%.
 Category: Body Enhancement

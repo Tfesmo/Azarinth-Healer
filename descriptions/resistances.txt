@@ -108,6 +108,7 @@ The earth trembles as arcane beings bend its nature to their will.
 You have found stone and earth to be a worthwhile opponent yet stood unmoving in its destructive path.
 This skill will help you negate more of its damage.
 2nd stage: Your skin and bones harden, adapting more and more to the element that threatened your life again and again.
+3rd stage: You have faced true masters of Earth magic, gaining a better understanding of its substance. You are able to traverse through earth and stone far more easily than before. This effect is reduced with magically created or controlled earth and stone.
 
 Emerald Magic Resistance
 Vine magic is a magic school closely associated with water and earth, often used to entrap creatures where trees and vegetation is naturally abundant.
