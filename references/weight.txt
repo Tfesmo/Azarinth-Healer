@@ -6,5 +6,8 @@ KoA: x2
 Sentinel Core: Bones x3
 Blast Resistance 3rd: x1.2*
 Eternal Brawling: Bones x2
+The Ashen Titan: x1.2*
 
 *guess
+
+Maxed: Assume another 6x to everything from Titan Core
