@@ -31,7 +31,7 @@ w/Med:    0.40% [422.1] [248.8 seconds]
 Mitigation:       98.315%     [hp x  59.38]
 Effective Health: 2,077,328.7 [hp x 122.09]
 
-The Arcane Eternal
+First: The Arcane Eternal
 3-30 Archon Strike               x4 
 3-30 Sentinel Reconstruction     x4 
 3-30 Azarinth Awakening         x10 [85.0% => 850.0% Resilience, Speed, Intelligence and Strength]
@@ -43,7 +43,7 @@ The Arcane Eternal
 3-30 Eternal Sight              x10 
 3-30 Arcane Circulation         x10 [112.5% to Deconstruction/Reconstruction]
 
-The Ashen Titan
+Second: The Ashen Titan
 3-30 Mantle of the Titan        x12 [160.0% => 1,920.0% Resilience]
 3-30 Titan Core                 x10 [70.0% => 700.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers    x3 
@@ -55,7 +55,7 @@ The Ashen Titan
 3-30 Avatar of Ash              x12 [65.0% => 780.0% Reflexes and Speed]
 3-30 Embered Form               x10 [85.0% => 850.0% Damage]
 
-The Faen Valkyrie
+Third: The Faen Valkyrie
 3-21 Phaseshift                  x2 
 3-27 Flare of Creation          x10 [58.5% => 585.0% Resilience]
 3-24 Displacement                x2 

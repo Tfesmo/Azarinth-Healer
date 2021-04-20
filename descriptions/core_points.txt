@@ -61,3 +61,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have defeated a Scorching Wyrm – One Core skill point awarded’
 ‘ding’ ‘You have survived the Semblance of Light spell – One Core skill point awarded’
 ‘ding’ ‘You have found common ground with the notoriously irritable Horned Tunneler Serpent – One Core skill point awarded’
+‘ding’ ‘You have unlocked three unique Classes – One Core skill point awarded’
