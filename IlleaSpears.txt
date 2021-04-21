@@ -23,21 +23,21 @@ Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:   0.31% [112.5] [321.0 seconds]
-w/Mantle: 0.40% [145.6] [248.0 seconds]
+hp/sec:   0.31% [112.9] [319.8 seconds]
+w/Mantle: 0.40% [146.0] [247.3 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.6] [248.4 seconds]
 
-Mitigation:       98.244%     [hp x  56.98]
-Effective Health: 2,034,459.0 [hp x 119.67]
+Mitigation:       98.246%     [hp x  57.05]
+Effective Health: 2,036,806.8 [hp x 119.81]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
-3-6  Sentinel Reconstruction [E]     x4 
+3-7  Sentinel Reconstruction [E]     x4 
 3-5  Azarinth Awakening [E]         x10 [72.5% => 725.0% Resilience, Speed, Intelligence and Strength]
-3-3  Transfer [E]                    x1 
+3-4  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
-3-6  Sentinel Core [E]              x13 [43.0% => 559.0% Durability, 123.0% => 1,599.0% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-7  Sentinel Core [E]              x13 [43.5% => 565.5% Durability, 123.5% => 1,605.5% Health Regen, 25.0% => 325.0% Magic Resistance]
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
@@ -50,7 +50,7 @@ Second: The Ashen Titan
 3-30 Embered Heart                  x12 
 3-30 Tempered Seal                   x3 
 3-3  Authority of Ash and Ember [E]  x3 
-3-4  Ashen Wings [E]                x12 
+3-5  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
 3-5  Avatar of Ash [E]              x12 [52.5% => 630.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
@@ -68,7 +68,7 @@ General Skills:
 1-11 Bulwark of Ash
 1-5  Dancing
 3-19 Deviant of Humanity
-1-3  Drill 
+1-8  Drill 
 1-6  Elos Standard language
 1-15 English Language
 1-7  Gourmet
@@ -79,7 +79,7 @@ General Skills:
 3-15 Meditation
 3-14 Monster Hunter
 1-3  Monstrous
-2-8  Oxygen Repository
+2-9  Oxygen Repository
 2-13 Sage of Torment
 1-10 Soul Perception
 1-15 Spear of Ash
@@ -141,7 +141,7 @@ Resistances:
 2-20  [45% - 80%] Time Magic Resistance
 1-18  [18% - 36%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
-3-9   [59% - 95%] Void Magic Resistance
+3-11  [61% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
 3-10  [60% - 95%] Wind Resistance
 3-1   [51% - 82%] Wood Magic Resistance
