@@ -1,6 +1,6 @@
 Class 1: 507 - The Arcane Eternal
 Class 2: 505 - The Ashen Titan
-Class 3: 487 - The Faen Valkyrie
+Class 3: 488 - The Faen Valkyrie
 
 900% Body Enhancement
 300% Healing

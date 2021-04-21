@@ -11,3 +11,4 @@
 
 ‘ding’ ‘You have defeated [Winged Death of the North – lvl 1008]’
 ‘ding’ ‘You have defeated [Void Lord – lvl 1103]’
+‘ding’ ‘You have defeated [Devourer – lvl 1020]’
