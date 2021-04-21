@@ -1,43 +1,48 @@
 Class 1: 510 - The Arcane Eternal
 Class 2: 508 - The Ashen Titan
-Class 3: 500 - The Faen Valkyrie
+Class 3: 500 - The Primordial Arbiter
 
 900% Body Enhancement
-300% Healing
+400% Healing
 200% Ashen
-100% Space
+300% Space
+100% Flesh
+100% Mind
+100% Ice
+100% Lava
+100% Earth
 
-Vit: 1755
+Vit: 1805
 End:  450
 Str:  545  [8,365.8]
 Dex:  450  [3,600.0]
-Int: 1650 [25,327.5]
-Wis: 1790
+Int: 1660 [25,481.0]
+Wis: 1820
 
-Resilience: 4,755.0%
+Resilience: 5,530.0%
 Speed+:     2,077.0%
 Damage+:    1,950.0%
 
-Health:   36,855
+Health:   68,590
 Stamina:   4,500
-Mana:    107,400
+Mana:    109,200
 
 Regen:
-hp/sec:   0.31% [115.7] [318.6 seconds]
-w/Mantle: 0.41% [149.5] [246.6 seconds]
-mp/sec:   0.33% [356.2] [301.5 seconds]
-w/Med:    0.41% [440.0] [244.1 seconds]
+hp/sec:   0.34% [230.9] [297.1 seconds]
+w/Mantle: 0.43% [293.7] [233.5 seconds]
+mp/sec:   0.34% [367.6] [297.0 seconds]
+w/Med:    0.41% [452.8] [241.2 seconds]
 
-Mitigation:       98.251%     [hp x  57.22]
-Effective Health: 2,084,334.5 [hp x 120.15]
+Mitigation:       98.481%     [hp x  65.89]
+Effective Health: 4,461,779.5 [hp x 250.38]
 
 First: The Arcane Eternal
-3-30 Archon Strike                   x4 
-3-9  Sentinel Reconstruction [E]     x4 
+3-30 Archon Strike                   x5 
+3-9  Sentinel Reconstruction [E]     x5 
 3-7  Azarinth Awakening [E]         x10 [73.5% => 735.0% Resilience, Speed, Intelligence and Strength]
 3-5  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
-3-8  Sentinel Core [E]              x13 [44.0% => 572.0% Durability, 124.0% => 1,612.0% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-8  Sentinel Core [E]              x14 [44.0% => 616.0% Durability, 124.0% => 1,736.0% Health Regen, 25.0% => 350.0% Magic Resistance]
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
@@ -55,13 +60,13 @@ Second: The Ashen Titan
 3-7  Avatar of Ash [E]              x12 [53.5% => 642.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
-Third: The Faen Valkyrie
-3-30 Phaseshift                      x2 
-3-30 Flare of Creation              x10 [60.0% => 600.0% Resilience]
-3-30 Displacement                    x2 
-3-30 Space Shift                     x2 
-3-30 Body of the Valkyrie           x11 [50.0% => 550.0% Resilience, 12.0% => 132.0% Physical Resistance, 5.0% => 132.0% Magic Resistance, 10.0% => 110.0% Health, 2.00% => 22.00%/minute]
-3-30 Space Awareness                x10 
+Third: The Primordial Arbiter
+3-30 Primordial Shift                x9 
+3-30 Fires of Creation              x13 [75.0% => 975.0% Resilience]
+3-30 Fabric Tear                     x4 
+3-30 Reality Warp                    x4 
+3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
+3-30 Space Manipulation             x13 
 
 General Skills:
 1-17 Ashen Limbs
@@ -161,7 +166,7 @@ Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
         Muscles are (270% + 230% + 65% = 565%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
-        The fires flowing through you have hardened your bones and muscles - Body of the Valkyrie 2nd
+        The fires flowing through you have hardened your bones and muscles - Primordial Flesh 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
 Resistance:
         Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd

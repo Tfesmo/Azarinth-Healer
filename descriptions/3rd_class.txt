@@ -1,82 +1,96 @@
-The Faen Valkyrie
+The Primordial Arbiter
 
-Intelligence +20
-Wisdom +20
+Vitality +50
+Intelligence +30
+Wisdom +50
 
-Space Magic is improved by 100%
-Resilience is increased by 250%
+Space Magic is improved by 300%
+Resilience is increased by 500%
 Body Enhancement Magic is improved by 100%
+Flesh Magic is improved by 100%
+Healing Magic is improved by 100%
+Mind Magic is improved by 100%
+Ice Magic is improved by 100%
+Lava Magic is improved by 100%
+Earth Magic is improved by 100%
+Your Soul has been strengthened by the Flame of Creation
 
-Active – Phaseshift
-Expending a large amount of mana, you can temporarily unbind your body from the physical and pass through barriers.
-You may let spells and physical objects pass through you unhindered.
-Be aware that certain types of magic will retain some or all of their impact.
-2nd stage: Resilience bonuses from skills are doubled when entering Phaseshift.
-3rd stage: You have bent space to your will.
-To avoid death and to cause it.
-You gain a deeper understanding of the Flame of Creation.
-Abilities sacrificing health may be used during Phaseshift with all effects activating once your body returns to its normal form.
-The duration of any resulting effects equals that of the preceding Phaseshift.
-Category: Space Magic
+Active – Primordial Shift
+Expending a large amount of mana and health, you can temporarily shift the matter of your flesh itself.
+Absorb a part of all magic that touches you depending on your understanding and resistance.
+All regeneration and healing is doubled in this state.
+Your movements are impaired as your very form is rejected by the laws of reality that surround you.
+2nd stage: Resilience bonuses from skills are doubled when entering the Primordial Shift.
+During the shift, you cannot be moved by anything but your will.
+Your weight increases ten fold while this spell is active.
+3rd stage: The Flame of Creation wills itself into existence, your control and its power increasing dramatically while Primordial Shift is active.
+Category: Space Magic – Flesh Magic – Healing Magic
 *mp/sec = 75,150,300,600,1200,2400,repeats
 
-Active - Flare of Creation
+Active – Fires of Creation
 Let the fires erupt, burning away your health in the exchange for devastating power.
-Attacks with your body are infused with the Flame of Creation, dealing lingering damage to health, mana, and magical constructs.
+All of your spells and your body are infused with the Flame of Creation, dealing lingering damage to health, mana, and magical constructs.
 You are immune to stunning, fear, and shout abilities.
-Your resilience is increased by [25% + .5%/lvl].
+Your resilience is increased by [40% + .5%/lvl].
 2nd stage: The pale flame settles within your core.
-Flare of Creation now affects enemy health regeneration.
+The Fires of Creation now affect enemy health regeneration.
 This effect is higher for areas directly touched by the Flame of Creation.
-3rd stage: Your experience with Flare of Creation allows you to infuse your magical constructs with its effects.
-For each level in the third tier, the skill’s upkeep is reduced by a static [10/lvl] points of health per second and you may sacrifice an additional static [100/lvl] points of health per second to enhance the skill’s effects.
-Category: Aura – Body Enhancement
+3rd stage: Your experience with Fires of Creation allows you to infuse your magical constructs with its effects.
+For each level in the third tier, the skill’s upkeep is reduced by a static [25/lvl] points of health per second and you may sacrifice an additional static [250/lvl] points of health per second to enhance the skill’s effects.
+Category: Aura – Body Enhancement – Space Magic
 *Discount only counts 3rd tier levels
 
-Active – Displacement
-Shift space to your will, making an object or person appear somewhere else.
-2nd stage: Your familiarity with teleportation and Space Magic allow you to move one additional object for each level in the 2nd tier.
-Magical constructs are now affected by Displacement.
+Active – Fabric Tear
+Shift space to your will, making objects or people appear somewhere else.
+2nd stage: Magical constructs are now affected by Fabric Tear.
+You may change the orientation of the objects you displace.
 3rd stage: You may choose two flat areas and connect them through space.
-At the time of marking an area, it has to be within the range of Displacement.
-Areas have to be connected within one minute of activating the spell and cannot be further apart than [250m].
-This ability can only be used every [1200] seconds.
-Additionally you may change the orientation of the objects you displace.
+At the time of marking an area, it has to be within the range of Fabric Tear.
+Areas have to be connected within one minute of activating the spell and cannot be further apart than a static ten kilometers.
+Three sets of connections can be upheld at a time with exponential costs.
 Category: Space Magic
-*Impacted by Space Shift
-*~450 mp/sec for 3rd tier @3-1.  225 after 3rd tier Space Shift
 
-Passive – Space Shift
+Passive – Reality Warp
 Space wields easier for you, allowing you to unravel its mysteries.
-Teleportation abilities can be used again [50% + .5%/lvl] faster and you can travel [20% + .5%/lvl] farther.
-2nd stage: Interrupt or stop an enemy teleportation spell within a distance of [10m + .5m/lvl].
-Cooldown and efficiency is affected by available teleportation spells.
+Teleportation abilities can be used again three times as fast and you can travel ten times as far.
+You notice fissures between realms at a distance of 50 [200] kilometers.
+This distance can vary depending on the size and extent of the fissure.
+2nd stage: Prevent enemy teleportation spells within a sphere around you at a radius of 50 meters.
 You cannot teleport while this skill is active.
 3rd stage: Your understanding of space magic grows.
 You learn to latch on to ongoing teleportation spells with your own teleportation abilities.
 Long range and channeled teleportation spells have their range doubled and their cooldown as well as cost reduced by half.
 Category: Space magic
 
-Passive – Body of the Valkyrie
+Passive – Primordial Flesh
 The flame of creation flows through your veins, increasing your resilience by [15% + .5%/lvl].
 Increases your physical damage resistance by [5% + .1%/lvl].
 Increases your magic damage resistance by [5% + .1%/lvl].
 You won’t be fazed anymore by heavy damage or powerful sources of light and sound.
+Your natural regeneration can heal any injury.
 2nd stage: Your body has withstood incredible damage, endured the hardships of battle.
 The fires flowing through you have hardened your bones and muscles.
-Your health is increased by [5% + .1%/lvl].
+Your health is increased by [10% + .2%/lvl].
 3rd stage: Your ability to adapt to your enemy grows.
 Continued battle against the same foe increases damage reduction against its attacks by [0.5% + .05%/lvl] per minute to a maximum of a static 50%.
-Category: Body enhancement – Space Magic
+The primordial flesh is released should you reach one point of health.
+Your remaining mana will be used to create both spatial shields and rapid growths of flesh to prevent death.
+This effect can only occur once per day.
+Category: Body enhancement – Space Magic – Flesh Magic
 
-Passive – Space Awareness
-You become more aware of the density and shifts in the fabric of Space itself.
-2nd stage: Further understanding of the spacial fabric allows you to manipulate its forces with greater ease and higher intensity.
+Passive – Space Manipulation
+You have learned to see and manipulate the ever present spatial fabric.
+You gain the ability to move anything within the fabric with a mere gesture.
+2nd stage: Further understanding of the spatial fabric allows you to manipulate its forces with greater ease and higher intensity.
 You learn to perceive even the tiniest ripples in space.
 In the case of active fissures, you find yourself able to peer into the other side.
+You gain the ability to anchor a spatial pocket to your very essence.
+Storage increases with the skill’s level.
 3rd stage: You have peered through the fabric of space itself and have learned to unravel its intricate structure.
 You gain the ability to perceive and differentiate magical frameworks and how to manipulate them within your space without failure.
-Category: Body Enhancement – Perception Aura
+You learn how to damage existing frameworks.
+Results may vary.
+Category: Body Enhancement – Space Magic
 
 
 Untaken:
