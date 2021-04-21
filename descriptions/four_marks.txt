@@ -7,4 +7,6 @@
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1029]’
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1003]’
 ‘ding’ ‘You have defeated [Scorching Wyrm – lvl 1238]’
+
 ‘ding’ ‘You have defeated [Winged Death of the North – lvl 1008]’
+‘ding’ ‘You have defeated [Void Lord – lvl 1103]’
