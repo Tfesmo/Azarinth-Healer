@@ -1,6 +1,6 @@
-Class 1: 505 - The Arcane Eternal
-Class 2: 500 - The Ashen Titan
-Class 3: 466 - The Faen Valkyrie
+Class 1: 504 - The Arcane Eternal
+Class 2: 502 - The Ashen Titan
+Class 3: 476 - The Faen Valkyrie
 
 900% Body Enhancement
 300% Healing
@@ -9,13 +9,13 @@ Class 3: 466 - The Faen Valkyrie
 
 Vit: 1720
 End:  450
-Str:  545  [8,284.0]
+Str:  545  [8,311.3]
 Dex:  450  [3,600.0]
-Int: 1650 [25,080.0]
+Int: 1650 [25,162.5]
 Wis: 1750
 
-Resilience: 4,740.0%
-Speed+:     2,044.0%
+Resilience: 4,745.0%
+Speed+:     2,055.0%
 Damage+:    1,950.0%
 
 Health:   36,120
@@ -23,25 +23,25 @@ Stamina:   4,500
 Mana:    105,000
 
 Regen:
-hp/sec:   0.31% [112.1] [322.3 seconds]
-w/Mantle: 0.40% [145.2] [248.8 seconds]
+hp/sec:   0.31% [112.5] [321.0 seconds]
+w/Mantle: 0.40% [145.6] [248.0 seconds]
 mp/sec:   0.33% [341.3] [307.7 seconds]
 w/Med:    0.40% [422.6] [248.4 seconds]
 
-Mitigation:       98.240%     [hp x  56.87]
-Effective Health: 2,030,305.2 [hp x 119.43]
+Mitigation:       98.244%     [hp x  56.98]
+Effective Health: 2,034,459.0 [hp x 119.67]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
-3-5  Sentinel Reconstruction [E]     x4 
-3-4  Azarinth Awakening [E]         x10 [72.0% => 720.0% Resilience, Speed, Intelligence and Strength]
-3-2  Transfer [E]                    x1 
+3-6  Sentinel Reconstruction [E]     x4 
+3-5  Azarinth Awakening [E]         x10 [72.5% => 725.0% Resilience, Speed, Intelligence and Strength]
+3-3  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
-3-5  Sentinel Core [E]              x13 [42.5% => 552.5% Durability, 122.5% => 1,592.5% Health Regen, 25.0% => 325.0% Magic Resistance]
+3-6  Sentinel Core [E]              x13 [43.0% => 559.0% Durability, 123.0% => 1,599.0% Health Regen, 25.0% => 325.0% Magic Resistance]
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
-3-3  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-4  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan            x12 [160.0% => 1,920.0% Resilience]
@@ -50,24 +50,24 @@ Second: The Ashen Titan
 3-30 Embered Heart                  x12 
 3-30 Tempered Seal                   x3 
 3-3  Authority of Ash and Ember [E]  x3 
-3-3  Ashen Wings [E]                x12 
+3-4  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-4  Avatar of Ash [E]              x12 [52.0% => 624.0% Reflexes and Speed]
+3-5  Avatar of Ash [E]              x12 [52.5% => 630.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
 3-30 Phaseshift                      x2 
 3-30 Flare of Creation              x10 [60.0% => 600.0% Resilience]
 3-30 Displacement                    x2 
-3-29 Space Shift                     x2 
+3-30 Space Shift                     x2 
 3-30 Body of the Valkyrie           x11 [50.0% => 550.0% Resilience, 12.0% => 132.0% Physical Resistance, 5.0% => 132.0% Magic Resistance, 10.0% => 110.0% Health, 2.00% => 22.00%/minute]
 3-30 Space Awareness                x10 
 
 General Skills:
-1-12 Ashen Limbs
+1-13 Ashen Limbs
 1-11 Bulwark of Ash
 1-5  Dancing
-3-18 Deviant of Humanity
+3-19 Deviant of Humanity
 1-3  Drill 
 1-6  Elos Standard language
 1-15 English Language
@@ -91,16 +91,16 @@ Resistances:
 3-21  [71% - 95%] Arcane Magic Resistance
 2-4   [29% - 48%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
-3-6   [56% - 92%] Blast Resistance
-2-1   [26% - 42%] Blight Resistance
+3-7   [57% - 94%] Blast Resistance
+2-2   [27% - 44%] Blight Resistance
 3-18  [68% - 95%] Blood Magic Resistance
 2-20  [45% - 80%] Blood Manipulation Resistance
-2-17  [42% - 74%] Bone Magic Resistance
+2-18  [43% - 76%] Bone Magic Resistance
 2-20  [45% - 80%] Corrosion Resistance
-2-14  [39% - 68%] Crystal Resistance
+2-15  [40% - 70%] Crystal Resistance
 2-20  [45% - 80%] Curse Resistance
 
-2-6   [31% - 52%] Dark Magic Resistance
+2-7   [32% - 54%] Dark Magic Resistance
 2-20  [45% - 80%] Death Magic Resistance
 2-6   [31% - 52%] Devour Resistance
 2-3   [28% - 46%] Diamond Magic Resistance
@@ -109,7 +109,7 @@ Resistances:
 3-5   [55% - 90%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
 2-1   [26% - 42%] Fear Resistance
-1-9   [09% - 18%] Flesh Magic Resistance
+1-11  [11% - 22%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
@@ -130,10 +130,10 @@ Resistances:
 1-14  [14% - 28%] Ruby Magic Resistance
 2-20  [45% - 80%] Sand Magic Resistance
 1-13  [13% - 26%] Sapphire Magic Resistance
-1-1   [05% - 05%] Shadow Magic Resistance
+1-4   [06% - 08%] Shadow Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
-2-3   [28% - 46%] Smoke Magic Resistance
-2-13  [38% - 66%] Soul Magic Resistance
+2-4   [29% - 48%] Smoke Magic Resistance
+2-14  [39% - 68%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-7   [57% - 94%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
