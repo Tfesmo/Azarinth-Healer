@@ -1,40 +1,40 @@
-Class 1: 507 - The Arcane Eternal
-Class 2: 505 - The Ashen Titan
-Class 3: 488 - The Faen Valkyrie
+Class 1: 510 - The Arcane Eternal
+Class 2: 508 - The Ashen Titan
+Class 3: 500 - The Faen Valkyrie
 
 900% Body Enhancement
 300% Healing
 200% Ashen
 100% Space
 
-Vit: 1720
+Vit: 1755
 End:  450
-Str:  545  [8,338.5]
+Str:  545  [8,365.8]
 Dex:  450  [3,600.0]
-Int: 1650 [25,245.0]
-Wis: 1750
+Int: 1650 [25,327.5]
+Wis: 1790
 
-Resilience: 4,750.0%
-Speed+:     2,066.0%
+Resilience: 4,755.0%
+Speed+:     2,077.0%
 Damage+:    1,950.0%
 
-Health:   36,120
+Health:   36,855
 Stamina:   4,500
-Mana:    105,000
+Mana:    107,400
 
 Regen:
-hp/sec:   0.31% [113.4] [318.6 seconds]
-w/Mantle: 0.41% [146.5] [246.6 seconds]
-mp/sec:   0.33% [341.3] [307.7 seconds]
-w/Med:    0.40% [423.2] [248.1 seconds]
+hp/sec:   0.31% [115.7] [318.6 seconds]
+w/Mantle: 0.41% [149.5] [246.6 seconds]
+mp/sec:   0.33% [356.2] [301.5 seconds]
+w/Med:    0.41% [440.0] [244.1 seconds]
 
-Mitigation:       98.249%     [hp x  57.17]
-Effective Health: 2,040,960.6 [hp x 120.05]
+Mitigation:       98.251%     [hp x  57.22]
+Effective Health: 2,084,334.5 [hp x 120.15]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x4 
-3-8  Sentinel Reconstruction [E]     x4 
-3-6  Azarinth Awakening [E]         x10 [73.0% => 730.0% Resilience, Speed, Intelligence and Strength]
+3-9  Sentinel Reconstruction [E]     x4 
+3-7  Azarinth Awakening [E]         x10 [73.5% => 735.0% Resilience, Speed, Intelligence and Strength]
 3-5  Transfer [E]                    x1 
 3-30 Arcane Dominion                 x1 
 3-8  Sentinel Core [E]              x13 [44.0% => 572.0% Durability, 124.0% => 1,612.0% Health Regen, 25.0% => 325.0% Magic Resistance]
@@ -49,10 +49,10 @@ Second: The Ashen Titan
 3-30 Origin of Ash and Embers        x3 
 3-30 Embered Heart                  x12 
 3-30 Tempered Seal                   x3 
-3-4  Authority of Ash and Ember [E]  x3 
-3-5  Ashen Wings [E]                x12 
+3-9  Authority of Ash and Ember [E]  x3 
+3-6  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-6  Avatar of Ash [E]              x12 [53.0% => 636.0% Reflexes and Speed]
+3-7  Avatar of Ash [E]              x12 [53.5% => 642.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Faen Valkyrie
@@ -64,7 +64,7 @@ Third: The Faen Valkyrie
 3-30 Space Awareness                x10 
 
 General Skills:
-1-13 Ashen Limbs
+1-17 Ashen Limbs
 1-11 Bulwark of Ash
 1-5  Dancing
 3-21 Deviant of Humanity
@@ -78,13 +78,13 @@ General Skills:
 
 3-16 Meditation
 3-14 Monster Hunter
-1-4  Monstrous
+1-5  Monstrous
 2-10 Oxygen Repository
 2-13 Sage of Torment
-1-10 Soul Perception
-1-17 Spear of Ash
+1-11 Soul Perception
+1-19 Spear of Ash
 1-8  Teaching
-3-28 Veteran
+3-30 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
@@ -102,7 +102,7 @@ Resistances:
 
 2-7   [32% - 54%] Dark Magic Resistance
 2-20  [45% - 80%] Death Magic Resistance
-2-6   [31% - 52%] Devour Resistance
+2-8   [33% - 56%] Devour Resistance
 2-3   [28% - 46%] Diamond Magic Resistance
 1-10  [10% - 20%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
@@ -120,7 +120,7 @@ Resistances:
 3-10  [60% - 95%] Lightning Resistance
 
 3-7   [57% - 94%] Mana Drain Resistance
-3-17  [67% - 95%] Mental Resistance
+3-18  [68% - 95%] Mental Resistance
 2-20  [45% - 80%] Mist Magic Resistance
 1-3   [06% - 07%] Obsidian Magic Resistance
 3-3   [53% - 86%] Pain Tolerance
@@ -133,7 +133,7 @@ Resistances:
 1-4   [06% - 08%] Shadow Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
 2-4   [29% - 48%] Smoke Magic Resistance
-2-14  [39% - 68%] Soul Magic Resistance
+2-16  [41% - 72%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-7   [57% - 94%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
