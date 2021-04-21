@@ -1,6 +1,7 @@
 ‘ding’ ‘Your group has defeated [Corrupted Sand Elemental – lvl 1483]’ // Ch421 // 335/334
 ‘ding’ ‘Your group has defeated [Larinis – Daughter of Sephilon – lvl 1740]’ // Ch550 // 438/435/355
 ‘ding’ ‘Your group has defeated [Terror of Krahen Keep – lvl 1098]’
+‘ding’ ‘Your group has defeated [Lich Fragment – lvl 1038]’
 
 ‘ding’ ‘You have defeated [Howling Queen of Rot – lvl 1062]’ // Ch565 // 447/443/382
 ‘ding’ ‘You have defeated [Mature Bluetail – lvl 1108]’ // Ch618 // 479/473/428

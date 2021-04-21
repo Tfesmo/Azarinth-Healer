@@ -1,6 +1,6 @@
 Class 1: 507 - The Arcane Eternal
 Class 2: 505 - The Ashen Titan
-Class 3: 486 - The Faen Valkyrie
+Class 3: 487 - The Faen Valkyrie
 
 900% Body Enhancement
 300% Healing
@@ -67,7 +67,7 @@ General Skills:
 1-13 Ashen Limbs
 1-11 Bulwark of Ash
 1-5  Dancing
-3-20 Deviant of Humanity
+3-21 Deviant of Humanity
 1-12 Drill 
 1-6  Elos Standard language
 1-15 English Language
@@ -78,13 +78,13 @@ General Skills:
 
 3-16 Meditation
 3-14 Monster Hunter
-1-3  Monstrous
+1-4  Monstrous
 2-10 Oxygen Repository
 2-13 Sage of Torment
 1-10 Soul Perception
 1-17 Spear of Ash
 1-8  Teaching
-3-27 Veteran
+3-28 Veteran
 1-9  Warhammer Mastery
 
 Resistances:
