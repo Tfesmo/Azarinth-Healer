@@ -50,6 +50,18 @@ This factor is improved upon leveling up the skill.
 3rd stage: Few ever reach this stage, normally through centuries of study and meditation. You have stood amidst death, trusting the flow of mana to be at your side.
 Vast experience and understanding has changed your very core. The effects of Wisdom are doubled. Meditation is no longer limited by movement.
 
+Minor Earth Manipulation
+You have learned to manipulate earth and stone in a limited manner.
+Category – Earth Magic
+
+Minor Ice Manipulation
+You have learned to form ice from surrounding sources of water and may manipulate it in a limited manner.
+Category – Ice Magic
+
+Minor Lava Manipulation
+You have learned to form lava from surrounding sources of stone and may manipulate it in a limited manner.
+Category – Lava Magic
+
 Monster Hunter
 Many times have you faced creatures well beyond your level. You revel in it, seek them out and you prevail. Your presence demands respect.
 Imbue you voice to show your intent. Effects vary depending on your disposition as well as those affected and their levels in relation to yours.
@@ -81,6 +93,10 @@ You have mastered the ability to form and throw spears made of ash. Damage dealt
 
 Teaching
 Through time and effort did you share knowledge and experiences with those considered your students. You will find it easier to explain concepts as this skill reaches higher levels.
+
+Telepathy
+You learn to communicate with beings through thought alone. Initiate conversations with anything that may be receptive to this form of communication.
+Category – Mind Magic
 
 Veteran
 You have experienced the shouts and spells of beings completely out of your range of imagination.

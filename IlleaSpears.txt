@@ -12,9 +12,9 @@ Class 3: 500 - The Primordial Arbiter
 100% Lava
 100% Earth
 
-Vit: 1805
+Vit: 1834
 End:  450
-Str:  545  [8,365.8]
+Str:  535  [8,212.3]
 Dex:  450  [3,600.0]
 Int: 1660 [25,481.0]
 Wis: 1820
@@ -23,18 +23,18 @@ Resilience: 5,530.0%
 Speed+:     2,077.0%
 Damage+:    1,950.0%
 
-Health:   68,590
+Health:   69,692
 Stamina:   4,500
 Mana:    109,200
 
 Regen:
-hp/sec:   0.34% [230.9] [297.1 seconds]
-w/Mantle: 0.43% [293.7] [233.5 seconds]
+hp/sec:   0.34% [234.6] [297.1 seconds]
+w/Mantle: 0.43% [298.5] [233.5 seconds]
 mp/sec:   0.34% [367.6] [297.0 seconds]
 w/Med:    0.41% [452.8] [241.2 seconds]
 
 Mitigation:       98.481%     [hp x  65.89]
-Effective Health: 4,461,779.5 [hp x 250.38]
+Effective Health: 4,533,464.6 [hp x 250.38]
 
 First: The Arcane Eternal
 3-30 Archon Strike                   x5 
@@ -46,7 +46,7 @@ First: The Arcane Eternal
 3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
-3-5  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-6  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan            x12 [160.0% => 1,920.0% Resilience]
@@ -68,6 +68,7 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-30 Space Manipulation             x13 
 
+Available [2276]: 1
 General Skills:
 1-17 Ashen Limbs
 1-11 Bulwark of Ash
@@ -82,6 +83,9 @@ General Skills:
 2-2  Identify
 
 3-16 Meditation
+1-1  Minor Earth Manipulation
+1-1  Minor Ice Manipulation
+1-1  Minor Lava Manipulation
 3-14 Monster Hunter
 1-5  Monstrous
 2-10 Oxygen Repository
@@ -89,6 +93,7 @@ General Skills:
 1-11 Soul Perception
 1-19 Spear of Ash
 1-8  Teaching
+1-1  Telepathy
 3-30 Veteran
 1-9  Warhammer Mastery
 
