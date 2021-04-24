@@ -158,8 +158,8 @@ Resistances:
 Ash Density: 41 x 5% = 205%
 Ash Speed:   18 x 5% = 90%
 
-Weight:  252.0 kgs   [555.6 lbs] [0.28 tons]
-Maxed: 1,512.0 kgs [3,333.4 lbs] [1.67 tons]
+Weight:   252.0 kgs   [555.6 lbs] [0.28 tons]
+Maxed: 15,120.0 kgs [3,333.4 lbs] [1.67 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
