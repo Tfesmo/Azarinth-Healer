@@ -13,13 +13,15 @@ Food, water and sleep needed to sustain yourself are no longer required
 You do not age
 Your mana capacity is tripled
 
-Active: Archon Strike
+Active: Archon Strike [E]
 Send a destructive pulse of mana into your enemy with every attack using your arms, fists, fingers, legs, feet, or head.
 Your Intelligence stat enhances the damage potential.
 2nd stage: The amount of mana used per strike can be regulated with a maximum of 1000 mana per strike.
 You may charge each strike with 1000 mana per second to a maximum of 5000 mana.
 3rd stage: You may choose to use Archon Strike as a non intrusive attack, instead sending a wave of destructive healing onto your enemy.
 Due to the healing nature of Archon Strike it partially ignores protection against Mana intrusion.
+You may heal allies with Archon Strike.
+If used as a wave, the range of Archon Strike increases by [5 +.5m/lvl].
 Category: Healing
 
 Active: Sentinel Reconstruction [E]
@@ -60,13 +62,14 @@ Category: Teleportation Magic
 *42.5m range @ 3-15, 15m @ 1-1, ch409
 *Formula should be: 15m + .5m/lvl
 
-Active: Arcane Dominion
+Active: Arcane Dominion [E]
 Perceive everything in a sphere around you while this skill is activated.
 The higher the level the further the dominion reaches.
 2nd stage: Arcane dominion opens your senses to the arcane.
 A paramount skill both on and off the battlefield.
 Elements and spells you control within your dominion have increased harmony.
 3rd stage: You may use Sentinel Reconstruction on all beings within your dominion.
+Your element manipulation skills are improved by a static 50% when used within your dominion.
 Category: Aura – Perception Aura
 *15m radius @ 2-1, ch34
 *20m+ radius @ 2-19, ch71
@@ -88,7 +91,7 @@ Your body can absorb ambient mana.
 Amount dependent on availability and harmony.
 Category: Healing – Body Enhancement
 
-Passive: Eternal Brawling 
+Passive: Eternal Brawling [E]
 You have adapted the fighting style of the Azarinth school to something you now call your own.
 Damage inflicted with your own body and related skills is [75% + .5%/lvl] higher.
 Your arms, fists, fingers, legs, and head deal a slight amount of arcane damage with each strike.
@@ -97,6 +100,7 @@ Your bones are steeped with mana, increasing both their weight and resilience tw
 3rd stage: Eternal Brawling consists of more than offense alone.
 A true brawler knows when to stand and let an enemy strike.
 You gain knowledge about sustained injuries and damage from incoming attacks as they happen.
+For each time you get hit by an incoming attack you see coming, the damage done to you by the respective being’s skill decreases by [1 + .25%/lvl] to a maximum of a static 20%.
 Category: Body Enhancement – Arcane Magic
 
 Passive: Eternal Huntress

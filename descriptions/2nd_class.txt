@@ -13,7 +13,7 @@ Your will is ash and embers
 You cannot be stunned by enemy attacks
 Your bones and muscles have increased density
 
-Active: Mantle of the Titan
+Active: Mantle of the Titan [E]
 An armor of hardened ash protects you.
 Stronger than steel and forming to your will.
 The Mantle increases your resilience by [125% + .5%/lvl].
@@ -22,18 +22,20 @@ The Mantle is a part of the Titan’s body.
 It benefits from natural regeneration.
 You can feel through your Mantle and you can heal it.
 3rd stage: Increases the defensive capabilities of all ash and ember you control.
-Increase the ash used to form your mantle by up to a static 300%.
+Increase the ash used to form your mantle by up to a static 500%.
 The additional ash used requires conscious manipulation.
+You may use Mantle of the Titan to defend willing allies.
+Amount of required ash dependent on size of the target.
 Category: Body Enhancement – Ashen magic
 
-Active: Titan Core
+Active: Titan Core [E]
 Ember glows within you raising your resilience, speed, Strength, Intelligence and Dexterity by [35% + .5%/lvl].
 Your learn how to generate and store heat within your Titan Core.
 This effect has a separate mana requirement.
 2nd stage: The longer you fight with Titan Core active, the deeper it roots.
 Each minute of fighting adds 15% more power to the skill with a maximum of 150%.
 3rd stage: Familiarity with the skill removes its upkeep.
-You can choose to increase your weight by [10%] for each passing minute to a maximum of a static 500%, increasing your natural health regeneration and heat generation by the same factor.
+You can choose to increase your weight by [25%] for each passing minute to a maximum of a static 750%, increasing your natural health regeneration, heat generation, and resilience by the same factor.
 Category: Aura – Body Enhancement
 
 Active: Origin of Ash and Embers
@@ -43,17 +45,17 @@ Create ash and embers in a certain radius around you.
 Ash and embers move to aid and destroy at your whims.
 Category: Ashen Magic
 
-Active: Embered Heart
+Active: Embered Heart [E]
 Increase the heat in your body and release it in a blast around you.
 2nd stage: The embers run deep.
 The heat you may reach is only limited by your very life.
 Your resistance to heat held within your body is doubled.
 3rd stage: Focus on release to change the blast into a cone of destruction sent out of either arm.
-You may store heat within ash you control, the more ash used, the higher its potential to hold heat.
-Ash not connected to you releases its stored heat upon a strong impact in a blast around it.
+You may store heat within any ash you control, the more ash used, the higher its potential to hold heat.
+Ash not connected to you releases its stored heat upon a strong impact in a blast around it or when you will it.
 Category: Body Enhancement – Ashen Magic
 
-Active: Tempered Seal
+Active: Tempered Seal [E]
 Burn the inside of whatever your body hits with a surge of heat and embers or release the attack in a burst of fire and cinders.
 2nd stage: The flame burns on.
 Targets hit will have fire burning through or on them.
@@ -63,6 +65,7 @@ Activate these pockets to cause a violent explosion of fire within the affected 
 Can be activated three seconds after pocket formation or until heat is lost.
 3rd stage: Tempered Seal burns away all that stand against it, damaging mana intrusion capabilities of defensive enchantments, natural- as well as manufactured armor.
 You may add heat to existing heat pockets or form more.
+You may add a static 500 mana to a new or existing heat pocket every second.
 Category: Ashen magic
 
 Passive: Authority of Ash and Ember [E]

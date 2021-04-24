@@ -14,50 +14,55 @@ Class 3: 500 - The Primordial Arbiter
 
 Vit: 1834
 End:  450
-Str:  535  [8,212.3]
-Dex:  450  [3,600.0]
-Int: 1660 [25,481.0]
+Str:  535  [7,463.3]
+Dex:  450  [2,947.5]
+Int: 1660 [23,157.0]
 Wis: 1820
 
-Resilience: 5,530.0%
-Speed+:     2,077.0%
-Damage+:    1,950.0%
+Resilience: 5,216.0%
+w/Mantle:   5,966.0%
+Speed+:     1,943.0%
+Damage+:    1,805.0%
 
 Health:   69,692
 Stamina:   4,500
 Mana:    109,200
 
 Regen:
-hp/sec:   0.34% [234.6] [297.1 seconds]
-w/Mantle: 0.43% [298.5] [233.5 seconds]
-mp/sec:   0.34% [367.6] [297.0 seconds]
-w/Med:    0.41% [452.8] [241.2 seconds]
+hp/s:     0.34% [235.5] [296.0s to full]
+w/Mantle: 0.48% [331.3] [210.4s to full]
+mp/s:     0.34% [367.6] [297.0s to full]
+w/Med:    0.41% [452.8] [241.2s to full]
 
-Mitigation:       98.481%     [hp x  65.89]
-Effective Health: 4,533,464.6 [hp x 250.38]
+Mitigation:       98.407%     [hp x  62.82]
+Effective Health: 4,378,051.4 [hp x 238.72]
+
+w/Mantle:
+Mitigation:       98.542%     [hp x  68.57]
+Effective Health: 4,778,780.4 [hp x 260.57]
 
 First: The Arcane Eternal
-3-30 Archon Strike                   x5 
+3-1  Archon Strike [E]               x5 [5.5m range]
 3-9  Sentinel Reconstruction [E]     x5 
-3-7  Azarinth Awakening [E]         x10 [73.5% => 735.0% Resilience, Speed, Intelligence and Strength]
+3-8  Azarinth Awakening [E]         x10 [74.0% => 740.0% Resilience, Speed, Intelligence and Strength]
 3-5  Transfer [E]                    x1 
-3-30 Arcane Dominion                 x1 
-3-8  Sentinel Core [E]              x14 [44.0% => 616.0% Durability, 124.0% => 1,736.0% Health Regen, 25.0% => 350.0% Magic Resistance]
-3-30 Eternal Brawling               x10 [110.0% => 1,100.0% Damage]
+3-1  Arcane Dominion [E]             x1 
+3-9  Sentinel Core [E]              x14 [44.5% => 623.0% Durability, 124.5% => 1,743.0% Health Regen, 25.0% => 350.0% Magic Resistance]
+3-1  Eternal Brawling [E]           x10 [95.5% => 955.0% Damage, 1.25% DR/attack]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
 3-6  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
-3-30 Mantle of the Titan            x12 [160.0% => 1,920.0% Resilience]
-3-30 Titan Core                     x10 [70.0% => 700.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-1  Mantle of the Titan [E]        x12 [145.5% => 1,746.0% Resilience]
+3-1  Titan Core [E]                 x10 [55.5% => 555.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers        x3 
-3-30 Embered Heart                  x12 
-3-30 Tempered Seal                   x3 
+3-1  Embered Heart [E]              x12 
+3-1  Tempered Seal [E]               x3 
 3-9  Authority of Ash and Ember [E]  x3 
 3-6  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-7  Avatar of Ash [E]              x12 [53.5% => 642.0% Reflexes and Speed]
+3-8  Avatar of Ash [E]              x12 [54.0% => 648.0% Reflexes and Speed]
 3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
 
 Third: The Primordial Arbiter
@@ -172,7 +177,7 @@ Class:
         Muscles are (270% + 230% + 65% = 565%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
         The fires flowing through you have hardened your bones and muscles - Primordial Flesh 2nd
-        Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling 2nd
+        Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
 Resistance:
         Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd
         Your organs, bones, muscles and your skin become partially shock absorbent - Blast 2nd
