@@ -34,12 +34,12 @@ w/Mantle: 0.48% [331.3] [210.4s to full]
 mp/s:     0.34% [367.6] [297.0s to full]
 w/Med:    0.41% [452.8] [241.2s to full]
 
-Mitigation:       98.407%     [hp x  62.82]
-Effective Health: 4,378,051.4 [hp x 238.72]
+Mitigation:       98.726%     [hp x  78.53]
+Effective Health: 5,472,564.3 [hp x 298.40]
 
 w/Mantle:
-Mitigation:       98.542%     [hp x  68.57]
-Effective Health: 4,778,780.4 [hp x 260.57]
+Mitigation:       98.833%     [hp x  85.71]
+Effective Health: 5,973,475.5 [hp x 325.71]
 
 First: The Arcane Eternal
 3-1  Archon Strike [E]               x5 [5.5m range]
