@@ -3,10 +3,13 @@ Core skill points have been unlocked.
 Core skill points replace Class specific third tier skill points.
 Additional options have been unlocked
 
+‘ding’ ‘Following requirements have been met. Has reached level 500 in three Classes as a human. Has enhanced a total of at least fifteen Class skills with a minimum of one skill in each Class.
+
+
 [3rd tier Class Skill Point] – [Advance a Class skill to the third tier – Cost: 1]
 [Stat Gain]                  – [Gain 50 stat points to distribute freely – Cost: 2]
 [Skill Boost]                – [Increase the level of a skill. Subdued effects at higher skill levels – Cost: 3]
-[Locked]
+[Add Class Modifier]         – [Add a random additional Class modifier to an existing Class - Cost: 10]
 [Skill Enhancement]          – [Enhance a fully leveled third tier Class skill by resetting it to 3rd lvl 1 – Cost: 5]
 [Locked]
 [Derivative General Skill]   – [Learn a General skill based on frequently used Class techniques – Cost: 3]
