@@ -14,15 +14,15 @@ Class 3: 500 - The Primordial Arbiter
 
 Vit: 1834
 End:  450
-Str:  535  [7,463.3]
-Dex:  450  [2,947.5]
-Int: 1660 [23,157.0]
+Str:  535  [7,490.0]
+Dex:  450  [2,970.0]
+Int: 1660 [23,240.0]
 Wis: 1820
 
-Resilience: 5,034.0%
-w/Mantle:   5,784.0%
-Speed+:     1,943.0%
-Damage+:    1,805.0%
+Resilience: 5,039.0%
+w/Mantle:   5,789.0%
+Speed+:     1,948.0%
+Damage+:    1,810.0%
 
 Health:   69,692
 Stamina:   4,500
@@ -34,12 +34,12 @@ w/Mantle: 0.48% [331.3] [210.4s to full]
 mp/s:     0.34% [367.6] [297.0s to full]
 w/Med:    0.41% [452.8] [241.2s to full]
 
-Mitigation:       98.687%     [hp x  76.25]
-Effective Health: 5,314,015.0 [hp x 289.75]
+Mitigation:       98.689%     [hp x  76.31]
+Effective Health: 5,318,370.8 [hp x 289.99]
 
 w/Mantle:
-Mitigation:       98.801%     [hp x  83.44]
-Effective Health: 5,814,926.3 [hp x 317.06]
+Mitigation:       98.802%     [hp x  83.50]
+Effective Health: 5,819,282.0 [hp x 317.30]
 
 First: The Arcane Eternal
 3-1  Archon Strike [E]               x5 [5.5m range]
@@ -48,14 +48,14 @@ First: The Arcane Eternal
 3-6  Transfer [E]                    x1 
 3-2  Arcane Dominion [E]             x1 
 3-9  Sentinel Core [E]              x14 [44.5% => 623.0% Durability, 124.5% => 1,743.0% Health Regen, 25.0% => 350.0% Magic Resistance]
-3-1  Eternal Brawling [E]           x10 [95.5% => 955.0% Damage, 1.25% DR/attack]
+3-2  Eternal Brawling [E]           x10 [96.0% => 960.0% Damage, 1.50% DR/attack]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
 3-6  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-1  Mantle of the Titan [E]        x12 [145.5% => 1,746.0% Resilience]
-3-1  Titan Core [E]                 x10 [55.5% => 555.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-2  Titan Core [E]                 x10 [56.0% => 560.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers        x3 
 3-2  Embered Heart [E]              x12 
 3-1  Tempered Seal [E]               x3 
@@ -73,12 +73,12 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-1  Space Manipulation [E]         x13 
 
-Available [2286]: 1
+Available [2291]: 1
 General Skills:
 1-17 Ashen Limbs
 1-12 Bulwark of Ash
 1-6  Dancing
-3-23 Deviant of Humanity
+3-24 Deviant of Humanity
 1-12 Drill 
 1-6  Elos Standard language
 1-15 English Language
@@ -95,9 +95,9 @@ General Skills:
 1-6  Monstrous
 2-10 Oxygen Repository
 2-13 Sage of Torment
-1-11 Soul Perception
+1-12 Soul Perception
 1-19 Spear of Ash
-1-8  Teaching
+1-9  Teaching
 1-2  Telepathy
 3-30 Veteran
 1-9  Warhammer Mastery
@@ -148,7 +148,7 @@ Resistances:
 1-4   [06% - 08%] Shadow Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
 2-4   [29% - 48%] Smoke Magic Resistance
-2-16  [41% - 72%] Soul Magic Resistance
+2-18  [43% - 76%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-9   [59% - 95%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
