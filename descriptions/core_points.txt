@@ -74,3 +74,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have survived the Maze of Emptiness spell – One Core skill point awarded’
 ‘ding’ ‘You have reached level 500 in three Classes while being human – One Core skill point awarded’
 ‘ding’ ‘You have resisted the runic circle of absolute control – One Core skill point awarded’
+‘ding’ ‘You have helped remove the defensive enchantments of the Soul Forge – One Core skill point awarded’
