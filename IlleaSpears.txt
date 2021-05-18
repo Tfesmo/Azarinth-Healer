@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-1  Space Manipulation [E]         x13 
 
-Available [2292]: 1
+Available [2293]: 1
 General Skills:
 1-17 Ashen Limbs
 1-12 Bulwark of Ash
@@ -92,7 +92,7 @@ General Skills:
 1-1  Minor Ice Manipulation
 1-1  Minor Lava Manipulation
 3-14 Monster Hunter
-1-6  Monstrous
+1-7  Monstrous
 2-10 Oxygen Repository
 2-13 Sage of Torment
 1-12 Soul Perception
