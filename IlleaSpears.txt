@@ -19,10 +19,10 @@ Dex:  450  [2,970.0]
 Int: 1660 [23,240.0]
 Wis: 1820
 
-Resilience: 5,039.0%
-w/Mantle:   5,789.0%
+Resilience: 5,045.0%
+w/Mantle:   5,795.0%
 Speed+:     1,948.0%
-Damage+:    1,810.0%
+Damage+:    1,665.0%
 
 Health:   69,692
 Stamina:   4,500
@@ -34,15 +34,15 @@ w/Mantle: 0.48% [331.3] [210.4s to full]
 mp/s:     0.34% [367.6] [297.0s to full]
 w/Med:    0.41% [452.8] [241.2s to full]
 
-Mitigation:       98.689%     [hp x  76.31]
-Effective Health: 5,318,370.8 [hp x 289.99]
+Mitigation:       98.690%     [hp x  76.39]
+Effective Health: 5,323,597.6 [hp x 290.27]
 
 w/Mantle:
-Mitigation:       98.802%     [hp x  83.50]
-Effective Health: 5,819,282.0 [hp x 317.30]
+Mitigation:       98.803%     [hp x  83.58]
+Effective Health: 5,824,508.9 [hp x 317.59]
 
 First: The Arcane Eternal
-3-1  Archon Strike [E]               x5 [5.5m range]
+3-2  Archon Strike [E]               x5 [6.0m range]
 3-10 Sentinel Reconstruction [E]     x5 
 3-8  Azarinth Awakening [E]         x10 [74.0% => 740.0% Resilience, Speed, Intelligence and Strength]
 3-6  Transfer [E]                    x1 
@@ -54,7 +54,7 @@ First: The Arcane Eternal
 3-6  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
-3-1  Mantle of the Titan [E]        x12 [145.5% => 1,746.0% Resilience]
+3-2  Mantle of the Titan [E]        x12 [146.0% => 1,752.0% Resilience]
 3-2  Titan Core [E]                 x10 [56.0% => 560.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers        x3 
 3-2  Embered Heart [E]              x12 
@@ -63,7 +63,7 @@ Second: The Ashen Titan
 3-6  Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
 3-8  Avatar of Ash [E]              x12 [54.0% => 648.0% Reflexes and Speed]
-3-30 Embered Form                   x10 [85.0% => 850.0% Damage]
+3-1  Embered Form [E]               x10 [70.5% => 705.0% Damage]
 
 Third: The Primordial Arbiter
 3-30 Primordial Shift                x9 
@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-1  Space Manipulation [E]         x13 
 
-Available [2291]: 1
+Available [2292]: 1
 General Skills:
 1-17 Ashen Limbs
 1-12 Bulwark of Ash
@@ -159,7 +159,7 @@ Resistances:
 3-16  [66% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
 3-10  [60% - 95%] Wind Resistance
-3-2   [52% - 84%] Wood Magic Resistance
+3-3   [53% - 86%] Wood Magic Resistance
 
 13 1st tier
 23 2nd tier
@@ -175,7 +175,7 @@ Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
         Muscles are (270% + 230% + 65% = 565%) more dense - Avatar of Ash [E] 2nd
-        Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form 2nd
+        Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form [E] 2nd
         The fires flowing through you have hardened your bones and muscles - Primordial Flesh 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
 Resistance:

@@ -121,4 +121,5 @@ The abuse your body takes from your own strikes and their feedback is reduced.
 3rd stage: Reduces stamina consumption by a static 35%.
 Mana intrusion attacks formed or charged within your arms, hands, fingers, legs, feet, or your head can instead be converted into a purely physical damage increase to the executed attack.
 Be aware that this increase will be heavily demanding for your body.
+Increases your base shock absorption by [5%].
 Category: Body Enhancement
