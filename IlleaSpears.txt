@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-1  Space Manipulation [E]         x13 
 
-Available [2296]: 1
+Available [2302]: 2
 General Skills:
 1-17 Ashen Limbs
 1-12 Bulwark of Ash
@@ -88,8 +88,8 @@ General Skills:
 2-2  Identify
 
 3-16 Meditation
-1-1  Minor Earth Manipulation
-1-1  Minor Ice Manipulation
+1-2  Minor Earth Manipulation
+1-2  Minor Ice Manipulation
 1-2  Minor Lava Manipulation
 3-14 Monster Hunter
 1-8  Monstrous
@@ -121,9 +121,9 @@ Resistances:
 2-3   [28% - 46%] Diamond Magic Resistance
 1-10  [10% - 20%] Divination Magic Resistance
 1-6   [07% - 12%] Dust Magic Resistance
-3-6   [56% - 92%] Earth Resistance
+3-7   [57% - 94%] Earth Resistance
 2-1   [26% - 42%] Emerald Magic Resistance
-2-1   [26% - 42%] Fear Resistance
+2-2   [27% - 44%] Fear Resistance
 1-11  [11% - 22%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
@@ -148,7 +148,7 @@ Resistances:
 1-4   [06% - 08%] Shadow Magic Resistance
 1-1   [05% - 05%] Silver Magic Resistance
 2-4   [29% - 48%] Smoke Magic Resistance
-2-18  [43% - 76%] Soul Magic Resistance
+2-19  [44% - 78%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-9   [59% - 95%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
@@ -159,7 +159,7 @@ Resistances:
 3-16  [66% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
 3-10  [60% - 95%] Wind Resistance
-3-3   [53% - 86%] Wood Magic Resistance
+3-4   [54% - 88%] Wood Magic Resistance
 
 13 1st tier
 23 2nd tier
