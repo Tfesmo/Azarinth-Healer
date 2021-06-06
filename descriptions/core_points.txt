@@ -76,3 +76,6 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have resisted the runic circle of absolute control – One Core skill point awarded’
 ‘ding’ ‘You have helped remove the defensive enchantments of the Soul Forge – One Core skill point awarded’
 ‘ding’ ‘You drank tea from the famous personal collection of Khan Joggoth while the remains of his soul are within a Fae sitting on your shoulder – One Core skill point awarded’
+‘ding’ ‘You have communicated with an Earth Elemental – One Core skill point awarded’
+‘ding’ ‘You have challenged an Earth Elemental – One Core skill point awarded’
+‘ding’ ‘You have survived an extended battle with an Earth Elemental – One Core skill point awarded’
