@@ -47,7 +47,7 @@ Shift space to your will, making objects or people appear somewhere else.
 You may change the orientation of the objects you displace.
 3rd stage: You may choose two flat areas and connect them through space.
 At the time of marking an area, it has to be within the range of Fabric Tear.
-Areas have to be connected within one minute of activating the spell and cannot be further apart than a static ten kilometers.
+Areas have to be connected within one day of activating the spell.
 Three sets of connections can be upheld at a time with exponential costs.
 Category: Space Magic
 

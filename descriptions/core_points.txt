@@ -79,3 +79,4 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have communicated with an Earth Elemental – One Core skill point awarded’
 ‘ding’ ‘You have challenged an Earth Elemental – One Core skill point awarded’
 ‘ding’ ‘You have survived an extended battle with an Earth Elemental – One Core skill point awarded’
+‘ding’ ‘You have faced the Guardians of the Sphere and survived – One Core skill point awarded’
