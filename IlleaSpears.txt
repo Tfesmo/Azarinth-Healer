@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-6  Space Manipulation [E]         x13 
 
-Available [2366]: 1
+Available [2372]: 0
 General Skills:
 1-18 Ashen Limbs
 1-13 Bulwark of Ash
@@ -110,10 +110,10 @@ Resistances:
 2-2   [27% - 44%] Blight Resistance
 3-18  [68% - 95%] Blood Magic Resistance
 2-20  [45% - 80%] Blood Manipulation Resistance
-2-19  [44% - 78%] Bone Magic Resistance
+2-20  [45% - 80%] Bone Magic Resistance
 2-20  [45% - 80%] Corrosion Resistance
 2-15  [40% - 70%] Crystal Resistance
-2-20  [45% - 80%] Curse Resistance
+3-5   [55% - 90%] Curse Resistance
 
 2-9   [34% - 58%] Dark Magic Resistance
 2-20  [45% - 80%] Death Magic Resistance
@@ -162,19 +162,19 @@ Resistances:
 3-5   [55% - 90%] Wood Magic Resistance
 
 13 1st tier
-22 2nd tier
-19 3rd tier
+21 2nd tier
+20 3rd tier
 
 Ash Density: 41 x 5% = 205%
-Ash Speed:   19 x 5% = 95%
+Ash Speed:   20 x 5% = 100%
 
-Weight:   754.4 kgs   [1,663.2 lbs] [0.83 tons]
-Maxed: 64,125.4 kgs [141,372.1 lbs] [70.69 tons]
+Weight:   758.2 kgs   [1,671.5 lbs] [0.84 tons]
+Maxed: 64,443.6 kgs [142,073.6 lbs] [71.04 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
-        Muscles are (285% + 220% + 65% = 570%) more dense - Avatar of Ash [E] 2nd
+        Muscles are (300% + 210% + 65% = 575%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form [E] 2nd
         The fires flowing through you have hardened your bones and muscles - Primordial Flesh 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
@@ -195,7 +195,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [570%] more dense.
+                [575%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

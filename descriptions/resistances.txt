@@ -70,6 +70,8 @@ Curse Resistance
 Curses are seldom cast and even more seldom survived.
 You are one of few individuals to tell the tale.
 Not a pleasant one to be sure but with this skill you might be able to survive it again should the need arise.
+3rd stage: You must be the arch nemesis of several ancient cults, orders, and gods themselves. Curses meant to empower the effects of other magics on you now fail to apply such.
+Curses meant to inhibit your movement or teleportation now fail to apply those effects. You understand the basic ideas induced in a curse if it has been cast in the last week or if you analyze it for extended periods of time.
 
 Dark Magic Resistance
 You have stood against a being of true darkness.
