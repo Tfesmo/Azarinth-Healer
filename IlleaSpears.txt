@@ -19,63 +19,63 @@ Dex:  450  [3,060.0]
 Int: 1660 [23,904.0]
 Wis: 1820
 
-Resilience: 5,166.0%
-w/Mantle:   5,916.0%
-Speed+:     2,012.0%
-Damage+:    1,705.0%
+Resilience: 5,178.5%
+w/Mantle:   5,928.5%
+Speed+:     2,018.0%
+Damage+:    1,725.0%
 
 Health:   69,692
 Stamina:   4,500
 Mana:    109,200
 
 Regen:
-hp/s:     0.34% [239.9] [290.4s to full]
-w/Mantle: 0.48% [335.8] [207.6s to full]
+hp/s:     0.35% [240.8] [289.4s to full]
+w/Mantle: 0.48% [336.7] [207.0s to full]
 mp/s:     0.34% [367.6] [297.0s to full]
 w/Med:    0.41% [452.8] [241.2s to full]
 
-Mitigation:       98.722%     [hp x  78.34]
-Effective Health: 5,459,497.0 [hp x 297.68]
+Mitigation:       98.726%     [hp x  78.58]
+Effective Health: 5,476,484.5 [hp x 298.61]
 
 w/Mantle:
-Mitigation:       98.831%     [hp x  85.53]
-Effective Health: 5,960,408.3 [hp x 325.00]
+Mitigation:       98.834%     [hp x  85.77]
+Effective Health: 5,977,395.7 [hp x 325.92]
 
 First: The Arcane Eternal
 3-5  Archon Strike [E]               x5 [7.5m range]
-3-12 Sentinel Reconstruction [E]     x5 
+3-13 Sentinel Reconstruction [E]     x5 
 3-12 Azarinth Awakening [E]         x10 [76.0% => 760.0% Resilience, Speed, Intelligence and Strength]
 3-8  Transfer [E]                    x1 
-3-6  Arcane Dominion [E]             x1 
-3-14 Sentinel Core [E]              x14 [47.0% => 658.0% Durability, 127.0% => 1,778.0% Health Regen, 25.0% => 350.0% Magic Resistance]
-3-7  Eternal Brawling [E]           x10 [98.5% => 985.0% Damage, 2.75% DR/attack]
+3-7  Arcane Dominion [E]             x1 
+3-15 Sentinel Core [E]              x14 [47.5% => 665.0% Durability, 127.5% => 1,785.0% Health Regen, 25.0% => 350.0% Magic Resistance]
+3-9  Eternal Brawling [E]           x10 [99.5% => 995.0% Damage, 3.25% DR/attack]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
-3-9  Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-10 Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
-3-9  Mantle of the Titan [E]        x12 [149.5% => 1,794.0% Resilience]
+3-10 Mantle of the Titan [E]        x12 [150.0% => 1,800.0% Resilience]
 3-6  Titan Core [E]                 x10 [58.0% => 580.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers        x3 
 3-7  Embered Heart [E]              x12 
-3-4  Tempered Seal [E]               x3 
+3-5  Tempered Seal [E]               x3 
 3-9  Authority of Ash and Ember [E]  x3 
-3-9  Ashen Wings [E]                x12 
+3-10 Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-12 Avatar of Ash [E]              x12 [56.0% => 672.0% Reflexes and Speed]
-3-4  Embered Form [E]               x10 [72.0% => 720.0% Damage]
+3-13 Avatar of Ash [E]              x12 [56.5% => 678.0% Reflexes and Speed]
+3-6  Embered Form [E]               x10 [73.0% => 730.0% Damage]
 
 Third: The Primordial Arbiter
 3-30 Primordial Shift                x9 
-3-8  Fires of Creation [E]          x13 [64.0% => 832.0% Resilience, 4.50% mana/health returned]
-3-2  Fabric Tear [E]                 x4 
+3-9  Fires of Creation [E]          x13 [64.5% => 838.5% Resilience, 4.75% mana/health returned]
+3-3  Fabric Tear [E]                 x4 
 3-30 Reality Warp                    x4 
 3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
 3-6  Space Manipulation [E]         x13 
 
-Available [2374]: 0
+Available [2377]: 0
 General Skills:
-1-18 Ashen Limbs
+1-19 Ashen Limbs
 1-13 Bulwark of Ash
 1-7  Dancing
 3-26 Deviant of Humanity
@@ -95,7 +95,7 @@ General Skills:
 1-12 Monstrous [Within 140 lvls - 371+]
 2-11 Oxygen Repository
 2-18 Sage of Torment
-1-13 Soul Perception
+1-14 Soul Perception
 2-1  Spear of Ash
 1-10 Teaching
 1-6  Telepathy
@@ -148,7 +148,7 @@ Resistances:
 1-12  [12% - 24%] Shadow Magic Resistance
 1-6   [07% - 12%] Silver Magic Resistance
 2-4   [29% - 48%] Smoke Magic Resistance
-3-1   [51% - 82%] Soul Magic Resistance
+3-2   [52% - 84%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-12  [62% - 95%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
