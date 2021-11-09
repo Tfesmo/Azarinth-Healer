@@ -218,6 +218,7 @@ Pain now lets you focus, clears your mind instead of distracting it. You shall n
 Petrification Resistance
 You have encountered petrifying magic. Its effects are difficult to counter but yes, simply cutting away until there is no more stone works.
 Extended study and preparation could’ve helped but hey, you do you. It’ll be even easier next time.
+2nd stage: Your natural regeneration can now fight petrifying effects, slowing it down or stopping it entirely.
 
 Poison Resistance
 You are a target of assassins or not very good at distinguishing berries.

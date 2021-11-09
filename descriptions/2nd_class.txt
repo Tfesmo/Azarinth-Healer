@@ -38,11 +38,12 @@ Each minute of fighting adds 15% more power to the skill with a maximum of 150%.
 You can choose to increase your weight by [25%] for each passing minute to a maximum of a static 750%, increasing your natural health regeneration, heat generation, and resilience by the same factor.
 Category: Aura – Body Enhancement
 
-Active: Origin of Ash and Embers
+Active: Origin of Ash and Embers [E]
 Create ash and embers in a certain radius around you.
 2nd stage: You can control the density of the ash and the heat of embers to an extent.
 3rd stage: You have proven your dedication.
 Ash and embers move to aid and destroy at your whims.
+The amount of ash and embers you can create is vastly increased.
 Category: Ashen Magic
 
 Active: Embered Heart [E]
@@ -90,13 +91,15 @@ You may charge your wings with mana and stamina to dramatically increase your fl
 Your resilience is increased greatly during a charged flight.
 Category: Body Enhancement – Ashen Magic
 
-Passive: Vision of Ash
+Passive: Vision of Ash [E]
 Increases your perception by [30% + .5%/lvl] when fighting.
 2nd stage: Opportunity calls, you notice possible critical weak points on enemies with more ease.
 You can choose to see through ash and embers.
 3rd stage: Your eyes are vastly improved.
 Great distances and a lack of light won’t pose a problem to you anymore.
 You can control ash and embers that you can see.
+You gain the ability to see heat.
+Heat you can see may be absorbed into nearby ash.
 Category: Body Enhancement – Ashen magic
 
 Passive: Avatar of Ash [E]

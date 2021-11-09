@@ -1,8 +1,10 @@
 Ashen Limbs
 You have mastered the ability to fight with limbs made entirely of ash. Required manipulation is reduced by 25%.
+2nd stage: Increases the speed at which you can form ashen limbs by a static 25%.
 
 Bulwark of Ash
 Many times have you used walls of ash to defend yourself and your allies. Resilience of ashen walls is increased by 20%.
+2nd stage: Required manipulation for wall like structures made of ash are reduced by a static 20%.
 
 Dancing
 The ability to move your body to music and to coordinate your movements with those around you or a partner. It’s really a surprise this took you so long, considering your dexterous body.
@@ -71,7 +73,8 @@ Fully infused, you may lure even powerful creatures towards your location, depen
 
 Monstrous
 You have achieved level 500, reaching the realm of true monstrosity. Those of your kind may not find it easy to accept your newfound nature.
-You can choose to mask your power to those considerably weaker than you [250 levels below your highest Class level]. Specialized abilities or enhanced Identification may breach this ability.
+You can choose to mask your power to those considerably weaker than you [230 levels below your highest Class level]. Specialized abilities or enhanced Identification may breach this ability.
+2nd stage: You may choose to reduce the effects of your magical presence to those around you. People actively considering your presence will be able to pierce this veil.
 
 Oxygen Repository
 Due to unfortunate and/or sexual circumstances, you have been deprived of air for extended periods of time. Somehow you have pushed through to survive.
@@ -87,6 +90,7 @@ You gain insight into the development of your pupils’ resistances, allowing yo
 Soul Perception
 Through sheer luck and naivete, you have achieved enlightenment. A part of it that is. And perhaps not really enlightenment. Others might call it that but it’s really just the ability to perceive your soul or essence.
 It’s a dubious skill that might help philosophers understand a piece of life’s puzzle but for you it will be mostly useless. Congratulations regardless. A skill that didn’t require killing and blood to unlock. Marvelous.
+2nd stage: You are able to gauge the presence of Essence in other beings, should they not be shielded against your perception.
 
 Spear of Ash
 You have mastered the ability to form and throw spears made of ash. Damage dealt with ashen spears is increased by 20%.

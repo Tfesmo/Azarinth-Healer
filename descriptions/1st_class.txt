@@ -119,14 +119,16 @@ Each level in the third tier adds two additional marks that can be used.
 Marks forcefully applied have a limited duration.
 Category: Body Enhancement
 
-Passive: Eternal Sight
+Passive: Eternal Sight [E]
 Increases your perception and reflexes while fighting.
 To keep up with your faster moving body, the Arcane Eternal has to control it.
 2nd stage: Eternal Sight spikes for two seconds, should you be about to receive a blow that would take 50% or more of your health, or should your mind be incapacitated with an incoming blow.
 This can happen only once per hour.
 3rd stage: Your resilience and speed is doubled during the spike in perception.
 Increases usage to thrice per hour.
-Spend at static 25% of your mana to increase the effect of Eternal Sight by one second.
+Spend a static 25% of your mana to increase the effect of Eternal Sight by one second.
+You gain the ability to gauge enemy mana usage and may learn how strongly a direct hit of a spell will impact you.
+Increased ability to gauge incoming damage depending on your familiarity with the respective magic type.
 Category: Body Enhancement
 
 Passive: Arcane Circulation [E]
