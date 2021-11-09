@@ -41,7 +41,7 @@ The flames of creation return [2.5% +.25%/lvl] of all health and mana burned awa
 Category: Aura – Body Enhancement – Space Magic
 *Discount only counts 3rd tier levels
 
-Active – Fabric Tear
+Active – Fabric Tear [E]
 Shift space to your will, making objects or people appear somewhere else.
 2nd stage: Magical constructs are now affected by Fabric Tear.
 You may change the orientation of the objects you displace.
@@ -63,7 +63,7 @@ You learn to latch on to ongoing teleportation spells with your own teleportatio
 Long range and channeled teleportation spells have their range doubled and their cooldown as well as cost reduced by half.
 Category: Space magic
 
-Passive – Primordial Flesh
+Passive – Primordial Flesh [E]
 The flame of creation flows through your veins, increasing your resilience by [15% + .5%/lvl].
 Increases your physical damage resistance by [5% + .1%/lvl].
 Increases your magic damage resistance by [5% + .1%/lvl].
@@ -73,10 +73,11 @@ Your natural regeneration can heal any injury.
 The fires flowing through you have hardened your bones and muscles.
 Your health is increased by [10% + .2%/lvl].
 3rd stage: Your ability to adapt to your enemy grows.
-Continued battle against the same foe increases damage reduction against its attacks by [0.5% + .05%/lvl] per minute to a maximum of a static 50%.
+Continued battle against the same foe or species of monster increases damage reduction against their attacks by [0.5% + .05%/lvl] per minute to a maximum of a static 50%.
+This effect will remain even after a battle has ended.
 The primordial flesh is released should you reach one point of health.
 Your remaining mana will be used to create both spatial shields and rapid growths of flesh to prevent death.
-This effect can only occur once per day.
+This effect can only occur once every six hours.
 Category: Body enhancement – Space Magic – Flesh Magic
 
 Passive – Space Manipulation [E]

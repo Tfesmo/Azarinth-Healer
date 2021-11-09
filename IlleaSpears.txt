@@ -1,6 +1,6 @@
-Class 1: 511 - The Arcane Eternal
-Class 2: 509 - The Ashen Titan
-Class 3: 502 - The Primordial Arbiter
+Class 1: 535 - The Arcane Eternal
+Class 2: 533 - The Ashen Titan
+Class 3: 522 - The Primordial Arbiter
 
 900% Body Enhancement
 400% Healing
@@ -12,93 +12,93 @@ Class 3: 502 - The Primordial Arbiter
 100% Lava
 100% Earth
 
-Vit: 1834
+Vit: 1920
 End:  450
-Str:  535  [7,704.0]
-Dex:  450  [3,060.0]
-Int: 1660 [23,904.0]
-Wis: 1820
+Str:  545  [8,284.0]
+Dex:  450  [3,240.0]
+Int: 1730 [26,296.0]
+Wis: 1920
 
-Resilience: 5,178.5%
-w/Mantle:   5,928.5%
-Speed+:     2,018.0%
-Damage+:    1,725.0%
+Resilience: 5,202.0%
+w/Mantle:   5,952.0%
+Speed+:     2,140.0%
+Damage+:    1,815.0%
 
-Health:   69,692
+Health:   60,057
 Stamina:   4,500
-Mana:    109,200
+Mana:    115,200
 
 Regen:
-hp/s:     0.35% [240.8] [289.4s to full]
-w/Mantle: 0.48% [336.7] [207.0s to full]
-mp/s:     0.34% [367.6] [297.0s to full]
-w/Med:    0.41% [452.8] [241.2s to full]
+hp/s:     0.36% [213.7] [281.0s to full]
+w/Mantle: 0.49% [296.3] [202.7s to full]
+mp/s:     0.35% [407.0] [283.0s to full]
+w/Med:    0.43% [497.5] [231.6s to full]
 
-Mitigation:       98.726%     [hp x  78.58]
-Effective Health: 5,476,484.5 [hp x 298.61]
+Mitigation:       98.736%     [hp x  79.15]
+Effective Health: 4,753,811.8 [hp x 247.60]
 
 w/Mantle:
-Mitigation:       98.834%     [hp x  85.77]
-Effective Health: 5,977,395.7 [hp x 325.92]
+Mitigation:       98.842%     [hp x  86.34]
+Effective Health: 5,185,471.5 [hp x 270.08]
 
 First: The Arcane Eternal
-3-5  Archon Strike [E]               x5 [7.5m range]
-3-13 Sentinel Reconstruction [E]     x5 
-3-12 Azarinth Awakening [E]         x10 [76.0% => 760.0% Resilience, Speed, Intelligence and Strength]
-3-8  Transfer [E]                    x1 
-3-7  Arcane Dominion [E]             x1 
-3-15 Sentinel Core [E]              x14 [47.5% => 665.0% Durability, 127.5% => 1,785.0% Health Regen, 25.0% => 350.0% Magic Resistance]
-3-9  Eternal Brawling [E]           x10 [99.5% => 995.0% Damage, 3.25% DR/attack]
+3-16 Archon Strike [E]               x5 [13.0m range]
+3-23 Sentinel Reconstruction [E]     x5 
+3-20 Azarinth Awakening [E]         x10 [80.0% => 800.0% Resilience, Speed, Intelligence and Strength]
+3-15 Transfer [E]                    x1 
+3-18 Arcane Dominion [E]             x1 
+3-23 Sentinel Core [E]              x14 [51.5% => 721.0% Durability, 131.5% => 1,841.0% Health Regen, 25.0% => 350.0% Magic Resistance]
+3-18 Eternal Brawling [E]           x10 [104.0% => 1,040.0% Damage, 5.50% DR/attack]
 3-30 Eternal Huntress               x10 
 3-30 Eternal Sight                  x10 
-3-10 Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-15 Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
-3-10 Mantle of the Titan [E]        x12 [150.0% => 1,800.0% Resilience]
-3-6  Titan Core [E]                 x10 [58.0% => 580.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-21 Mantle of the Titan [E]        x12 [155.5% => 1,866.0% Resilience]
+3-14 Titan Core [E]                 x10 [62.0% => 620.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
 3-30 Origin of Ash and Embers        x3 
-3-7  Embered Heart [E]              x12 
-3-5  Tempered Seal [E]               x3 
-3-9  Authority of Ash and Ember [E]  x3 
-3-10 Ashen Wings [E]                x12 
+3-14 Embered Heart [E]              x12 
+3-16 Tempered Seal [E]               x3 
+3-12 Authority of Ash and Ember [E]  x3 
+3-15 Ashen Wings [E]                x12 
 3-30 Vision of Ash                  x12 [65.0% => 780.0% Perception]
-3-13 Avatar of Ash [E]              x12 [56.5% => 678.0% Reflexes and Speed]
-3-6  Embered Form [E]               x10 [73.0% => 730.0% Damage]
+3-20 Avatar of Ash [E]              x12 [60.0% => 720.0% Reflexes and Speed]
+3-15 Embered Form [E]               x10 [77.5% => 775.0% Damage]
 
 Third: The Primordial Arbiter
 3-30 Primordial Shift                x9 
-3-9  Fires of Creation [E]          x13 [64.5% => 838.5% Resilience, 4.75% mana/health returned]
-3-3  Fabric Tear [E]                 x4 
+3-16 Fires of Creation [E]          x13 [68.0% => 884.0% Resilience, 6.50% mana/health returned]
+3-12 Fabric Tear [E]                 x4 
 3-30 Reality Warp                    x4 
-3-30 Primordial Flesh               x14 [50.0% => 700.0% Resilience, 12.0% => 168.0% Physical Resistance, 5.0% => 168.0% Magic Resistance, 20.0% => 280.0% Health, 2.00% => 28.00%/minute]
-3-6  Space Manipulation [E]         x13 
+3-6  Primordial Flesh [E]           x14 [38.0% => 532.0% Resilience, 9.6% => 134.4% Physical Resistance, 5.0% => 134.4% Magic Resistance, 15.2% => 212.8% Health, .80% => 11.20%/minute]
+3-13 Space Manipulation [E]         x13 
 
-Available [2377]: 0
+Available [2396]: 0
 General Skills:
-1-19 Ashen Limbs
-1-13 Bulwark of Ash
+1-20 Ashen Limbs
+1-14 Bulwark of Ash
 1-7  Dancing
 3-26 Deviant of Humanity
-1-12 Drill 
+1-13 Drill 
 1-6  Elos Standard language
 1-15 English Language
 1-8  Gourmet
 1-16 Harmony of the Drowned
 1-11 Heavy Archery
-2-2  Identify [Up to +70 - 581]
+2-2  Identify [Up to +70 - 605]
 
-3-16 Meditation
-1-3  Minor Earth Manipulation
+3-17 Meditation
+1-4  Minor Earth Manipulation
 1-3  Minor Ice Manipulation
-1-4  Minor Lava Manipulation
-3-14 Monster Hunter
-1-12 Monstrous [Within 140 lvls - 371+]
+1-5  Minor Lava Manipulation
+3-15 Monster Hunter
+1-15 Monstrous [Within 110 lvls - 425+]
 2-11 Oxygen Repository
 2-18 Sage of Torment
-1-14 Soul Perception
-2-1  Spear of Ash
+1-15 Soul Perception
+2-2  Spear of Ash
 1-10 Teaching
-1-6  Telepathy
+1-7  Telepathy
 3-30 Veteran
 1-9  Warhammer Mastery
 
@@ -113,7 +113,7 @@ Resistances:
 2-20  [45% - 80%] Bone Magic Resistance
 2-20  [45% - 80%] Corrosion Resistance
 2-15  [40% - 70%] Crystal Resistance
-3-5   [55% - 90%] Curse Resistance
+3-6   [56% - 92%] Curse Resistance
 
 2-9   [34% - 58%] Dark Magic Resistance
 2-20  [45% - 80%] Death Magic Resistance
@@ -128,7 +128,7 @@ Resistances:
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
-3-23  [73% - 95%] Heat Resistance
+3-25  [75% - 95%] Heat Resistance
 2-20  [45% - 80%] Ice Resistance
 3-9   [59% - 95%] Lava Magic Resistance
 3-3   [53% - 86%] Light Magic Resistance
@@ -148,7 +148,7 @@ Resistances:
 1-12  [12% - 24%] Shadow Magic Resistance
 1-6   [07% - 12%] Silver Magic Resistance
 2-4   [29% - 48%] Smoke Magic Resistance
-3-2   [52% - 84%] Soul Magic Resistance
+3-5   [55% - 90%] Soul Magic Resistance
 1-18  [18% - 36%] Sound Magic Resistance
 3-12  [62% - 95%] Space Magic Resistance
 2-20  [45% - 80%] Stamina Drain Resistance
@@ -176,7 +176,7 @@ Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
         Muscles are (300% + 210% + 65% = 575%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form [E] 2nd
-        The fires flowing through you have hardened your bones and muscles - Primordial Flesh 2nd
+        The fires flowing through you have hardened your bones and muscles - Primordial Flesh [E] 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
 Resistance:
         Your skin and bones harden, adapting more and more to the element that threatened your life again and again - Earth Magic 2nd
