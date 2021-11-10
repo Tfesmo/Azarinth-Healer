@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-12 Primordial Flesh [E]           x14 [41.0% => 574.0% Resilience, 10.2% => 142.8% Physical Resistance, 5.0% => 142.8% Magic Resistance, 16.4% => 229.6% Health, 1.10% => 15.40%/minute]
 3-18 Space Manipulation [E]         x13 
 
-Available [2593]: 2
+Available [2594]: 1
 General Skills:
 2-5  Ashen Limbs
 2-2  Bulwark of Ash
@@ -129,7 +129,7 @@ Resistances:
 2-20  [45% - 80%] Gravity Magic Resistance
 2-20  [45% - 80%] Health Drain Resistance
 3-27  [77% - 95%] Heat Resistance
-2-20  [45% - 80%] Ice Resistance
+3-1   [51% - 82%] Ice Resistance
 3-13  [63% - 95%] Lava Magic Resistance
 3-6   [56% - 92%] Light Magic Resistance
 3-13  [63% - 95%] Lightning Resistance
@@ -162,19 +162,19 @@ Resistances:
 3-8   [58% - 95%] Wood Magic Resistance
 
 12 1st tier
-22 2nd tier
-20 3rd tier
+21 2nd tier
+21 3rd tier
 
 Ash Density: 42 x 5% = 210%
-Ash Speed:   20 x 5% = 100%
+Ash Speed:   21 x 5% = 105%
 
-Weight:   761.9 kgs   [1,679.7 lbs] [0.84 tons]
-Maxed: 64,761.8 kgs [142,775.2 lbs] [71.39 tons]
+Weight:   765.6 kgs   [1,688.0 lbs] [0.84 tons]
+Maxed: 65,080.1 kgs [143,476.8 lbs] [71.74 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
-        Muscles are (300% + 220% + 60% = 580%) more dense - Avatar of Ash [E] 2nd
+        Muscles are (315% + 210% + 60% = 585%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form [E] 2nd
         The fires flowing through you have hardened your bones and muscles - Primordial Flesh [E] 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
@@ -195,7 +195,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [580%] more dense.
+                [585%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

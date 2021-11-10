@@ -156,6 +156,8 @@ Ice Resistance
 You have endured the biting cold of ice and lived to tell the tale.
 One of the deadliest climates and magics will now be less dangerous to you with this skill.
 2nd stage: Freezing temperatures no longer affect your body. It is not advised to jump in front of flying ice lances or to anger the spirits.
+3rd stage: You have faced creators that bend and shape the laws governing the very state of freezing cold. Your existence has evolved to bypass such limiting laws in turn.
+Learn to move when there is no room for movement, learn to breathe where there is only frozen air, move through frozen water as though it was liquid.
 
 Lava Magic Resistance
 An elemental form of molten rock, reserved for those few living in conditions most consider deadly.
