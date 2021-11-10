@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-12 Primordial Flesh [E]           x14 [41.0% => 574.0% Resilience, 10.2% => 142.8% Physical Resistance, 5.0% => 142.8% Magic Resistance, 16.4% => 229.6% Health, 1.10% => 15.40%/minute]
 3-18 Space Manipulation [E]         x13 
 
-Available [2594]: 1
+Available [2595]: 1
 General Skills:
 2-5  Ashen Limbs
 2-2  Bulwark of Ash
@@ -131,7 +131,7 @@ Resistances:
 3-27  [77% - 95%] Heat Resistance
 3-1   [51% - 82%] Ice Resistance
 3-13  [63% - 95%] Lava Magic Resistance
-3-6   [56% - 92%] Light Magic Resistance
+3-7   [57% - 94%] Light Magic Resistance
 3-13  [63% - 95%] Lightning Resistance
 
 3-8   [58% - 95%] Mana Drain Resistance
