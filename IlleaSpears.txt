@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-12 Primordial Flesh [E]           x14 [41.0% => 574.0% Resilience, 10.2% => 142.8% Physical Resistance, 5.0% => 142.8% Magic Resistance, 16.4% => 229.6% Health, 1.10% => 15.40%/minute]
 3-18 Space Manipulation [E]         x13 
 
-Available [2592]: 2
+Available [2593]: 2
 General Skills:
 2-5  Ashen Limbs
 2-2  Bulwark of Ash
@@ -97,7 +97,7 @@ General Skills:
 2-18 Sage of Torment
 2-2  Soul Perception
 2-8  Spear of Ash
-1-10 Teaching
+1-11 Teaching
 1-10 Telepathy
 3-30 Veteran
 1-9  Warhammer Mastery
