@@ -49,7 +49,7 @@ First: The Arcane Eternal
 3-25 Arcane Dominion [E]             x1 
 3-27 Sentinel Core [E]              x14 [53.5% => 749.0% Durability, 133.5% => 1,869.0% Health Regen, 25.0% => 350.0% Magic Resistance]
 3-25 Eternal Brawling [E]           x10 [107.5% => 1,075.0% Damage, 7.25% DR/attack]
-3-30 Eternal Huntress               x10 
+3-1  Eternal Huntress [E]           x10 
 3-4  Eternal Sight [E]              x10 
 3-15 Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
 

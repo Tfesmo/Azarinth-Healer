@@ -103,7 +103,7 @@ You gain knowledge about sustained injuries and damage from incoming attacks as 
 For each time you get hit by an incoming attack you see coming, the damage done to you by the respective being’s skill decreases by [1 + .25%/lvl] to a maximum of a static 20%.
 Category: Body Enhancement – Arcane Magic
 
-Passive: Eternal Huntress
+Passive: Eternal Huntress [E]
 Huntress turned Eternal.
 Your eyes are unmatched and so is your nose.
 Perceive the smallest irregularities in your surroundings as well as the ambient mana to find clues about your target’s whereabouts.
@@ -113,10 +113,11 @@ Amplify this by sacrificing mana.
 You gain a sense for the arcane, feeling even minor spells around you.
 As you practice to differentiate these spells, you will learn of their intent.
 3rd stage: Through Azarinth magic, you may mark an enemy or ally with the Eternal Mark.
-Allies may use the mark to send a short message to the Arcane Eternal once per day.
-The Arcane Eternal can send a short message to each non forcefully applied mark once per day.
-Each level in the third tier adds two additional marks that can be used.
+Allies may use the mark to send a short message to the Arcane Eternal once per hour.
+The Arcane Eternal can send a short message to each non forcefully applied mark once per hour.
+One hundred marks can be maintained.
 Marks forcefully applied have a limited duration.
+You may use any long range teleportation spells in your Arcane Eternal Class to teleport to a being marked by Eternal Huntress.
 Category: Body Enhancement
 
 Passive: Eternal Sight [E]
