@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-12 Primordial Flesh [E]           x14 [41.0% => 574.0% Resilience, 10.2% => 142.8% Physical Resistance, 5.0% => 142.8% Magic Resistance, 16.4% => 229.6% Health, 1.10% => 15.40%/minute]
 3-18 Space Manipulation [E]         x13 
 
-Available [2596]: 1
+Available [2597]: 1
 General Skills:
 2-5  Ashen Limbs
 1-1  Azarinth Barrier [Mythic]
@@ -124,7 +124,7 @@ Resistances:
 1-10  [10% - 20%] Dust Magic Resistance
 3-17  [67% - 95%] Earth Magic Resistance
 2-5   [30% - 50%] Emerald Magic Resistance
-2-2   [27% - 44%] Fear Resistance
+2-3   [28% - 46%] Fear Resistance
 1-16  [16% - 32%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
