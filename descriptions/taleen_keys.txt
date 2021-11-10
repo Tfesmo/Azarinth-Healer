@@ -5,3 +5,4 @@
 [The Copper Key – Ancient Quality]
 [The Cobalt Key – Ancient Quality] – [Enchanted]
 [The Iron Key – Ancient Quality]
+[The Gold Key – Ancient Quality]

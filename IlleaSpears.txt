@@ -73,9 +73,10 @@ Third: The Primordial Arbiter
 3-12 Primordial Flesh [E]           x14 [41.0% => 574.0% Resilience, 10.2% => 142.8% Physical Resistance, 5.0% => 142.8% Magic Resistance, 16.4% => 229.6% Health, 1.10% => 15.40%/minute]
 3-18 Space Manipulation [E]         x13 
 
-Available [2595]: 1
+Available [2596]: 1
 General Skills:
 2-5  Ashen Limbs
+1-1  Azarinth Barrier [Mythic]
 2-2  Bulwark of Ash
 1-10 Dancing
 3-30 Deviant of Humanity

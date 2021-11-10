@@ -2,6 +2,9 @@ Ashen Limbs
 You have mastered the ability to fight with limbs made entirely of ash. Required manipulation is reduced by 25%.
 2nd stage: Increases the speed at which you can form ashen limbs by a static 25%.
 
+Azarinth Barrier [Mythic]
+Channel your mana through the Azarinth Star to form healing infused golden barriers of arcane magic around you.
+
 Bulwark of Ash
 Many times have you used walls of ash to defend yourself and your allies. Resilience of ashen walls is increased by 20%.
 2nd stage: Required manipulation for wall like structures made of ash are reduced by a static 20%.
