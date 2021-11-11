@@ -15,7 +15,7 @@ Lava Magic is improved by 100%
 Earth Magic is improved by 100%
 Your Soul has been strengthened by the Flame of Creation
 
-Active – Primordial Shift
+Active – Primordial Shift [E]
 Expending a large amount of mana and health, you can temporarily shift the matter of your flesh itself.
 Absorb a part of all magic that touches you depending on your understanding and resistance.
 All regeneration and healing is doubled in this state.
@@ -24,6 +24,8 @@ Your movements are impaired as your very form is rejected by the laws of reality
 During the shift, you cannot be moved by anything but your will.
 Your weight increases ten fold while this spell is active.
 3rd stage: The Flame of Creation wills itself into existence, your control and its power increasing dramatically while Primordial Shift is active.
+Greatly reduces the activation time of Primordial Shift.
+The longer Primordial Shift remains active, the more powerful its effects become.
 Category: Space Magic – Flesh Magic – Healing Magic
 *mp/sec = 75,150,300,600,1200,2400,repeats
 
@@ -51,7 +53,7 @@ Areas have to be connected within one day of activating the spell.
 Three sets of connections can be upheld at a time with exponential costs.
 Category: Space Magic
 
-Passive – Reality Warp
+Passive – Reality Warp [E]
 Space wields easier for you, allowing you to unravel its mysteries.
 Teleportation abilities can be used again three times as fast and you can travel ten times as far.
 You notice fissures between realms at a distance of 50 [200] kilometers.
@@ -59,8 +61,8 @@ This distance can vary depending on the size and extent of the fissure.
 2nd stage: Prevent enemy teleportation spells within a sphere around you at a radius of 50 meters.
 You cannot teleport while this skill is active.
 3rd stage: Your understanding of space magic grows.
-You learn to latch on to ongoing teleportation spells with your own teleportation abilities.
-Long range and channeled teleportation spells have their range doubled and their cooldown as well as cost reduced by half.
+You learn to latch on to ongoing or recent teleportation spells with your own teleportation abilities.
+Long range and channeled teleportation spells have their range doubled and their cooldown as well as cost reduced by a static 100%.
 Category: Space magic
 
 Passive – Primordial Flesh [E]
