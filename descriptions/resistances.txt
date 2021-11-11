@@ -100,6 +100,7 @@ Divination Magic Resistance
 Be it seers, oracles, or madmen. Undeniably there are those gifted with the ability to pierce the veils of space and time itself.
 You must be important enough to warrant special attention, leading to a resistance to such magic.
 If anything, this new ability will increase said attention but at the very least, your most private moments might not be so easily perceived.
+2nd stage: You have been the target of powerful divination magic. Know that much can be learned of someone when the right spell is used. You are far more difficult to grasp and gauge with divination magic and you gain a certain sense to feel when the unseen eye is upon you.
 
 Dust Magic Resistance
 Dangerous and elusive magic answering to few who seek its complexity, understand its beauty.

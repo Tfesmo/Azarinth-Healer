@@ -4,6 +4,7 @@ You have mastered the ability to fight with limbs made entirely of ash. Required
 
 Azarinth Barrier [Mythic]
 Channel your mana through the Azarinth Star to form healing infused golden barriers of arcane magic around you.
+2nd stage: Form a powerful barrier in the shape of either a dome or sphere with you at the center. Movement is considerably slowed while this spell is active.
 
 Bulwark of Ash
 Many times have you used walls of ash to defend yourself and your allies. Resilience of ashen walls is increased by 20%.

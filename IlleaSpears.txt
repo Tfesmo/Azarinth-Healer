@@ -1,6 +1,6 @@
-Class 1: 595 - The Arcane Eternal
-Class 2: 593 - The Ashen Titan
-Class 3: 581 - The Primordial Arbiter
+Class 1: 607 - The Arcane Eternal
+Class 2: 604 - The Ashen Titan
+Class 3: 596 - The Primordial Arbiter
 
 900% Body Enhancement
 400% Healing
@@ -14,70 +14,70 @@ Class 3: 581 - The Primordial Arbiter
 
 Vit: 2000
 End:  530
-Str:  545  [8,856.3]
-Dex:  500  [3,900.0]
-Int: 2000 [32,500.0]
+Str:  545  [8,883.5]
+Dex:  500  [3,925.0]
+Int: 2000 [32,600.0]
 Wis: 2100
 
-Resilience: 5,502.0%
-w/Mantle:   6,252.0%
-Speed+:     2,305.0%
-Damage+:    1,930.0%
+Resilience: 5,514.0%
+w/Mantle:   6,264.0%
+Speed+:     2,310.0%
+Damage+:    1,940.0%
 
-Health:   67,600
+Health:   68,160
 Stamina:   5,300
 Mana:    126,000
 
 Regen:
-hp/s:     0.36% [246.6] [274.1s to full]
-w/Mantle: 0.50% [339.6] [199.1s to full]
+hp/s:     0.36% [248.7] [274.1s to full]
+w/Mantle: 0.50% [342.4] [199.1s to full]
 mp/s:     0.38% [483.0] [260.9s to full]
 w/Med:    0.46% [583.2] [216.1s to full]
 
-Mitigation:       98.804%     [hp x  83.68]
-Effective Health: 5,656,430.0 [hp x 282.82]
+Mitigation:       98.806%     [hp x  83.84]
+Effective Health: 5,714,704.8 [hp x 285.74]
 
 w/Mantle:
-Mitigation:       98.899%     [hp x  90.86]
-Effective Health: 6,142,305.0 [hp x 307.12]
+Mitigation:       98.901%     [hp x  91.03]
+Effective Health: 6,204,604.8 [hp x 310.23]
 
 First: The Arcane Eternal
 3-29 Archon Strike [E]               x5 [19.5m range]
 3-30 Sentinel Reconstruction [E]     x5 
 3-29 Azarinth Awakening [E]         x10 [84.5% => 845.0% Resilience, Speed, Intelligence and Strength]
-3-25 Transfer [E]                    x1 
+3-26 Transfer [E]                    x1 
 3-29 Arcane Dominion [E]             x1 
 3-30 Sentinel Core [E]              x14 [55.0% => 770.0% Durability, 135.0% => 1,890.0% Health Regen, 25.0% => 350.0% Magic Resistance]
-3-29 Eternal Brawling [E]           x10 [109.5% => 1,095.0% Damage, 8.25% DR/attack]
+3-30 Eternal Brawling [E]           x10 [110.0% => 1,100.0% Damage, 8.50% DR/attack]
 3-4  Eternal Huntress [E]           x10 
-3-8  Eternal Sight [E]              x10 
+3-9  Eternal Sight [E]              x10 
 3-27 Arcane Circulation [E]         x10 [125.0% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan [E]        x12 [160.0% => 1,920.0% Resilience]
-3-26 Titan Core [E]                 x10 [68.0% => 680.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
-3-7  Origin of Ash and Embers [E]    x3 
-3-28 Embered Heart [E]              x12 
+3-27 Titan Core [E]                 x10 [68.5% => 685.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
+3-8  Origin of Ash and Embers [E]    x3 
+3-29 Embered Heart [E]              x12 
 3-29 Tempered Seal [E]               x3 
-3-22 Authority of Ash and Ember [E]  x3 
-3-25 Ashen Wings [E]                x12 
-3-5  Vision of Ash [E]              x12 [52.5% => 630.0% Perception]
+3-23 Authority of Ash and Ember [E]  x3 
+3-26 Ashen Wings [E]                x12 
+3-6  Vision of Ash [E]              x12 [53.0% => 636.0% Perception]
 3-30 Avatar of Ash [E]              x12 [65.0% => 780.0% Reflexes and Speed]
-3-27 Embered Form [E]               x10 [83.5% => 835.0% Damage]
+3-28 Embered Form [E]               x10 [84.0% => 840.0% Damage]
 
 Third: The Primordial Arbiter
-3-3  Primordial Shift [E]            x9 
+3-5  Primordial Shift [E]            x9 
 3-28 Fires of Creation [E]          x13 [74.0% => 962.0% Resilience, 9.50% mana/health returned]
-3-21 Fabric Tear [E]                 x4 
-3-2  Reality Warp [E]                x4 
-3-15 Primordial Flesh [E]           x14 [42.5% => 595.0% Resilience, 10.5% => 147.0% Physical Resistance, 5.0% => 147.0% Magic Resistance, 17.0% => 238.0% Health, 1.25% => 17.50%/minute]
-3-21 Space Manipulation [E]         x13 
+3-22 Fabric Tear [E]                 x4 
+3-3  Reality Warp [E]                x4 
+3-16 Primordial Flesh [E]           x14 [43.0% => 602.0% Resilience, 10.6% => 148.4% Physical Resistance, 5.0% => 148.4% Magic Resistance, 17.2% => 240.8% Health, 1.30% => 18.20%/minute]
+3-22 Space Manipulation [E]         x13 
 
-Available [2740]: 3
+Available [2760]: 3
 General Skills:
 2-10 Ashen Limbs
-1-18 Azarinth Barrier [Mythic]
-2-8  Bulwark of Ash
+2-1  Azarinth Barrier [Mythic]
+2-9  Bulwark of Ash
 1-10 Dancing
 3-30 Deviant of Humanity
 1-16 Drill 
@@ -86,25 +86,25 @@ General Skills:
 1-12 Gourmet
 1-18 Harmony of the Drowned
 1-11 Heavy Archery
-2-4  Identify [Up to +76 - 671]
+2-4  Identify [Up to +76 - 683]
 
 3-19 Meditation
 2-1  Minor Earth Manipulation
 1-18 Minor Ice Manipulation
 2-3  Minor Lava Manipulation
-3-19 Monster Hunter
-2-6  Monstrous [Within 0 lvls - 595+]
+3-20 Monster Hunter
+2-6  Monstrous [Within 0 lvls - 607+]
 2-16 Oxygen Repository
 2-18 Sage of Torment
 2-6  Soul Perception
 2-10 Spear of Ash
 1-11 Teaching
-1-12 Telepathy
+1-13 Telepathy
 3-30 Veteran
 2-4  Warhammer Mastery
 
 Resistances:
-3-27  [77% - 95%] Arcane Magic Resistance
+3-28  [78% - 95%] Arcane Magic Resistance
 2-7   [32% - 54%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
 3-18  [68% - 95%] Blast Resistance
@@ -120,7 +120,7 @@ Resistances:
 2-20  [45% - 80%] Death Magic Resistance
 2-8   [33% - 56%] Devour Resistance
 2-6   [31% - 52%] Diamond Magic Resistance
-1-17  [17% - 34%] Divination Magic Resistance
+2-7   [32% - 54%] Divination Magic Resistance
 1-10  [10% - 20%] Dust Magic Resistance
 3-20  [70% - 95%] Earth Magic Resistance
 2-5   [30% - 50%] Emerald Magic Resistance
@@ -157,25 +157,25 @@ Resistances:
 2-20  [45% - 80%] Time Magic Resistance
 1-20  [20% - 40%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
-3-18  [68% - 95%] Void Magic Resistance
+3-21  [71% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
 3-17  [67% - 95%] Wind Resistance
 3-11  [61% - 95%] Wood Magic Resistance
 
-12 1st tier
-21 2nd tier
+11 1st tier
+22 2nd tier
 21 3rd tier
 
-Ash Density: 42 x 5% = 210%
+Ash Density: 43 x 5% = 215%
 Ash Speed:   21 x 5% = 105%
 
-Weight:   765.6 kgs   [1,688.0 lbs] [0.84 tons]
-Maxed: 65,080.1 kgs [143,476.8 lbs] [71.74 tons]
+Weight:   769.4 kgs   [1,696.2 lbs] [0.85 tons]
+Maxed: 65,398.3 kgs [144,178.4 lbs] [72.09 tons]
 
 Non-numeric or non-global defensive buffs
 Class:
         Your bones are three times as heavy and dense - Sentinel Core [E] 2nd
-        Muscles are (315% + 210% + 60% = 585%) more dense - Avatar of Ash [E] 2nd
+        Muscles are (315% + 220% + 55% = 590%) more dense - Avatar of Ash [E] 2nd
         Adds density to your bones, muscles and skin to increase strength, speed and damage. Base body weight is doubled - Embered Form [E] 2nd
         The fires flowing through you have hardened your bones and muscles - Primordial Flesh [E] 2nd
         Your bones are steeped with mana, increasing both their weight and resilience two fold - Eternal Brawling [E] 2nd
@@ -196,7 +196,7 @@ Summary:
                 Stress adapted.
                 Doubled weight and resilience.
         Muscles:
-                [585%] more dense.
+                [590%] more dense.
                 Increased density.
                 Stress adapted.
                 Hardened.

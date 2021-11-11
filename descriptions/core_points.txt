@@ -85,3 +85,5 @@ You have unlocked a Third Class – 1 Core skill point awarded
 ‘ding’ ‘You have escaped a facility designed by Ker Velor – One Core skill point awarded’
 ‘ding’ ‘You have survived – One Core Skill point awarded’
 ‘ding’ ‘You have resisted the ? of ч̼͔̭у̹̘̫̻ж͎̞̘̖͢о̧͕̜й̳̗̹̜̥̣ͅ. One Core skill point awarded’
+‘ding’ ‘You were seen. One Core skill point awarded’
+‘ding’ ‘You have survived the Sphere of Nothing spell – One Core skill point awarded’
