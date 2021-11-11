@@ -13,11 +13,11 @@ Class 3: 581 - The Primordial Arbiter
 100% Earth
 
 Vit: 2000
-End:  500
+End:  530
 Str:  545  [8,856.3]
-Dex:  450  [3,510.0]
-Int: 1900 [30,875.0]
-Wis: 2000
+Dex:  500  [3,900.0]
+Int: 2000 [32,500.0]
+Wis: 2100
 
 Resilience: 5,502.0%
 w/Mantle:   6,252.0%
@@ -25,14 +25,14 @@ Speed+:     2,305.0%
 Damage+:    1,930.0%
 
 Health:   67,600
-Stamina:   5,000
-Mana:    120,000
+Stamina:   5,300
+Mana:    126,000
 
 Regen:
 hp/s:     0.36% [246.6] [274.1s to full]
 w/Mantle: 0.50% [339.6] [199.1s to full]
-mp/s:     0.37% [440.0] [272.7s to full]
-w/Med:    0.45% [535.4] [224.1s to full]
+mp/s:     0.38% [483.0] [260.9s to full]
+w/Med:    0.46% [583.2] [216.1s to full]
 
 Mitigation:       98.804%     [hp x  83.68]
 Effective Health: 5,656,430.0 [hp x 282.82]
@@ -51,7 +51,7 @@ First: The Arcane Eternal
 3-29 Eternal Brawling [E]           x10 [109.5% => 1,095.0% Damage, 8.25% DR/attack]
 3-4  Eternal Huntress [E]           x10 
 3-8  Eternal Sight [E]              x10 
-3-27 Arcane Circulation [E]         x10 [112.5% to Deconstruction/Reconstruction]
+3-27 Arcane Circulation [E]         x10 [125.0% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan [E]        x12 [160.0% => 1,920.0% Resilience]
@@ -73,7 +73,7 @@ Third: The Primordial Arbiter
 3-15 Primordial Flesh [E]           x14 [42.5% => 595.0% Resilience, 10.5% => 147.0% Physical Resistance, 5.0% => 147.0% Magic Resistance, 17.0% => 238.0% Health, 1.25% => 17.50%/minute]
 3-21 Space Manipulation [E]         x13 
 
-Available [2739]: 3
+Available [2740]: 3
 General Skills:
 2-10 Ashen Limbs
 1-18 Azarinth Barrier [Mythic]
@@ -124,7 +124,7 @@ Resistances:
 1-10  [10% - 20%] Dust Magic Resistance
 3-20  [70% - 95%] Earth Magic Resistance
 2-5   [30% - 50%] Emerald Magic Resistance
-2-3   [28% - 46%] Fear Resistance
+2-4   [29% - 48%] Fear Resistance
 1-16  [16% - 32%] Flesh Magic Resistance
 1-1   [05% - 05%] Gold Magic Resistance
 2-20  [45% - 80%] Gravity Magic Resistance
