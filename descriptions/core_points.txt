@@ -5,6 +5,7 @@ Additional options have been unlocked
 
 ‘ding’ ‘Following requirements have been met. Has reached level 500 in three Classes as a human. Has enhanced a total of at least fifteen Class skills with a minimum of one skill in each Class.
 
+‘ding’ ‘Following requirements have been met. Has enhanced ten or more skills as a human. Has fought and killed a being above level 1500 while alone and while below level 750. Is known by name or alias to at least 100’000 beings. Is seen as a god by at least 1000 beings.
 
 [3rd tier Class Skill Point] – [Advance a Class skill to the third tier – Cost: 1]
 [Stat Gain]                  – [Gain 50 stat points to distribute freely – Cost: 2]
@@ -13,7 +14,7 @@ Additional options have been unlocked
 [Skill Enhancement]          – [Enhance a fully leveled third tier Class skill by resetting it to 3rd lvl 1 – Cost: 5]
 [Locked]
 [Derivative General Skill]   – [Learn a General skill based on frequently used Class techniques – Cost: 3]
-[Locked]
+[Mythical Title]             – [Unlock the option to add a mythical title to your status. You will identify as such to all beings without specialized skills to gain more insight into your being. Provides additional benefit depending on title chosen. Titles can be changed once per week – Cost: 10]
 
 You have survived an untouched Arcane Shift – 1 Core skill point awarded
 You have visited the Great Salt – 1 Core skill point awarded

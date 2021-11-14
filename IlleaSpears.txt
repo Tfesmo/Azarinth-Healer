@@ -19,27 +19,27 @@ Dex:  500  [3,925.0]
 Int: 2000 [32,600.0]
 Wis: 2100
 
-Resilience: 5,514.0%
-w/Mantle:   6,264.0%
+Resilience: 5,521.0%
+w/Mantle:   6,271.0%
 Speed+:     2,310.0%
-Damage+:    1,940.0%
+Damage+:    1,945.0%
 
-Health:   68,160
+Health:   68,720
 Stamina:   5,300
 Mana:    126,000
 
 Regen:
-hp/s:     0.36% [248.7] [274.1s to full]
-w/Mantle: 0.50% [342.4] [199.1s to full]
+hp/s:     0.36% [250.7] [274.1s to full]
+w/Mantle: 0.50% [345.2] [199.1s to full]
 mp/s:     0.38% [483.0] [260.9s to full]
 w/Med:    0.46% [583.2] [216.1s to full]
 
-Mitigation:       98.806%     [hp x  83.84]
-Effective Health: 5,714,704.8 [hp x 285.74]
+Mitigation:       98.808%     [hp x  83.95]
+Effective Health: 5,768,872.2 [hp x 288.44]
 
 w/Mantle:
-Mitigation:       98.901%     [hp x  91.03]
-Effective Health: 6,204,604.8 [hp x 310.23]
+Mitigation:       98.903%     [hp x  91.14]
+Effective Health: 6,262,797.2 [hp x 313.14]
 
 First: The Arcane Eternal
 3-29 Archon Strike [E]               x5 [19.5m range]
@@ -50,37 +50,37 @@ First: The Arcane Eternal
 3-30 Sentinel Core [E]              x14 [55.0% => 770.0% Durability, 135.0% => 1,890.0% Health Regen, 25.0% => 350.0% Magic Resistance]
 3-30 Eternal Brawling [E]           x10 [110.0% => 1,100.0% Damage, 8.50% DR/attack]
 3-4  Eternal Huntress [E]           x10 
-3-9  Eternal Sight [E]              x10 
+3-10 Eternal Sight [E]              x10 
 3-27 Arcane Circulation [E]         x10 [125.0% to Deconstruction/Reconstruction]
 
 Second: The Ashen Titan
 3-30 Mantle of the Titan [E]        x12 [160.0% => 1,920.0% Resilience]
 3-27 Titan Core [E]                 x10 [68.5% => 685.0% Resilience, Speed, Strength, Intelligence and Dexterity, 10% => 100% weight/min]
-3-8  Origin of Ash and Embers [E]    x3 
+3-9  Origin of Ash and Embers [E]    x3 
 3-29 Embered Heart [E]              x12 
 3-29 Tempered Seal [E]               x3 
 3-23 Authority of Ash and Ember [E]  x3 
-3-26 Ashen Wings [E]                x12 
-3-6  Vision of Ash [E]              x12 [53.0% => 636.0% Perception]
+3-27 Ashen Wings [E]                x12 
+3-7  Vision of Ash [E]              x12 [53.5% => 642.0% Perception]
 3-30 Avatar of Ash [E]              x12 [65.0% => 780.0% Reflexes and Speed]
-3-28 Embered Form [E]               x10 [84.0% => 840.0% Damage]
+3-29 Embered Form [E]               x10 [84.5% => 845.0% Damage]
 
 Third: The Primordial Arbiter
-3-5  Primordial Shift [E]            x9 
+3-7  Primordial Shift [E]            x9 
 3-28 Fires of Creation [E]          x13 [74.0% => 962.0% Resilience, 9.50% mana/health returned]
 3-22 Fabric Tear [E]                 x4 
 3-3  Reality Warp [E]                x4 
-3-16 Primordial Flesh [E]           x14 [43.0% => 602.0% Resilience, 10.6% => 148.4% Physical Resistance, 5.0% => 148.4% Magic Resistance, 17.2% => 240.8% Health, 1.30% => 18.20%/minute]
+3-17 Primordial Flesh [E]           x14 [43.5% => 609.0% Resilience, 10.7% => 149.8% Physical Resistance, 5.0% => 149.8% Magic Resistance, 17.4% => 243.6% Health, 1.35% => 18.90%/minute]
 3-22 Space Manipulation [E]         x13 
 
-Available [2760]: 3
+Available [2768]: 3
 General Skills:
 2-10 Ashen Limbs
-2-1  Azarinth Barrier [Mythic]
-2-9  Bulwark of Ash
+2-3  Azarinth Barrier [Mythic]
+2-10 Bulwark of Ash
 1-10 Dancing
 3-30 Deviant of Humanity
-1-16 Drill 
+1-18 Drill 
 1-7  Elos Standard language
 1-15 English Language
 1-12 Gourmet
@@ -104,7 +104,7 @@ General Skills:
 2-4  Warhammer Mastery
 
 Resistances:
-3-28  [78% - 95%] Arcane Magic Resistance
+3-29  [79% - 95%] Arcane Magic Resistance
 2-7   [32% - 54%] Ash Magic Resistance
 2-20  [45% - 80%] Astral Magic Resistance
 3-18  [68% - 95%] Blast Resistance
@@ -157,7 +157,7 @@ Resistances:
 2-20  [45% - 80%] Time Magic Resistance
 1-20  [20% - 40%] Topaz Magic Resistance
 1-14  [14% - 28%] Vine Magic Resistance
-3-21  [71% - 95%] Void Magic Resistance
+3-23  [73% - 95%] Void Magic Resistance
 3-4   [54% - 88%] Water Resistance
 3-17  [67% - 95%] Wind Resistance
 3-11  [61% - 95%] Wood Magic Resistance
