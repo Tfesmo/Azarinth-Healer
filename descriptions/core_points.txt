@@ -16,6 +16,21 @@ Additional options have been unlocked
 [Derivative General Skill]   – [Learn a General skill based on frequently used Class techniques – Cost: 3]
 [Mythical Title]             – [Unlock the option to add a mythical title to your status. You will identify as such to all beings without specialized skills to gain more insight into your being. Provides additional benefit depending on title chosen. Titles can be changed once per week – Cost: 10]
 
+- Wanderer [You may go unnoticed when in places unfamiliar to you]
+- Giant Slayer [Large beings may fear and avoid you]
+- The Seen [Your aura instills madness over time]
+- Realm Traveler [You learn languages in other realms at a 100% increased rate]
+- The Beheaded [You do not experience fear. You instill it.]
+- Friend [You may seem more friendly to other beings]
+- The Survivor [You gain 15% more resilience]
+- The Enduring [You gain 1% additional resilience for each resistance skill you have unlocked]
+- The Immortal [You gain 2% additional resilience for each resistance skill you have unlocked]
+- Queenslayer [Rulers are more wary of your presence]
+- Deviant [You may learn to understand previously incompatible magics]
+- Gourmet [You learn to spot ingredients that would suit your tastes]
+- The Violent [Beings will know what will happen if they piss you off]
+- Living Flesh [You may seem different. Strange. Eerie.]
+
 You have survived an untouched Arcane Shift – 1 Core skill point awarded
 You have visited the Great Salt – 1 Core skill point awarded
 You have befriended a Mind Weaver – 1 Core skill point awarded
